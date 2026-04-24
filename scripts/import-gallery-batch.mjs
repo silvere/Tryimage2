@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 import { copyFileSync, existsSync, mkdirSync, readFileSync, writeFileSync } from "node:fs";
-import { basename, dirname, extname, isAbsolute, join, relative, resolve } from "node:path";
+import { dirname, extname, isAbsolute, join, relative, resolve } from "node:path";
 import { spawnSync } from "node:child_process";
 
 const args = parseArgs(process.argv.slice(2));
@@ -32,7 +32,9 @@ for (const item of sourceItems) {
 gallery.categories = Array.from(categories.values());
 
 const imageOutputDir = resolve(repoRoot, "assets/images", batchId);
+const thumbOutputDir = resolve(repoRoot, "assets/thumbs", batchId);
 mkdirSync(imageOutputDir, { recursive: true });
+mkdirSync(thumbOutputDir, { recursive: true });
 
 const existingIds = new Set((gallery.items || []).map((item) => item.id));
 const added = [];
@@ -44,7 +46,9 @@ sourceItems.forEach((item, index) => {
   const itemSlug = slug(item.slug || item.title || `${batchId}-${number}`);
   const outputName = `${number}_${itemSlug}${extname(source) || ".png"}`;
   const outputPath = join(imageOutputDir, outputName);
+  const thumbPath = join(thumbOutputDir, `${number}_${itemSlug}.webp`);
   copyFileSync(source, outputPath);
+  createThumbnail(outputPath, thumbPath);
 
   let id = `${batchId}_${number}_${itemSlug}`;
   let suffix = 2;
@@ -61,6 +65,7 @@ sourceItems.forEach((item, index) => {
     number,
     title: item.title || itemSlug,
     image: toPosix(relative(repoRoot, outputPath)),
+    thumb: toPosix(relative(repoRoot, thumbPath)),
     description: item.description || "",
     prompt: item.prompt || ""
   });
@@ -134,6 +139,26 @@ function rebuildContactSheet(root) {
 
   if (magick.status !== 0) {
     console.warn("ImageMagick montage failed; contact sheet was not rebuilt.");
+    if (magick.stderr) console.warn(magick.stderr.trim());
+  }
+}
+
+function createThumbnail(source, target) {
+  const magick = spawnSync("magick", [
+    source,
+    "-resize",
+    "720x405^",
+    "-gravity",
+    "center",
+    "-extent",
+    "720x405",
+    "-quality",
+    "78",
+    target
+  ], { encoding: "utf8" });
+
+  if (magick.status !== 0) {
+    console.warn(`ImageMagick thumbnail failed for ${source}; cards will use the original image.`);
     if (magick.stderr) console.warn(magick.stderr.trim());
   }
 }

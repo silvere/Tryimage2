@@ -1,12 +1,12 @@
 {
   "site": {
-    "title": "Prompt Collision Gallery",
+    "title": "OpenAI image2 视觉实验",
     "subtitle": "45 张传播向 AI 海报",
-    "headline": "持续更新的主题视觉实验",
+    "headline": "OpenAI image2 视觉实验",
     "intro": "每一批图片围绕一个临时主题生成，并按当次最合适的 category 归档；可以是反差创意、真实场景、产品概念、人物叙事或任何新的视觉方向。",
     "coverImage": "assets/contact_sheet_image2.jpg",
     "coverAlt": "15 张 AI 海报总览拼图",
-    "coverEyebrow": "Image2 Collection",
+    "coverEyebrow": "OpenAI image2 Collection",
     "coverTitle": "同一个网站，容纳不断变化的主题和分类。",
     "coverCopy": "图集保留批次、category、图片描述和生成提示词，适合继续做封面、营销海报、选题测试或二次精修。"
   },
@@ -60,7 +60,8 @@
       "number": "01",
       "title": "蓝白快饮咖啡 × 化学实验室犯罪剧",
       "image": "assets/images/01_luckin_meth_lab_coffee.png",
-      "description": "冷色咖啡吧台被改造成透明玻璃反应釜实验室，防护服咖啡师端出发光冰拿铁。"
+      "description": "冷色咖啡吧台被改造成透明玻璃反应釜实验室，防护服咖啡师端出发光冰拿铁。",
+      "thumb": "assets/thumbs/01_luckin_meth_lab_coffee.webp"
     },
     {
       "id": "02_forbidden_city_sneaker_drop",
@@ -69,7 +70,8 @@
       "number": "02",
       "title": "故宫红墙 × 限量球鞋发售",
       "image": "assets/images/02_forbidden_city_sneaker_drop.png",
-      "description": "宫门前的未来感排队队伍，巨型宫廷纹样球鞋悬浮在金色晨光中。"
+      "description": "宫门前的未来感排队队伍，巨型宫廷纹样球鞋悬浮在金色晨光中。",
+      "thumb": "assets/thumbs/02_forbidden_city_sneaker_drop.webp"
     },
     {
       "id": "03_space_station_hotpot_delivery",
@@ -78,7 +80,8 @@
       "number": "03",
       "title": "空间站 × 川味火锅外卖",
       "image": "assets/images/03_space_station_hotpot_delivery.png",
-      "description": "宇航员在舷窗旁打开九宫格火锅，红油汤底在零重力中形成星云。"
+      "description": "宇航员在舷窗旁打开九宫格火锅，红油汤底在零重力中形成星云。",
+      "thumb": "assets/thumbs/03_space_station_hotpot_delivery.webp"
     },
     {
       "id": "04_ming_dynasty_cyber_esports",
@@ -87,7 +90,8 @@
       "number": "04",
       "title": "明代锦衣卫 × 赛博电竞战队",
       "image": "assets/images/04_ming_dynasty_cyber_esports.png",
-      "description": "飞鱼服队员坐进全息电竞舱，绣春刀变成发光机械键盘。"
+      "description": "飞鱼服队员坐进全息电竞舱，绣春刀变成发光机械键盘。",
+      "thumb": "assets/thumbs/04_ming_dynasty_cyber_esports.webp"
     },
     {
       "id": "05_kiln_robots_ceramic_tea",
@@ -96,7 +100,8 @@
       "number": "05",
       "title": "景德镇瓷器 × 机器人奶茶工厂",
       "image": "assets/images/05_kiln_robots_ceramic_tea.png",
-      "description": "机械臂用瓷釉拉花，奶茶杯像青花瓷花瓶，古窑火映着洁白机械。"
+      "description": "机械臂用瓷釉拉花，奶茶杯像青花瓷花瓶，古窑火映着洁白机械。",
+      "thumb": "assets/thumbs/05_kiln_robots_ceramic_tea.webp"
     },
     {
       "id": "06_panda_noir_detective",
@@ -105,7 +110,8 @@
       "number": "06",
       "title": "熊猫基地 × 黑色侦探电影",
       "image": "assets/images/06_panda_noir_detective.png",
-      "description": "雨夜竹林里，拟人熊猫侦探穿风衣站在路灯下，手里拿着竹叶线索。"
+      "description": "雨夜竹林里，拟人熊猫侦探穿风衣站在路灯下，手里拿着竹叶线索。",
+      "thumb": "assets/thumbs/06_panda_noir_detective.webp"
     },
     {
       "id": "07_terracotta_army_motorcycle_club",
@@ -114,7 +120,8 @@
       "number": "07",
       "title": "兵马俑 × 机车俱乐部",
       "image": "assets/images/07_terracotta_army_motorcycle_club.png",
-      "description": "陶俑骑士跨坐黑色巡航摩托，车灯穿透黄沙，队列像古代军阵。"
+      "description": "陶俑骑士跨坐黑色巡航摩托，车灯穿透黄沙，队列像古代军阵。",
+      "thumb": "assets/thumbs/07_terracotta_army_motorcycle_club.webp"
     },
     {
       "id": "08_buddhist_temple_arcade",
@@ -123,7 +130,8 @@
       "number": "08",
       "title": "古寺禅意 × 复古街机厅",
       "image": "assets/images/08_buddhist_temple_arcade.png",
-      "description": "木质寺庙大殿里摆满发光街机，僧人平静操作摇杆。"
+      "description": "木质寺庙大殿里摆满发光街机，僧人平静操作摇杆。",
+      "thumb": "assets/thumbs/08_buddhist_temple_arcade.webp"
     },
     {
       "id": "09_greek_gods_sichuan_hotpot",
@@ -132,7 +140,8 @@
       "number": "09",
       "title": "希腊诸神 × 四川火锅",
       "image": "assets/images/09_greek_gods_sichuan_hotpot.png",
-      "description": "奥林匹斯诸神坐在成都街边吃火锅，红油锅沸腾如神火。"
+      "description": "奥林匹斯诸神坐在成都街边吃火锅，红油锅沸腾如神火。",
+      "thumb": "assets/thumbs/09_greek_gods_sichuan_hotpot.webp"
     },
     {
       "id": "10_ceo_monk_mountain_live_stream",
@@ -141,7 +150,8 @@
       "number": "10",
       "title": "顶级投行会议 × 深山寺庙直播间",
       "image": "assets/images/10_ceo_monk_mountain_live_stream.png",
-      "description": "西装高管在深山寺庙直播带货，财报、补光灯和古钟同框。"
+      "description": "西装高管在深山寺庙直播带货，财报、补光灯和古钟同框。",
+      "thumb": "assets/thumbs/10_ceo_monk_mountain_live_stream.webp"
     },
     {
       "id": "11_arctic_beach_party",
@@ -150,7 +160,8 @@
       "number": "11",
       "title": "北极科考站 × 三亚沙滩派对",
       "image": "assets/images/11_arctic_beach_party.png",
-      "description": "防寒服科学家戴墨镜喝椰子，极光像舞台灯，冰层旁有热带水果摊。"
+      "description": "防寒服科学家戴墨镜喝椰子，极光像舞台灯，冰层旁有热带水果摊。",
+      "thumb": "assets/thumbs/11_arctic_beach_party.webp"
     },
     {
       "id": "12_ancient_scholar_subway_rush",
@@ -159,7 +170,8 @@
       "number": "12",
       "title": "唐代诗人 × 早高峰地铁",
       "image": "assets/images/12_ancient_scholar_subway_rush.png",
-      "description": "长袍诗人一手握卷轴一手抓扶手，周围通勤者低头看手机。"
+      "description": "长袍诗人一手握卷轴一手抓扶手，周围通勤者低头看手机。",
+      "thumb": "assets/thumbs/12_ancient_scholar_subway_rush.webp"
     },
     {
       "id": "13_elderly_square_dance_mars",
@@ -168,7 +180,8 @@
       "number": "13",
       "title": "广场舞阿姨 × 火星殖民地",
       "image": "assets/images/13_elderly_square_dance_mars.png",
-      "description": "红色荒原和透明穹顶中，亮色运动服队伍在低重力里整齐舞动。"
+      "description": "红色荒原和透明穹顶中，亮色运动服队伍在低重力里整齐舞动。",
+      "thumb": "assets/thumbs/13_elderly_square_dance_mars.webp"
     },
     {
       "id": "14_emperor_customer_service",
@@ -177,7 +190,8 @@
       "number": "14",
       "title": "古代皇帝 × 互联网客服工位",
       "image": "assets/images/14_emperor_customer_service.png",
-      "description": "龙袍、玉玺和多屏工位、耳麦、冷掉的咖啡并排出现。"
+      "description": "龙袍、玉玺和多屏工位、耳麦、冷掉的咖啡并排出现。",
+      "thumb": "assets/thumbs/14_emperor_customer_service.webp"
     },
     {
       "id": "15_opera_diva_boxing_ring",
@@ -186,7 +200,8 @@
       "number": "15",
       "title": "京剧花旦 × 地下拳击赛",
       "image": "assets/images/15_opera_diva_boxing_ring.png",
-      "description": "精致头面和水袖站在铁网拳击擂台中央，聚光灯下粗粝又华丽。"
+      "description": "精致头面和水袖站在铁网拳击擂台中央，聚光灯下粗粝又华丽。",
+      "thumb": "assets/thumbs/15_opera_diva_boxing_ring.webp"
     },
     {
       "id": "world-simulator-001_01_武松黑神话游戏界面",
@@ -196,7 +211,8 @@
       "title": "武松黑神话游戏界面",
       "image": "assets/images/world-simulator-001/01_武松黑神话游戏界面.png",
       "description": "武松作为暗黑中式神话动作 RPG 的可操作主角，站在雾气山道的 Boss 战场景里。",
-      "prompt": "World simulator concept art, a dark Chinese myth action RPG game interface where the playable hero is Wu Song from Water Margin, tiger-slayer warrior in rough Song dynasty clothes holding a staff, standing in a misty mountain pass boss arena, cinematic in-game HUD elements, health bars, inventory icons, quest markers, dramatic lighting, high fidelity AAA game screenshot style, 16:9 horizontal, no real game logos, no readable text"
+      "prompt": "World simulator concept art, a dark Chinese myth action RPG game interface where the playable hero is Wu Song from Water Margin, tiger-slayer warrior in rough Song dynasty clothes holding a staff, standing in a misty mountain pass boss arena, cinematic in-game HUD elements, health bars, inventory icons, quest markers, dramatic lighting, high fidelity AAA game screenshot style, 16:9 horizontal, no real game logos, no readable text",
+      "thumb": "assets/thumbs/world-simulator-001/01_武松黑神话游戏界面.webp"
     },
     {
       "id": "world-simulator-001_02_武松虎妖-boss-战",
@@ -206,7 +222,8 @@
       "title": "武松虎妖 Boss 战",
       "image": "assets/images/world-simulator-001/02_武松虎妖-boss-战.png",
       "description": "武松站在巨型虎妖之后的战斗界面中，背后是抽象血条、背包和任务标记。",
-      "prompt": "World simulator category, cinematic game UI screenshot: Wu Song from Water Margin as the playable hero in a dark Chinese myth action RPG interface, standing in a misty mountain pass boss arena after fighting a giant spectral tiger, rough Song dynasty clothes, wooden staff, dramatic health bars and inventory icons as abstract UI shapes, high fidelity AAA game screenshot style, 16:9 horizontal, no real game logos, no readable text"
+      "prompt": "World simulator category, cinematic game UI screenshot: Wu Song from Water Margin as the playable hero in a dark Chinese myth action RPG interface, standing in a misty mountain pass boss arena after fighting a giant spectral tiger, rough Song dynasty clothes, wooden staff, dramatic health bars and inventory icons as abstract UI shapes, high fidelity AAA game screenshot style, 16:9 horizontal, no real game logos, no readable text",
+      "thumb": "assets/thumbs/world-simulator-001/02_武松虎妖-boss-战.webp"
     },
     {
       "id": "world-simulator-001_03_秦始皇的社交媒体账号",
@@ -216,7 +233,8 @@
       "title": "秦始皇的社交媒体账号",
       "image": "assets/images/world-simulator-001/03_秦始皇的社交媒体账号.png",
       "description": "秦始皇出现在虚构现代社交媒体主页里，青铜与玉石风格的账号界面旁有兵马俑粉丝头像。",
-      "prompt": "World simulator category, alternate reality social media profile screenshot: Qin Shi Huang as a verified ancient emperor account inside a fictional modern microblogging app, bronze-and-jade profile header, terracotta army follower avatars, imperial decrees displayed as abstract blurred post cards, phone UI floating over a dark palace desk, satirical realistic product shot, 16:9 horizontal, no real platform logo, no readable text"
+      "prompt": "World simulator category, alternate reality social media profile screenshot: Qin Shi Huang as a verified ancient emperor account inside a fictional modern microblogging app, bronze-and-jade profile header, terracotta army follower avatars, imperial decrees displayed as abstract blurred post cards, phone UI floating over a dark palace desk, satirical realistic product shot, 16:9 horizontal, no real platform logo, no readable text",
+      "thumb": "assets/thumbs/world-simulator-001/03_秦始皇的社交媒体账号.webp"
     },
     {
       "id": "world-simulator-001_04_真实世界的小学生数学试卷",
@@ -226,7 +244,8 @@
       "title": "真实世界的小学生数学试卷",
       "image": "assets/images/world-simulator-001/04_真实世界的小学生数学试卷.png",
       "description": "普通教室课桌上的小学数学试卷，被半透明模拟器界面标注出算式、得分和纠错路径。",
-      "prompt": "World simulator category, hyperreal still life of a real elementary school math exam in an alternate reality simulation: a Chinese primary school student's desk, pencil, eraser, red correction marks, grid paper, simple arithmetic diagrams rendered as floating translucent simulator overlays, ordinary classroom daylight, documentary realism mixed with interface visualization, 16:9 horizontal, no readable text"
+      "prompt": "World simulator category, hyperreal still life of a real elementary school math exam in an alternate reality simulation: a Chinese primary school student's desk, pencil, eraser, red correction marks, grid paper, simple arithmetic diagrams rendered as floating translucent simulator overlays, ordinary classroom daylight, documentary realism mixed with interface visualization, 16:9 horizontal, no readable text",
+      "thumb": "assets/thumbs/world-simulator-001/04_真实世界的小学生数学试卷.webp"
     },
     {
       "id": "world-simulator-001_05_李白的午夜外卖骑手地图",
@@ -236,7 +255,8 @@
       "title": "李白的午夜外卖骑手地图",
       "image": "assets/images/world-simulator-001/05_李白的午夜外卖骑手地图.png",
       "description": "李白穿唐代长袍骑电动车穿过霓虹雨夜，地图路线和订单卡片浮在城市上方。",
-      "prompt": "World simulator category, fictional logistics app interface where Li Bai is a midnight food delivery rider in Tang dynasty robes, riding a sleek electric scooter through neon rain, poetry scrolls as delivery receipts, map pins and route lines as abstract UI overlays, ancient moonlit city blended with modern courier culture, cinematic 16:9 horizontal, no real app logos, no readable text"
+      "prompt": "World simulator category, fictional logistics app interface where Li Bai is a midnight food delivery rider in Tang dynasty robes, riding a sleek electric scooter through neon rain, poetry scrolls as delivery receipts, map pins and route lines as abstract UI overlays, ancient moonlit city blended with modern courier culture, cinematic 16:9 horizontal, no real app logos, no readable text",
+      "thumb": "assets/thumbs/world-simulator-001/05_李白的午夜外卖骑手地图.webp"
     },
     {
       "id": "world-simulator-001_06_诸葛亮的云服务器监控室",
@@ -246,7 +266,8 @@
       "title": "诸葛亮的云服务器监控室",
       "image": "assets/images/world-simulator-001/06_诸葛亮的云服务器监控室.png",
       "description": "诸葛亮站在冷光数据中心里，用羽扇调度发光节点图和战术地图。",
-      "prompt": "World simulator category, Zhuge Liang operating a futuristic cloud server observability room, feather fan in hand, tactical war maps fused with Kubernetes-style node graphs and glowing incident dashboards, ancient strategist robe under cold data-center light, racks of servers receding into mist, premium cinematic interface screenshot, 16:9 horizontal, no real product logos, no readable text"
+      "prompt": "World simulator category, Zhuge Liang operating a futuristic cloud server observability room, feather fan in hand, tactical war maps fused with Kubernetes-style node graphs and glowing incident dashboards, ancient strategist robe under cold data-center light, racks of servers receding into mist, premium cinematic interface screenshot, 16:9 horizontal, no real product logos, no readable text",
+      "thumb": "assets/thumbs/world-simulator-001/06_诸葛亮的云服务器监控室.webp"
     },
     {
       "id": "world-simulator-001_07_唐僧的寺庙直播中控台",
@@ -256,7 +277,8 @@
       "title": "唐僧的寺庙直播中控台",
       "image": "assets/images/world-simulator-001/07_唐僧的寺庙直播中控台.png",
       "description": "唐僧在寺庙里管理直播电商后台，香烟、念珠、补光灯和数据面板同框。",
-      "prompt": "World simulator category, Tang monk running a calm livestream ecommerce control room in a monastery, Buddhist prayer beads beside ring lights, product cards as abstract panels, pilgrims and moderators on multiple screens, incense smoke mixing with modern analytics dashboards, serene and absurd, cinematic 16:9 horizontal, no real platform logos, no readable text"
+      "prompt": "World simulator category, Tang monk running a calm livestream ecommerce control room in a monastery, Buddhist prayer beads beside ring lights, product cards as abstract panels, pilgrims and moderators on multiple screens, incense smoke mixing with modern analytics dashboards, serene and absurd, cinematic 16:9 horizontal, no real platform logos, no readable text",
+      "thumb": "assets/thumbs/world-simulator-001/07_唐僧的寺庙直播中控台.webp"
     },
     {
       "id": "world-simulator-001_08_兵马俑的地铁通勤监控",
@@ -266,7 +288,8 @@
       "title": "兵马俑的地铁通勤监控",
       "image": "assets/images/world-simulator-001/08_兵马俑的地铁通勤监控.png",
       "description": "兵马俑像现代通勤者一样穿过地铁闸机，画面来自城市监控系统视角。",
-      "prompt": "World simulator category, terracotta warriors commuting through a modern subway station seen through a city surveillance camera interface, clay armor, metro turnstiles, blue CCTV overlays, passenger flow heatmap, ancient military formation behaving like morning commuters, realistic urban documentary shot, 16:9 horizontal, no readable text, no real transit logo"
+      "prompt": "World simulator category, terracotta warriors commuting through a modern subway station seen through a city surveillance camera interface, clay armor, metro turnstiles, blue CCTV overlays, passenger flow heatmap, ancient military formation behaving like morning commuters, realistic urban documentary shot, 16:9 horizontal, no readable text, no real transit logo",
+      "thumb": "assets/thumbs/world-simulator-001/08_兵马俑的地铁通勤监控.webp"
     },
     {
       "id": "world-simulator-001_09_花木兰的现代招聘系统",
@@ -276,7 +299,8 @@
       "title": "花木兰的现代招聘系统",
       "image": "assets/images/world-simulator-001/09_花木兰的现代招聘系统.png",
       "description": "花木兰作为传奇候选人进入现代招聘系统，战功和技能雷达图漂浮在面试室中。",
-      "prompt": "World simulator category, Mulan inside a modern recruiting ATS dashboard as a legendary candidate, armor and office blazer hybrid, resume cards and skill radar charts floating around her, split screen of battlefield achievements and corporate interview room, clean SaaS interface aesthetics mixed with heroic Chinese historical drama, 16:9 horizontal, no real company logos, no readable text"
+      "prompt": "World simulator category, Mulan inside a modern recruiting ATS dashboard as a legendary candidate, armor and office blazer hybrid, resume cards and skill radar charts floating around her, split screen of battlefield achievements and corporate interview room, clean SaaS interface aesthetics mixed with heroic Chinese historical drama, 16:9 horizontal, no real company logos, no readable text",
+      "thumb": "assets/thumbs/world-simulator-001/09_花木兰的现代招聘系统.webp"
     },
     {
       "id": "world-simulator-001_10_孔子的-ai-学习仪表盘",
@@ -286,7 +310,8 @@
       "title": "孔子的 AI 学习仪表盘",
       "image": "assets/images/world-simulator-001/10_孔子的-ai-学习仪表盘.png",
       "description": "孔子在现代教室里授课，竹简、平板和学习分析面板共同组成教育模拟器。",
-      "prompt": "World simulator category, Confucius teaching in a modern public classroom controlled by an AI learning dashboard, students with tablets, bamboo slips on the teacher desk, floating learning analytics, attendance heatmap, chalk dust and holographic lesson modules, warm documentary realism with subtle interface overlays, 16:9 horizontal, no readable text, no real school logos"
+      "prompt": "World simulator category, Confucius teaching in a modern public classroom controlled by an AI learning dashboard, students with tablets, bamboo slips on the teacher desk, floating learning analytics, attendance heatmap, chalk dust and holographic lesson modules, warm documentary realism with subtle interface overlays, 16:9 horizontal, no readable text, no real school logos",
+      "thumb": "assets/thumbs/world-simulator-001/10_孔子的-ai-学习仪表盘.webp"
     },
     {
       "id": "world-simulator-001_11_武则天的创业董事会",
@@ -296,7 +321,8 @@
       "title": "武则天的创业董事会",
       "image": "assets/images/world-simulator-001/11_武则天的创业董事会.png",
       "description": "武则天以现代创业者身份坐在董事会中，宫廷权力结构被转换成增长和股权面板。",
-      "prompt": "World simulator category, Empress Wu Zetian as a modern startup founder in a boardroom, imperial robes blended with minimalist CEO attire, cap table and growth dashboards projected as abstract charts, investors seated like court officials, gold palace motifs inside glass office architecture, sharp editorial tech magazine cover style, 16:9 horizontal, no readable text, no real logos"
+      "prompt": "World simulator category, Empress Wu Zetian as a modern startup founder in a boardroom, imperial robes blended with minimalist CEO attire, cap table and growth dashboards projected as abstract charts, investors seated like court officials, gold palace motifs inside glass office architecture, sharp editorial tech magazine cover style, 16:9 horizontal, no readable text, no real logos",
+      "thumb": "assets/thumbs/world-simulator-001/11_武则天的创业董事会.webp"
     },
     {
       "id": "world-simulator-001_12_哪吒的智慧交通指挥台",
@@ -306,7 +332,8 @@
       "title": "哪吒的智慧交通指挥台",
       "image": "assets/images/world-simulator-001/12_哪吒的智慧交通指挥台.png",
       "description": "哪吒作为未来交通警察站在城市路口模拟器前，风火轮和无人机同时进入调度系统。",
-      "prompt": "World simulator category, Nezha as a futuristic traffic police officer inside a city command dashboard, fire wheels hovering beside a smart intersection, dashcam feeds, red-blue warning lights, drones and scooters frozen in a traffic simulation, mythological child-warrior energy with municipal realism, 16:9 horizontal, no readable text, no real logos"
+      "prompt": "World simulator category, Nezha as a futuristic traffic police officer inside a city command dashboard, fire wheels hovering beside a smart intersection, dashcam feeds, red-blue warning lights, drones and scooters frozen in a traffic simulation, mythological child-warrior energy with municipal realism, 16:9 horizontal, no readable text, no real logos",
+      "thumb": "assets/thumbs/world-simulator-001/12_哪吒的智慧交通指挥台.webp"
     },
     {
       "id": "world-simulator-001_13_秦朝税务电子表格",
@@ -316,7 +343,8 @@
       "title": "秦朝税务电子表格",
       "image": "assets/images/world-simulator-001/13_秦朝税务电子表格.png",
       "description": "秦朝官吏在现代发光电子表格中录入粮食、徭役和土地数据。",
-      "prompt": "World simulator category, Qin dynasty tax office transformed into a modern spreadsheet simulation, stern officials in black robes entering grain, labor, and land records into huge glowing table grids, bamboo slips stacked beside laptops, abacus next to data validation panels, bureaucratic realism with absurd time collision, 16:9 horizontal, no readable text, no real software logos"
+      "prompt": "World simulator category, Qin dynasty tax office transformed into a modern spreadsheet simulation, stern officials in black robes entering grain, labor, and land records into huge glowing table grids, bamboo slips stacked beside laptops, abacus next to data validation panels, bureaucratic realism with absurd time collision, 16:9 horizontal, no readable text, no real software logos",
+      "thumb": "assets/thumbs/world-simulator-001/13_秦朝税务电子表格.webp"
     },
     {
       "id": "world-simulator-001_14_西游记开放世界任务界面",
@@ -326,7 +354,8 @@
       "title": "西游记开放世界任务界面",
       "image": "assets/images/world-simulator-001/14_西游记开放世界任务界面.png",
       "description": "取经四人站在沙漠道路上，开放世界地图、任务点和队伍状态面板覆盖整张画面。",
-      "prompt": "World simulator category, Journey to the West as a modern open-world quest selection screen, four travelers seen on a desert road with a giant map overlay, quest markers, inventory slots and companion status panels rendered as abstract shapes, mythological monsters in the distance, sunset dust, AAA adventure game interface, 16:9 horizontal, no readable text, no real logos"
+      "prompt": "World simulator category, Journey to the West as a modern open-world quest selection screen, four travelers seen on a desert road with a giant map overlay, quest markers, inventory slots and companion status panels rendered as abstract shapes, mythological monsters in the distance, sunset dust, AAA adventure game interface, 16:9 horizontal, no readable text, no real logos",
+      "thumb": "assets/thumbs/world-simulator-001/14_西游记开放世界任务界面.webp"
     },
     {
       "id": "world-simulator-001_15_居委会王朝模拟器",
@@ -336,7 +365,8 @@
       "title": "居委会王朝模拟器",
       "image": "assets/images/world-simulator-001/15_居委会王朝模拟器.png",
       "description": "真实居委会办公室变成王朝治理后台，人口幸福度、粮食储备和天气风险漂浮在塑料椅之间。",
-      "prompt": "World simulator category, a realistic neighborhood committee office running a dynasty simulator dashboard, elderly volunteers and ancient ministers reviewing population happiness, grain reserves, school enrollment and weather risk as floating abstract panels, plastic chairs, thermos bottles, wooden seals, mundane Chinese civic realism mixed with grand strategy game UI, 16:9 horizontal, no readable text"
+      "prompt": "World simulator category, a realistic neighborhood committee office running a dynasty simulator dashboard, elderly volunteers and ancient ministers reviewing population happiness, grain reserves, school enrollment and weather risk as floating abstract panels, plastic chairs, thermos bottles, wooden seals, mundane Chinese civic realism mixed with grand strategy game UI, 16:9 horizontal, no readable text",
+      "thumb": "assets/thumbs/world-simulator-001/15_居委会王朝模拟器.webp"
     },
     {
       "id": "classic-novel-posters-001_01_红楼梦",
@@ -346,7 +376,8 @@
       "title": "红楼梦",
       "image": "assets/images/classic-novel-posters-001/01_红楼梦.png",
       "description": "玉佩、园林、残稿和烛烟构成一张清雅哀婉的家族幻梦海报。",
-      "prompt": "Vertical 2:3 art poster for Dream of the Red Chamber, no readable text, pale jade pendant as moon, Grand View Garden, falling petals, distant aristocratic silhouettes, silk, broken fan, candle smoke, celadon green, faded rose, ivory, muted gold, melancholic Qing literary atmosphere, print grain."
+      "prompt": "Vertical 2:3 art poster for Dream of the Red Chamber, no readable text, pale jade pendant as moon, Grand View Garden, falling petals, distant aristocratic silhouettes, silk, broken fan, candle smoke, celadon green, faded rose, ivory, muted gold, melancholic Qing literary atmosphere, print grain.",
+      "thumb": "assets/thumbs/classic-novel-posters-001/01_红楼梦.webp"
     },
     {
       "id": "classic-novel-posters-001_02_三国演义",
@@ -356,7 +387,8 @@
       "title": "三国演义",
       "image": "assets/images/classic-novel-posters-001/02_三国演义.png",
       "description": "青铜地图裂成战场，三色旌旗、火箭与谋士剪影呈现乱世棋局。",
-      "prompt": "Vertical 2:3 art poster for Romance of the Three Kingdoms, no readable text, cracked bronze map becoming battlefield, three banners, strategist with feather fan, general and warlord silhouettes, arrows, river boats, mountain passes, iron gray, lacquer red, aged bronze, epic tactical tragedy."
+      "prompt": "Vertical 2:3 art poster for Romance of the Three Kingdoms, no readable text, cracked bronze map becoming battlefield, three banners, strategist with feather fan, general and warlord silhouettes, arrows, river boats, mountain passes, iron gray, lacquer red, aged bronze, epic tactical tragedy.",
+      "thumb": "assets/thumbs/classic-novel-posters-001/02_三国演义.webp"
     },
     {
       "id": "classic-novel-posters-001_03_西游记",
@@ -366,7 +398,8 @@
       "title": "西游记",
       "image": "assets/images/classic-novel-posters-001/03_西游记.png",
       "description": "取经队伍穿越金色沙脊，悟空跃入云端，敦煌色彩和神话旅程同框。",
-      "prompt": "Vertical 2:3 art poster for Journey to the West, no readable text, four pilgrims crossing vast desert ridge toward western sky gate, monkey warrior silhouette leaping with staff, visions of lotus mountains, demon caves, dragons, scripture chest, Dunhuang mural colors, ochre, turquoise, cinnabar, lapis."
+      "prompt": "Vertical 2:3 art poster for Journey to the West, no readable text, four pilgrims crossing vast desert ridge toward western sky gate, monkey warrior silhouette leaping with staff, visions of lotus mountains, demon caves, dragons, scripture chest, Dunhuang mural colors, ochre, turquoise, cinnabar, lapis.",
+      "thumb": "assets/thumbs/classic-novel-posters-001/03_西游记.webp"
     },
     {
       "id": "classic-novel-posters-001_04_水浒传",
@@ -376,7 +409,8 @@
       "title": "水浒传",
       "image": "assets/images/classic-novel-posters-001/04_水浒传.png",
       "description": "梁山水泊在雨夜升起，群雄围火而立，星点倒映出粗粝义气。",
-      "prompt": "Vertical 2:3 art poster for Water Margin, no readable text, moonlit marsh fortress at Liangshan, 108 star reflections, heroic bandits around brazier, weapons in a circle, rain, reeds, broken seals, indigo, wet black, ember orange, rebellious brotherhood."
+      "prompt": "Vertical 2:3 art poster for Water Margin, no readable text, moonlit marsh fortress at Liangshan, 108 star reflections, heroic bandits around brazier, weapons in a circle, rain, reeds, broken seals, indigo, wet black, ember orange, rebellious brotherhood.",
+      "thumb": "assets/thumbs/classic-novel-posters-001/04_水浒传.webp"
     },
     {
       "id": "classic-novel-posters-001_05_聊斋志异",
@@ -386,7 +420,8 @@
       "title": "聊斋志异",
       "image": "assets/images/classic-novel-posters-001/05_聊斋志异.png",
       "description": "书斋烛烟化作狐影、鬼魅和月下纸屏，文人志怪气息幽微浪漫。",
-      "prompt": "Vertical 2:3 art poster for Strange Tales from a Chinese Studio, no readable text, candlelit scholar studio, inkstone and brush, smoke turning into fox spirits and ghosts, paper screen revealing moonlit graveyard garden, bone white, ink black, teal fox-fire, eerie literati fantasy."
+      "prompt": "Vertical 2:3 art poster for Strange Tales from a Chinese Studio, no readable text, candlelit scholar studio, inkstone and brush, smoke turning into fox spirits and ghosts, paper screen revealing moonlit graveyard garden, bone white, ink black, teal fox-fire, eerie literati fantasy.",
+      "thumb": "assets/thumbs/classic-novel-posters-001/05_聊斋志异.webp"
     },
     {
       "id": "classic-novel-posters-001_06_堂吉诃德",
@@ -396,7 +431,8 @@
       "title": "堂吉诃德",
       "image": "assets/images/classic-novel-posters-001/06_堂吉诃德.png",
       "description": "瘦马骑士冲向风车巨影，纸页与沙尘把荒诞理想化作悲喜史诗。",
-      "prompt": "Vertical 2:3 art poster for Don Quixote, no readable text, elderly knight on thin horse across La Mancha plain, windmills morphing into dragons and giants, loyal companion far behind, romance pages swirling like sand, ochre, faded blue, parchment, tragicomic nobility."
+      "prompt": "Vertical 2:3 art poster for Don Quixote, no readable text, elderly knight on thin horse across La Mancha plain, windmills morphing into dragons and giants, loyal companion far behind, romance pages swirling like sand, ochre, faded blue, parchment, tragicomic nobility.",
+      "thumb": "assets/thumbs/classic-novel-posters-001/06_堂吉诃德.webp"
     },
     {
       "id": "classic-novel-posters-001_07_战争与和平",
@@ -406,7 +442,8 @@
       "title": "战争与和平",
       "image": "assets/images/classic-novel-posters-001/07_战争与和平.png",
       "description": "冬日舞会地板裂向雪原战场，吊灯、彗星和行军烟尘交织成宏大史诗。",
-      "prompt": "Vertical 2:3 art poster for War and Peace, no readable text, frozen ballroom floor cracked into snowy battlefield below, chandelier like winter sun, aristocrats waltzing above soldiers marching beneath, comet through palace windows, snow white, midnight blue, brass gold."
+      "prompt": "Vertical 2:3 art poster for War and Peace, no readable text, frozen ballroom floor cracked into snowy battlefield below, chandelier like winter sun, aristocrats waltzing above soldiers marching beneath, comet through palace windows, snow white, midnight blue, brass gold.",
+      "thumb": "assets/thumbs/classic-novel-posters-001/07_战争与和平.webp"
     },
     {
       "id": "classic-novel-posters-001_08_悲惨世界",
@@ -416,7 +453,8 @@
       "title": "悲惨世界",
       "image": "assets/images/classic-novel-posters-001/08_悲惨世界.png",
       "description": "银烛光照亮巴黎街垒与众生命运，苦难、慈悲和反抗集中在一束光里。",
-      "prompt": "Vertical 2:3 art poster for Les Miserables, no readable text, rough worker hands holding silver candlestick, light rising into Paris barricade, silhouettes of ex-prisoner, child, young woman, students, cathedral rooftops, charcoal, candle gold, revolutionary red."
+      "prompt": "Vertical 2:3 art poster for Les Miserables, no readable text, rough worker hands holding silver candlestick, light rising into Paris barricade, silhouettes of ex-prisoner, child, young woman, students, cathedral rooftops, charcoal, candle gold, revolutionary red.",
+      "thumb": "assets/thumbs/classic-novel-posters-001/08_悲惨世界.webp"
     },
     {
       "id": "classic-novel-posters-001_09_白鲸",
@@ -426,7 +464,8 @@
       "title": "白鲸",
       "image": "assets/images/classic-novel-posters-001/09_白鲸.png",
       "description": "巨大的白鲸如月下山体升起，小船和船长被执念与深海彻底吞没。",
-      "prompt": "Vertical 2:3 art poster for Moby-Dick, no readable text, tiny whaling ship in black green ocean, enormous white whale rising like a mountain, captain silhouette with harpoon, storm clouds as open book and compass, cold white, deep teal, storm gray, obsessive sublime."
+      "prompt": "Vertical 2:3 art poster for Moby-Dick, no readable text, tiny whaling ship in black green ocean, enormous white whale rising like a mountain, captain silhouette with harpoon, storm clouds as open book and compass, cold white, deep teal, storm gray, obsessive sublime.",
+      "thumb": "assets/thumbs/classic-novel-posters-001/09_白鲸.webp"
     },
     {
       "id": "classic-novel-posters-001_10_罪与罚",
@@ -436,7 +475,8 @@
       "title": "罪与罚",
       "image": "assets/images/classic-novel-posters-001/10_罪与罚.png",
       "description": "倾斜黄房间里影子分裂成审判、受害与忏悔，圣彼得堡晨雾压迫而冷峻。",
-      "prompt": "Vertical 2:3 art poster for Crime and Punishment, no readable text, tilted yellow room in St. Petersburg, young man silhouette in doorway, shadow split into judge, victim, penitent, small axe near cracked floorboard, wet streets and winter dawn, psychological noir."
+      "prompt": "Vertical 2:3 art poster for Crime and Punishment, no readable text, tilted yellow room in St. Petersburg, young man silhouette in doorway, shadow split into judge, victim, penitent, small axe near cracked floorboard, wet streets and winter dawn, psychological noir.",
+      "thumb": "assets/thumbs/classic-novel-posters-001/10_罪与罚.webp"
     },
     {
       "id": "classic-novel-posters-001_11_傲慢与偏见",
@@ -446,7 +486,8 @@
       "title": "傲慢与偏见",
       "image": "assets/images/classic-novel-posters-001/11_傲慢与偏见.png",
       "description": "英式花园两端的剪影被晨光牵连，信笺、玫瑰和泥印呈现克制张力。",
-      "prompt": "Vertical 2:3 art poster for Pride and Prejudice, no readable text, two Regency silhouettes on opposite sides of misty garden path, sunlight connecting them, manor reflected in puddle, letters like leaves, gloves, fan, roses, sage, pearl gray, restrained romance."
+      "prompt": "Vertical 2:3 art poster for Pride and Prejudice, no readable text, two Regency silhouettes on opposite sides of misty garden path, sunlight connecting them, manor reflected in puddle, letters like leaves, gloves, fan, roses, sage, pearl gray, restrained romance.",
+      "thumb": "assets/thumbs/classic-novel-posters-001/11_傲慢与偏见.webp"
     },
     {
       "id": "classic-novel-posters-001_12_弗兰肯斯坦",
@@ -456,7 +497,8 @@
       "title": "弗兰肯斯坦",
       "image": "assets/images/classic-novel-posters-001/12_弗兰肯斯坦.png",
       "description": "废墟实验室中闪电垂落，创造物在光影中悬置，哥特恐惧与孤独并存。",
-      "prompt": "Vertical 2:3 art poster for Frankenstein, no readable text, ruined stone laboratory, operating table, lightning through shattered skylight, suspended human-shaped silhouette stitched from shadow and light, creator horrified below, storm violet, pale green, electric white."
+      "prompt": "Vertical 2:3 art poster for Frankenstein, no readable text, ruined stone laboratory, operating table, lightning through shattered skylight, suspended human-shaped silhouette stitched from shadow and light, creator horrified below, storm violet, pale green, electric white.",
+      "thumb": "assets/thumbs/classic-novel-posters-001/12_弗兰肯斯坦.webp"
     },
     {
       "id": "classic-novel-posters-001_13_了不起的盖茨比",
@@ -466,7 +508,8 @@
       "title": "了不起的盖茨比",
       "image": "assets/images/classic-novel-posters-001/13_了不起的盖茨比.png",
       "description": "黑色海湾尽头的绿光倒映在香槟杯里，爵士时代的华丽像灰烬飘落。",
-      "prompt": "Vertical 2:3 art poster for The Great Gatsby, no readable text, dark bay at night, tiny green light across water reflected in champagne coupe, faceless white-suit figure, art deco mansion lights, party ghosts, confetti like ash, emerald, black, champagne gold."
+      "prompt": "Vertical 2:3 art poster for The Great Gatsby, no readable text, dark bay at night, tiny green light across water reflected in champagne coupe, faceless white-suit figure, art deco mansion lights, party ghosts, confetti like ash, emerald, black, champagne gold.",
+      "thumb": "assets/thumbs/classic-novel-posters-001/13_了不起的盖茨比.webp"
     },
     {
       "id": "classic-novel-posters-001_14_百年孤独",
@@ -476,7 +519,8 @@
       "title": "百年孤独",
       "image": "assets/images/classic-novel-posters-001/14_百年孤独.png",
       "description": "热带小镇、黄蝶、雨和家族树根旋成循环时间，魔幻现实主义繁茂而孤独。",
-      "prompt": "Vertical 2:3 art poster for One Hundred Years of Solitude, no readable text, tropical town house with generational silhouettes in windows, yellow butterflies spiraling into rain, clocks, train tracks, flowers, parchment, huge tree through roof, sun yellow, jungle green."
+      "prompt": "Vertical 2:3 art poster for One Hundred Years of Solitude, no readable text, tropical town house with generational silhouettes in windows, yellow butterflies spiraling into rain, clocks, train tracks, flowers, parchment, huge tree through roof, sun yellow, jungle green.",
+      "thumb": "assets/thumbs/classic-novel-posters-001/14_百年孤独.webp"
     },
     {
       "id": "classic-novel-posters-001_15_简-爱",
@@ -486,7 +530,8 @@
       "title": "简·爱",
       "image": "assets/images/classic-novel-posters-001/15_简-爱.png",
       "description": "荒原女子护住烛火，远处庄园暗燃，风暴与阁楼阴影构成哥特独立宣言。",
-      "prompt": "Vertical 2:3 art poster for Jane Eyre, no readable text, solitary woman on windswept moor holding protected candle, distant manor with one burning upper window, storm clouds forming hidden face and locked attic door, thorn branches, moor purple, candle amber, Victorian gothic."
+      "prompt": "Vertical 2:3 art poster for Jane Eyre, no readable text, solitary woman on windswept moor holding protected candle, distant manor with one burning upper window, storm clouds forming hidden face and locked attic door, thorn branches, moor purple, candle amber, Victorian gothic.",
+      "thumb": "assets/thumbs/classic-novel-posters-001/15_简-爱.webp"
     }
   ]
 }

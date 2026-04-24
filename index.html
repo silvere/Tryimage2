@@ -3,11 +3,11 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="高反差传播向 AI 海报图集，按主题和 category 持续追加。">
-    <meta property="og:title" content="Prompt Collision Gallery">
-    <meta property="og:description" content="创意组合与对比反差的 AI 海报图集。">
+    <meta name="description" content="OpenAI image2 生成的视觉实验图集，按主题和 category 持续追加。">
+    <meta property="og:title" content="OpenAI image2 视觉实验">
+    <meta property="og:description" content="OpenAI image2 生成的视觉实验图集。">
     <meta property="og:image" content="assets/contact_sheet_image2.jpg">
-    <title>Prompt Collision Gallery</title>
+    <title>OpenAI image2 视觉实验</title>
     <style>
       :root {
         color-scheme: light;
@@ -164,7 +164,7 @@
         display: grid;
         grid-template-columns: repeat(3, minmax(0, 1fr));
         gap: 18px;
-        padding-bottom: 44px;
+        padding-bottom: 18px;
       }
 
       .card {
@@ -241,6 +241,34 @@
         text-decoration: none;
         font-size: 13px;
         background: #fbf8f0;
+      }
+
+      .gallery-footer {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        gap: 14px;
+        padding: 8px 0 44px;
+      }
+
+      .load-more {
+        border: 1px solid var(--ink);
+        border-radius: 6px;
+        min-height: 40px;
+        padding: 0 18px;
+        background: var(--ink);
+        color: white;
+        font: inherit;
+        cursor: pointer;
+      }
+
+      .load-more[hidden] {
+        display: none;
+      }
+
+      .shown-count {
+        color: var(--muted);
+        font-size: 13px;
       }
 
       .dialog {
@@ -365,7 +393,7 @@
     <header class="topbar">
       <div class="shell">
         <div class="brand">
-          <strong>Prompt Collision Gallery</strong>
+          <strong>OpenAI image2 视觉实验</strong>
           <span id="site-subtitle">传播向 AI 海报</span>
         </div>
         <nav class="tabs" id="tabs" aria-label="图集筛选"></nav>
@@ -388,6 +416,10 @@
       </section>
 
       <section class="gallery" id="gallery" aria-label="图片列表"></section>
+      <div class="gallery-footer">
+        <button class="load-more" id="load-more" type="button">加载更多</button>
+        <span class="shown-count" id="shown-count"></span>
+      </div>
     </main>
 
     <footer>
@@ -411,8 +443,13 @@
       const dialogTitle = document.querySelector("#dialog-title");
       const dialogImage = document.querySelector("#dialog-image");
       const closeButton = document.querySelector(".close");
+      const loadMoreButton = document.querySelector("#load-more");
+      const shownCount = document.querySelector("#shown-count");
+      const pageSize = 12;
       let items = [];
       let categoryLabels = new Map();
+      let activeFilter = "all";
+      let visibleCount = pageSize;
 
       function labelFor(type) {
         return categoryLabels.get(type) || type;
@@ -442,21 +479,28 @@
           tab.addEventListener("click", () => {
             tabs.querySelectorAll(".tab").forEach((item) => item.setAttribute("aria-pressed", "false"));
             tab.setAttribute("aria-pressed", "true");
-            render(tab.dataset.filter);
+            activeFilter = tab.dataset.filter;
+            visibleCount = pageSize;
+            render();
           });
         });
       }
 
-      function render(filter = "all") {
+      function filteredItems() {
+        return items.filter((item) => activeFilter === "all" || item.category === activeFilter);
+      }
+
+      function render() {
+        const matches = filteredItems();
+        const visible = matches.slice(0, visibleCount);
         gallery.innerHTML = "";
-        items
-          .filter((item) => filter === "all" || item.category === filter)
-          .forEach((item) => {
+        visible
+          .forEach((item, index) => {
             const card = document.createElement("article");
             card.className = "card";
             card.innerHTML = `
               <button class="thumb-button" type="button" aria-label="放大预览 ${item.title}">
-                <img class="thumb" src="${item.image}" alt="${item.title}" loading="lazy">
+                <img class="thumb" src="${item.thumb || item.image}" alt="${item.title}" loading="${index < 6 ? "eager" : "lazy"}" decoding="async">
               </button>
               <div class="card-body">
                 <div class="meta"><span>${item.number}</span><span class="tag ${item.category}">${labelFor(item.category)}</span></div>
@@ -476,6 +520,8 @@
             });
             gallery.appendChild(card);
           });
+        loadMoreButton.hidden = visible.length >= matches.length;
+        shownCount.textContent = matches.length ? `已显示 ${visible.length} / ${matches.length}` : "暂无图片";
       }
 
       function closeDialog() {
@@ -490,14 +536,18 @@
       document.addEventListener("keydown", (event) => {
         if (event.key === "Escape") closeDialog();
       });
+      loadMoreButton.addEventListener("click", () => {
+        visibleCount += pageSize;
+        render();
+      });
 
       async function init() {
         const response = await fetch("assets/gallery.json");
         const data = await response.json();
-        items = data.items || [];
+        items = (data.items || []).slice().reverse();
         categoryLabels = new Map((data.categories || []).map((category) => [category.id, category.label]));
 
-        document.querySelector(".brand strong").textContent = data.site?.title || "Prompt Collision Gallery";
+        document.querySelector(".brand strong").textContent = data.site?.title || "OpenAI image2 视觉实验";
         document.querySelector("#site-subtitle").textContent = data.site?.subtitle || `${items.length} 张传播向 AI 海报`;
         document.querySelector("#page-title").textContent = data.site?.headline || "视觉实验";
         document.querySelector("#intro-copy").textContent = data.site?.intro || "";
