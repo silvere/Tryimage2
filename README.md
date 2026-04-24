@@ -1,11 +1,11 @@
 # Prompt Collision Gallery
 
-一个 GitHub Pages 静态图集，展示 image2 生成的传播向海报图片。所有图片都发布在同一个网站里，用 `category` 组织和筛选。
+一个 GitHub Pages 静态图集，展示 image2 生成的传播向海报图片。所有图片都发布在同一个网站里，用可扩展的 `category` 组织和筛选。
 
 ## 内容
 
-- 8 张创意组合主题
-- 7 张对比反差主题
+- 当前已有 1 个批次、2 个 category
+- 后续批次可以使用任意新 category，例如真实场景、产品概念、人物叙事、地域文化、风格实验等
 - 图片位于 `assets/images/`
 - 图集数据位于 `assets/gallery.json`
 - 初始提示词位于 `image_prompts.json`
@@ -31,8 +31,8 @@ metadata 结构：
   "items": [
     {
       "source": "image-01.png",
-      "category": "new-category",
-      "categoryLabel": "新分类",
+      "category": "real-scenes",
+      "categoryLabel": "真实场景",
       "title": "图片标题",
       "description": "一句话描述",
       "prompt": "生成提示词"

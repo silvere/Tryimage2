@@ -2,13 +2,13 @@
   "site": {
     "title": "Prompt Collision Gallery",
     "subtitle": "15 张传播向 AI 海报",
-    "headline": "创意组合和对比反差的视觉实验",
-    "intro": "把品牌、文化、场景和时代错位放进同一张画面，追求第一眼能停住、第二眼能转发的海报感。",
+    "headline": "持续更新的主题视觉实验",
+    "intro": "每一批图片围绕一个临时主题生成，并按当次最合适的 category 归档；可以是反差创意、真实场景、产品概念、人物叙事或任何新的视觉方向。",
     "coverImage": "assets/contact_sheet_image2.jpg",
     "coverAlt": "15 张 AI 海报总览拼图",
     "coverEyebrow": "Image2 Collection",
-    "coverTitle": "高冲突画面，比单点创意更容易被记住。",
-    "coverCopy": "图集保留完整生成提示词，适合继续做封面、营销海报、选题测试或二次精修。"
+    "coverTitle": "同一个网站，容纳不断变化的主题和分类。",
+    "coverCopy": "图集保留批次、category、图片描述和生成提示词，适合继续做封面、营销海报、选题测试或二次精修。"
   },
   "categories": [
     { "id": "creative", "label": "创意组合" },
