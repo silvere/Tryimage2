@@ -1,7 +1,7 @@
 {
   "site": {
     "title": "OpenAI image2 视觉实验",
-    "subtitle": "45 张传播向 AI 海报",
+    "subtitle": "60 张传播向 AI 海报",
     "headline": "OpenAI image2 视觉实验",
     "intro": "每一批图片围绕一个临时主题生成，并按当次最合适的 category 归档；可以是反差创意、真实场景、产品概念、人物叙事或任何新的视觉方向。",
     "coverImage": "assets/contact_sheet_image2.jpg",
@@ -30,6 +30,22 @@
     {
       "id": "global-classic-novels",
       "label": "全球经典小说"
+    },
+    {
+      "id": "digital-systems",
+      "label": "数字系统"
+    },
+    {
+      "id": "finance-supply-chain",
+      "label": "金融与供应链"
+    },
+    {
+      "id": "infrastructure-earth",
+      "label": "基础设施与地球系统"
+    },
+    {
+      "id": "body-science",
+      "label": "身体科学"
     }
   ],
   "batches": [
@@ -48,6 +64,12 @@
     {
       "id": "classic-novel-posters-001",
       "theme": "经典小说艺术海报系列",
+      "createdAt": "2026-04-24",
+      "count": 15
+    },
+    {
+      "id": "complex-systems-infographics-001",
+      "theme": "复杂系统原理信息图",
       "createdAt": "2026-04-24",
       "count": 15
     }
@@ -532,6 +554,171 @@
       "description": "荒原女子护住烛火，远处庄园暗燃，风暴与阁楼阴影构成哥特独立宣言。",
       "prompt": "Vertical 2:3 art poster for Jane Eyre, no readable text, solitary woman on windswept moor holding protected candle, distant manor with one burning upper window, storm clouds forming hidden face and locked attic door, thorn branches, moor purple, candle amber, Victorian gothic.",
       "thumb": "assets/thumbs/classic-novel-posters-001/15_简-爱.webp"
+    },
+    {
+      "id": "complex-systems-infographics-001_01_一次-ai-对话的-500-毫秒",
+      "batch": "complex-systems-infographics-001",
+      "category": "digital-systems",
+      "number": "01",
+      "title": "一次 AI 对话的 500 毫秒",
+      "image": "assets/images/complex-systems-infographics-001/01_一次-ai-对话的-500-毫秒.png",
+      "thumb": "assets/thumbs/complex-systems-infographics-001/01_一次-ai-对话的-500-毫秒.webp",
+      "description": "从按下回车到首屏答案，拆开 token 化、attention、解码、安全过滤和流式返回的算力链路。",
+      "prompt": "Create a horizontal 16:9 Chinese science infographic poster titled “一次 AI 对话的 500 毫秒”. Visual style: premium editorial information design, mix of 2D vector flowchart and semi-transparent 3D data-center pipeline, crisp readable Simplified Chinese labels, white and graphite background with cyan signal accents. Show a left-to-right millisecond timeline from 0ms to 500ms: 0 按下回车, 15ms 请求入站, 35ms token 化, 80ms embedding, 160ms attention 层, 260ms 解码循环, 340ms 安全过滤, 430ms 流式返回, 500ms 首屏可读答案. Include small inset diagrams for tokens becoming vectors, attention heads connecting words, GPU racks doing parallel matrix multiplication, and a safety gate. Make it visually clear that one sentence triggers networking, batching, GPU inference, filtering, and streaming output. No logos, no English text, no tiny unreadable body paragraphs; use clean numbered callouts and icons."
+    },
+    {
+      "id": "complex-systems-infographics-001_02_你手机的一天",
+      "batch": "complex-systems-infographics-001",
+      "category": "digital-systems",
+      "number": "02",
+      "title": "你手机的一天",
+      "image": "assets/images/complex-systems-infographics-001/02_你手机的一天.png",
+      "thumb": "assets/thumbs/complex-systems-infographics-001/02_你手机的一天.webp",
+      "description": "把一次次解锁、定位、推送、广告 SDK、CDN 和云备份画成 24 小时通信网。",
+      "prompt": "Create a horizontal 16:9 Chinese infographic poster titled “你手机的一天：24 小时通信网”. Visual style: clean 2D/3D hybrid network map, isometric smartphone in the center, day-night ring clock around it, server nodes and data paths. Use crisp Simplified Chinese labels. Show timeline: 07:30 解锁与账号同步, 08:10 地图定位, 09:00 IM 消息, 12:30 外卖支付, 14:00 浏览器与 CDN, 18:30 短视频推荐, 21:00 云相册备份, 23:40 推送与广告 SDK. Around the phone show connections to: 基站, Wi-Fi 路由器, DNS, CDN 边缘节点, 应用服务器, 推送通道, 广告 SDK, 支付风控, 云备份, 监控日志. Make visible that a “private day” is many short machine conversations. Avoid real brand logos. Dense but readable, no long paragraphs."
+    },
+    {
+      "id": "complex-systems-infographics-001_03_一条短视频-feed-的诞生",
+      "batch": "complex-systems-infographics-001",
+      "category": "digital-systems",
+      "number": "03",
+      "title": "一条短视频 Feed 的诞生",
+      "image": "assets/images/complex-systems-infographics-001/03_一条短视频-feed-的诞生.png",
+      "thumb": "assets/thumbs/complex-systems-infographics-001/03_一条短视频-feed-的诞生.webp",
+      "description": "用推荐系统漏斗解释召回、粗排、精排、重排、多样性打散和用户反馈闭环。",
+      "prompt": "Create a horizontal 16:9 Chinese infographic poster titled “一条短视频 Feed 的诞生”. Visual style: product-system architecture diagram plus feedback loop, 2D vector with subtle 3D cards. Use readable Simplified Chinese labels. Show five pipeline stages left to right: 1 召回（关注、热门、同城、相似兴趣、广告候选）→ 2 粗排（轻量模型筛到几千条）→ 3 精排（深度模型预测停留、点赞、评论、转发、完播）→ 4 重排（多样性、去重、节奏、冷启动）→ 5 展示（你的下一刷）. Add a feedback loop from user actions: 停留、划走、复看、点赞、举报, feeding back into 特征更新、实时画像、模型训练. Include candidate pool funnel, score table, diversity mixer, and final phone screen. No real app logos, no English, no long paragraphs."
+    },
+    {
+      "id": "complex-systems-infographics-001_04_一次网购的全链路",
+      "batch": "complex-systems-infographics-001",
+      "category": "finance-supply-chain",
+      "number": "04",
+      "title": "一次网购的全链路",
+      "image": "assets/images/complex-systems-infographics-001/04_一次网购的全链路.png",
+      "thumb": "assets/thumbs/complex-systems-infographics-001/04_一次网购的全链路.webp",
+      "description": "下单一秒之后，订单、支付、仓储、干线运输、最后一公里和逆向物流如何接力。",
+      "prompt": "Create a horizontal 16:9 Chinese infographic poster titled “一次网购的全链路”. Visual style: isometric logistics control room plus flowchart, warm neutral background, precise readable Simplified Chinese labels. Show the chain after clicking “下单”: 1 订单创建, 2 支付与风控, 3 清算对账, 4 库存锁定, 5 仓储机器人拣货, 6 包装贴单, 7 干线运输, 8 分拨中心, 9 最后一公里, 10 签收评价, 11 退换货逆向物流. Add system swimlanes: 电商平台、支付机构、商家 ERP、仓储 WMS、物流 TMS、客服售后. Include small robots, conveyor belts, trucks, route lines, QR labels without real codes. No real brand names or logos."
+    },
+    {
+      "id": "complex-systems-infographics-001_05_一度电的旅程",
+      "batch": "complex-systems-infographics-001",
+      "category": "infrastructure-earth",
+      "number": "05",
+      "title": "一度电的旅程",
+      "image": "assets/images/complex-systems-infographics-001/05_一度电的旅程.png",
+      "thumb": "assets/thumbs/complex-systems-infographics-001/05_一度电的旅程.webp",
+      "description": "从电源侧到特高压、变电站、配电网和家庭插座，展示电压变化、损耗与调度。",
+      "prompt": "Create a horizontal 16:9 Chinese infographic poster titled “一度电的旅程”. Visual style: cinematic 3D cutaway map plus engineering diagram, clean readable Simplified Chinese labels. Show electricity traveling from multiple sources: 火电厂、水电站、光伏场、风电场、核电站 into 升压站, then 特高压输电 800kV/1000kV, regional 变电站 220kV/110kV, 城市配电网 10kV, 小区变压器 380V/220V, 家庭插座. Include voltage step-up/step-down ladder, line loss heat icons, real-time 调度中心 balancing demand, peak load curve. Use arrows and glowing power lines across mountains/city. No brand logos, no long paragraphs."
+    },
+    {
+      "id": "complex-systems-infographics-001_06_一觉睡眠的八小时值班表",
+      "batch": "complex-systems-infographics-001",
+      "category": "body-science",
+      "number": "06",
+      "title": "一觉睡眠的八小时值班表",
+      "image": "assets/images/complex-systems-infographics-001/06_一觉睡眠的八小时值班表.png",
+      "thumb": "assets/thumbs/complex-systems-infographics-001/06_一觉睡眠的八小时值班表.webp",
+      "description": "把睡眠阶段、脑电波、激素、记忆巩固、脑脊液清洗和器官修复排进一张夜班表。",
+      "prompt": "Create a horizontal 16:9 Chinese medical infographic poster titled “一觉睡眠的八小时值班表”. Visual style: calm dark-to-dawn timeline, 2D chart plus soft 3D cutaway of brain and organs, readable Simplified Chinese labels. Show 8-hour sleep from 23:00 to 07:00 with repeating cycles: N1 浅睡, N2 稳定睡眠, N3 深睡, REM 快速眼动. Include rows for: 脑电波（θ、睡眠纺锤、δ、REM 活跃）, 激素（褪黑素、成长激素、皮质醇黎明上升）, 记忆巩固, 脑脊液清洗, 免疫与器官修复. Use a hypnogram curve, moon-to-sun gradient, small icons for brain, liver, muscle, immune cells. Educational, not diagnostic, no pills, no hospital branding."
+    },
+    {
+      "id": "complex-systems-infographics-001_07_一顿饭的-24-小时消化之旅",
+      "batch": "complex-systems-infographics-001",
+      "category": "body-science",
+      "number": "07",
+      "title": "一顿饭的 24 小时消化之旅",
+      "image": "assets/images/complex-systems-infographics-001/07_一顿饭的-24-小时消化之旅.png",
+      "thumb": "assets/thumbs/complex-systems-infographics-001/07_一顿饭的-24-小时消化之旅.webp",
+      "description": "从口腔到直肠，用停留时间、pH 值、酶和菌群解释食物如何被拆解吸收。",
+      "prompt": "Create a horizontal 16:9 Chinese biology infographic poster titled “一顿饭的 24 小时消化之旅”. Visual style: anatomical cutaway map, friendly high-quality 2D/3D medical illustration, readable Simplified Chinese labels. Show food traveling through: 口腔 0-1分钟 pH约7 淀粉初分解, 食管 10秒 蠕动, 胃 2-4小时 pH1-3 蛋白质变性, 小肠 4-6小时 pH6-7.5 胆汁胰酶吸收营养, 大肠 12-24小时 菌群发酵吸水, 直肠 排出. Include a 24h timeline, pH gradient strip, enzyme icons, microbiome crowd in large intestine, nutrient arrows to blood. Make it explanatory, clean, not graphic or unpleasant."
+    },
+    {
+      "id": "complex-systems-infographics-001_08_一次感冒里的免疫战争",
+      "batch": "complex-systems-infographics-001",
+      "category": "body-science",
+      "number": "08",
+      "title": "一次感冒里的免疫战争",
+      "image": "assets/images/complex-systems-infographics-001/08_一次感冒里的免疫战争.png",
+      "thumb": "assets/thumbs/complex-systems-infographics-001/08_一次感冒里的免疫战争.webp",
+      "description": "用战役地图表现先天免疫、炎症信号、抗原呈递、抗体工厂、T 细胞和记忆细胞。",
+      "prompt": "Create a horizontal 16:9 Chinese immunology infographic poster titled “一次感冒里的免疫战争”. Visual style: tasteful illustrated body battlefield map, semi-realistic 2D characters representing cells, readable Simplified Chinese labels. Show virus entering nasal/throat mucosa; stage 1 先天免疫: 黏液、纤毛、干扰素、巨噬细胞、中性粒细胞; stage 2 发炎信号: 发热、鼻塞、喉咙痛 as body defense, not enemy; stage 3 抗原呈递: 树突细胞带情报去淋巴结; stage 4 B 细胞抗体工厂; stage 5 T 细胞精准清除 infected cells; stage 6 记忆细胞留档. Use a battlefield map with arrows, command center lymph node, antibody factories, T cell strike team. Avoid gore, avoid medical advice, no drug brands."
+    },
+    {
+      "id": "complex-systems-infographics-001_09_咖啡因在体内的六小时",
+      "batch": "complex-systems-infographics-001",
+      "category": "body-science",
+      "number": "09",
+      "title": "咖啡因在体内的六小时",
+      "image": "assets/images/complex-systems-infographics-001/09_咖啡因在体内的六小时.png",
+      "thumb": "assets/thumbs/complex-systems-infographics-001/09_咖啡因在体内的六小时.webp",
+      "description": "追踪咖啡因吸收、受体占位、心率血压变化、肝脏代谢和半衰期曲线。",
+      "prompt": "Create a horizontal 16:9 Chinese infographic poster titled “咖啡因在体内的六小时”. Visual style: sleek biomedical dashboard, 2D line chart plus 3D molecule and organ icons, readable Simplified Chinese labels. Show timeline 0-6小时: 0 喝下咖啡, 15-30分钟 小肠吸收进入血液, 30-60分钟 峰值提神, 1-3小时 腺苷受体被占据, 3-5小时 肝脏 CYP1A2 代谢, 6小时 约剩一半（半衰期因人而异）. Include concentration curve, adenosine receptor “座位被占”, heart rate/blood pressure mild rise icons, liver metabolism into paraxanthine/theobromine/theophylline, note: 孕期、药物、基因会改变代谢. No brand names, no medical advice, no energy drink imagery."
+    },
+    {
+      "id": "complex-systems-infographics-001_10_一件-t-恤的世界旅行",
+      "batch": "complex-systems-infographics-001",
+      "category": "finance-supply-chain",
+      "number": "10",
+      "title": "一件 T 恤的世界旅行",
+      "image": "assets/images/complex-systems-infographics-001/10_一件-t-恤的世界旅行.png",
+      "thumb": "assets/thumbs/complex-systems-infographics-001/10_一件-t-恤的世界旅行.webp",
+      "description": "把棉花、纺纱织布、缝制、海运、清关、电商仓和衣柜串成全球航线图。",
+      "prompt": "Create a horizontal 16:9 Chinese infographic poster titled “一件 T 恤的世界旅行”. Visual style: global route map with isometric supply-chain vignettes, readable Simplified Chinese labels, elegant editorial colors. Show path: 新疆棉花采摘 → 纺纱 → 织布染整 → 东南亚缝制 → 质检打包 → 海运集装箱 → 目的国港口清关 → 跨境电商仓 → 快递末端 → 你家衣柜. Add side metrics as icons: 水与土地、人工、能源、碳排、库存、退货. Use dotted shipping routes, container ship, factory floors, warehouse shelves, closet. Avoid flags as political symbols, avoid real brands/logos, no long paragraphs."
+    },
+    {
+      "id": "complex-systems-infographics-001_11_一座城市的地下剖面",
+      "batch": "complex-systems-infographics-001",
+      "category": "infrastructure-earth",
+      "number": "11",
+      "title": "一座城市的地下剖面",
+      "image": "assets/images/complex-systems-infographics-001/11_一座城市的地下剖面.png",
+      "thumb": "assets/thumbs/complex-systems-infographics-001/11_一座城市的地下剖面.webp",
+      "description": "用立体剖面展开供水、排污、雨水、燃气、电力、通信、管廊和地铁的地下迷宫。",
+      "prompt": "Create a horizontal 16:9 Chinese infographic poster titled “一座城市的地下剖面”. Visual style: large 3D cutaway cross-section of a modern city street, dense but readable engineering labels in Simplified Chinese. Show above-ground street, buildings, trees, people, then underground layers: 供水管, 排污管, 雨水管, 燃气管, 电力电缆, 通信光缆, 热力管廊, 地铁隧道, 地下车库, 泵站与检修井. Use color-coded layers and depth markers: -1m 通信/电力, -2m 燃气/给水, -3m 雨污分流, -10m 管廊, -20m 地铁. Include conflict points and sensors: 漏水监测、燃气报警、交通施工避让. No real city names or logos."
+    },
+    {
+      "id": "complex-systems-infographics-001_12_一次跨境转账的隐形轨道",
+      "batch": "complex-systems-infographics-001",
+      "category": "finance-supply-chain",
+      "number": "12",
+      "title": "一次跨境转账的隐形轨道",
+      "image": "assets/images/complex-systems-infographics-001/12_一次跨境转账的隐形轨道.png",
+      "thumb": "assets/thumbs/complex-systems-infographics-001/12_一次跨境转账的隐形轨道.webp",
+      "description": "解释 SWIFT 报文、代理行接力、清算结算、汇率点差与为什么常要 1-3 天。",
+      "prompt": "Create a horizontal 16:9 Chinese financial infrastructure infographic titled “一次跨境转账的隐形轨道”. Visual style: elegant banking network diagram with layered rails, 2D flowchart over subtle 3D city/world map, readable Simplified Chinese labels. Show sender in country A to receiver in country B. Steps: 1 发起汇款/KYC, 2 本地银行扣款, 3 SWIFT 报文传递（只是消息不是钱）, 4 代理行/中间行接力, 5 外汇兑换点差, 6 央行或本地清算系统结算, 7 收款行入账. Explain why 1-3天: 时区、合规筛查、代理行路径、批量清算、节假日. Show fee earners: 汇款手续费、代理行费用、汇率点差. No real bank logos, no exact personal data, no investment advice."
+    },
+    {
+      "id": "complex-systems-infographics-001_13_一颗卫星信号如何到你手机",
+      "batch": "complex-systems-infographics-001",
+      "category": "infrastructure-earth",
+      "number": "13",
+      "title": "一颗卫星信号如何到你手机",
+      "image": "assets/images/complex-systems-infographics-001/13_一颗卫星信号如何到你手机.png",
+      "thumb": "assets/thumbs/complex-systems-infographics-001/13_一颗卫星信号如何到你手机.webp",
+      "description": "用多星联算、时钟校准、电离层修正和辅助定位解释米级定位的时空几何。",
+      "prompt": "Create a horizontal 16:9 Chinese aerospace infographic titled “一颗卫星信号如何到你手机”. Visual style: 3D space-to-city perspective plus clean geometry diagram, readable Simplified Chinese labels. Show GPS/北斗 satellites above Earth sending time-stamped signals to a phone. Explain: 多星联算（三颗定位置、第四颗校时）, 原子钟时间戳, 光速传播时间换距离, 电离层/对流层修正, 星历数据, A-GNSS 辅助定位 from cell tower/Wi-Fi, urban canyon multipath errors. Include intersecting spheres geometry, error budget leading to 约3米精度, phone chip calculating coordinates. No military imagery, no real phone brand, no logo."
+    },
+    {
+      "id": "complex-systems-infographics-001_14_一滴水的千年循环",
+      "batch": "complex-systems-infographics-001",
+      "category": "infrastructure-earth",
+      "number": "14",
+      "title": "一滴水的千年循环",
+      "image": "assets/images/complex-systems-infographics-001/14_一滴水的千年循环.png",
+      "thumb": "assets/thumbs/complex-systems-infographics-001/14_一滴水的千年循环.webp",
+      "description": "从蒸发、降水、冰川封存、地下水停留到水厂与自来水管，展示水循环的时间尺度。",
+      "prompt": "Create a horizontal 16:9 Chinese earth-science infographic titled “一滴水的千年循环”. Visual style: poetic but scientific 3D/2D hybrid water cycle, readable Simplified Chinese labels. Show a single blue droplet path through deep time: 海洋蒸发 → 高空冷凝成云 → 降雨/降雪 → 冰川封存数百年 → 融化成溪流 → 河流入湖 → 地下水含水层停留多年 → 水厂处理 → 自来水管 → 杯中水 → 再回大海. Include residence time callouts: 大气约9天, 河流数周, 湖泊数年, 地下水数十到数千年, 冰川数百到数万年. Add cross-section of glacier, aquifer, city pipes. Clean arrows, no fantasy, no pollution horror."
+    },
+    {
+      "id": "complex-systems-infographics-001_15_一场台风的一生",
+      "batch": "complex-systems-infographics-001",
+      "category": "infrastructure-earth",
+      "number": "15",
+      "title": "一场台风的一生",
+      "image": "assets/images/complex-systems-infographics-001/15_一场台风的一生.png",
+      "thumb": "assets/thumbs/complex-systems-infographics-001/15_一场台风的一生.webp",
+      "description": "把热带扰动、眼墙成型、登陆衰减和温带气旋化画成带风速气压曲线的立体剖面。",
+      "prompt": "Create a horizontal 16:9 Chinese meteorology infographic titled “一场台风的一生”. Visual style: dramatic 3D atmospheric cutaway plus clean chart panels, readable Simplified Chinese labels. Show lifecycle: 1 赤道热带扰动 warm ocean >26.5°C, 2 低压旋转与水汽供能, 3 热带风暴形成, 4 眼墙成型与台风眼, 5 登陆：摩擦和断水汽导致衰减, 6 温带气旋化. Include vertical cross-section of eye wall convection towers, spiral rainbands, sea surface evaporation, steering winds. Add side charts: 气压下降曲线, 风速上升曲线, 降水分布, 风暴潮风险. Use arrows and pressure contours, no real disaster photos, no place names/logos."
     }
   ]
 }
