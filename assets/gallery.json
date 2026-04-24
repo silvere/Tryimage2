@@ -1,0 +1,162 @@
+{
+  "site": {
+    "title": "Prompt Collision Gallery",
+    "subtitle": "15 张传播向 AI 海报",
+    "headline": "创意组合和对比反差的视觉实验",
+    "intro": "把品牌、文化、场景和时代错位放进同一张画面，追求第一眼能停住、第二眼能转发的海报感。",
+    "coverImage": "assets/contact_sheet_image2.jpg",
+    "coverAlt": "15 张 AI 海报总览拼图",
+    "coverEyebrow": "Image2 Collection",
+    "coverTitle": "高冲突画面，比单点创意更容易被记住。",
+    "coverCopy": "图集保留完整生成提示词，适合继续做封面、营销海报、选题测试或二次精修。"
+  },
+  "categories": [
+    { "id": "creative", "label": "创意组合" },
+    { "id": "contrast", "label": "对比反差" }
+  ],
+  "batches": [
+    {
+      "id": "prompt-collision-001",
+      "theme": "创意组合和对比反差",
+      "createdAt": "2026-04-24",
+      "count": 15
+    }
+  ],
+  "items": [
+    {
+      "id": "01_luckin_meth_lab_coffee",
+      "batch": "prompt-collision-001",
+      "category": "creative",
+      "number": "01",
+      "title": "蓝白快饮咖啡 × 化学实验室犯罪剧",
+      "image": "assets/images/01_luckin_meth_lab_coffee.png",
+      "description": "冷色咖啡吧台被改造成透明玻璃反应釜实验室，防护服咖啡师端出发光冰拿铁。"
+    },
+    {
+      "id": "02_forbidden_city_sneaker_drop",
+      "batch": "prompt-collision-001",
+      "category": "creative",
+      "number": "02",
+      "title": "故宫红墙 × 限量球鞋发售",
+      "image": "assets/images/02_forbidden_city_sneaker_drop.png",
+      "description": "宫门前的未来感排队队伍，巨型宫廷纹样球鞋悬浮在金色晨光中。"
+    },
+    {
+      "id": "03_space_station_hotpot_delivery",
+      "batch": "prompt-collision-001",
+      "category": "creative",
+      "number": "03",
+      "title": "空间站 × 川味火锅外卖",
+      "image": "assets/images/03_space_station_hotpot_delivery.png",
+      "description": "宇航员在舷窗旁打开九宫格火锅，红油汤底在零重力中形成星云。"
+    },
+    {
+      "id": "04_ming_dynasty_cyber_esports",
+      "batch": "prompt-collision-001",
+      "category": "creative",
+      "number": "04",
+      "title": "明代锦衣卫 × 赛博电竞战队",
+      "image": "assets/images/04_ming_dynasty_cyber_esports.png",
+      "description": "飞鱼服队员坐进全息电竞舱，绣春刀变成发光机械键盘。"
+    },
+    {
+      "id": "05_kiln_robots_ceramic_tea",
+      "batch": "prompt-collision-001",
+      "category": "creative",
+      "number": "05",
+      "title": "景德镇瓷器 × 机器人奶茶工厂",
+      "image": "assets/images/05_kiln_robots_ceramic_tea.png",
+      "description": "机械臂用瓷釉拉花，奶茶杯像青花瓷花瓶，古窑火映着洁白机械。"
+    },
+    {
+      "id": "06_panda_noir_detective",
+      "batch": "prompt-collision-001",
+      "category": "creative",
+      "number": "06",
+      "title": "熊猫基地 × 黑色侦探电影",
+      "image": "assets/images/06_panda_noir_detective.png",
+      "description": "雨夜竹林里，拟人熊猫侦探穿风衣站在路灯下，手里拿着竹叶线索。"
+    },
+    {
+      "id": "07_terracotta_army_motorcycle_club",
+      "batch": "prompt-collision-001",
+      "category": "creative",
+      "number": "07",
+      "title": "兵马俑 × 机车俱乐部",
+      "image": "assets/images/07_terracotta_army_motorcycle_club.png",
+      "description": "陶俑骑士跨坐黑色巡航摩托，车灯穿透黄沙，队列像古代军阵。"
+    },
+    {
+      "id": "08_buddhist_temple_arcade",
+      "batch": "prompt-collision-001",
+      "category": "creative",
+      "number": "08",
+      "title": "古寺禅意 × 复古街机厅",
+      "image": "assets/images/08_buddhist_temple_arcade.png",
+      "description": "木质寺庙大殿里摆满发光街机，僧人平静操作摇杆。"
+    },
+    {
+      "id": "09_greek_gods_sichuan_hotpot",
+      "batch": "prompt-collision-001",
+      "category": "contrast",
+      "number": "09",
+      "title": "希腊诸神 × 四川火锅",
+      "image": "assets/images/09_greek_gods_sichuan_hotpot.png",
+      "description": "奥林匹斯诸神坐在成都街边吃火锅，红油锅沸腾如神火。"
+    },
+    {
+      "id": "10_ceo_monk_mountain_live_stream",
+      "batch": "prompt-collision-001",
+      "category": "contrast",
+      "number": "10",
+      "title": "顶级投行会议 × 深山寺庙直播间",
+      "image": "assets/images/10_ceo_monk_mountain_live_stream.png",
+      "description": "西装高管在深山寺庙直播带货，财报、补光灯和古钟同框。"
+    },
+    {
+      "id": "11_arctic_beach_party",
+      "batch": "prompt-collision-001",
+      "category": "contrast",
+      "number": "11",
+      "title": "北极科考站 × 三亚沙滩派对",
+      "image": "assets/images/11_arctic_beach_party.png",
+      "description": "防寒服科学家戴墨镜喝椰子，极光像舞台灯，冰层旁有热带水果摊。"
+    },
+    {
+      "id": "12_ancient_scholar_subway_rush",
+      "batch": "prompt-collision-001",
+      "category": "contrast",
+      "number": "12",
+      "title": "唐代诗人 × 早高峰地铁",
+      "image": "assets/images/12_ancient_scholar_subway_rush.png",
+      "description": "长袍诗人一手握卷轴一手抓扶手，周围通勤者低头看手机。"
+    },
+    {
+      "id": "13_elderly_square_dance_mars",
+      "batch": "prompt-collision-001",
+      "category": "contrast",
+      "number": "13",
+      "title": "广场舞阿姨 × 火星殖民地",
+      "image": "assets/images/13_elderly_square_dance_mars.png",
+      "description": "红色荒原和透明穹顶中，亮色运动服队伍在低重力里整齐舞动。"
+    },
+    {
+      "id": "14_emperor_customer_service",
+      "batch": "prompt-collision-001",
+      "category": "contrast",
+      "number": "14",
+      "title": "古代皇帝 × 互联网客服工位",
+      "image": "assets/images/14_emperor_customer_service.png",
+      "description": "龙袍、玉玺和多屏工位、耳麦、冷掉的咖啡并排出现。"
+    },
+    {
+      "id": "15_opera_diva_boxing_ring",
+      "batch": "prompt-collision-001",
+      "category": "contrast",
+      "number": "15",
+      "title": "京剧花旦 × 地下拳击赛",
+      "image": "assets/images/15_opera_diva_boxing_ring.png",
+      "description": "精致头面和水袖站在铁网拳击擂台中央，聚光灯下粗粝又华丽。"
+    }
+  ]
+}

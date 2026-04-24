@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="15 张高反差传播向 AI 海报图集，包含创意组合与对比反差两组视觉概念。">
+    <meta name="description" content="高反差传播向 AI 海报图集，按主题和 category 持续追加。">
     <meta property="og:title" content="Prompt Collision Gallery">
     <meta property="og:description" content="创意组合与对比反差的 AI 海报图集。">
     <meta property="og:image" content="assets/contact_sheet_image2.jpg">
@@ -414,13 +414,9 @@
       <div class="shell">
         <div class="brand">
           <strong>Prompt Collision Gallery</strong>
-          <span>15 张传播向 AI 海报</span>
+          <span id="site-subtitle">传播向 AI 海报</span>
         </div>
-        <nav class="tabs" aria-label="图集筛选">
-          <button class="tab" type="button" data-filter="all" aria-pressed="true">全部</button>
-          <button class="tab" type="button" data-filter="creative" aria-pressed="false">创意组合</button>
-          <button class="tab" type="button" data-filter="contrast" aria-pressed="false">对比反差</button>
-        </nav>
+        <nav class="tabs" id="tabs" aria-label="图集筛选"></nav>
       </div>
     </header>
 
@@ -430,24 +426,24 @@
           <h1 id="page-title">创意组合和对比反差的视觉实验</h1>
         </div>
         <div>
-          <p class="intro-copy">把品牌、文化、场景和时代错位放进同一张画面，追求第一眼能停住、第二眼能转发的海报感。</p>
+          <p class="intro-copy" id="intro-copy">把品牌、文化、场景和时代错位放进同一张画面，追求第一眼能停住、第二眼能转发的海报感。</p>
           <div class="stats" aria-label="图集统计">
-            <div class="stat"><b>15</b><span>张图片</span></div>
-            <div class="stat"><b>8</b><span>创意组合</span></div>
-            <div class="stat"><b>7</b><span>对比反差</span></div>
+            <div class="stat"><b id="total-count">0</b><span>张图片</span></div>
+            <div class="stat"><b id="category-count">0</b><span>个 category</span></div>
+            <div class="stat"><b id="batch-count">0</b><span>个主题批次</span></div>
           </div>
         </div>
       </section>
 
       <section class="featured" aria-label="主视觉">
-        <img src="assets/contact_sheet_image2.jpg" alt="15 张 AI 海报总览拼图">
+        <img id="cover-image" src="assets/contact_sheet_image2.jpg" alt="AI 海报总览拼图">
         <div class="featured-text">
           <div>
-            <div class="eyebrow">Image2 Collection</div>
-            <h2>高冲突画面，比单点创意更容易被记住。</h2>
-            <p>图集保留完整生成提示词，适合继续做封面、营销海报、选题测试或二次精修。</p>
+            <div class="eyebrow" id="cover-eyebrow">Image2 Collection</div>
+            <h2 id="cover-title">高冲突画面，比单点创意更容易被记住。</h2>
+            <p id="cover-copy">图集保留完整生成提示词，适合继续做封面、营销海报、选题测试或二次精修。</p>
           </div>
-          <a class="link-button" href="image_prompts.json">查看提示词 JSON</a>
+          <a class="link-button" href="assets/gallery.json">查看图集 JSON</a>
         </div>
       </section>
 
@@ -469,73 +465,78 @@
     </div>
 
     <script>
-      const items = [
-        ["creative", "01", "蓝白快饮咖啡 × 化学实验室犯罪剧", "assets/images/01_luckin_meth_lab_coffee.png", "冷色咖啡吧台被改造成透明玻璃反应釜实验室，防护服咖啡师端出发光冰拿铁。"],
-        ["creative", "02", "故宫红墙 × 限量球鞋发售", "assets/images/02_forbidden_city_sneaker_drop.png", "宫门前的未来感排队队伍，巨型宫廷纹样球鞋悬浮在金色晨光中。"],
-        ["creative", "03", "空间站 × 川味火锅外卖", "assets/images/03_space_station_hotpot_delivery.png", "宇航员在舷窗旁打开九宫格火锅，红油汤底在零重力中形成星云。"],
-        ["creative", "04", "明代锦衣卫 × 赛博电竞战队", "assets/images/04_ming_dynasty_cyber_esports.png", "飞鱼服队员坐进全息电竞舱，绣春刀变成发光机械键盘。"],
-        ["creative", "05", "景德镇瓷器 × 机器人奶茶工厂", "assets/images/05_kiln_robots_ceramic_tea.png", "机械臂用瓷釉拉花，奶茶杯像青花瓷花瓶，古窑火映着洁白机械。"],
-        ["creative", "06", "熊猫基地 × 黑色侦探电影", "assets/images/06_panda_noir_detective.png", "雨夜竹林里，拟人熊猫侦探穿风衣站在路灯下，手里拿着竹叶线索。"],
-        ["creative", "07", "兵马俑 × 机车俱乐部", "assets/images/07_terracotta_army_motorcycle_club.png", "陶俑骑士跨坐黑色巡航摩托，车灯穿透黄沙，队列像古代军阵。"],
-        ["creative", "08", "古寺禅意 × 复古街机厅", "assets/images/08_buddhist_temple_arcade.png", "木质寺庙大殿里摆满发光街机，僧人平静操作摇杆。"],
-        ["contrast", "09", "希腊诸神 × 四川火锅", "assets/images/09_greek_gods_sichuan_hotpot.png", "奥林匹斯诸神坐在成都街边吃火锅，红油锅沸腾如神火。"],
-        ["contrast", "10", "顶级投行会议 × 深山寺庙直播间", "assets/images/10_ceo_monk_mountain_live_stream.png", "西装高管在深山寺庙直播带货，财报、补光灯和古钟同框。"],
-        ["contrast", "11", "北极科考站 × 三亚沙滩派对", "assets/images/11_arctic_beach_party.png", "防寒服科学家戴墨镜喝椰子，极光像舞台灯，冰层旁有热带水果摊。"],
-        ["contrast", "12", "唐代诗人 × 早高峰地铁", "assets/images/12_ancient_scholar_subway_rush.png", "长袍诗人一手握卷轴一手抓扶手，周围通勤者低头看手机。"],
-        ["contrast", "13", "广场舞阿姨 × 火星殖民地", "assets/images/13_elderly_square_dance_mars.png", "红色荒原和透明穹顶中，亮色运动服队伍在低重力里整齐舞动。"],
-        ["contrast", "14", "古代皇帝 × 互联网客服工位", "assets/images/14_emperor_customer_service.png", "龙袍、玉玺和多屏工位、耳麦、冷掉的咖啡并排出现。"],
-        ["contrast", "15", "京剧花旦 × 地下拳击赛", "assets/images/15_opera_diva_boxing_ring.png", "精致头面和水袖站在铁网拳击擂台中央，聚光灯下粗粝又华丽。"]
-      ];
-
       const gallery = document.querySelector("#gallery");
-      const tabs = document.querySelectorAll(".tab");
+      const tabs = document.querySelector("#tabs");
       const dialog = document.querySelector("#dialog");
       const dialogTitle = document.querySelector("#dialog-title");
       const dialogImage = document.querySelector("#dialog-image");
       const closeButton = document.querySelector(".close");
+      let items = [];
+      let categoryLabels = new Map();
 
       function labelFor(type) {
-        return type === "creative" ? "创意组合" : "对比反差";
+        return categoryLabels.get(type) || type;
+      }
+
+      function renderTabs(categories) {
+        tabs.innerHTML = "";
+        const all = document.createElement("button");
+        all.className = "tab";
+        all.type = "button";
+        all.dataset.filter = "all";
+        all.setAttribute("aria-pressed", "true");
+        all.textContent = "全部";
+        tabs.appendChild(all);
+
+        categories.forEach((category) => {
+          const tab = document.createElement("button");
+          tab.className = "tab";
+          tab.type = "button";
+          tab.dataset.filter = category.id;
+          tab.setAttribute("aria-pressed", "false");
+          tab.textContent = category.label;
+          tabs.appendChild(tab);
+        });
+
+        tabs.querySelectorAll(".tab").forEach((tab) => {
+          tab.addEventListener("click", () => {
+            tabs.querySelectorAll(".tab").forEach((item) => item.setAttribute("aria-pressed", "false"));
+            tab.setAttribute("aria-pressed", "true");
+            render(tab.dataset.filter);
+          });
+        });
       }
 
       function render(filter = "all") {
         gallery.innerHTML = "";
         items
-          .filter(([type]) => filter === "all" || filter === type)
-          .forEach(([type, number, title, image, copy]) => {
+          .filter((item) => filter === "all" || item.category === filter)
+          .forEach((item) => {
             const card = document.createElement("article");
             card.className = "card";
             card.innerHTML = `
-              <button class="thumb-button" type="button" aria-label="放大预览 ${title}">
-                <img class="thumb" src="${image}" alt="${title}" loading="lazy">
+              <button class="thumb-button" type="button" aria-label="放大预览 ${item.title}">
+                <img class="thumb" src="${item.image}" alt="${item.title}" loading="lazy">
               </button>
               <div class="card-body">
-                <div class="meta"><span>${number}</span><span class="tag ${type}">${labelFor(type)}</span></div>
-                <h3>${title}</h3>
-                <p>${copy}</p>
+                <div class="meta"><span>${item.number}</span><span class="tag ${item.category}">${labelFor(item.category)}</span></div>
+                <h3>${item.title}</h3>
+                <p>${item.description || ""}</p>
                 <div class="card-actions">
-                  <a class="link-button" href="${image}">打开原图</a>
+                  <a class="link-button" href="${item.image}">打开原图</a>
                 </div>
               </div>
             `;
             card.querySelector(".thumb-button").addEventListener("click", () => {
-              dialogTitle.textContent = title;
-              dialogImage.src = image;
-              dialogImage.alt = title;
+              dialogTitle.textContent = item.title;
+              dialogImage.src = item.image;
+              dialogImage.alt = item.title;
               dialog.classList.add("open");
               closeButton.focus();
             });
             gallery.appendChild(card);
           });
       }
-
-      tabs.forEach((tab) => {
-        tab.addEventListener("click", () => {
-          tabs.forEach((item) => item.setAttribute("aria-pressed", "false"));
-          tab.setAttribute("aria-pressed", "true");
-          render(tab.dataset.filter);
-        });
-      });
 
       function closeDialog() {
         dialog.classList.remove("open");
@@ -550,7 +551,32 @@
         if (event.key === "Escape") closeDialog();
       });
 
-      render();
+      async function init() {
+        const response = await fetch("assets/gallery.json");
+        const data = await response.json();
+        items = data.items || [];
+        categoryLabels = new Map((data.categories || []).map((category) => [category.id, category.label]));
+
+        document.querySelector(".brand strong").textContent = data.site?.title || "Prompt Collision Gallery";
+        document.querySelector("#site-subtitle").textContent = data.site?.subtitle || `${items.length} 张传播向 AI 海报`;
+        document.querySelector("#page-title").textContent = data.site?.headline || "视觉实验";
+        document.querySelector("#intro-copy").textContent = data.site?.intro || "";
+        document.querySelector("#total-count").textContent = items.length;
+        document.querySelector("#category-count").textContent = data.categories?.length || 0;
+        document.querySelector("#batch-count").textContent = data.batches?.length || 0;
+        document.querySelector("#cover-image").src = data.site?.coverImage || "assets/contact_sheet_image2.jpg";
+        document.querySelector("#cover-image").alt = data.site?.coverAlt || "AI 海报总览拼图";
+        document.querySelector("#cover-eyebrow").textContent = data.site?.coverEyebrow || "Image2 Collection";
+        document.querySelector("#cover-title").textContent = data.site?.coverTitle || "";
+        document.querySelector("#cover-copy").textContent = data.site?.coverCopy || "";
+
+        renderTabs(data.categories || []);
+        render();
+      }
+
+      init().catch((error) => {
+        gallery.innerHTML = `<p>图集数据加载失败：${error.message}</p>`;
+      });
     </script>
   </body>
 </html>
