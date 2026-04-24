@@ -1,0 +1,127 @@
+{
+  "theme": "世界模拟器",
+  "batchId": "world-simulator-001",
+  "createdAt": "2026-04-24",
+  "items": [
+    {
+      "source": "ig_0bde75fe7bd082f90169eb05431a548190bd15d70b0dd57db3.png",
+      "category": "world-simulator",
+      "categoryLabel": "世界模拟器",
+      "title": "武松黑神话游戏界面",
+      "description": "武松作为暗黑中式神话动作 RPG 的可操作主角，站在雾气山道的 Boss 战场景里。",
+      "prompt": "World simulator concept art, a dark Chinese myth action RPG game interface where the playable hero is Wu Song from Water Margin, tiger-slayer warrior in rough Song dynasty clothes holding a staff, standing in a misty mountain pass boss arena, cinematic in-game HUD elements, health bars, inventory icons, quest markers, dramatic lighting, high fidelity AAA game screenshot style, 16:9 horizontal, no real game logos, no readable text"
+    },
+    {
+      "source": "ig_0bde75fe7bd082f90169eb06906ab48190ae82f703654cf994.png",
+      "category": "world-simulator",
+      "categoryLabel": "世界模拟器",
+      "title": "武松虎妖 Boss 战",
+      "description": "武松站在巨型虎妖之后的战斗界面中，背后是抽象血条、背包和任务标记。",
+      "prompt": "World simulator category, cinematic game UI screenshot: Wu Song from Water Margin as the playable hero in a dark Chinese myth action RPG interface, standing in a misty mountain pass boss arena after fighting a giant spectral tiger, rough Song dynasty clothes, wooden staff, dramatic health bars and inventory icons as abstract UI shapes, high fidelity AAA game screenshot style, 16:9 horizontal, no real game logos, no readable text"
+    },
+    {
+      "source": "ig_0bde75fe7bd082f90169eb06d46cbc8190a1c028528dad9906.png",
+      "category": "world-simulator",
+      "categoryLabel": "世界模拟器",
+      "title": "秦始皇的社交媒体账号",
+      "description": "秦始皇出现在虚构现代社交媒体主页里，青铜与玉石风格的账号界面旁有兵马俑粉丝头像。",
+      "prompt": "World simulator category, alternate reality social media profile screenshot: Qin Shi Huang as a verified ancient emperor account inside a fictional modern microblogging app, bronze-and-jade profile header, terracotta army follower avatars, imperial decrees displayed as abstract blurred post cards, phone UI floating over a dark palace desk, satirical realistic product shot, 16:9 horizontal, no real platform logo, no readable text"
+    },
+    {
+      "source": "ig_0bde75fe7bd082f90169eb0b8c750c8190864c751fbe05cbf5.png",
+      "category": "world-simulator",
+      "categoryLabel": "世界模拟器",
+      "title": "真实世界的小学生数学试卷",
+      "description": "普通教室课桌上的小学数学试卷，被半透明模拟器界面标注出算式、得分和纠错路径。",
+      "prompt": "World simulator category, hyperreal still life of a real elementary school math exam in an alternate reality simulation: a Chinese primary school student's desk, pencil, eraser, red correction marks, grid paper, simple arithmetic diagrams rendered as floating translucent simulator overlays, ordinary classroom daylight, documentary realism mixed with interface visualization, 16:9 horizontal, no readable text"
+    },
+    {
+      "source": "ig_0bde75fe7bd082f90169eb0dac8c2c8190989b79729f408030.png",
+      "category": "world-simulator",
+      "categoryLabel": "世界模拟器",
+      "title": "李白的午夜外卖骑手地图",
+      "description": "李白穿唐代长袍骑电动车穿过霓虹雨夜，地图路线和订单卡片浮在城市上方。",
+      "prompt": "World simulator category, fictional logistics app interface where Li Bai is a midnight food delivery rider in Tang dynasty robes, riding a sleek electric scooter through neon rain, poetry scrolls as delivery receipts, map pins and route lines as abstract UI overlays, ancient moonlit city blended with modern courier culture, cinematic 16:9 horizontal, no real app logos, no readable text"
+    },
+    {
+      "source": "ig_0bde75fe7bd082f90169eb0e4bf27c819092c87ae214b2b9c4.png",
+      "category": "world-simulator",
+      "categoryLabel": "世界模拟器",
+      "title": "诸葛亮的云服务器监控室",
+      "description": "诸葛亮站在冷光数据中心里，用羽扇调度发光节点图和战术地图。",
+      "prompt": "World simulator category, Zhuge Liang operating a futuristic cloud server observability room, feather fan in hand, tactical war maps fused with Kubernetes-style node graphs and glowing incident dashboards, ancient strategist robe under cold data-center light, racks of servers receding into mist, premium cinematic interface screenshot, 16:9 horizontal, no real product logos, no readable text"
+    },
+    {
+      "source": "ig_0bde75fe7bd082f90169eb0e9666788190bc9a219dd083cbb6.png",
+      "category": "world-simulator",
+      "categoryLabel": "世界模拟器",
+      "title": "唐僧的寺庙直播中控台",
+      "description": "唐僧在寺庙里管理直播电商后台，香烟、念珠、补光灯和数据面板同框。",
+      "prompt": "World simulator category, Tang monk running a calm livestream ecommerce control room in a monastery, Buddhist prayer beads beside ring lights, product cards as abstract panels, pilgrims and moderators on multiple screens, incense smoke mixing with modern analytics dashboards, serene and absurd, cinematic 16:9 horizontal, no real platform logos, no readable text"
+    },
+    {
+      "source": "ig_0bde75fe7bd082f90169eb0f2932c481908e9c1e0030c1b49f.png",
+      "category": "world-simulator",
+      "categoryLabel": "世界模拟器",
+      "title": "兵马俑的地铁通勤监控",
+      "description": "兵马俑像现代通勤者一样穿过地铁闸机，画面来自城市监控系统视角。",
+      "prompt": "World simulator category, terracotta warriors commuting through a modern subway station seen through a city surveillance camera interface, clay armor, metro turnstiles, blue CCTV overlays, passenger flow heatmap, ancient military formation behaving like morning commuters, realistic urban documentary shot, 16:9 horizontal, no readable text, no real transit logo"
+    },
+    {
+      "source": "ig_0bde75fe7bd082f90169eb10bfe464819090811761f1560af0.png",
+      "category": "world-simulator",
+      "categoryLabel": "世界模拟器",
+      "title": "花木兰的现代招聘系统",
+      "description": "花木兰作为传奇候选人进入现代招聘系统，战功和技能雷达图漂浮在面试室中。",
+      "prompt": "World simulator category, Mulan inside a modern recruiting ATS dashboard as a legendary candidate, armor and office blazer hybrid, resume cards and skill radar charts floating around her, split screen of battlefield achievements and corporate interview room, clean SaaS interface aesthetics mixed with heroic Chinese historical drama, 16:9 horizontal, no real company logos, no readable text"
+    },
+    {
+      "source": "ig_0bde75fe7bd082f90169eb111069b4819088c69e9ea0a418e7.png",
+      "category": "world-simulator",
+      "categoryLabel": "世界模拟器",
+      "title": "孔子的 AI 学习仪表盘",
+      "description": "孔子在现代教室里授课，竹简、平板和学习分析面板共同组成教育模拟器。",
+      "prompt": "World simulator category, Confucius teaching in a modern public classroom controlled by an AI learning dashboard, students with tablets, bamboo slips on the teacher desk, floating learning analytics, attendance heatmap, chalk dust and holographic lesson modules, warm documentary realism with subtle interface overlays, 16:9 horizontal, no readable text, no real school logos"
+    },
+    {
+      "source": "ig_0bde75fe7bd082f90169eb116209ac8190a0e7e563fd54b16f.png",
+      "category": "world-simulator",
+      "categoryLabel": "世界模拟器",
+      "title": "武则天的创业董事会",
+      "description": "武则天以现代创业者身份坐在董事会中，宫廷权力结构被转换成增长和股权面板。",
+      "prompt": "World simulator category, Empress Wu Zetian as a modern startup founder in a boardroom, imperial robes blended with minimalist CEO attire, cap table and growth dashboards projected as abstract charts, investors seated like court officials, gold palace motifs inside glass office architecture, sharp editorial tech magazine cover style, 16:9 horizontal, no readable text, no real logos"
+    },
+    {
+      "source": "ig_0bde75fe7bd082f90169eb120aad548190a5816a3f937a1d00.png",
+      "category": "world-simulator",
+      "categoryLabel": "世界模拟器",
+      "title": "哪吒的智慧交通指挥台",
+      "description": "哪吒作为未来交通警察站在城市路口模拟器前，风火轮和无人机同时进入调度系统。",
+      "prompt": "World simulator category, Nezha as a futuristic traffic police officer inside a city command dashboard, fire wheels hovering beside a smart intersection, dashcam feeds, red-blue warning lights, drones and scooters frozen in a traffic simulation, mythological child-warrior energy with municipal realism, 16:9 horizontal, no readable text, no real logos"
+    },
+    {
+      "source": "ig_0bde75fe7bd082f90169eb125c175c819089d0984df4a8757e.png",
+      "category": "world-simulator",
+      "categoryLabel": "世界模拟器",
+      "title": "秦朝税务电子表格",
+      "description": "秦朝官吏在现代发光电子表格中录入粮食、徭役和土地数据。",
+      "prompt": "World simulator category, Qin dynasty tax office transformed into a modern spreadsheet simulation, stern officials in black robes entering grain, labor, and land records into huge glowing table grids, bamboo slips stacked beside laptops, abacus next to data validation panels, bureaucratic realism with absurd time collision, 16:9 horizontal, no readable text, no real software logos"
+    },
+    {
+      "source": "ig_0bde75fe7bd082f90169eb12b38c248190bc27af8d68ccc8b9.png",
+      "category": "world-simulator",
+      "categoryLabel": "世界模拟器",
+      "title": "西游记开放世界任务界面",
+      "description": "取经四人站在沙漠道路上，开放世界地图、任务点和队伍状态面板覆盖整张画面。",
+      "prompt": "World simulator category, Journey to the West as a modern open-world quest selection screen, four travelers seen on a desert road with a giant map overlay, quest markers, inventory slots and companion status panels rendered as abstract shapes, mythological monsters in the distance, sunset dust, AAA adventure game interface, 16:9 horizontal, no readable text, no real logos"
+    },
+    {
+      "source": "ig_0bde75fe7bd082f90169eb130e698c8190a532ba36e40f6deb.png",
+      "category": "world-simulator",
+      "categoryLabel": "世界模拟器",
+      "title": "居委会王朝模拟器",
+      "description": "真实居委会办公室变成王朝治理后台，人口幸福度、粮食储备和天气风险漂浮在塑料椅之间。",
+      "prompt": "World simulator category, a realistic neighborhood committee office running a dynasty simulator dashboard, elderly volunteers and ancient ministers reviewing population happiness, grain reserves, school enrollment and weather risk as floating abstract panels, plastic chairs, thermos bottles, wooden seals, mundane Chinese civic realism mixed with grand strategy game UI, 16:9 horizontal, no readable text"
+    }
+  ]
+}
