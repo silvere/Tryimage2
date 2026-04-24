@@ -5,120 +5,120 @@
   "items": [
     {
       "source": "ig_03c186e8aff9b9d40169eb2948e9d88197a3d3bb3f72345766.png",
-      "category": "ai-brand-vi",
-      "categoryLabel": "AI行业知名公司VI",
+      "category": "brand-vi-mockup",
+      "categoryLabel": "品牌VI Mockup",
       "title": "OpenAI VI 概念 Mockup",
       "description": "OpenAI 的非官方视觉识别系统延展，以研究感、生成式网格和黑白科技物料构成完整品牌展示。",
       "prompt": "OpenAI full visual identity system concept mockup, unofficial brand extension, not an exact logo reproduction, 45-degree overhead studio photography, complete stationery, model cards, badges, brand manual, UI screen, black warm-white cyan palette, realistic paper, foil, UV and glass textures, 16:9."
     },
     {
       "source": "ig_03c186e8aff9b9d40169eb29d2bd3881979e418ac8e3db9d27.png",
-      "category": "ai-brand-vi",
-      "categoryLabel": "AI行业知名公司VI",
+      "category": "brand-vi-mockup",
+      "categoryLabel": "品牌VI Mockup",
       "title": "Anthropic VI 概念 Mockup",
       "description": "Anthropic 的非官方 VI 延展，用暖灰、人文科技字标、模型安全卡和研究手册呈现可信赖的学术气质。",
       "prompt": "Anthropic full visual identity system concept mockup, unofficial brand extension, calm research desk, business cards, safety evaluation cards, brand guideline book, tablet dashboard, warm gray black terracotta palette, realistic uncoated paper, debossing and fabric textures, 16:9."
     },
     {
       "source": "ig_03c186e8aff9b9d40169eb2a82b8e481978fe9587dff4132c2.png",
-      "category": "ai-brand-vi",
-      "categoryLabel": "AI行业知名公司VI",
+      "category": "brand-vi-mockup",
+      "categoryLabel": "品牌VI Mockup",
       "title": "Google DeepMind VI 概念 Mockup",
       "description": "Google DeepMind 的非官方 VI 延展，将棋盘、蛋白质折叠曲线和研究报告物料组织成明亮实验室场景。",
       "prompt": "Google DeepMind full visual identity system concept mockup, unofficial brand extension, laboratory tabletop, research reports, model evaluation cards, colorful data nodes, molecule visualization, brand guideline manual, acrylic and paper materials, bright clean photography, 16:9."
     },
     {
       "source": "ig_03c186e8aff9b9d40169eb2b21bdd08197afc5372a27d40488.png",
-      "category": "ai-brand-vi",
-      "categoryLabel": "AI行业知名公司VI",
+      "category": "brand-vi-mockup",
+      "categoryLabel": "品牌VI Mockup",
       "title": "Midjourney VI 概念 Mockup",
       "description": "Midjourney 的非官方 VI 延展，以影像工作室、提示词卡、艺术手册和午夜蓝视觉系统呈现生成影像品牌感。",
       "prompt": "Midjourney full visual identity system concept mockup, unofficial brand extension, art studio table, prompt cards, invitation, image grid, brand book, parchment and midnight blue palette, film, tracing paper, silver foil, realistic printing textures, 16:9."
     },
     {
       "source": "ig_03c186e8aff9b9d40169eb2b60b0388197a7a8337e4edbd52e.png",
-      "category": "ai-brand-vi",
-      "categoryLabel": "AI行业知名公司VI",
+      "category": "brand-vi-mockup",
+      "categoryLabel": "品牌VI Mockup",
       "title": "Hugging Face VI 概念 Mockup",
       "description": "Hugging Face 的非官方 VI 延展，把开源模型卡、贴纸、徽章和社区物料组合成温暖友好的品牌系统。",
       "prompt": "Hugging Face full visual identity system concept mockup, unofficial brand extension, community workshop table, developer cards, open-source model cards, stickers, badges, canvas bag, yellow purple coral palette, friendly rounded graphic system, realistic materials, 16:9."
     },
     {
       "source": "ig_03c186e8aff9b9d40169eb2cd5a9e48197915c7f900aba63be.png",
-      "category": "china-brand-vi",
-      "categoryLabel": "国内知名公司/品牌VI",
+      "category": "brand-vi-mockup",
+      "categoryLabel": "品牌VI Mockup",
       "title": "DJI 大疆 VI 概念 Mockup",
       "description": "DJI 大疆的非官方 VI 延展，以无人机旋翼、航拍取景框、飞行路径和装备物料构成硬朗科技系统。",
       "prompt": "DJI full visual identity system concept mockup, unofficial brand extension, drone equipment tabletop, pilot cards, warranty card, propellers, controller skin, flight map UI, brand manual, black white signal red palette, carbon fiber and matte paper textures, 16:9."
     },
     {
       "source": "ig_03c186e8aff9b9d40169eb2d3a9ea88197a9041e0efdf5eb99.png",
-      "category": "china-brand-vi",
-      "categoryLabel": "国内知名公司/品牌VI",
+      "category": "brand-vi-mockup",
+      "categoryLabel": "品牌VI Mockup",
       "title": "李宁 LI-NING VI 概念 Mockup",
       "description": "李宁的非官方 VI 延展，以跑道弧线、鞋底纹理、吊牌、鞋盒和运动社群界面呈现国潮运动感。",
       "prompt": "LI-NING full visual identity system concept mockup, unofficial brand extension, sports sample table, shoe box, hang tags, membership card, sneaker detail, brand guide, Chinese red black off-white palette, rubber, fabric label and foil textures, 16:9."
     },
     {
       "source": "ig_03c186e8aff9b9d40169eb2dc923a481978680290902191dba.png",
-      "category": "china-brand-vi",
-      "categoryLabel": "国内知名公司/品牌VI",
+      "category": "brand-vi-mockup",
+      "categoryLabel": "品牌VI Mockup",
       "title": "蔚来 NIO VI 概念 Mockup",
       "description": "蔚来的非官方 VI 延展，用智能座舱、钥匙卡、充电卡和高端展厅物料表达安静的电动车科技感。",
       "prompt": "NIO full visual identity system concept mockup, unofficial brand extension, premium EV showroom desk, owner welcome card, key card, charging card, service manual, cockpit UI, horizon energy graphic system, navy white cyan silver palette, leather metal glass textures, 16:9."
     },
     {
       "source": "ig_03c186e8aff9b9d40169eb2e0f064c819792bd3240841631f6.png",
-      "category": "china-brand-vi",
-      "categoryLabel": "国内知名公司/品牌VI",
+      "category": "brand-vi-mockup",
+      "categoryLabel": "品牌VI Mockup",
       "title": "泡泡玛特 POP MART VI 概念 Mockup",
       "description": "泡泡玛特的非官方 VI 延展，以盲盒、收藏卡、亚克力牌和原创抽象玩偶构建潮玩零售系统。",
       "prompt": "POP MART full visual identity system concept mockup, unofficial brand extension, no specific copyrighted characters, blind box packaging, collector cards, stickers, acrylic display, playful toy silhouettes, candy pink mint yellow palette, glossy paper and vinyl textures, 16:9."
     },
     {
       "source": "ig_03c186e8aff9b9d40169eb2e725fc481978c2602922230be30.png",
-      "category": "china-brand-vi",
-      "categoryLabel": "国内知名公司/品牌VI",
+      "category": "brand-vi-mockup",
+      "categoryLabel": "品牌VI Mockup",
       "title": "瑞幸咖啡 VI 概念 Mockup",
       "description": "瑞幸咖啡的非官方 VI 延展，以蓝白快饮系统、杯套、纸袋、菜单卡和移动点单界面呈现高频消费场景。",
       "prompt": "Luckin Coffee full visual identity system concept mockup, unofficial brand extension, coffee bar tabletop, takeaway cup, sleeve, paper bag, membership card, menu, order app UI, blue white coffee brown palette, realistic coated cup, kraft paper and sticker textures, 16:9."
     },
     {
       "source": "ig_03c186e8aff9b9d40169eb2c34dcbc8197b935b79216cc2ee7.png",
-      "category": "global-brand-vi",
-      "categoryLabel": "全球知名公司/品牌VI",
+      "category": "brand-vi-mockup",
+      "categoryLabel": "品牌VI Mockup",
       "title": "NVIDIA VI 概念 Mockup",
       "description": "NVIDIA 的非官方 VI 延展，把 GPU 核心、散热片、开发者物料和数据中心界面组织成硬核科技品牌系统。",
       "prompt": "NVIDIA full visual identity system concept mockup, unofficial brand extension, black anodized aluminum table, developer cards, chip sample card, product spec booklet, GPU visualization, green black silver palette, metal, PCB, anti-static bag and UV print textures, 16:9."
     },
     {
       "source": "ig_03c186e8aff9b9d40169eb307d448c81978079d12445e03488.png",
-      "category": "global-brand-vi",
-      "categoryLabel": "全球知名公司/品牌VI",
+      "category": "brand-vi-mockup",
+      "categoryLabel": "品牌VI Mockup",
       "title": "Leica 徕卡 VI 概念 Mockup",
       "description": "Leica 的非官方 VI 延展，以红点、测距框线、胶片邀请函和镜头物料呈现经典摄影品牌的精密感。",
       "prompt": "Leica full visual identity system concept mockup, unofficial brand extension, dark photography studio table, camera box, warranty card, lens cloth, film invitation, brand guide, red black warm white silver palette, leather, metal, glass and foil textures, 16:9."
     },
     {
       "source": "ig_03c186e8aff9b9d40169eb30ffcc8081979d86bf11aac2b5d2.png",
-      "category": "global-brand-vi",
-      "categoryLabel": "全球知名公司/品牌VI",
+      "category": "brand-vi-mockup",
+      "categoryLabel": "品牌VI Mockup",
       "title": "Nintendo 任天堂 VI 概念 Mockup",
       "description": "Nintendo 的非官方 VI 延展，不使用具体角色，以按钮、卡带、圆角胶囊和游戏包装系统呈现明快趣味。",
       "prompt": "Nintendo full visual identity system concept mockup, unofficial brand extension, no specific game characters, game product table, cartridge packaging, controller skin, stickers, brand guide, red white cyan yellow palette, glossy paper, plastic and silicone textures, 16:9."
     },
     {
       "source": "ig_03c186e8aff9b9d40169eb3162dbc48197b3abc4f32c5f9a55.png",
-      "category": "global-brand-vi",
-      "categoryLabel": "全球知名公司/品牌VI",
+      "category": "brand-vi-mockup",
+      "categoryLabel": "品牌VI Mockup",
       "title": "IKEA 宜家 VI 概念 Mockup",
       "description": "IKEA 的非官方 VI 延展，以家具装配、纸尺、价签、说明书和房间规划界面构成实用北欧秩序。",
       "prompt": "IKEA full visual identity system concept mockup, unofficial brand extension, light wood assembly table, product tags, paper ruler, instruction manual, flat pack box, room planner UI, blue yellow wood white palette, cardboard, wood, fabric and plastic textures, 16:9."
     },
     {
       "source": "ig_03c186e8aff9b9d40169eb3204ee6081979a441b44a8dd053b.png",
-      "category": "global-brand-vi",
-      "categoryLabel": "全球知名公司/品牌VI",
+      "category": "brand-vi-mockup",
+      "categoryLabel": "品牌VI Mockup",
       "title": "Patagonia VI 概念 Mockup",
       "description": "Patagonia 的非官方 VI 延展，以山脊线、维修补丁、再生纸包装和户外装备表达环保户外精神。",
       "prompt": "Patagonia full visual identity system concept mockup, unofficial brand extension, outdoor gear wooden table, clothing tags, recycled paper packaging, repair patches, stickers, field guide, mountain ridge graphic system, navy moss green sunset orange palette, fabric, paper and metal textures, 16:9."

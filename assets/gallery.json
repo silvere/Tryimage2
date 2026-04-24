@@ -36,16 +36,8 @@
       "label": "事务原理"
     },
     {
-      "id": "ai-brand-vi",
-      "label": "AI行业知名公司VI"
-    },
-    {
-      "id": "china-brand-vi",
-      "label": "国内知名公司/品牌VI"
-    },
-    {
-      "id": "global-brand-vi",
-      "label": "全球知名公司/品牌VI"
+      "id": "brand-vi-mockup",
+      "label": "品牌VI Mockup"
     }
   ],
   "batches": [
@@ -729,7 +721,7 @@
     {
       "id": "famous-brand-vi-mockups-001_01_openai-vi-概念-mockup",
       "batch": "famous-brand-vi-mockups-001",
-      "category": "ai-brand-vi",
+      "category": "brand-vi-mockup",
       "number": "01",
       "title": "OpenAI VI 概念 Mockup",
       "image": "assets/images/famous-brand-vi-mockups-001/01_openai-vi-概念-mockup.png",
@@ -740,7 +732,7 @@
     {
       "id": "famous-brand-vi-mockups-001_02_anthropic-vi-概念-mockup",
       "batch": "famous-brand-vi-mockups-001",
-      "category": "ai-brand-vi",
+      "category": "brand-vi-mockup",
       "number": "02",
       "title": "Anthropic VI 概念 Mockup",
       "image": "assets/images/famous-brand-vi-mockups-001/02_anthropic-vi-概念-mockup.png",
@@ -751,7 +743,7 @@
     {
       "id": "famous-brand-vi-mockups-001_03_google-deepmind-vi-概念-mockup",
       "batch": "famous-brand-vi-mockups-001",
-      "category": "ai-brand-vi",
+      "category": "brand-vi-mockup",
       "number": "03",
       "title": "Google DeepMind VI 概念 Mockup",
       "image": "assets/images/famous-brand-vi-mockups-001/03_google-deepmind-vi-概念-mockup.png",
@@ -762,7 +754,7 @@
     {
       "id": "famous-brand-vi-mockups-001_04_midjourney-vi-概念-mockup",
       "batch": "famous-brand-vi-mockups-001",
-      "category": "ai-brand-vi",
+      "category": "brand-vi-mockup",
       "number": "04",
       "title": "Midjourney VI 概念 Mockup",
       "image": "assets/images/famous-brand-vi-mockups-001/04_midjourney-vi-概念-mockup.png",
@@ -773,7 +765,7 @@
     {
       "id": "famous-brand-vi-mockups-001_05_hugging-face-vi-概念-mockup",
       "batch": "famous-brand-vi-mockups-001",
-      "category": "ai-brand-vi",
+      "category": "brand-vi-mockup",
       "number": "05",
       "title": "Hugging Face VI 概念 Mockup",
       "image": "assets/images/famous-brand-vi-mockups-001/05_hugging-face-vi-概念-mockup.png",
@@ -784,7 +776,7 @@
     {
       "id": "famous-brand-vi-mockups-001_06_dji-大疆-vi-概念-mockup",
       "batch": "famous-brand-vi-mockups-001",
-      "category": "china-brand-vi",
+      "category": "brand-vi-mockup",
       "number": "06",
       "title": "DJI 大疆 VI 概念 Mockup",
       "image": "assets/images/famous-brand-vi-mockups-001/06_dji-大疆-vi-概念-mockup.png",
@@ -795,7 +787,7 @@
     {
       "id": "famous-brand-vi-mockups-001_07_李宁-li-ning-vi-概念-mockup",
       "batch": "famous-brand-vi-mockups-001",
-      "category": "china-brand-vi",
+      "category": "brand-vi-mockup",
       "number": "07",
       "title": "李宁 LI-NING VI 概念 Mockup",
       "image": "assets/images/famous-brand-vi-mockups-001/07_李宁-li-ning-vi-概念-mockup.png",
@@ -806,7 +798,7 @@
     {
       "id": "famous-brand-vi-mockups-001_08_蔚来-nio-vi-概念-mockup",
       "batch": "famous-brand-vi-mockups-001",
-      "category": "china-brand-vi",
+      "category": "brand-vi-mockup",
       "number": "08",
       "title": "蔚来 NIO VI 概念 Mockup",
       "image": "assets/images/famous-brand-vi-mockups-001/08_蔚来-nio-vi-概念-mockup.png",
@@ -817,7 +809,7 @@
     {
       "id": "famous-brand-vi-mockups-001_09_泡泡玛特-pop-mart-vi-概念-mockup",
       "batch": "famous-brand-vi-mockups-001",
-      "category": "china-brand-vi",
+      "category": "brand-vi-mockup",
       "number": "09",
       "title": "泡泡玛特 POP MART VI 概念 Mockup",
       "image": "assets/images/famous-brand-vi-mockups-001/09_泡泡玛特-pop-mart-vi-概念-mockup.png",
@@ -828,7 +820,7 @@
     {
       "id": "famous-brand-vi-mockups-001_10_瑞幸咖啡-vi-概念-mockup",
       "batch": "famous-brand-vi-mockups-001",
-      "category": "china-brand-vi",
+      "category": "brand-vi-mockup",
       "number": "10",
       "title": "瑞幸咖啡 VI 概念 Mockup",
       "image": "assets/images/famous-brand-vi-mockups-001/10_瑞幸咖啡-vi-概念-mockup.png",
@@ -839,7 +831,7 @@
     {
       "id": "famous-brand-vi-mockups-001_11_nvidia-vi-概念-mockup",
       "batch": "famous-brand-vi-mockups-001",
-      "category": "global-brand-vi",
+      "category": "brand-vi-mockup",
       "number": "11",
       "title": "NVIDIA VI 概念 Mockup",
       "image": "assets/images/famous-brand-vi-mockups-001/11_nvidia-vi-概念-mockup.png",
@@ -850,7 +842,7 @@
     {
       "id": "famous-brand-vi-mockups-001_12_leica-徕卡-vi-概念-mockup",
       "batch": "famous-brand-vi-mockups-001",
-      "category": "global-brand-vi",
+      "category": "brand-vi-mockup",
       "number": "12",
       "title": "Leica 徕卡 VI 概念 Mockup",
       "image": "assets/images/famous-brand-vi-mockups-001/12_leica-徕卡-vi-概念-mockup.png",
@@ -861,7 +853,7 @@
     {
       "id": "famous-brand-vi-mockups-001_13_nintendo-任天堂-vi-概念-mockup",
       "batch": "famous-brand-vi-mockups-001",
-      "category": "global-brand-vi",
+      "category": "brand-vi-mockup",
       "number": "13",
       "title": "Nintendo 任天堂 VI 概念 Mockup",
       "image": "assets/images/famous-brand-vi-mockups-001/13_nintendo-任天堂-vi-概念-mockup.png",
@@ -872,7 +864,7 @@
     {
       "id": "famous-brand-vi-mockups-001_14_ikea-宜家-vi-概念-mockup",
       "batch": "famous-brand-vi-mockups-001",
-      "category": "global-brand-vi",
+      "category": "brand-vi-mockup",
       "number": "14",
       "title": "IKEA 宜家 VI 概念 Mockup",
       "image": "assets/images/famous-brand-vi-mockups-001/14_ikea-宜家-vi-概念-mockup.png",
@@ -883,7 +875,7 @@
     {
       "id": "famous-brand-vi-mockups-001_15_patagonia-vi-概念-mockup",
       "batch": "famous-brand-vi-mockups-001",
-      "category": "global-brand-vi",
+      "category": "brand-vi-mockup",
       "number": "15",
       "title": "Patagonia VI 概念 Mockup",
       "image": "assets/images/famous-brand-vi-mockups-001/15_patagonia-vi-概念-mockup.png",
