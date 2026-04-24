@@ -1,0 +1,107 @@
+[
+  {
+    "id": "01_luckin_meth_lab_coffee",
+    "category": "creative_combination",
+    "title": "蓝白快饮咖啡 × 化学实验室犯罪剧",
+    "prompt_zh": "蓝白色连锁咖啡店风格与硬核化学实验室犯罪剧气质结合：一个冷色咖啡吧台被改造成透明玻璃反应釜实验室，咖啡液像蓝色晶体一样在烧杯里发光，防护服咖啡师端出冰拿铁，霓虹灯、烟雾、冷峻电影海报质感。不要真实商标，不要可读文字。",
+    "prompt_en": "A fictional blue-and-white fast coffee chain fused with a gritty chemistry crime drama: an urban coffee bar transformed into a glass reactor lab, espresso glowing like electric blue crystals inside beakers, a barista in a clean hazmat suit presenting an iced latte, neon haze, stainless steel, cinematic poster composition, high contrast, viral advertising image, no real logos, no readable text, no celebrity likeness"
+  },
+  {
+    "id": "02_forbidden_city_sneaker_drop",
+    "category": "creative_combination",
+    "title": "故宫红墙 × 限量球鞋发售",
+    "prompt_zh": "紫禁城红墙金瓦与潮流球鞋发售现场结合：宫门前不是游客而是一条未来感排队队伍，巨型宫廷纹样球鞋悬浮在金色晨光中，红墙投下夸张阴影，传统纹样与街头潮流撞击，奢华发布会海报。不要真实商标，不要可读文字。",
+    "prompt_en": "The Forbidden City red walls and golden roofs fused with a limited-edition sneaker drop: a futuristic queue outside an imperial gate, a giant ornate sneaker floating in warm golden morning light, dragon-cloud patterns embossed on the shoe, red walls casting dramatic shadows, streetwear energy meets imperial ceremony, luxury launch poster, no real logos, no readable text"
+  },
+  {
+    "id": "03_space_station_hotpot_delivery",
+    "category": "creative_combination",
+    "title": "空间站 × 川味火锅外卖",
+    "prompt_zh": "中国空间站与川味火锅外卖结合：宇航员在舷窗旁打开漂浮的九宫格火锅，辣椒、花椒、毛肚、牛油汤底在零重力中形成红色星云，地球在窗外发光，科幻又烟火气。不要真实商标，不要可读文字。",
+    "prompt_en": "A space station fused with Sichuan hotpot delivery: astronauts opening a floating nine-grid hotpot beside a spacecraft window, chili peppers, Sichuan peppercorns, tripe slices, and red butter broth forming a zero-gravity crimson nebula, Earth glowing outside the porthole, sci-fi realism with warm street-food energy, cinematic advertising poster, no logos, no readable text"
+  },
+  {
+    "id": "04_ming_dynasty_cyber_esports",
+    "category": "creative_combination",
+    "title": "明代锦衣卫 × 赛博电竞战队",
+    "prompt_zh": "明代锦衣卫与赛博电竞战队结合：身穿飞鱼服的队员坐在全息电竞舱里，绣春刀变成发光机械键盘，宫廷蓝金纹样与霓虹赛场灯融合，肃杀又热血，战队宣传海报感。不要真实商标，不要可读文字。",
+    "prompt_en": "Ming dynasty imperial guards fused with a cyberpunk esports team: warriors in ornate flying-fish robes seated in holographic gaming pods, embroidered swords transformed into glowing mechanical keyboards, royal blue and gold textile patterns merging with neon arena lights, disciplined, intense, heroic team poster, ultra-detailed, no logos, no readable text"
+  },
+  {
+    "id": "05_kiln_robots_ceramic_tea",
+    "category": "creative_combination",
+    "title": "景德镇瓷器 × 机器人奶茶工厂",
+    "prompt_zh": "景德镇青花瓷与机器人奶茶工厂结合：机械臂用瓷釉拉花，杯身像青花瓷花瓶，珍珠奶茶在透明管道里流动，古窑火焰映着洁白机械，传统手作与自动化生产同框。不要真实商标，不要可读文字。",
+    "prompt_en": "Jingdezhen blue-and-white porcelain fused with a robotic bubble-tea factory: polished robotic arms painting porcelain-glaze latte art, milk tea cups shaped like delicate porcelain vases, tapioca pearls traveling through transparent tubes, ancient kiln fire reflecting on clean white machinery, craft tradition meets automation, premium product poster, no logos, no readable text"
+  },
+  {
+    "id": "06_panda_noir_detective",
+    "category": "creative_combination",
+    "title": "熊猫基地 × 黑色侦探电影",
+    "prompt_zh": "成都熊猫基地与黑色侦探电影结合：雨夜竹林里，一只拟人熊猫穿风衣站在路灯下，手里拿着竹叶线索，远处是潮湿的霓虹熊猫馆，黑白灰与绿色竹叶形成强对比，悬疑海报。不要真实商标，不要可读文字。",
+    "prompt_en": "A Chengdu panda sanctuary fused with classic noir detective cinema: in a rainy bamboo grove, an anthropomorphic panda detective in a trench coat stands under a lonely street lamp holding a bamboo-leaf clue, wet neon reflections from a distant sanctuary pavilion, black-white-gray palette with sharp green bamboo accents, suspense poster, no logos, no readable text"
+  },
+  {
+    "id": "07_terracotta_army_motorcycle_club",
+    "category": "creative_combination",
+    "title": "兵马俑 × 机车俱乐部",
+    "prompt_zh": "秦始皇兵马俑与重型机车俱乐部结合：泥土质感的陶俑骑士跨坐在黑色巡航摩托上，车灯穿透黄沙，队列像古代军阵一样压迫感十足，历史遗迹与公路电影融合。不要真实商标，不要可读文字。",
+    "prompt_en": "The Terracotta Army fused with a heavy motorcycle club: clay-textured ancient warriors riding black cruiser motorcycles through a yellow dust storm, headlights cutting through sand, formation arranged like an imperial battle line, archaeological monument meets road movie, powerful cinematic poster, no logos, no readable text"
+  },
+  {
+    "id": "08_buddhist_temple_arcade",
+    "category": "creative_combination",
+    "title": "古寺禅意 × 复古街机厅",
+    "prompt_zh": "古寺禅意与80年代复古街机厅结合：木质寺庙大殿里摆满发光街机，僧人平静地操作摇杆，香烟和像素光束交织，佛像背后是像素莲花屏幕，安静但很酷的文化反差。不要真实商标，不要可读文字。",
+    "prompt_en": "An ancient Buddhist temple fused with an 1980s retro arcade: glowing arcade cabinets arranged inside a wooden temple hall, a calm monk using a joystick, incense smoke mixing with pixel light beams, a serene statue backed by a pixel lotus screen, quiet spiritual coolness, cinematic editorial poster, no logos, no readable text"
+  },
+  {
+    "id": "09_greek_gods_sichuan_hotpot",
+    "category": "contrast",
+    "title": "希腊诸神 × 四川火锅",
+    "prompt_zh": "奥林匹斯希腊诸神坐在成都街边吃四川火锅：宙斯举着筷子夹毛肚，雅典娜被辣到流泪但保持威严，波塞冬用三叉戟捞虾滑，红油锅沸腾如神火，古典大理石与市井烟火强反差。不要真实商标，不要可读文字。",
+    "prompt_en": "Greek Olympian gods eating Sichuan hotpot on a lively Chengdu street: Zeus holding chopsticks with tripe, Athena regal but teary from spice, Poseidon using a trident to scoop shrimp paste, red chili oil boiling like divine fire, marble classical robes clashing with street-food steam, humorous epic contrast, cinematic poster, no logos, no readable text"
+  },
+  {
+    "id": "10_ceo_monk_mountain_live_stream",
+    "category": "contrast",
+    "title": "顶级投行会议 × 深山寺庙直播间",
+    "prompt_zh": "穿西装的投行高管在深山寺庙做直播带货：青苔石阶、古钟、木鱼旁摆着补光灯和折叠屏，僧人淡定泡茶，高管拿着财报和直播话筒，金融焦虑与山林禅意强烈反差。不要真实商标，不要可读文字。",
+    "prompt_en": "Investment-bank executives in sharp suits running a livestream sales room inside a remote mountain temple: mossy stone steps, ancient bell and wooden fish beside ring lights and foldable screens, a monk calmly brewing tea while an executive holds financial reports and a livestream microphone, finance anxiety versus forest Zen, absurd premium poster, no logos, no readable text"
+  },
+  {
+    "id": "11_arctic_beach_party",
+    "category": "contrast",
+    "title": "北极科考站 × 三亚沙滩派对",
+    "prompt_zh": "北极科考站突然变成三亚沙滩派对：厚重防寒服科学家戴着墨镜喝椰子，雪地上插着遮阳伞和冲浪板，极光像舞台灯，冰层旁有热带水果摊，极寒与热带度假强反差。不要真实商标，不要可读文字。",
+    "prompt_en": "An Arctic research station transformed into a tropical Sanya beach party: scientists in heavy polar suits wearing sunglasses and drinking coconuts, parasols and surfboards stuck in snow, aurora lights behaving like festival stage lighting, tropical fruit stand beside blue ice, extreme cold versus vacation heat, surreal advertising poster, no logos, no readable text"
+  },
+  {
+    "id": "12_ancient_scholar_subway_rush",
+    "category": "contrast",
+    "title": "唐代诗人 × 早高峰地铁",
+    "prompt_zh": "唐代诗人被放进现代早高峰地铁：长袍诗人一手握卷轴一手抓扶手，周围通勤者低头看手机，窗外高速掠过城市灯光，古典文人孤独感与现代拥挤效率反差。不要真实商标，不要可读文字。",
+    "prompt_en": "A Tang dynasty poet placed inside a modern rush-hour subway: a robed scholar holding a scroll with one hand and a handrail with the other, commuters packed around him staring at phones, city lights streaking past the windows, classical solitude against modern crowd efficiency, emotional cinematic poster, no logos, no readable text"
+  },
+  {
+    "id": "13_elderly_square_dance_mars",
+    "category": "contrast",
+    "title": "广场舞阿姨 × 火星殖民地",
+    "prompt_zh": "广场舞阿姨们在火星殖民地跳舞：红色荒原、透明穹顶、太阳能板背景，一群阿姨穿亮色运动服在低重力中整齐舞动，宇航员围观，家常生活力压倒宏大科幻。不要真实商标，不要可读文字。",
+    "prompt_en": "Chinese square-dance aunties dancing inside a Mars colony: red Martian desert, transparent habitat dome and solar panels in the background, women in bright athletic outfits moving in low gravity with perfect formation, astronauts watching in surprise, everyday community energy overwhelming grand science fiction, joyful viral poster, no logos, no readable text"
+  },
+  {
+    "id": "14_emperor_customer_service",
+    "category": "contrast",
+    "title": "古代皇帝 × 互联网客服工位",
+    "prompt_zh": "古代皇帝坐在互联网客服工位上处理投诉：龙袍、皇冠、玉玺旁边是多屏工位、耳麦、便利贴和冷掉的咖啡，屏幕反光照在严肃脸上，九五之尊与996打工感强反差。不要真实商标，不要可读文字。",
+    "prompt_en": "An ancient emperor working at a modern internet customer-service desk: dragon robe, crown and imperial seal beside multiple monitors, headset, sticky notes and cold coffee, screen glow reflecting on his stern face, supreme ruler versus 996 office grind, satirical cinematic poster, no logos, no readable text"
+  },
+  {
+    "id": "15_opera_diva_boxing_ring",
+    "category": "contrast",
+    "title": "京剧花旦 × 地下拳击赛",
+    "prompt_zh": "京剧花旦站在地下拳击擂台中央：精致头面和水袖与汗水、铁网、聚光灯、拳击手套形成反差，台下观众沸腾，传统戏曲的优雅与地下搏击的粗粝撞击。不要真实商标，不要可读文字。",
+    "prompt_en": "A Peking opera diva standing in the center of an underground boxing ring: ornate headdress and flowing sleeves contrasted with sweat, chain-link fencing, harsh spotlights and boxing gloves, roaring crowd below, refined traditional opera colliding with raw fight-club grit, dramatic poster lighting, no logos, no readable text"
+  }
+]

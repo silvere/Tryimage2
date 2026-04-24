@@ -1,0 +1,556 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="15 张高反差传播向 AI 海报图集，包含创意组合与对比反差两组视觉概念。">
+    <meta property="og:title" content="Prompt Collision Gallery">
+    <meta property="og:description" content="创意组合与对比反差的 AI 海报图集。">
+    <meta property="og:image" content="assets/contact_sheet_image2.jpg">
+    <title>Prompt Collision Gallery</title>
+    <style>
+      :root {
+        color-scheme: light;
+        --ink: #151515;
+        --muted: #66645e;
+        --line: #dfddd6;
+        --paper: #f7f3ea;
+        --panel: #fffdf7;
+        --red: #a93526;
+        --blue: #1f5c70;
+        --green: #52633b;
+        --shadow: 0 18px 50px rgb(31 28 23 / 14%);
+      }
+
+      * {
+        box-sizing: border-box;
+      }
+
+      body {
+        margin: 0;
+        background: var(--paper);
+        color: var(--ink);
+        font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+        line-height: 1.5;
+      }
+
+      a {
+        color: inherit;
+      }
+
+      .shell {
+        width: min(1180px, calc(100% - 32px));
+        margin: 0 auto;
+      }
+
+      .topbar {
+        position: sticky;
+        top: 0;
+        z-index: 10;
+        border-bottom: 1px solid var(--line);
+        background: rgb(247 243 234 / 88%);
+        backdrop-filter: blur(18px);
+      }
+
+      .topbar .shell {
+        min-height: 64px;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        gap: 18px;
+      }
+
+      .brand {
+        display: flex;
+        align-items: baseline;
+        gap: 12px;
+        min-width: 0;
+      }
+
+      .brand strong {
+        font-size: 18px;
+        letter-spacing: 0;
+        white-space: nowrap;
+      }
+
+      .brand span {
+        color: var(--muted);
+        font-size: 13px;
+        white-space: nowrap;
+      }
+
+      .tabs {
+        display: flex;
+        gap: 8px;
+        flex-wrap: wrap;
+        justify-content: flex-end;
+      }
+
+      .tab {
+        border: 1px solid var(--line);
+        background: var(--panel);
+        color: var(--ink);
+        border-radius: 999px;
+        min-height: 36px;
+        padding: 0 14px;
+        font: inherit;
+        cursor: pointer;
+      }
+
+      .tab[aria-pressed="true"] {
+        border-color: var(--ink);
+        background: var(--ink);
+        color: white;
+      }
+
+      .intro {
+        padding: 34px 0 24px;
+        display: grid;
+        grid-template-columns: minmax(0, 1.2fr) minmax(280px, 0.8fr);
+        gap: 28px;
+        align-items: end;
+      }
+
+      h1 {
+        margin: 0;
+        max-width: 760px;
+        font-size: clamp(36px, 6vw, 76px);
+        line-height: 0.95;
+        letter-spacing: 0;
+      }
+
+      .intro-copy {
+        color: var(--muted);
+        font-size: 16px;
+        margin: 0;
+      }
+
+      .stats {
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        gap: 10px;
+      }
+
+      .stat {
+        border-top: 3px solid var(--ink);
+        padding-top: 10px;
+      }
+
+      .stat:nth-child(2) {
+        border-color: var(--red);
+      }
+
+      .stat:nth-child(3) {
+        border-color: var(--blue);
+      }
+
+      .stat b {
+        display: block;
+        font-size: 24px;
+        line-height: 1;
+      }
+
+      .stat span {
+        color: var(--muted);
+        font-size: 13px;
+      }
+
+      .featured {
+        margin: 0 0 28px;
+        border: 1px solid var(--line);
+        background: var(--panel);
+        display: grid;
+        grid-template-columns: minmax(0, 1fr) 320px;
+        overflow: hidden;
+      }
+
+      .featured img {
+        width: 100%;
+        height: 100%;
+        min-height: 320px;
+        object-fit: cover;
+        display: block;
+      }
+
+      .featured-text {
+        padding: 28px;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        gap: 24px;
+      }
+
+      .eyebrow {
+        color: var(--red);
+        font-size: 12px;
+        font-weight: 700;
+        letter-spacing: 0;
+        text-transform: uppercase;
+      }
+
+      .featured h2 {
+        margin: 10px 0 12px;
+        font-size: 28px;
+        line-height: 1.12;
+        letter-spacing: 0;
+      }
+
+      .featured p,
+      .card p {
+        margin: 0;
+        color: var(--muted);
+      }
+
+      .gallery {
+        display: grid;
+        grid-template-columns: repeat(3, minmax(0, 1fr));
+        gap: 18px;
+        padding-bottom: 44px;
+      }
+
+      .card {
+        border: 1px solid var(--line);
+        background: var(--panel);
+        border-radius: 8px;
+        overflow: hidden;
+        box-shadow: 0 8px 28px rgb(31 28 23 / 7%);
+      }
+
+      .thumb-button {
+        border: 0;
+        padding: 0;
+        display: block;
+        width: 100%;
+        background: #ddd8cc;
+        cursor: zoom-in;
+      }
+
+      .thumb {
+        width: 100%;
+        aspect-ratio: 16 / 9;
+        display: block;
+        object-fit: cover;
+      }
+
+      .card-body {
+        padding: 14px 14px 16px;
+      }
+
+      .meta {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        gap: 12px;
+        margin-bottom: 8px;
+        color: var(--muted);
+        font-size: 12px;
+      }
+
+      .tag {
+        color: white;
+        background: var(--green);
+        border-radius: 999px;
+        padding: 3px 9px;
+        white-space: nowrap;
+      }
+
+      .tag.contrast {
+        background: var(--red);
+      }
+
+      .card h3 {
+        margin: 0 0 8px;
+        font-size: 18px;
+        line-height: 1.18;
+        letter-spacing: 0;
+      }
+
+      .card p {
+        font-size: 13px;
+      }
+
+      .card-actions {
+        display: flex;
+        gap: 8px;
+        margin-top: 14px;
+      }
+
+      .link-button {
+        border: 1px solid var(--line);
+        border-radius: 6px;
+        padding: 7px 10px;
+        text-decoration: none;
+        font-size: 13px;
+        background: #fbf8f0;
+      }
+
+      .dialog {
+        position: fixed;
+        inset: 0;
+        z-index: 30;
+        display: none;
+        align-items: center;
+        justify-content: center;
+        padding: 22px;
+        background: rgb(16 15 13 / 82%);
+      }
+
+      .dialog.open {
+        display: flex;
+      }
+
+      .dialog-panel {
+        width: min(1280px, 100%);
+        max-height: calc(100vh - 44px);
+        background: #11100e;
+        color: white;
+        border-radius: 8px;
+        overflow: hidden;
+        box-shadow: var(--shadow);
+      }
+
+      .dialog-header {
+        min-height: 52px;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        gap: 14px;
+        padding: 10px 14px;
+      }
+
+      .dialog-title {
+        margin: 0;
+        font-size: 16px;
+      }
+
+      .close {
+        border: 1px solid rgb(255 255 255 / 22%);
+        background: rgb(255 255 255 / 8%);
+        color: white;
+        border-radius: 6px;
+        min-width: 38px;
+        min-height: 34px;
+        font: inherit;
+        cursor: pointer;
+      }
+
+      .dialog img {
+        width: 100%;
+        max-height: calc(100vh - 118px);
+        object-fit: contain;
+        display: block;
+        background: #050505;
+      }
+
+      footer {
+        border-top: 1px solid var(--line);
+        padding: 22px 0 34px;
+        color: var(--muted);
+        font-size: 13px;
+      }
+
+      @media (max-width: 920px) {
+        .topbar {
+          position: static;
+        }
+
+        .topbar .shell,
+        .intro,
+        .featured {
+          grid-template-columns: 1fr;
+        }
+
+        .topbar .shell {
+          align-items: flex-start;
+          padding: 14px 0;
+        }
+
+        .gallery {
+          grid-template-columns: repeat(2, minmax(0, 1fr));
+        }
+
+        .featured-text {
+          padding: 22px;
+        }
+      }
+
+      @media (max-width: 620px) {
+        .shell {
+          width: min(100% - 22px, 1180px);
+        }
+
+        .brand {
+          flex-direction: column;
+          gap: 2px;
+        }
+
+        .tabs {
+          width: 100%;
+          justify-content: flex-start;
+        }
+
+        .tab {
+          flex: 1 1 auto;
+          padding-inline: 10px;
+        }
+
+        .intro {
+          padding-top: 24px;
+        }
+
+        .stats,
+        .gallery {
+          grid-template-columns: 1fr;
+        }
+
+        .featured img {
+          min-height: 220px;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <header class="topbar">
+      <div class="shell">
+        <div class="brand">
+          <strong>Prompt Collision Gallery</strong>
+          <span>15 张传播向 AI 海报</span>
+        </div>
+        <nav class="tabs" aria-label="图集筛选">
+          <button class="tab" type="button" data-filter="all" aria-pressed="true">全部</button>
+          <button class="tab" type="button" data-filter="creative" aria-pressed="false">创意组合</button>
+          <button class="tab" type="button" data-filter="contrast" aria-pressed="false">对比反差</button>
+        </nav>
+      </div>
+    </header>
+
+    <main class="shell">
+      <section class="intro" aria-labelledby="page-title">
+        <div>
+          <h1 id="page-title">创意组合和对比反差的视觉实验</h1>
+        </div>
+        <div>
+          <p class="intro-copy">把品牌、文化、场景和时代错位放进同一张画面，追求第一眼能停住、第二眼能转发的海报感。</p>
+          <div class="stats" aria-label="图集统计">
+            <div class="stat"><b>15</b><span>张图片</span></div>
+            <div class="stat"><b>8</b><span>创意组合</span></div>
+            <div class="stat"><b>7</b><span>对比反差</span></div>
+          </div>
+        </div>
+      </section>
+
+      <section class="featured" aria-label="主视觉">
+        <img src="assets/contact_sheet_image2.jpg" alt="15 张 AI 海报总览拼图">
+        <div class="featured-text">
+          <div>
+            <div class="eyebrow">Image2 Collection</div>
+            <h2>高冲突画面，比单点创意更容易被记住。</h2>
+            <p>图集保留完整生成提示词，适合继续做封面、营销海报、选题测试或二次精修。</p>
+          </div>
+          <a class="link-button" href="image_prompts.json">查看提示词 JSON</a>
+        </div>
+      </section>
+
+      <section class="gallery" id="gallery" aria-label="图片列表"></section>
+    </main>
+
+    <footer>
+      <div class="shell">Generated with image2. Published as a static GitHub Pages gallery.</div>
+    </footer>
+
+    <div class="dialog" id="dialog" role="dialog" aria-modal="true" aria-labelledby="dialog-title">
+      <div class="dialog-panel">
+        <div class="dialog-header">
+          <h2 class="dialog-title" id="dialog-title"></h2>
+          <button class="close" type="button" aria-label="关闭预览">×</button>
+        </div>
+        <img id="dialog-image" alt="">
+      </div>
+    </div>
+
+    <script>
+      const items = [
+        ["creative", "01", "蓝白快饮咖啡 × 化学实验室犯罪剧", "assets/images/01_luckin_meth_lab_coffee.png", "冷色咖啡吧台被改造成透明玻璃反应釜实验室，防护服咖啡师端出发光冰拿铁。"],
+        ["creative", "02", "故宫红墙 × 限量球鞋发售", "assets/images/02_forbidden_city_sneaker_drop.png", "宫门前的未来感排队队伍，巨型宫廷纹样球鞋悬浮在金色晨光中。"],
+        ["creative", "03", "空间站 × 川味火锅外卖", "assets/images/03_space_station_hotpot_delivery.png", "宇航员在舷窗旁打开九宫格火锅，红油汤底在零重力中形成星云。"],
+        ["creative", "04", "明代锦衣卫 × 赛博电竞战队", "assets/images/04_ming_dynasty_cyber_esports.png", "飞鱼服队员坐进全息电竞舱，绣春刀变成发光机械键盘。"],
+        ["creative", "05", "景德镇瓷器 × 机器人奶茶工厂", "assets/images/05_kiln_robots_ceramic_tea.png", "机械臂用瓷釉拉花，奶茶杯像青花瓷花瓶，古窑火映着洁白机械。"],
+        ["creative", "06", "熊猫基地 × 黑色侦探电影", "assets/images/06_panda_noir_detective.png", "雨夜竹林里，拟人熊猫侦探穿风衣站在路灯下，手里拿着竹叶线索。"],
+        ["creative", "07", "兵马俑 × 机车俱乐部", "assets/images/07_terracotta_army_motorcycle_club.png", "陶俑骑士跨坐黑色巡航摩托，车灯穿透黄沙，队列像古代军阵。"],
+        ["creative", "08", "古寺禅意 × 复古街机厅", "assets/images/08_buddhist_temple_arcade.png", "木质寺庙大殿里摆满发光街机，僧人平静操作摇杆。"],
+        ["contrast", "09", "希腊诸神 × 四川火锅", "assets/images/09_greek_gods_sichuan_hotpot.png", "奥林匹斯诸神坐在成都街边吃火锅，红油锅沸腾如神火。"],
+        ["contrast", "10", "顶级投行会议 × 深山寺庙直播间", "assets/images/10_ceo_monk_mountain_live_stream.png", "西装高管在深山寺庙直播带货，财报、补光灯和古钟同框。"],
+        ["contrast", "11", "北极科考站 × 三亚沙滩派对", "assets/images/11_arctic_beach_party.png", "防寒服科学家戴墨镜喝椰子，极光像舞台灯，冰层旁有热带水果摊。"],
+        ["contrast", "12", "唐代诗人 × 早高峰地铁", "assets/images/12_ancient_scholar_subway_rush.png", "长袍诗人一手握卷轴一手抓扶手，周围通勤者低头看手机。"],
+        ["contrast", "13", "广场舞阿姨 × 火星殖民地", "assets/images/13_elderly_square_dance_mars.png", "红色荒原和透明穹顶中，亮色运动服队伍在低重力里整齐舞动。"],
+        ["contrast", "14", "古代皇帝 × 互联网客服工位", "assets/images/14_emperor_customer_service.png", "龙袍、玉玺和多屏工位、耳麦、冷掉的咖啡并排出现。"],
+        ["contrast", "15", "京剧花旦 × 地下拳击赛", "assets/images/15_opera_diva_boxing_ring.png", "精致头面和水袖站在铁网拳击擂台中央，聚光灯下粗粝又华丽。"]
+      ];
+
+      const gallery = document.querySelector("#gallery");
+      const tabs = document.querySelectorAll(".tab");
+      const dialog = document.querySelector("#dialog");
+      const dialogTitle = document.querySelector("#dialog-title");
+      const dialogImage = document.querySelector("#dialog-image");
+      const closeButton = document.querySelector(".close");
+
+      function labelFor(type) {
+        return type === "creative" ? "创意组合" : "对比反差";
+      }
+
+      function render(filter = "all") {
+        gallery.innerHTML = "";
+        items
+          .filter(([type]) => filter === "all" || filter === type)
+          .forEach(([type, number, title, image, copy]) => {
+            const card = document.createElement("article");
+            card.className = "card";
+            card.innerHTML = `
+              <button class="thumb-button" type="button" aria-label="放大预览 ${title}">
+                <img class="thumb" src="${image}" alt="${title}" loading="lazy">
+              </button>
+              <div class="card-body">
+                <div class="meta"><span>${number}</span><span class="tag ${type}">${labelFor(type)}</span></div>
+                <h3>${title}</h3>
+                <p>${copy}</p>
+                <div class="card-actions">
+                  <a class="link-button" href="${image}">打开原图</a>
+                </div>
+              </div>
+            `;
+            card.querySelector(".thumb-button").addEventListener("click", () => {
+              dialogTitle.textContent = title;
+              dialogImage.src = image;
+              dialogImage.alt = title;
+              dialog.classList.add("open");
+              closeButton.focus();
+            });
+            gallery.appendChild(card);
+          });
+      }
+
+      tabs.forEach((tab) => {
+        tab.addEventListener("click", () => {
+          tabs.forEach((item) => item.setAttribute("aria-pressed", "false"));
+          tab.setAttribute("aria-pressed", "true");
+          render(tab.dataset.filter);
+        });
+      });
+
+      function closeDialog() {
+        dialog.classList.remove("open");
+        dialogImage.removeAttribute("src");
+      }
+
+      closeButton.addEventListener("click", closeDialog);
+      dialog.addEventListener("click", (event) => {
+        if (event.target === dialog) closeDialog();
+      });
+      document.addEventListener("keydown", (event) => {
+        if (event.key === "Escape") closeDialog();
+      });
+
+      render();
+    </script>
+  </body>
+</html>
