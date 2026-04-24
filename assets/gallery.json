@@ -32,20 +32,8 @@
       "label": "全球经典小说"
     },
     {
-      "id": "digital-systems",
-      "label": "数字系统"
-    },
-    {
-      "id": "finance-supply-chain",
-      "label": "金融与供应链"
-    },
-    {
-      "id": "infrastructure-earth",
-      "label": "基础设施与地球系统"
-    },
-    {
-      "id": "body-science",
-      "label": "身体科学"
+      "id": "thing-principles",
+      "label": "事务原理"
     }
   ],
   "batches": [
@@ -558,7 +546,7 @@
     {
       "id": "complex-systems-infographics-001_01_一次-ai-对话的-500-毫秒",
       "batch": "complex-systems-infographics-001",
-      "category": "digital-systems",
+      "category": "thing-principles",
       "number": "01",
       "title": "一次 AI 对话的 500 毫秒",
       "image": "assets/images/complex-systems-infographics-001/01_一次-ai-对话的-500-毫秒.png",
@@ -569,7 +557,7 @@
     {
       "id": "complex-systems-infographics-001_02_你手机的一天",
       "batch": "complex-systems-infographics-001",
-      "category": "digital-systems",
+      "category": "thing-principles",
       "number": "02",
       "title": "你手机的一天",
       "image": "assets/images/complex-systems-infographics-001/02_你手机的一天.png",
@@ -580,7 +568,7 @@
     {
       "id": "complex-systems-infographics-001_03_一条短视频-feed-的诞生",
       "batch": "complex-systems-infographics-001",
-      "category": "digital-systems",
+      "category": "thing-principles",
       "number": "03",
       "title": "一条短视频 Feed 的诞生",
       "image": "assets/images/complex-systems-infographics-001/03_一条短视频-feed-的诞生.png",
@@ -591,7 +579,7 @@
     {
       "id": "complex-systems-infographics-001_04_一次网购的全链路",
       "batch": "complex-systems-infographics-001",
-      "category": "finance-supply-chain",
+      "category": "thing-principles",
       "number": "04",
       "title": "一次网购的全链路",
       "image": "assets/images/complex-systems-infographics-001/04_一次网购的全链路.png",
@@ -602,7 +590,7 @@
     {
       "id": "complex-systems-infographics-001_05_一度电的旅程",
       "batch": "complex-systems-infographics-001",
-      "category": "infrastructure-earth",
+      "category": "thing-principles",
       "number": "05",
       "title": "一度电的旅程",
       "image": "assets/images/complex-systems-infographics-001/05_一度电的旅程.png",
@@ -613,7 +601,7 @@
     {
       "id": "complex-systems-infographics-001_06_一觉睡眠的八小时值班表",
       "batch": "complex-systems-infographics-001",
-      "category": "body-science",
+      "category": "thing-principles",
       "number": "06",
       "title": "一觉睡眠的八小时值班表",
       "image": "assets/images/complex-systems-infographics-001/06_一觉睡眠的八小时值班表.png",
@@ -624,7 +612,7 @@
     {
       "id": "complex-systems-infographics-001_07_一顿饭的-24-小时消化之旅",
       "batch": "complex-systems-infographics-001",
-      "category": "body-science",
+      "category": "thing-principles",
       "number": "07",
       "title": "一顿饭的 24 小时消化之旅",
       "image": "assets/images/complex-systems-infographics-001/07_一顿饭的-24-小时消化之旅.png",
@@ -635,7 +623,7 @@
     {
       "id": "complex-systems-infographics-001_08_一次感冒里的免疫战争",
       "batch": "complex-systems-infographics-001",
-      "category": "body-science",
+      "category": "thing-principles",
       "number": "08",
       "title": "一次感冒里的免疫战争",
       "image": "assets/images/complex-systems-infographics-001/08_一次感冒里的免疫战争.png",
@@ -646,7 +634,7 @@
     {
       "id": "complex-systems-infographics-001_09_咖啡因在体内的六小时",
       "batch": "complex-systems-infographics-001",
-      "category": "body-science",
+      "category": "thing-principles",
       "number": "09",
       "title": "咖啡因在体内的六小时",
       "image": "assets/images/complex-systems-infographics-001/09_咖啡因在体内的六小时.png",
@@ -657,7 +645,7 @@
     {
       "id": "complex-systems-infographics-001_10_一件-t-恤的世界旅行",
       "batch": "complex-systems-infographics-001",
-      "category": "finance-supply-chain",
+      "category": "thing-principles",
       "number": "10",
       "title": "一件 T 恤的世界旅行",
       "image": "assets/images/complex-systems-infographics-001/10_一件-t-恤的世界旅行.png",
@@ -668,7 +656,7 @@
     {
       "id": "complex-systems-infographics-001_11_一座城市的地下剖面",
       "batch": "complex-systems-infographics-001",
-      "category": "infrastructure-earth",
+      "category": "thing-principles",
       "number": "11",
       "title": "一座城市的地下剖面",
       "image": "assets/images/complex-systems-infographics-001/11_一座城市的地下剖面.png",
@@ -679,7 +667,7 @@
     {
       "id": "complex-systems-infographics-001_12_一次跨境转账的隐形轨道",
       "batch": "complex-systems-infographics-001",
-      "category": "finance-supply-chain",
+      "category": "thing-principles",
       "number": "12",
       "title": "一次跨境转账的隐形轨道",
       "image": "assets/images/complex-systems-infographics-001/12_一次跨境转账的隐形轨道.png",
@@ -690,7 +678,7 @@
     {
       "id": "complex-systems-infographics-001_13_一颗卫星信号如何到你手机",
       "batch": "complex-systems-infographics-001",
-      "category": "infrastructure-earth",
+      "category": "thing-principles",
       "number": "13",
       "title": "一颗卫星信号如何到你手机",
       "image": "assets/images/complex-systems-infographics-001/13_一颗卫星信号如何到你手机.png",
@@ -701,7 +689,7 @@
     {
       "id": "complex-systems-infographics-001_14_一滴水的千年循环",
       "batch": "complex-systems-infographics-001",
-      "category": "infrastructure-earth",
+      "category": "thing-principles",
       "number": "14",
       "title": "一滴水的千年循环",
       "image": "assets/images/complex-systems-infographics-001/14_一滴水的千年循环.png",
@@ -712,7 +700,7 @@
     {
       "id": "complex-systems-infographics-001_15_一场台风的一生",
       "batch": "complex-systems-infographics-001",
-      "category": "infrastructure-earth",
+      "category": "thing-principles",
       "number": "15",
       "title": "一场台风的一生",
       "image": "assets/images/complex-systems-infographics-001/15_一场台风的一生.png",
