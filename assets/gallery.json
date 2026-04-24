@@ -1,7 +1,7 @@
 {
   "site": {
     "title": "Prompt Collision Gallery",
-    "subtitle": "30 张传播向 AI 海报",
+    "subtitle": "45 张传播向 AI 海报",
     "headline": "持续更新的主题视觉实验",
     "intro": "每一批图片围绕一个临时主题生成，并按当次最合适的 category 归档；可以是反差创意、真实场景、产品概念、人物叙事或任何新的视觉方向。",
     "coverImage": "assets/contact_sheet_image2.jpg",
@@ -22,6 +22,14 @@
     {
       "id": "world-simulator",
       "label": "世界模拟器"
+    },
+    {
+      "id": "chinese-classic-novels",
+      "label": "中国经典小说"
+    },
+    {
+      "id": "global-classic-novels",
+      "label": "全球经典小说"
     }
   ],
   "batches": [
@@ -34,6 +42,12 @@
     {
       "id": "world-simulator-001",
       "theme": "世界模拟器",
+      "createdAt": "2026-04-24",
+      "count": 15
+    },
+    {
+      "id": "classic-novel-posters-001",
+      "theme": "经典小说艺术海报系列",
       "createdAt": "2026-04-24",
       "count": 15
     }
@@ -323,6 +337,156 @@
       "image": "assets/images/world-simulator-001/15_居委会王朝模拟器.png",
       "description": "真实居委会办公室变成王朝治理后台，人口幸福度、粮食储备和天气风险漂浮在塑料椅之间。",
       "prompt": "World simulator category, a realistic neighborhood committee office running a dynasty simulator dashboard, elderly volunteers and ancient ministers reviewing population happiness, grain reserves, school enrollment and weather risk as floating abstract panels, plastic chairs, thermos bottles, wooden seals, mundane Chinese civic realism mixed with grand strategy game UI, 16:9 horizontal, no readable text"
+    },
+    {
+      "id": "classic-novel-posters-001_01_红楼梦",
+      "batch": "classic-novel-posters-001",
+      "category": "chinese-classic-novels",
+      "number": "01",
+      "title": "红楼梦",
+      "image": "assets/images/classic-novel-posters-001/01_红楼梦.png",
+      "description": "玉佩、园林、残稿和烛烟构成一张清雅哀婉的家族幻梦海报。",
+      "prompt": "Vertical 2:3 art poster for Dream of the Red Chamber, no readable text, pale jade pendant as moon, Grand View Garden, falling petals, distant aristocratic silhouettes, silk, broken fan, candle smoke, celadon green, faded rose, ivory, muted gold, melancholic Qing literary atmosphere, print grain."
+    },
+    {
+      "id": "classic-novel-posters-001_02_三国演义",
+      "batch": "classic-novel-posters-001",
+      "category": "chinese-classic-novels",
+      "number": "02",
+      "title": "三国演义",
+      "image": "assets/images/classic-novel-posters-001/02_三国演义.png",
+      "description": "青铜地图裂成战场，三色旌旗、火箭与谋士剪影呈现乱世棋局。",
+      "prompt": "Vertical 2:3 art poster for Romance of the Three Kingdoms, no readable text, cracked bronze map becoming battlefield, three banners, strategist with feather fan, general and warlord silhouettes, arrows, river boats, mountain passes, iron gray, lacquer red, aged bronze, epic tactical tragedy."
+    },
+    {
+      "id": "classic-novel-posters-001_03_西游记",
+      "batch": "classic-novel-posters-001",
+      "category": "chinese-classic-novels",
+      "number": "03",
+      "title": "西游记",
+      "image": "assets/images/classic-novel-posters-001/03_西游记.png",
+      "description": "取经队伍穿越金色沙脊，悟空跃入云端，敦煌色彩和神话旅程同框。",
+      "prompt": "Vertical 2:3 art poster for Journey to the West, no readable text, four pilgrims crossing vast desert ridge toward western sky gate, monkey warrior silhouette leaping with staff, visions of lotus mountains, demon caves, dragons, scripture chest, Dunhuang mural colors, ochre, turquoise, cinnabar, lapis."
+    },
+    {
+      "id": "classic-novel-posters-001_04_水浒传",
+      "batch": "classic-novel-posters-001",
+      "category": "chinese-classic-novels",
+      "number": "04",
+      "title": "水浒传",
+      "image": "assets/images/classic-novel-posters-001/04_水浒传.png",
+      "description": "梁山水泊在雨夜升起，群雄围火而立，星点倒映出粗粝义气。",
+      "prompt": "Vertical 2:3 art poster for Water Margin, no readable text, moonlit marsh fortress at Liangshan, 108 star reflections, heroic bandits around brazier, weapons in a circle, rain, reeds, broken seals, indigo, wet black, ember orange, rebellious brotherhood."
+    },
+    {
+      "id": "classic-novel-posters-001_05_聊斋志异",
+      "batch": "classic-novel-posters-001",
+      "category": "chinese-classic-novels",
+      "number": "05",
+      "title": "聊斋志异",
+      "image": "assets/images/classic-novel-posters-001/05_聊斋志异.png",
+      "description": "书斋烛烟化作狐影、鬼魅和月下纸屏，文人志怪气息幽微浪漫。",
+      "prompt": "Vertical 2:3 art poster for Strange Tales from a Chinese Studio, no readable text, candlelit scholar studio, inkstone and brush, smoke turning into fox spirits and ghosts, paper screen revealing moonlit graveyard garden, bone white, ink black, teal fox-fire, eerie literati fantasy."
+    },
+    {
+      "id": "classic-novel-posters-001_06_堂吉诃德",
+      "batch": "classic-novel-posters-001",
+      "category": "global-classic-novels",
+      "number": "06",
+      "title": "堂吉诃德",
+      "image": "assets/images/classic-novel-posters-001/06_堂吉诃德.png",
+      "description": "瘦马骑士冲向风车巨影，纸页与沙尘把荒诞理想化作悲喜史诗。",
+      "prompt": "Vertical 2:3 art poster for Don Quixote, no readable text, elderly knight on thin horse across La Mancha plain, windmills morphing into dragons and giants, loyal companion far behind, romance pages swirling like sand, ochre, faded blue, parchment, tragicomic nobility."
+    },
+    {
+      "id": "classic-novel-posters-001_07_战争与和平",
+      "batch": "classic-novel-posters-001",
+      "category": "global-classic-novels",
+      "number": "07",
+      "title": "战争与和平",
+      "image": "assets/images/classic-novel-posters-001/07_战争与和平.png",
+      "description": "冬日舞会地板裂向雪原战场，吊灯、彗星和行军烟尘交织成宏大史诗。",
+      "prompt": "Vertical 2:3 art poster for War and Peace, no readable text, frozen ballroom floor cracked into snowy battlefield below, chandelier like winter sun, aristocrats waltzing above soldiers marching beneath, comet through palace windows, snow white, midnight blue, brass gold."
+    },
+    {
+      "id": "classic-novel-posters-001_08_悲惨世界",
+      "batch": "classic-novel-posters-001",
+      "category": "global-classic-novels",
+      "number": "08",
+      "title": "悲惨世界",
+      "image": "assets/images/classic-novel-posters-001/08_悲惨世界.png",
+      "description": "银烛光照亮巴黎街垒与众生命运，苦难、慈悲和反抗集中在一束光里。",
+      "prompt": "Vertical 2:3 art poster for Les Miserables, no readable text, rough worker hands holding silver candlestick, light rising into Paris barricade, silhouettes of ex-prisoner, child, young woman, students, cathedral rooftops, charcoal, candle gold, revolutionary red."
+    },
+    {
+      "id": "classic-novel-posters-001_09_白鲸",
+      "batch": "classic-novel-posters-001",
+      "category": "global-classic-novels",
+      "number": "09",
+      "title": "白鲸",
+      "image": "assets/images/classic-novel-posters-001/09_白鲸.png",
+      "description": "巨大的白鲸如月下山体升起，小船和船长被执念与深海彻底吞没。",
+      "prompt": "Vertical 2:3 art poster for Moby-Dick, no readable text, tiny whaling ship in black green ocean, enormous white whale rising like a mountain, captain silhouette with harpoon, storm clouds as open book and compass, cold white, deep teal, storm gray, obsessive sublime."
+    },
+    {
+      "id": "classic-novel-posters-001_10_罪与罚",
+      "batch": "classic-novel-posters-001",
+      "category": "global-classic-novels",
+      "number": "10",
+      "title": "罪与罚",
+      "image": "assets/images/classic-novel-posters-001/10_罪与罚.png",
+      "description": "倾斜黄房间里影子分裂成审判、受害与忏悔，圣彼得堡晨雾压迫而冷峻。",
+      "prompt": "Vertical 2:3 art poster for Crime and Punishment, no readable text, tilted yellow room in St. Petersburg, young man silhouette in doorway, shadow split into judge, victim, penitent, small axe near cracked floorboard, wet streets and winter dawn, psychological noir."
+    },
+    {
+      "id": "classic-novel-posters-001_11_傲慢与偏见",
+      "batch": "classic-novel-posters-001",
+      "category": "global-classic-novels",
+      "number": "11",
+      "title": "傲慢与偏见",
+      "image": "assets/images/classic-novel-posters-001/11_傲慢与偏见.png",
+      "description": "英式花园两端的剪影被晨光牵连，信笺、玫瑰和泥印呈现克制张力。",
+      "prompt": "Vertical 2:3 art poster for Pride and Prejudice, no readable text, two Regency silhouettes on opposite sides of misty garden path, sunlight connecting them, manor reflected in puddle, letters like leaves, gloves, fan, roses, sage, pearl gray, restrained romance."
+    },
+    {
+      "id": "classic-novel-posters-001_12_弗兰肯斯坦",
+      "batch": "classic-novel-posters-001",
+      "category": "global-classic-novels",
+      "number": "12",
+      "title": "弗兰肯斯坦",
+      "image": "assets/images/classic-novel-posters-001/12_弗兰肯斯坦.png",
+      "description": "废墟实验室中闪电垂落，创造物在光影中悬置，哥特恐惧与孤独并存。",
+      "prompt": "Vertical 2:3 art poster for Frankenstein, no readable text, ruined stone laboratory, operating table, lightning through shattered skylight, suspended human-shaped silhouette stitched from shadow and light, creator horrified below, storm violet, pale green, electric white."
+    },
+    {
+      "id": "classic-novel-posters-001_13_了不起的盖茨比",
+      "batch": "classic-novel-posters-001",
+      "category": "global-classic-novels",
+      "number": "13",
+      "title": "了不起的盖茨比",
+      "image": "assets/images/classic-novel-posters-001/13_了不起的盖茨比.png",
+      "description": "黑色海湾尽头的绿光倒映在香槟杯里，爵士时代的华丽像灰烬飘落。",
+      "prompt": "Vertical 2:3 art poster for The Great Gatsby, no readable text, dark bay at night, tiny green light across water reflected in champagne coupe, faceless white-suit figure, art deco mansion lights, party ghosts, confetti like ash, emerald, black, champagne gold."
+    },
+    {
+      "id": "classic-novel-posters-001_14_百年孤独",
+      "batch": "classic-novel-posters-001",
+      "category": "global-classic-novels",
+      "number": "14",
+      "title": "百年孤独",
+      "image": "assets/images/classic-novel-posters-001/14_百年孤独.png",
+      "description": "热带小镇、黄蝶、雨和家族树根旋成循环时间，魔幻现实主义繁茂而孤独。",
+      "prompt": "Vertical 2:3 art poster for One Hundred Years of Solitude, no readable text, tropical town house with generational silhouettes in windows, yellow butterflies spiraling into rain, clocks, train tracks, flowers, parchment, huge tree through roof, sun yellow, jungle green."
+    },
+    {
+      "id": "classic-novel-posters-001_15_简-爱",
+      "batch": "classic-novel-posters-001",
+      "category": "global-classic-novels",
+      "number": "15",
+      "title": "简·爱",
+      "image": "assets/images/classic-novel-posters-001/15_简-爱.png",
+      "description": "荒原女子护住烛火，远处庄园暗燃，风暴与阁楼阴影构成哥特独立宣言。",
+      "prompt": "Vertical 2:3 art poster for Jane Eyre, no readable text, solitary woman on windswept moor holding protected candle, distant manor with one burning upper window, storm clouds forming hidden face and locked attic door, thorn branches, moor purple, candle amber, Victorian gothic."
     }
   ]
 }
