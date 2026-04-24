@@ -1,6 +1,7 @@
 # Prompt Collision Gallery
 
 一个 GitHub Pages 静态图集，展示 image2 生成的传播向海报图片。所有图片都发布在同一个网站里，用可扩展的 `category` 组织和筛选。
+本网站所有内容基于OpenAI Codex 和Image2.0 生成。
 
 ## 内容
 
