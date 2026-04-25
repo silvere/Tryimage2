@@ -1,7 +1,7 @@
 {
   "site": {
     "title": "OpenAI image2 视觉实验",
-    "subtitle": "145 张传播向 AI 海报",
+    "subtitle": "160 张传播向 AI 海报",
     "headline": "OpenAI image2 视觉实验",
     "intro": "每一批图片围绕一个临时主题生成，并按当次最合适的 category 归档；可以是反差创意、真实场景、产品概念、人物叙事或任何新的视觉方向。",
     "coverImage": "assets/contact_sheet_image2.jpg",
@@ -50,6 +50,38 @@
     {
       "id": "wool-felt-rabbit-brand",
       "label": "羊毛毡兔子品牌"
+    },
+    {
+      "id": "ai-agent-interpretability",
+      "label": "AI与Agent"
+    },
+    {
+      "id": "immuno-oncology",
+      "label": "免疫肿瘤"
+    },
+    {
+      "id": "rna-gene-editing",
+      "label": "RNA递送与基因编辑"
+    },
+    {
+      "id": "cancer-diagnostics",
+      "label": "癌症诊断"
+    },
+    {
+      "id": "microbiome",
+      "label": "微生物与肠道免疫"
+    },
+    {
+      "id": "cancer-biology",
+      "label": "癌症生物学"
+    },
+    {
+      "id": "cell-death-neuro",
+      "label": "细胞死亡与神经"
+    },
+    {
+      "id": "energy-quantum",
+      "label": "能源材料与量子"
     }
   ],
   "batches": [
@@ -110,6 +142,12 @@
     {
       "id": "wool-felt-rabbit-brand-variants-001",
       "theme": "羊毛毡兔子品牌主题：差异化选型",
+      "createdAt": "2026-04-25",
+      "count": 15
+    },
+    {
+      "id": "academic-mechanism-diagrams-2026-04-25",
+      "theme": "高质量学术论文机理示意图",
       "createdAt": "2026-04-25",
       "count": 15
     }
@@ -1694,6 +1732,171 @@
       "thumb": "assets/thumbs/wool-felt-rabbit-brand-variants-001/15_礼物兔-节日限定.png",
       "description": "粉白毛毡和礼盒场景突出赠礼属性，适合节日限定和毛绒收藏。",
       "prompt": "Horizontal 16:9 premium brand concept poster, no readable text, no logos. A festive gift wool felt rabbit mascot, strawberry pink and white fibers, round baby proportions, wearing a tiny ribbon bow and sitting inside an open gift box with felt confetti, blank greeting cards, tiny ornaments and soft fairy lights. Brand direction: gift, holiday, limited-edition plush collectible, irresistibly cute, tactile needle-felt fibers, polished retail campaign composition, strawberry pink, cream, gold, soft green palette."
+    },
+    {
+      "id": "academic-mechanism-diagrams-2026-04-25_01_llm-agent-认知行动闭环",
+      "batch": "academic-mechanism-diagrams-2026-04-25",
+      "category": "ai-agent-interpretability",
+      "number": "01",
+      "title": "LLM Agent 认知行动闭环",
+      "image": "assets/images/academic-mechanism-diagrams-2026-04-25/01_llm-agent-认知行动闭环.png",
+      "thumb": "assets/thumbs/academic-mechanism-diagrams-2026-04-25/01_llm-agent-认知行动闭环.png",
+      "description": "展示 LLM Agent 的感知、记忆、规划、工具执行、反馈反思与安全防护闭环。",
+      "prompt": "Academic Science/Nature style 16:9 mechanism diagram of an LLM-based autonomous agent cognitive-action loop with Agent Core, RAG, memory, planner, tools, verifier, reflection, risk and guardrail layers."
+    },
+    {
+      "id": "academic-mechanism-diagrams-2026-04-25_02_transformer-归纳头可解释性电路",
+      "batch": "academic-mechanism-diagrams-2026-04-25",
+      "category": "ai-agent-interpretability",
+      "number": "02",
+      "title": "Transformer 归纳头可解释性电路",
+      "image": "assets/images/academic-mechanism-diagrams-2026-04-25/02_transformer-归纳头可解释性电路.png",
+      "thumb": "assets/thumbs/academic-mechanism-diagrams-2026-04-25/02_transformer-归纳头可解释性电路.png",
+      "description": "用 token 序列、QK/OV 子电路、残差流和 activation patching 表现 induction head 的因果机制。",
+      "prompt": "Academic 16:9 mechanism diagram of Transformer induction heads with token strip, previous-token head, induction head, QK and OV circuits, residual stream, attention heatmap and causal patching panels."
+    },
+    {
+      "id": "academic-mechanism-diagrams-2026-04-25_03_pd-1-pd-l1-免疫检查点通路",
+      "batch": "academic-mechanism-diagrams-2026-04-25",
+      "category": "immuno-oncology",
+      "number": "03",
+      "title": "PD-1/PD-L1 免疫检查点通路",
+      "image": "assets/images/academic-mechanism-diagrams-2026-04-25/03_pd-1-pd-l1-免疫检查点通路.png",
+      "thumb": "assets/thumbs/academic-mechanism-diagrams-2026-04-25/03_pd-1-pd-l1-免疫检查点通路.png",
+      "description": "展示 T 细胞 PD-1/SHP-2 抑制 TCR 信号、肿瘤 PD-L1 表达调控与抗体阻断。",
+      "prompt": "Academic 16:9 PD-1/PD-L1 immune checkpoint mechanism in the tumor microenvironment, showing T cell, tumor cell, SHP-2 inhibition, JAK/STAT PD-L1 induction and anti-PD-1 antibody blockade."
+    },
+    {
+      "id": "academic-mechanism-diagrams-2026-04-25_04_car-t-tonic-signaling-与耗竭",
+      "batch": "academic-mechanism-diagrams-2026-04-25",
+      "category": "immuno-oncology",
+      "number": "04",
+      "title": "CAR-T tonic signaling 与耗竭",
+      "image": "assets/images/academic-mechanism-diagrams-2026-04-25/04_car-t-tonic-signaling-与耗竭.png",
+      "thumb": "assets/thumbs/academic-mechanism-diagrams-2026-04-25/04_car-t-tonic-signaling-与耗竭.png",
+      "description": "比较 CD28ζ 与 4-1BBζ CAR 结构、tonic signaling、代谢持久性和耗竭分支。",
+      "prompt": "Academic 16:9 CAR-T cell mechanism diagram comparing CD28ζ and 4-1BBζ CAR constructs, antigen synapse, tonic signaling, exhaustion, metabolic persistence and engineering optimization."
+    },
+    {
+      "id": "academic-mechanism-diagrams-2026-04-25_05_mrna-lnp-疫苗免疫机制",
+      "batch": "academic-mechanism-diagrams-2026-04-25",
+      "category": "rna-gene-editing",
+      "number": "05",
+      "title": "mRNA-LNP 疫苗免疫机制",
+      "image": "assets/images/academic-mechanism-diagrams-2026-04-25/05_mrna-lnp-疫苗免疫机制.png",
+      "thumb": "assets/thumbs/academic-mechanism-diagrams-2026-04-25/05_mrna-lnp-疫苗免疫机制.png",
+      "description": "展示 LNP 递送、内体逃逸、抗原翻译、MHC I/II 呈递和先天免疫感知。",
+      "prompt": "Academic 16:9 lipid nanoparticle mRNA vaccine mechanism from injection to endosomal escape, antigen translation, MHC I/II presentation, innate sensing and adaptive immunity."
+    },
+    {
+      "id": "academic-mechanism-diagrams-2026-04-25_06_crispr-base-editing-与-prime-editing",
+      "batch": "academic-mechanism-diagrams-2026-04-25",
+      "category": "rna-gene-editing",
+      "number": "06",
+      "title": "CRISPR Base Editing 与 Prime Editing",
+      "image": "assets/images/academic-mechanism-diagrams-2026-04-25/06_crispr-base-editing-与-prime-editing.png",
+      "thumb": "assets/thumbs/academic-mechanism-diagrams-2026-04-25/06_crispr-base-editing-与-prime-editing.png",
+      "description": "对比碱基编辑和 prime editing 的 Cas9 nickase、脱氨酶、pegRNA、RT 与编辑窗口。",
+      "prompt": "Academic 16:9 comparative CRISPR base editing and prime editing mechanism diagram with Cas9 nickase, deaminase, pegRNA, reverse transcriptase, PAM, editing window and off-target risks."
+    },
+    {
+      "id": "academic-mechanism-diagrams-2026-04-25_07_ctdna-液体活检-mrd-检测",
+      "batch": "academic-mechanism-diagrams-2026-04-25",
+      "category": "cancer-diagnostics",
+      "number": "07",
+      "title": "ctDNA 液体活检 MRD 检测",
+      "image": "assets/images/academic-mechanism-diagrams-2026-04-25/07_ctdna-液体活检-mrd-检测.png",
+      "thumb": "assets/thumbs/academic-mechanism-diagrams-2026-04-25/07_ctdna-液体活检-mrd-检测.png",
+      "description": "展示 ctDNA 释放、cfDNA 背景、UMI 深度测序、多组学特征和 MRD 风险判读。",
+      "prompt": "Academic 16:9 ctDNA liquid biopsy mechanism for minimal residual disease detection with tumor DNA release, cfDNA background, sequencing workflow, feature extraction, noise filtering and clinical decisions."
+    },
+    {
+      "id": "academic-mechanism-diagrams-2026-04-25_08_肠道微生物-scfa-免疫稳态轴",
+      "batch": "academic-mechanism-diagrams-2026-04-25",
+      "category": "microbiome",
+      "number": "08",
+      "title": "肠道微生物 SCFA 免疫稳态轴",
+      "image": "assets/images/academic-mechanism-diagrams-2026-04-25/08_肠道微生物-scfa-免疫稳态轴.png",
+      "thumb": "assets/thumbs/academic-mechanism-diagrams-2026-04-25/08_肠道微生物-scfa-免疫稳态轴.png",
+      "description": "展示膳食纤维发酵产生 SCFA，调控上皮屏障、GPCR、HDAC 与 Treg 分化。",
+      "prompt": "Academic 16:9 dietary fiber-gut microbiota-SCFA-immune axis diagram showing microbial fermentation, epithelial tight junctions, SCFA receptors, HDAC inhibition, Treg and inflammatory balance."
+    },
+    {
+      "id": "academic-mechanism-diagrams-2026-04-25_09_铜绿假单胞菌群体感应与生物膜",
+      "batch": "academic-mechanism-diagrams-2026-04-25",
+      "category": "microbiome",
+      "number": "09",
+      "title": "铜绿假单胞菌群体感应与生物膜",
+      "image": "assets/images/academic-mechanism-diagrams-2026-04-25/09_铜绿假单胞菌群体感应与生物膜.png",
+      "thumb": "assets/thumbs/academic-mechanism-diagrams-2026-04-25/09_铜绿假单胞菌群体感应与生物膜.png",
+      "description": "展示 Las/Rhl/PQS/IQS 群体感应网络、生物膜基质、耐药梯度和干预节点。",
+      "prompt": "Academic 16:9 Pseudomonas aeruginosa quorum sensing and biofilm mechanism with autoinducers, Las/Rhl/PQS/IQS network, EPS matrix, persister cells, antibiotic gradients and quorum quenching."
+    },
+    {
+      "id": "academic-mechanism-diagrams-2026-04-25_10_肿瘤外泌体塑造转移前微环境",
+      "batch": "academic-mechanism-diagrams-2026-04-25",
+      "category": "cancer-biology",
+      "number": "10",
+      "title": "肿瘤外泌体塑造转移前微环境",
+      "image": "assets/images/academic-mechanism-diagrams-2026-04-25/10_肿瘤外泌体塑造转移前微环境.png",
+      "thumb": "assets/thumbs/academic-mechanism-diagrams-2026-04-25/10_肿瘤外泌体塑造转移前微环境.png",
+      "description": "展示肿瘤外泌体 cargo、器官趋向性、远端器官重塑与转移前生态位形成。",
+      "prompt": "Academic 16:9 tumor-derived extracellular vesicles shaping pre-metastatic niche with EV cargo, organotropism to lung/liver/bone marrow, immune suppression, ECM remodeling and interventions."
+    },
+    {
+      "id": "academic-mechanism-diagrams-2026-04-25_11_slc7a11-gsh-gpx4-轴与铁死亡",
+      "batch": "academic-mechanism-diagrams-2026-04-25",
+      "category": "cell-death-neuro",
+      "number": "11",
+      "title": "SLC7A11-GSH-GPX4 轴与铁死亡",
+      "image": "assets/images/academic-mechanism-diagrams-2026-04-25/11_slc7a11-gsh-gpx4-轴与铁死亡.png",
+      "thumb": "assets/thumbs/academic-mechanism-diagrams-2026-04-25/11_slc7a11-gsh-gpx4-轴与铁死亡.png",
+      "description": "展示 cystine-GSH-GPX4 抗氧化轴、铁代谢、脂质过氧化和铁死亡防御旁路。",
+      "prompt": "Academic 16:9 ferroptosis mechanism showing SLC7A11-GSH-GPX4 axis, iron metabolism, Fenton reaction, ACSL4/LPCAT3 lipid peroxidation, ferroptosis inducers and defense systems."
+    },
+    {
+      "id": "academic-mechanism-diagrams-2026-04-25_12_pink1-parkin-线粒体自噬",
+      "batch": "academic-mechanism-diagrams-2026-04-25",
+      "category": "cell-death-neuro",
+      "number": "12",
+      "title": "PINK1-Parkin 线粒体自噬",
+      "image": "assets/images/academic-mechanism-diagrams-2026-04-25/12_pink1-parkin-线粒体自噬.png",
+      "thumb": "assets/thumbs/academic-mechanism-diagrams-2026-04-25/12_pink1-parkin-线粒体自噬.png",
+      "description": "展示膜电位丧失后 PINK1 稳定、Parkin 激活、泛素链扩增和自噬体清除。",
+      "prompt": "Academic 16:9 PINK1-Parkin mitophagy mechanism diagram with healthy mitochondria, damaged mitochondria, PINK1 accumulation, Parkin activation, pUb chains, autophagy receptors and lysosome fusion."
+    },
+    {
+      "id": "academic-mechanism-diagrams-2026-04-25_13_cgas-sting-与-nlrp3-gsdmd-焦亡串扰",
+      "batch": "academic-mechanism-diagrams-2026-04-25",
+      "category": "cell-death-neuro",
+      "number": "13",
+      "title": "cGAS-STING 与 NLRP3/GSDMD 焦亡串扰",
+      "image": "assets/images/academic-mechanism-diagrams-2026-04-25/13_cgas-sting-与-nlrp3-gsdmd-焦亡串扰.png",
+      "thumb": "assets/thumbs/academic-mechanism-diagrams-2026-04-25/13_cgas-sting-与-nlrp3-gsdmd-焦亡串扰.png",
+      "description": "展示胞质 DNA、STING-IFN、NLRP3 炎症小体、GSDMD 孔洞和炎症放大。",
+      "prompt": "Academic 16:9 cGAS-STING and NLRP3 inflammasome crosstalk mechanism with cytosolic DNA, cGAMP, STING-TBK1-IRF3, inflammasome assembly, GSDMD pores and pyroptosis."
+    },
+    {
+      "id": "academic-mechanism-diagrams-2026-04-25_14_固态锂金属电池界面与枝晶穿透",
+      "batch": "academic-mechanism-diagrams-2026-04-25",
+      "category": "energy-quantum",
+      "number": "14",
+      "title": "固态锂金属电池界面与枝晶穿透",
+      "image": "assets/images/academic-mechanism-diagrams-2026-04-25/14_固态锂金属电池界面与枝晶穿透.png",
+      "thumb": "assets/thumbs/academic-mechanism-diagrams-2026-04-25/14_固态锂金属电池界面与枝晶穿透.png",
+      "description": "展示 Li/固态电解质界面反应、空隙、局部电流热点、晶界枝晶和短路失效。",
+      "prompt": "Academic 16:9 all-solid-state lithium metal battery failure mechanism with Li-solid electrolyte interface, voids, interphase, current hotspots, dendrite propagation, grain boundaries and mitigation layers."
+    },
+    {
+      "id": "academic-mechanism-diagrams-2026-04-25_15_表面码量子纠错-syndrome-测量",
+      "batch": "academic-mechanism-diagrams-2026-04-25",
+      "category": "energy-quantum",
+      "number": "15",
+      "title": "表面码量子纠错 Syndrome 测量",
+      "image": "assets/images/academic-mechanism-diagrams-2026-04-25/15_表面码量子纠错-syndrome-测量.png",
+      "thumb": "assets/thumbs/academic-mechanism-diagrams-2026-04-25/15_表面码量子纠错-syndrome-测量.png",
+      "description": "展示二维量子比特阵列、X/Z stabilizer、syndrome 时空图、实时解码和阈值曲线。",
+      "prompt": "Academic 16:9 surface code quantum error correction mechanism diagram with data and measure qubits, X/Z stabilizers, syndrome extraction, spacetime graph, real-time decoder and logical error threshold."
     }
   ]
 }
