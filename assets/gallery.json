@@ -1,7 +1,7 @@
 {
   "site": {
     "title": "OpenAI image2 视觉实验",
-    "subtitle": "120 张传播向 AI 海报",
+    "subtitle": "130 张传播向 AI 海报",
     "headline": "OpenAI image2 视觉实验",
     "intro": "每一批图片围绕一个临时主题生成，并按当次最合适的 category 归档；可以是反差创意、真实场景、产品概念、人物叙事或任何新的视觉方向。",
     "coverImage": "assets/contact_sheet_image2.jpg",
@@ -42,6 +42,10 @@
     {
       "id": "wool-felt",
       "label": "羊毛毡"
+    },
+    {
+      "id": "epic-biography",
+      "label": "史诗人生"
     }
   ],
   "batches": [
@@ -92,6 +96,12 @@
       "theme": "羊毛毡木盒微场景 15 例",
       "createdAt": "2026-04-25",
       "count": 15
+    },
+    {
+      "id": "chinese-famous-lives-epic-posters",
+      "theme": "中国名人的一生：史诗艺术海报",
+      "createdAt": "2026-04-25",
+      "count": 10
     }
   ],
   "items": [
@@ -1399,6 +1409,116 @@
       "thumb": "assets/thumbs/wool-felt-micro-scenes-001/15_沙漠仙人掌日落.webp",
       "description": "三种几何仙人掌、黄沙、橙红落日和灰色小石头构成异域自然景。",
       "prompt": "A miniature wool felted desert scene on a small wooden round base, three small green cacti of different heights and shapes, one tall column cactus, one round ball cactus, one branched cactus, warm yellow sand surface, a glowing orange-red round sun setting upright at the back, scattered tiny grey rocks, southwestern desert atmosphere, handcrafted needle felt diorama, visible wool fiber texture, soft warm light, clean white background, no text, no logo, vertical product photography --ar 3:4"
+    },
+    {
+      "id": "chinese-famous-lives-epic-posters_01_孔子-杏坛与黎明",
+      "batch": "chinese-famous-lives-epic-posters",
+      "category": "epic-biography",
+      "number": "01",
+      "title": "孔子：杏坛与黎明",
+      "image": "assets/images/chinese-famous-lives-epic-posters/01_孔子-杏坛与黎明.png",
+      "thumb": "assets/thumbs/chinese-famous-lives-epic-posters/01_孔子-杏坛与黎明.png",
+      "description": "以乱世求道、杏坛授业和礼乐精神构成孔子一生的史诗纵深。",
+      "prompt": "Horizontal 16:9 epic fine-art poster, no readable text, no logos. Confucius (Kongzi) as a dignified ancient Chinese philosopher across a lifetime: young scholar walking through war-torn Lu state, mature teacher beneath an old apricot tree with disciples, aged sage facing a vast dawn over ritual bronze vessels and bamboo slips. High-completion cinematic composition, monumental scale, dramatic clouds, ink-wash texture blended with oil-paint realism, bronze gold accents, powerful emotional impact, museum-grade historical art poster."
+    },
+    {
+      "id": "chinese-famous-lives-epic-posters_02_秦始皇-六合与孤影",
+      "batch": "chinese-famous-lives-epic-posters",
+      "category": "epic-biography",
+      "number": "02",
+      "title": "秦始皇：六合与孤影",
+      "image": "assets/images/chinese-famous-lives-epic-posters/02_秦始皇-六合与孤影.png",
+      "thumb": "assets/thumbs/chinese-famous-lives-epic-posters/02_秦始皇-六合与孤影.png",
+      "description": "从少年嬴政到一统天下，再到陵寝风暴中的孤独帝王。",
+      "prompt": "Horizontal 16:9 epic fine-art poster, no readable text, no logos. Qin Shi Huang as the first emperor across a lifetime: young Ying Zheng in shadow before divided warring states maps, emperor in black imperial robes raising his hand over terracotta soldiers and the Great Wall under construction, final lonely silhouette before a bronze chariot and storm-lit mausoleum. Monumental cinematic Chinese historical epic, high-detail armor, ink and oil painting fusion, cold obsidian black with imperial gold, overwhelming power and tragedy, museum-grade poster."
+    },
+    {
+      "id": "chinese-famous-lives-epic-posters_03_司马迁-忍辱成史",
+      "batch": "chinese-famous-lives-epic-posters",
+      "category": "epic-biography",
+      "number": "03",
+      "title": "司马迁：忍辱成史",
+      "image": "assets/images/chinese-famous-lives-epic-posters/03_司马迁-忍辱成史.png",
+      "thumb": "assets/thumbs/chinese-famous-lives-epic-posters/03_司马迁-忍辱成史.png",
+      "description": "宫廷黑暗、竹简灯火与万千人物，共同压出一部不朽史书。",
+      "prompt": "Horizontal 16:9 epic fine-art poster, no readable text, no logos. Sima Qian, Chinese historian, portrayed through a lifetime of endurance: young court scholar studying star charts and bamboo annals, moment of humiliation suggested symbolically by broken shackles and dark palace corridors, older historian writing the Records of the Grand Historian by lamplight while ghostly dynasties, generals, emperors, and common people rise from ink around him. Profound, tragic, heroic, cinematic, high-detail brushwork, ink-black and warm candle gold, museum-grade historical poster."
+    },
+    {
+      "id": "chinese-famous-lives-epic-posters_04_李白-酒月入云",
+      "batch": "chinese-famous-lives-epic-posters",
+      "category": "epic-biography",
+      "number": "04",
+      "title": "李白：酒月入云",
+      "image": "assets/images/chinese-famous-lives-epic-posters/04_李白-酒月入云.png",
+      "thumb": "assets/thumbs/chinese-famous-lives-epic-posters/04_李白-酒月入云.png",
+      "description": "游侠、诗人、谪仙三重意象在山河月色中汇成浪漫人生。",
+      "prompt": "Horizontal 16:9 epic fine-art poster, no readable text, no logos. Li Bai, Tang dynasty poet, across a blazing romantic life: young wanderer on mountain paths with sword and wine gourd, poet composing under moonlight beside the Yangtze, palace banquet dissolving into clouds, older immortal-like figure reaching toward a moon reflected in water. Sweeping mountains, river mist, flying ink strokes, silver moonlight and wine-gold highlights, cinematic poetry, bold contrast, high-completion Chinese epic art poster."
+    },
+    {
+      "id": "chinese-famous-lives-epic-posters_05_杜甫-风雨诗史",
+      "batch": "chinese-famous-lives-epic-posters",
+      "category": "epic-biography",
+      "number": "05",
+      "title": "杜甫：风雨诗史",
+      "image": "assets/images/chinese-famous-lives-epic-posters/05_杜甫-风雨诗史.png",
+      "thumb": "assets/thumbs/chinese-famous-lives-epic-posters/05_杜甫-风雨诗史.png",
+      "description": "科举、战乱、草堂与万民苦难，凝成杜甫沉雄的人间史诗。",
+      "prompt": "Horizontal 16:9 epic fine-art poster, no readable text, no logos. Du Fu, Tang dynasty poet of conscience, across a life of hardship and witness: young scholar before imperial examinations, war refugees and burning city streets in the An Lushan chaos, the humble thatched cottage in Chengdu under rain, older poet writing by a small lamp while ordinary people appear as luminous silhouettes behind him. Deeply humane, tragic and majestic, cinematic realism with Chinese ink wash, rain, ash, muted earth tones with red ember accents, museum-grade historical poster."
+    },
+    {
+      "id": "chinese-famous-lives-epic-posters_06_苏轼-一蓑烟雨",
+      "batch": "chinese-famous-lives-epic-posters",
+      "category": "epic-biography",
+      "number": "06",
+      "title": "苏轼：一蓑烟雨",
+      "image": "assets/images/chinese-famous-lives-epic-posters/06_苏轼-一蓑烟雨.png",
+      "thumb": "assets/thumbs/chinese-famous-lives-epic-posters/06_苏轼-一蓑烟雨.png",
+      "description": "朝堂、贬谪、赤壁与笔墨山河，呈现苏轼豁达而壮阔的一生。",
+      "prompt": "Horizontal 16:9 epic fine-art poster, no readable text, no logos. Su Shi (Su Dongpo), Song dynasty poet, statesman, artist, across an expansive life: confident young official entering court, exile journey through wind and river cliffs, painter-calligrapher at a table with inkstone and bamboo, elder smiling under a vast moon above Red Cliff with boats and friends. Elegant yet epic, cinematic landscape, luminous river, ink splashes becoming mountains and verses without readable characters, refined Song aesthetics, high-completion fine-art poster."
+    },
+    {
+      "id": "chinese-famous-lives-epic-posters_07_岳飞-山河忠魂",
+      "batch": "chinese-famous-lives-epic-posters",
+      "category": "epic-biography",
+      "number": "07",
+      "title": "岳飞：山河忠魂",
+      "image": "assets/images/chinese-famous-lives-epic-posters/07_岳飞-山河忠魂.png",
+      "thumb": "assets/thumbs/chinese-famous-lives-epic-posters/07_岳飞-山河忠魂.png",
+      "description": "母训、铁骑、风雪军旗与未竟山河共同构成悲壮忠魂。",
+      "prompt": "Horizontal 16:9 epic fine-art poster, no readable text, no logos. Yue Fei, Song dynasty general, across a heroic and tragic life: young warrior training with spear under his mother's watch, commander on horseback leading disciplined troops through banners and snow, loyal general before court intrigue symbolized by dark palace shadows, final spirit standing above mountains and rivers as soldiers bow. Intense cinematic historical epic, armor detail, wind, banners, restrained crimson and steel blue, ink-wash energy, high-completion impactful poster."
+    },
+    {
+      "id": "chinese-famous-lives-epic-posters_08_郑和-万里海图",
+      "batch": "chinese-famous-lives-epic-posters",
+      "category": "epic-biography",
+      "number": "08",
+      "title": "郑和：万里海图",
+      "image": "assets/images/chinese-famous-lives-epic-posters/08_郑和-万里海图.png",
+      "thumb": "assets/thumbs/chinese-famous-lives-epic-posters/08_郑和-万里海图.png",
+      "description": "从宫廷到宝船舰队，以星图、风暴与远洋写就航海史诗。",
+      "prompt": "Horizontal 16:9 epic fine-art poster, no readable text, no logos. Zheng He, Ming dynasty admiral, across a life of oceanic ambition: young palace servant gazing at ship plans, commanding a vast treasure fleet with towering masts and red sails, foreign harbors and star navigation instruments, elder admiral standing at the bow before storm clouds and sunrise over the Indian Ocean. Grand maritime epic, cinematic scale, detailed ships, waves, brass compass, deep teal sea with vermilion accents, ink and oil painting fusion, high-completion historical art poster."
+    },
+    {
+      "id": "chinese-famous-lives-epic-posters_09_林则徐-海潮与烈烟",
+      "batch": "chinese-famous-lives-epic-posters",
+      "category": "epic-biography",
+      "number": "09",
+      "title": "林则徐：海潮与烈烟",
+      "image": "assets/images/chinese-famous-lives-epic-posters/09_林则徐-海潮与烈烟.png",
+      "thumb": "assets/thumbs/chinese-famous-lives-epic-posters/09_林则徐-海潮与烈烟.png",
+      "description": "奏疏、海关、虎门烟云与流放长路，塑造刚直的历史背影。",
+      "prompt": "Horizontal 16:9 epic fine-art poster, no readable text, no logos. Lin Zexu, Qing dynasty official, across a life of moral resolve: young scholar-official at a desk with memorials, commissioner confronting opium trade at a misty coastal port, the Humen opium destruction rendered as huge smoke and waves, later exile road through desert wind while his upright silhouette remains unbroken. Dramatic historical realism, sea cliffs, storm sky, ceremonial robes, blue-gray and burning amber palette, cinematic scale, ink and oil texture, high-completion powerful poster."
+    },
+    {
+      "id": "chinese-famous-lives-epic-posters_10_钱学森-归途与星河",
+      "batch": "chinese-famous-lives-epic-posters",
+      "category": "epic-biography",
+      "number": "10",
+      "title": "钱学森：归途与星河",
+      "image": "assets/images/chinese-famous-lives-epic-posters/10_钱学森-归途与星河.png",
+      "thumb": "assets/thumbs/chinese-famous-lives-epic-posters/10_钱学森-归途与星河.png",
+      "description": "科学、归国、荒漠试验场与星空愿景交织出现代史诗感。",
+      "prompt": "Horizontal 16:9 epic fine-art poster, no readable text, no logos. Qian Xuesen, Chinese aerospace scientist, across a twentieth-century life of science and return: young engineer among wind tunnel blueprints and equations rendered as abstract marks, ocean liner and diplomatic tension suggested by shadowed docks, mature scientist guiding rocket research with launch gantry and desert test range, elder figure looking toward stars over Earth. Heroic but grounded, cinematic science history, no flags or logos, deep indigo sky, white rocket plume, warm human lamplight, high-completion epic art poster."
     }
   ]
 }
