@@ -1,7 +1,7 @@
 {
   "site": {
     "title": "OpenAI image2 视觉实验",
-    "subtitle": "105 张传播向 AI 海报",
+    "subtitle": "120 张传播向 AI 海报",
     "headline": "OpenAI image2 视觉实验",
     "intro": "每一批图片围绕一个临时主题生成，并按当次最合适的 category 归档；可以是反差创意、真实场景、产品概念、人物叙事或任何新的视觉方向。",
     "coverImage": "assets/contact_sheet_image2.jpg",
@@ -58,6 +58,26 @@
     {
       "id": "羊毛毡",
       "label": "羊毛毡"
+    },
+    {
+      "id": "wool-felt-spring-scenes",
+      "label": "羊毛毡春日微景"
+    },
+    {
+      "id": "wool-felt-summer-scenes",
+      "label": "羊毛毡夏日微景"
+    },
+    {
+      "id": "wool-felt-autumn-scenes",
+      "label": "羊毛毡秋日微景"
+    },
+    {
+      "id": "wool-felt-winter-scenes",
+      "label": "羊毛毡冬日微景"
+    },
+    {
+      "id": "wool-felt-dream-nature-scenes",
+      "label": "羊毛毡梦幻自然"
     }
   ],
   "batches": [
@@ -100,6 +120,12 @@
     {
       "id": "wool-felt-contrast-cute-002",
       "theme": "羊毛毡反差萌 Prompt 第二弹 15 例",
+      "createdAt": "2026-04-25",
+      "count": 15
+    },
+    {
+      "id": "wool-felt-micro-scenes-001",
+      "theme": "羊毛毡木盒微场景 15 例",
       "createdAt": "2026-04-25",
       "count": 15
     }
@@ -1244,6 +1270,171 @@
       "thumb": "assets/thumbs/wool-felt-contrast-cute-002/15_小动物团队搬巨型草莓.webp",
       "description": "老鼠、仓鼠、兔子和刺猬合力搬起一颗比它们都大的羊毛毡草莓。",
       "prompt": "Wide 16:9 studio craft scene on cream linen: a team of tiny needle-felted wool animals, mouse, hamster, bunny, and hedgehog, working together to carry an oversized wool-felt strawberry bigger than all of them combined, tiny paws gripping the fruit, dynamic cooperative action pose, charming teamwork, soft studio light, highly detailed wool fibers, cute handmade diorama, no readable text, no logo"
+    },
+    {
+      "id": "wool-felt-micro-scenes-001_01_樱花拱桥",
+      "batch": "wool-felt-micro-scenes-001",
+      "category": "wool-felt-spring-scenes",
+      "number": "01",
+      "title": "樱花拱桥",
+      "image": "assets/images/wool-felt-micro-scenes-001/01_樱花拱桥.png",
+      "thumb": "assets/thumbs/wool-felt-micro-scenes-001/01_樱花拱桥.webp",
+      "description": "粉色樱花树、米色拱桥和浅蓝小溪装进圆形木盒底座。",
+      "prompt": "A miniature needle felted scene mounted on a small wooden cylindrical base, featuring a single fluffy pink cherry blossom tree with a short thick brown trunk, an arched cream-colored bridge over a small light blue stream, soft green grass surface, scattered pink petals, dreamy spring atmosphere, handcrafted wool felt diorama, visible wool fibers, shallow depth of field, soft natural light, clean white background, no text, no logo, vertical product photography --ar 3:4"
+    },
+    {
+      "id": "wool-felt-micro-scenes-001_02_蘑菇森林小径",
+      "batch": "wool-felt-micro-scenes-001",
+      "category": "wool-felt-spring-scenes",
+      "number": "02",
+      "title": "蘑菇森林小径",
+      "image": "assets/images/wool-felt-micro-scenes-001/02_蘑菇森林小径.png",
+      "thumb": "assets/thumbs/wool-felt-micro-scenes-001/02_蘑菇森林小径.webp",
+      "description": "三颗红白蘑菇、苔藓草地和灰色小石子小路组成童话森林。",
+      "prompt": "A miniature wool felted forest scene on a small wooden round base, three red mushrooms with white dots in different sizes, mossy green grass surface, a winding stone path made of tiny grey pebbles, two small white flowers, fairytale forest atmosphere, handcrafted wool felt diorama, visible fiber texture, soft top light, clean white background, no text, no logo, vertical product photography --ar 3:4"
+    },
+    {
+      "id": "wool-felt-micro-scenes-001_03_蘑菇精灵屋",
+      "batch": "wool-felt-micro-scenes-001",
+      "category": "wool-felt-spring-scenes",
+      "number": "03",
+      "title": "蘑菇精灵屋",
+      "image": "assets/images/wool-felt-micro-scenes-001/03_蘑菇精灵屋.png",
+      "thumb": "assets/thumbs/wool-felt-micro-scenes-001/03_蘑菇精灵屋.webp",
+      "description": "一颗大蘑菇变成精灵小屋，圆门、小窗和花草细节突出手作感。",
+      "prompt": "A miniature wool felted fairy mushroom house scene on a small wooden round base, one oversized red mushroom with white dots whose cap serves as the roof, a tiny round brown door and two small windows on the white mushroom stem, soft green grass with small pink and yellow flowers, fairytale handmade craft atmosphere, visible wool fiber texture, soft warm light, clean white background, no text, no logo, vertical product photography --ar 3:4"
+    },
+    {
+      "id": "wool-felt-micro-scenes-001_04_春日小羊牧场",
+      "batch": "wool-felt-micro-scenes-001",
+      "category": "wool-felt-spring-scenes",
+      "number": "04",
+      "title": "春日小羊牧场",
+      "image": "assets/images/wool-felt-micro-scenes-001/04_春日小羊牧场.png",
+      "thumb": "assets/thumbs/wool-felt-micro-scenes-001/04_春日小羊牧场.webp",
+      "description": "圆球小羊站在嫩绿草坡上，旁边是一棵简化矮树和小黄花。",
+      "prompt": "A miniature wool felted spring meadow scene on a small wooden round base, a single fluffy white sheep with a small black face standing on green rolling grass, one short simplified tree with thick brown trunk and round green crown, scattered tiny yellow flowers, peaceful pastoral atmosphere, handmade needle felt craft, visible wool fiber texture, soft morning light, clean white background, no text, no logo, vertical product photography --ar 3:4"
+    },
+    {
+      "id": "wool-felt-micro-scenes-001_05_椰岛日落",
+      "batch": "wool-felt-micro-scenes-001",
+      "category": "wool-felt-summer-scenes",
+      "number": "05",
+      "title": "椰岛日落",
+      "image": "assets/images/wool-felt-micro-scenes-001/05_椰岛日落.png",
+      "thumb": "assets/thumbs/wool-felt-micro-scenes-001/05_椰岛日落.webp",
+      "description": "沙岛、简化椰子树、蓝绿海浪和橙粉日落构成夏日木盒景观。",
+      "prompt": "A miniature needle felted tropical island scene on a small wooden cylindrical base, a round sandy island with one simplified palm tree, thick brown trunk and four large green wool leaves, turquoise blue ocean waves around the island, two tiny shells on the sand, warm orange and pink sunset backdrop, summer beach atmosphere, handcrafted wool felt diorama, visible fiber texture, soft warm light, clean white background, no text, no logo, vertical product photography --ar 3:4"
+    },
+    {
+      "id": "wool-felt-micro-scenes-001_06_莲花池小鸭",
+      "batch": "wool-felt-micro-scenes-001",
+      "category": "wool-felt-summer-scenes",
+      "number": "06",
+      "title": "莲花池小鸭",
+      "image": "assets/images/wool-felt-micro-scenes-001/06_莲花池小鸭.png",
+      "thumb": "assets/thumbs/wool-felt-micro-scenes-001/06_莲花池小鸭.webp",
+      "description": "蓝绿池塘、粉色睡莲和白色小鸭让画面轻巧安静。",
+      "prompt": "A miniature wool felted lotus pond scene on a small wooden round base, a circular teal blue pond surface with three pink water lilies floating, a tiny white duck swimming in the center, soft green grass border around the pond with small grey stones, peaceful summer atmosphere, handmade needle felt diorama, visible wool fiber texture, soft natural light, clean white background, no text, no logo, square product photography --ar 1:1"
+    },
+    {
+      "id": "wool-felt-micro-scenes-001_07_海边灯塔",
+      "batch": "wool-felt-micro-scenes-001",
+      "category": "wool-felt-summer-scenes",
+      "number": "07",
+      "title": "海边灯塔",
+      "image": "assets/images/wool-felt-micro-scenes-001/07_海边灯塔.png",
+      "thumb": "assets/thumbs/wool-felt-micro-scenes-001/07_海边灯塔.webp",
+      "description": "红白灯塔立在绿色悬崖上，蓝色海面和岩石增强海边层次。",
+      "prompt": "A miniature wool felted coastal scene on a small wooden round base, a small red and white striped lighthouse on top of a grassy green cliff, deep blue ocean wool fibers below the cliff, scattered grey rocks at the base, one tiny simple white seagull in the scene, bright summer seaside atmosphere, handcrafted needle felt diorama, visible wool fiber texture, soft natural light, clean white background, no text, no logo, vertical product photography --ar 3:4"
+    },
+    {
+      "id": "wool-felt-micro-scenes-001_08_枫树小屋",
+      "batch": "wool-felt-micro-scenes-001",
+      "category": "wool-felt-autumn-scenes",
+      "number": "08",
+      "title": "枫树小屋",
+      "image": "assets/images/wool-felt-micro-scenes-001/08_枫树小屋.png",
+      "thumb": "assets/thumbs/wool-felt-micro-scenes-001/08_枫树小屋.webp",
+      "description": "橙红枫树与暖窗小木屋形成秋季童话感。",
+      "prompt": "A miniature needle felted autumn scene on a small wooden round base, a fluffy orange-red maple tree with a short thick trunk, a small beige wooden cottage made of simple round shapes with pointed brown roof and one warm yellow glowing window, autumn leaves scattered on a warm yellow-orange ground, cozy fall atmosphere, handmade wool felt diorama, visible wool fiber texture, soft warm light, clean white background, no text, no logo, vertical product photography --ar 3:4"
+    },
+    {
+      "id": "wool-felt-micro-scenes-001_09_麦田稻草人",
+      "batch": "wool-felt-micro-scenes-001",
+      "category": "wool-felt-autumn-scenes",
+      "number": "09",
+      "title": "麦田稻草人",
+      "image": "assets/images/wool-felt-micro-scenes-001/09_麦田稻草人.png",
+      "thumb": "assets/thumbs/wool-felt-micro-scenes-001/09_麦田稻草人.webp",
+      "description": "金黄麦田里站着蓝衣稻草人，背景白云让构图更轻快。",
+      "prompt": "A miniature wool felted wheat field scene on a small wooden round base, golden yellow fluffy wool texture as the wheat ground, a small simple scarecrow with brown straw hat and blue cloth body in the center, two fluffy white clouds on a simple pale blue sky backdrop, harvest autumn atmosphere, handmade needle felt diorama, visible wool fibers, soft afternoon light, clean white background, no text, no logo, vertical product photography --ar 3:4"
+    },
+    {
+      "id": "wool-felt-micro-scenes-001_10_雪屋松树",
+      "batch": "wool-felt-micro-scenes-001",
+      "category": "wool-felt-winter-scenes",
+      "number": "10",
+      "title": "雪屋松树",
+      "image": "assets/images/wool-felt-micro-scenes-001/10_雪屋松树.png",
+      "thumb": "assets/thumbs/wool-felt-micro-scenes-001/10_雪屋松树.webp",
+      "description": "雪地、小木屋、圆锥松树和烟囱白烟组成安静冬日。",
+      "prompt": "A miniature needle felted winter scene on a small wooden round base, soft white snow ground, a tiny warm wooden cottage with a small chimney and warm yellow glowing window, a single dark green pine tree shaped like a perfect cone, gentle thin white wool smoke wisps from the chimney, peaceful winter atmosphere, handcrafted wool felt diorama, visible wool fiber texture, soft cool light, clean white background, no text, no logo, vertical product photography --ar 3:4"
+    },
+    {
+      "id": "wool-felt-micro-scenes-001_11_雪人圣诞",
+      "batch": "wool-felt-micro-scenes-001",
+      "category": "wool-felt-winter-scenes",
+      "number": "11",
+      "title": "雪人圣诞",
+      "image": "assets/images/wool-felt-micro-scenes-001/11_雪人圣诞.png",
+      "thumb": "assets/thumbs/wool-felt-micro-scenes-001/11_雪人圣诞.webp",
+      "description": "三球雪人、红围巾和小圣诞树让冬季场景更有节日感。",
+      "prompt": "A miniature wool felted christmas scene on a small wooden round base, a cute snowman made from three stacked round white wool balls, red scarf, orange carrot nose, simple brown stick arms, beside a small green christmas tree decorated with tiny red wool dots, white snowy ground, festive winter atmosphere, handcrafted needle felt diorama, visible wool fiber texture, soft warm light, clean white background, no text, no logo, vertical product photography --ar 3:4"
+    },
+    {
+      "id": "wool-felt-micro-scenes-001_12_北极企鹅",
+      "batch": "wool-felt-micro-scenes-001",
+      "category": "wool-felt-winter-scenes",
+      "number": "12",
+      "title": "北极企鹅",
+      "image": "assets/images/wool-felt-micro-scenes-001/12_北极企鹅.png",
+      "thumb": "assets/thumbs/wool-felt-micro-scenes-001/12_北极企鹅.webp",
+      "description": "极简雪丘、淡蓝冰湖和黑白企鹅保留大量留白。",
+      "prompt": "A miniature wool felted arctic scene on a small wooden round base, a small white snowy hill on one side, a single tiny black-and-white penguin with orange beak standing near the edge, a smooth pale blue ice lake surface, a small pile of snow beside it, minimalist winter composition, handmade wool felt diorama, visible wool fiber texture, soft cool light, clean white background, no text, no logo, vertical product photography --ar 3:4"
+    },
+    {
+      "id": "wool-felt-micro-scenes-001_13_月夜湖天鹅",
+      "batch": "wool-felt-micro-scenes-001",
+      "category": "wool-felt-dream-nature-scenes",
+      "number": "13",
+      "title": "月夜湖天鹅",
+      "image": "assets/images/wool-felt-micro-scenes-001/13_月夜湖天鹅.png",
+      "thumb": "assets/thumbs/wool-felt-micro-scenes-001/13_月夜湖天鹅.webp",
+      "description": "深蓝湖面、圆月、白天鹅和芦苇形成夜色微场景。",
+      "prompt": "A miniature wool felted moonlit night scene on a small wooden round base, a deep navy blue lake surface, a glowing warm yellow round full moon rising upright at the back, a single elegant white swan gliding on the water, two tall white reeds at the edge, dreamy moonlit atmosphere, handcrafted needle felt diorama, visible wool fiber texture, soft cool blue light, clean white background, no text, no logo, vertical product photography --ar 3:4"
+    },
+    {
+      "id": "wool-felt-micro-scenes-001_14_云端小屋",
+      "batch": "wool-felt-micro-scenes-001",
+      "category": "wool-felt-dream-nature-scenes",
+      "number": "14",
+      "title": "云端小屋",
+      "image": "assets/images/wool-felt-micro-scenes-001/14_云端小屋.png",
+      "thumb": "assets/thumbs/wool-felt-micro-scenes-001/14_云端小屋.webp",
+      "description": "蓬松白云托起童话小屋，弯月和星星增强梦幻感。",
+      "prompt": "A miniature wool felted dreamlike scene on a small wooden round base, a fluffy white cloud as the entire base structure, a tiny fairytale cottage sitting on top with a round dome roof, a small crescent moon and three tiny stars floating around, dreamy purple blue night sky backdrop, magical atmosphere, handcrafted needle felt diorama, visible wool fibers, soft glowing light, clean white background, no text, no logo, vertical product photography --ar 3:4"
+    },
+    {
+      "id": "wool-felt-micro-scenes-001_15_沙漠仙人掌日落",
+      "batch": "wool-felt-micro-scenes-001",
+      "category": "wool-felt-dream-nature-scenes",
+      "number": "15",
+      "title": "沙漠仙人掌日落",
+      "image": "assets/images/wool-felt-micro-scenes-001/15_沙漠仙人掌日落.png",
+      "thumb": "assets/thumbs/wool-felt-micro-scenes-001/15_沙漠仙人掌日落.webp",
+      "description": "三种几何仙人掌、黄沙、橙红落日和灰色小石头构成异域自然景。",
+      "prompt": "A miniature wool felted desert scene on a small wooden round base, three small green cacti of different heights and shapes, one tall column cactus, one round ball cactus, one branched cactus, warm yellow sand surface, a glowing orange-red round sun setting upright at the back, scattered tiny grey rocks, southwestern desert atmosphere, handcrafted needle felt diorama, visible wool fiber texture, soft warm light, clean white background, no text, no logo, vertical product photography --ar 3:4"
     }
   ]
 }
