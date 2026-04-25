@@ -40,44 +40,8 @@
       "label": "品牌VI Mockup"
     },
     {
-      "id": "wool-felt-contrast-cute",
-      "label": "羊毛毡反差萌"
-    },
-    {
-      "id": "wool-felt-seasonal",
-      "label": "羊毛毡节日季节"
-    },
-    {
-      "id": "wool-felt-profession",
-      "label": "羊毛毡职业拟人"
-    },
-    {
-      "id": "wool-felt-artful",
-      "label": "羊毛毡账号调性"
-    },
-    {
-      "id": "羊毛毡",
+      "id": "wool-felt",
       "label": "羊毛毡"
-    },
-    {
-      "id": "wool-felt-spring-scenes",
-      "label": "羊毛毡春日微景"
-    },
-    {
-      "id": "wool-felt-summer-scenes",
-      "label": "羊毛毡夏日微景"
-    },
-    {
-      "id": "wool-felt-autumn-scenes",
-      "label": "羊毛毡秋日微景"
-    },
-    {
-      "id": "wool-felt-winter-scenes",
-      "label": "羊毛毡冬日微景"
-    },
-    {
-      "id": "wool-felt-dream-nature-scenes",
-      "label": "羊毛毡梦幻自然"
     }
   ],
   "batches": [
@@ -944,7 +908,7 @@
     {
       "id": "wool-felt-xhs-prompts-001_01_寿司里的小猫",
       "batch": "wool-felt-xhs-prompts-001",
-      "category": "wool-felt-contrast-cute",
+      "category": "wool-felt",
       "number": "01",
       "title": "寿司里的小猫",
       "image": "assets/images/wool-felt-xhs-prompts-001/01_寿司里的小猫.png",
@@ -955,7 +919,7 @@
     {
       "id": "wool-felt-xhs-prompts-001_02_馒头里的仓鼠",
       "batch": "wool-felt-xhs-prompts-001",
-      "category": "wool-felt-contrast-cute",
+      "category": "wool-felt",
       "number": "02",
       "title": "馒头里的仓鼠",
       "image": "assets/images/wool-felt-xhs-prompts-001/02_馒头里的仓鼠.png",
@@ -966,7 +930,7 @@
     {
       "id": "wool-felt-xhs-prompts-001_03_杯子里的水豚汤",
       "batch": "wool-felt-xhs-prompts-001",
-      "category": "wool-felt-contrast-cute",
+      "category": "wool-felt",
       "number": "03",
       "title": "杯子里的水豚汤",
       "image": "assets/images/wool-felt-xhs-prompts-001/03_杯子里的水豚汤.png",
@@ -977,7 +941,7 @@
     {
       "id": "wool-felt-xhs-prompts-001_04_水果伪装动物",
       "batch": "wool-felt-xhs-prompts-001",
-      "category": "wool-felt-contrast-cute",
+      "category": "wool-felt",
       "number": "04",
       "title": "水果伪装动物",
       "image": "assets/images/wool-felt-xhs-prompts-001/04_水果伪装动物.png",
@@ -988,7 +952,7 @@
     {
       "id": "wool-felt-xhs-prompts-001_05_巨型动物搬运工",
       "batch": "wool-felt-xhs-prompts-001",
-      "category": "wool-felt-contrast-cute",
+      "category": "wool-felt",
       "number": "05",
       "title": "巨型动物搬运工",
       "image": "assets/images/wool-felt-xhs-prompts-001/05_巨型动物搬运工.png",
@@ -999,7 +963,7 @@
     {
       "id": "wool-felt-xhs-prompts-001_06_樱花季的柴犬",
       "batch": "wool-felt-xhs-prompts-001",
-      "category": "wool-felt-seasonal",
+      "category": "wool-felt",
       "number": "06",
       "title": "樱花季的柴犬",
       "image": "assets/images/wool-felt-xhs-prompts-001/06_樱花季的柴犬.png",
@@ -1010,7 +974,7 @@
     {
       "id": "wool-felt-xhs-prompts-001_07_中秋赏月猫",
       "batch": "wool-felt-xhs-prompts-001",
-      "category": "wool-felt-seasonal",
+      "category": "wool-felt",
       "number": "07",
       "title": "中秋赏月猫",
       "image": "assets/images/wool-felt-xhs-prompts-001/07_中秋赏月猫.png",
@@ -1021,7 +985,7 @@
     {
       "id": "wool-felt-xhs-prompts-001_08_春节舞狮兔",
       "batch": "wool-felt-xhs-prompts-001",
-      "category": "wool-felt-seasonal",
+      "category": "wool-felt",
       "number": "08",
       "title": "春节舞狮兔",
       "image": "assets/images/wool-felt-xhs-prompts-001/08_春节舞狮兔.png",
@@ -1032,7 +996,7 @@
     {
       "id": "wool-felt-xhs-prompts-001_09_圣诞驯鹿",
       "batch": "wool-felt-xhs-prompts-001",
-      "category": "wool-felt-seasonal",
+      "category": "wool-felt",
       "number": "09",
       "title": "圣诞驯鹿",
       "image": "assets/images/wool-felt-xhs-prompts-001/09_圣诞驯鹿.png",
@@ -1043,7 +1007,7 @@
     {
       "id": "wool-felt-xhs-prompts-001_10_咖啡师猫咪",
       "batch": "wool-felt-xhs-prompts-001",
-      "category": "wool-felt-profession",
+      "category": "wool-felt",
       "number": "10",
       "title": "咖啡师猫咪",
       "image": "assets/images/wool-felt-xhs-prompts-001/10_咖啡师猫咪.png",
@@ -1054,7 +1018,7 @@
     {
       "id": "wool-felt-xhs-prompts-001_11_花艺师兔子",
       "batch": "wool-felt-xhs-prompts-001",
-      "category": "wool-felt-profession",
+      "category": "wool-felt",
       "number": "11",
       "title": "花艺师兔子",
       "image": "assets/images/wool-felt-xhs-prompts-001/11_花艺师兔子.png",
@@ -1065,7 +1029,7 @@
     {
       "id": "wool-felt-xhs-prompts-001_12_邮差小狐狸",
       "batch": "wool-felt-xhs-prompts-001",
-      "category": "wool-felt-profession",
+      "category": "wool-felt",
       "number": "12",
       "title": "邮差小狐狸",
       "image": "assets/images/wool-felt-xhs-prompts-001/12_邮差小狐狸.png",
@@ -1076,7 +1040,7 @@
     {
       "id": "wool-felt-xhs-prompts-001_13_蘑菇林里的小狐狸",
       "batch": "wool-felt-xhs-prompts-001",
-      "category": "wool-felt-artful",
+      "category": "wool-felt",
       "number": "13",
       "title": "蘑菇林里的小狐狸",
       "image": "assets/images/wool-felt-xhs-prompts-001/13_蘑菇林里的小狐狸.png",
@@ -1087,7 +1051,7 @@
     {
       "id": "wool-felt-xhs-prompts-001_14_国风丹顶鹤",
       "batch": "wool-felt-xhs-prompts-001",
-      "category": "wool-felt-artful",
+      "category": "wool-felt",
       "number": "14",
       "title": "国风丹顶鹤",
       "image": "assets/images/wool-felt-xhs-prompts-001/14_国风丹顶鹤.png",
@@ -1098,7 +1062,7 @@
     {
       "id": "wool-felt-xhs-prompts-001_15_长腿鹿宝宝",
       "batch": "wool-felt-xhs-prompts-001",
-      "category": "wool-felt-artful",
+      "category": "wool-felt",
       "number": "15",
       "title": "长腿鹿宝宝",
       "image": "assets/images/wool-felt-xhs-prompts-001/15_长腿鹿宝宝.png",
@@ -1109,7 +1073,7 @@
     {
       "id": "wool-felt-contrast-cute-002_01_拉花咖啡浮出小猫",
       "batch": "wool-felt-contrast-cute-002",
-      "category": "羊毛毡",
+      "category": "wool-felt",
       "number": "01",
       "title": "拉花咖啡浮出小猫",
       "image": "assets/images/wool-felt-contrast-cute-002/01_拉花咖啡浮出小猫.png",
@@ -1120,7 +1084,7 @@
     {
       "id": "wool-felt-contrast-cute-002_02_小笼包里的仓鼠",
       "batch": "wool-felt-contrast-cute-002",
-      "category": "羊毛毡",
+      "category": "wool-felt",
       "number": "02",
       "title": "小笼包里的仓鼠",
       "image": "assets/images/wool-felt-contrast-cute-002/02_小笼包里的仓鼠.png",
@@ -1131,7 +1095,7 @@
     {
       "id": "wool-felt-contrast-cute-002_03_半熟蛋里的小鸡屁股",
       "batch": "wool-felt-contrast-cute-002",
-      "category": "羊毛毡",
+      "category": "wool-felt",
       "number": "03",
       "title": "半熟蛋里的小鸡屁股",
       "image": "assets/images/wool-felt-contrast-cute-002/03_半熟蛋里的小鸡屁股.png",
@@ -1142,7 +1106,7 @@
     {
       "id": "wool-felt-contrast-cute-002_04_三球冰激凌仓鼠",
       "batch": "wool-felt-contrast-cute-002",
-      "category": "羊毛毡",
+      "category": "wool-felt",
       "number": "04",
       "title": "三球冰激凌仓鼠",
       "image": "assets/images/wool-felt-contrast-cute-002/04_三球冰激凌仓鼠.png",
@@ -1153,7 +1117,7 @@
     {
       "id": "wool-felt-contrast-cute-002_05_糖葫芦串是小鸟",
       "batch": "wool-felt-contrast-cute-002",
-      "category": "羊毛毡",
+      "category": "wool-felt",
       "number": "05",
       "title": "糖葫芦串是小鸟",
       "image": "assets/images/wool-felt-contrast-cute-002/05_糖葫芦串是小鸟.png",
@@ -1164,7 +1128,7 @@
     {
       "id": "wool-felt-contrast-cute-002_06_拖鞋是腊肠犬",
       "batch": "wool-felt-contrast-cute-002",
-      "category": "羊毛毡",
+      "category": "wool-felt",
       "number": "06",
       "title": "拖鞋是腊肠犬",
       "image": "assets/images/wool-felt-contrast-cute-002/06_拖鞋是腊肠犬.png",
@@ -1175,7 +1139,7 @@
     {
       "id": "wool-felt-contrast-cute-002_07_围巾是长猫",
       "batch": "wool-felt-contrast-cute-002",
-      "category": "羊毛毡",
+      "category": "wool-felt",
       "number": "07",
       "title": "围巾是长猫",
       "image": "assets/images/wool-felt-contrast-cute-002/07_围巾是长猫.png",
@@ -1186,7 +1150,7 @@
     {
       "id": "wool-felt-contrast-cute-002_08_抱枕是巨柯基屁股",
       "batch": "wool-felt-contrast-cute-002",
-      "category": "羊毛毡",
+      "category": "wool-felt",
       "number": "08",
       "title": "抱枕是巨柯基屁股",
       "image": "assets/images/wool-felt-contrast-cute-002/08_抱枕是巨柯基屁股.png",
@@ -1197,7 +1161,7 @@
     {
       "id": "wool-felt-contrast-cute-002_09_拖把头是松狮",
       "batch": "wool-felt-contrast-cute-002",
-      "category": "羊毛毡",
+      "category": "wool-felt",
       "number": "09",
       "title": "拖把头是松狮",
       "image": "assets/images/wool-felt-contrast-cute-002/09_拖把头是松狮.png",
@@ -1208,7 +1172,7 @@
     {
       "id": "wool-felt-contrast-cute-002_10_沙发是巨猫",
       "batch": "wool-felt-contrast-cute-002",
-      "category": "羊毛毡",
+      "category": "wool-felt",
       "number": "10",
       "title": "沙发是巨猫",
       "image": "assets/images/wool-felt-contrast-cute-002/10_沙发是巨猫.png",
@@ -1219,7 +1183,7 @@
     {
       "id": "wool-felt-contrast-cute-002_11_蛋盒里的小鸟",
       "batch": "wool-felt-contrast-cute-002",
-      "category": "羊毛毡",
+      "category": "wool-felt",
       "number": "11",
       "title": "蛋盒里的小鸟",
       "image": "assets/images/wool-felt-contrast-cute-002/11_蛋盒里的小鸟.png",
@@ -1230,7 +1194,7 @@
     {
       "id": "wool-felt-contrast-cute-002_12_抽屉里的袜子卷是动物",
       "batch": "wool-felt-contrast-cute-002",
-      "category": "羊毛毡",
+      "category": "wool-felt",
       "number": "12",
       "title": "抽屉里的袜子卷是动物",
       "image": "assets/images/wool-felt-contrast-cute-002/12_抽屉里的袜子卷是动物.png",
@@ -1241,7 +1205,7 @@
     {
       "id": "wool-felt-contrast-cute-002_13_多肉盆栽是动物屁股",
       "batch": "wool-felt-contrast-cute-002",
-      "category": "羊毛毡",
+      "category": "wool-felt",
       "number": "13",
       "title": "多肉盆栽是动物屁股",
       "image": "assets/images/wool-felt-contrast-cute-002/13_多肉盆栽是动物屁股.png",
@@ -1252,7 +1216,7 @@
     {
       "id": "wool-felt-contrast-cute-002_14_巨型狗当被子",
       "batch": "wool-felt-contrast-cute-002",
-      "category": "羊毛毡",
+      "category": "wool-felt",
       "number": "14",
       "title": "巨型狗当被子",
       "image": "assets/images/wool-felt-contrast-cute-002/14_巨型狗当被子.png",
@@ -1263,7 +1227,7 @@
     {
       "id": "wool-felt-contrast-cute-002_15_小动物团队搬巨型草莓",
       "batch": "wool-felt-contrast-cute-002",
-      "category": "羊毛毡",
+      "category": "wool-felt",
       "number": "15",
       "title": "小动物团队搬巨型草莓",
       "image": "assets/images/wool-felt-contrast-cute-002/15_小动物团队搬巨型草莓.png",
@@ -1274,7 +1238,7 @@
     {
       "id": "wool-felt-micro-scenes-001_01_樱花拱桥",
       "batch": "wool-felt-micro-scenes-001",
-      "category": "wool-felt-spring-scenes",
+      "category": "wool-felt",
       "number": "01",
       "title": "樱花拱桥",
       "image": "assets/images/wool-felt-micro-scenes-001/01_樱花拱桥.png",
@@ -1285,7 +1249,7 @@
     {
       "id": "wool-felt-micro-scenes-001_02_蘑菇森林小径",
       "batch": "wool-felt-micro-scenes-001",
-      "category": "wool-felt-spring-scenes",
+      "category": "wool-felt",
       "number": "02",
       "title": "蘑菇森林小径",
       "image": "assets/images/wool-felt-micro-scenes-001/02_蘑菇森林小径.png",
@@ -1296,7 +1260,7 @@
     {
       "id": "wool-felt-micro-scenes-001_03_蘑菇精灵屋",
       "batch": "wool-felt-micro-scenes-001",
-      "category": "wool-felt-spring-scenes",
+      "category": "wool-felt",
       "number": "03",
       "title": "蘑菇精灵屋",
       "image": "assets/images/wool-felt-micro-scenes-001/03_蘑菇精灵屋.png",
@@ -1307,7 +1271,7 @@
     {
       "id": "wool-felt-micro-scenes-001_04_春日小羊牧场",
       "batch": "wool-felt-micro-scenes-001",
-      "category": "wool-felt-spring-scenes",
+      "category": "wool-felt",
       "number": "04",
       "title": "春日小羊牧场",
       "image": "assets/images/wool-felt-micro-scenes-001/04_春日小羊牧场.png",
@@ -1318,7 +1282,7 @@
     {
       "id": "wool-felt-micro-scenes-001_05_椰岛日落",
       "batch": "wool-felt-micro-scenes-001",
-      "category": "wool-felt-summer-scenes",
+      "category": "wool-felt",
       "number": "05",
       "title": "椰岛日落",
       "image": "assets/images/wool-felt-micro-scenes-001/05_椰岛日落.png",
@@ -1329,7 +1293,7 @@
     {
       "id": "wool-felt-micro-scenes-001_06_莲花池小鸭",
       "batch": "wool-felt-micro-scenes-001",
-      "category": "wool-felt-summer-scenes",
+      "category": "wool-felt",
       "number": "06",
       "title": "莲花池小鸭",
       "image": "assets/images/wool-felt-micro-scenes-001/06_莲花池小鸭.png",
@@ -1340,7 +1304,7 @@
     {
       "id": "wool-felt-micro-scenes-001_07_海边灯塔",
       "batch": "wool-felt-micro-scenes-001",
-      "category": "wool-felt-summer-scenes",
+      "category": "wool-felt",
       "number": "07",
       "title": "海边灯塔",
       "image": "assets/images/wool-felt-micro-scenes-001/07_海边灯塔.png",
@@ -1351,7 +1315,7 @@
     {
       "id": "wool-felt-micro-scenes-001_08_枫树小屋",
       "batch": "wool-felt-micro-scenes-001",
-      "category": "wool-felt-autumn-scenes",
+      "category": "wool-felt",
       "number": "08",
       "title": "枫树小屋",
       "image": "assets/images/wool-felt-micro-scenes-001/08_枫树小屋.png",
@@ -1362,7 +1326,7 @@
     {
       "id": "wool-felt-micro-scenes-001_09_麦田稻草人",
       "batch": "wool-felt-micro-scenes-001",
-      "category": "wool-felt-autumn-scenes",
+      "category": "wool-felt",
       "number": "09",
       "title": "麦田稻草人",
       "image": "assets/images/wool-felt-micro-scenes-001/09_麦田稻草人.png",
@@ -1373,7 +1337,7 @@
     {
       "id": "wool-felt-micro-scenes-001_10_雪屋松树",
       "batch": "wool-felt-micro-scenes-001",
-      "category": "wool-felt-winter-scenes",
+      "category": "wool-felt",
       "number": "10",
       "title": "雪屋松树",
       "image": "assets/images/wool-felt-micro-scenes-001/10_雪屋松树.png",
@@ -1384,7 +1348,7 @@
     {
       "id": "wool-felt-micro-scenes-001_11_雪人圣诞",
       "batch": "wool-felt-micro-scenes-001",
-      "category": "wool-felt-winter-scenes",
+      "category": "wool-felt",
       "number": "11",
       "title": "雪人圣诞",
       "image": "assets/images/wool-felt-micro-scenes-001/11_雪人圣诞.png",
@@ -1395,7 +1359,7 @@
     {
       "id": "wool-felt-micro-scenes-001_12_北极企鹅",
       "batch": "wool-felt-micro-scenes-001",
-      "category": "wool-felt-winter-scenes",
+      "category": "wool-felt",
       "number": "12",
       "title": "北极企鹅",
       "image": "assets/images/wool-felt-micro-scenes-001/12_北极企鹅.png",
@@ -1406,7 +1370,7 @@
     {
       "id": "wool-felt-micro-scenes-001_13_月夜湖天鹅",
       "batch": "wool-felt-micro-scenes-001",
-      "category": "wool-felt-dream-nature-scenes",
+      "category": "wool-felt",
       "number": "13",
       "title": "月夜湖天鹅",
       "image": "assets/images/wool-felt-micro-scenes-001/13_月夜湖天鹅.png",
@@ -1417,7 +1381,7 @@
     {
       "id": "wool-felt-micro-scenes-001_14_云端小屋",
       "batch": "wool-felt-micro-scenes-001",
-      "category": "wool-felt-dream-nature-scenes",
+      "category": "wool-felt",
       "number": "14",
       "title": "云端小屋",
       "image": "assets/images/wool-felt-micro-scenes-001/14_云端小屋.png",
@@ -1428,7 +1392,7 @@
     {
       "id": "wool-felt-micro-scenes-001_15_沙漠仙人掌日落",
       "batch": "wool-felt-micro-scenes-001",
-      "category": "wool-felt-dream-nature-scenes",
+      "category": "wool-felt",
       "number": "15",
       "title": "沙漠仙人掌日落",
       "image": "assets/images/wool-felt-micro-scenes-001/15_沙漠仙人掌日落.png",

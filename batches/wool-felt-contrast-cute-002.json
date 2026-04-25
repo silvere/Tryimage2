@@ -5,7 +5,7 @@
   "items": [
     {
       "source": "01_latte_cat.png",
-      "category": "羊毛毡",
+      "category": "wool-felt",
       "categoryLabel": "羊毛毡",
       "title": "拉花咖啡浮出小猫",
       "description": "拿铁奶泡上的拉花变成从牛奶里浮出来的小猫耳朵和弯月眼。",
@@ -13,7 +13,7 @@
     },
     {
       "source": "02_xiaolongbao_hamsters.png",
-      "category": "羊毛毡",
+      "category": "wool-felt",
       "categoryLabel": "羊毛毡",
       "title": "小笼包里的仓鼠",
       "description": "竹蒸笼里的小笼包全部变成蜷成包子形状的小仓鼠。",
@@ -21,7 +21,7 @@
     },
     {
       "source": "03_soft_boiled_chick.png",
-      "category": "羊毛毡",
+      "category": "wool-felt",
       "categoryLabel": "羊毛毡",
       "title": "半熟蛋里的小鸡屁股",
       "description": "切开的半熟蛋里，金黄蛋黄其实是一只小鸡蜷起来的背影。",
@@ -29,7 +29,7 @@
     },
     {
       "source": "04_ice_cream_hamsters.png",
-      "category": "羊毛毡",
+      "category": "wool-felt",
       "categoryLabel": "羊毛毡",
       "title": "三球冰激凌仓鼠",
       "description": "甜筒上的草莓、薄荷和香草冰激凌球，其实是三只缩成球的仓鼠。",
@@ -37,7 +37,7 @@
     },
     {
       "source": "05_tanghulu_birds.png",
-      "category": "羊毛毡",
+      "category": "wool-felt",
       "categoryLabel": "羊毛毡",
       "title": "糖葫芦串是小鸟",
       "description": "冰糖葫芦上的红山楂变成一串红腹圆滚滚小鸟。",
@@ -45,7 +45,7 @@
     },
     {
       "source": "06_dachshund_slippers.png",
-      "category": "羊毛毡",
+      "category": "wool-felt",
       "categoryLabel": "羊毛毡",
       "title": "拖鞋是腊肠犬",
       "description": "地板上的一双拖鞋其实是两只趴得长长的腊肠犬。",
@@ -53,7 +53,7 @@
     },
     {
       "source": "07_long_cat_scarf.png",
-      "category": "羊毛毡",
+      "category": "wool-felt",
       "categoryLabel": "羊毛毡",
       "title": "围巾是长猫",
       "description": "脖子上的灰色围巾拉近一看，是一只被拉得超长的猫。",
@@ -61,7 +61,7 @@
     },
     {
       "source": "08_corgi_cushion.png",
-      "category": "羊毛毡",
+      "category": "wool-felt",
       "categoryLabel": "羊毛毡",
       "title": "抱枕是巨柯基屁股",
       "description": "沙发抱枕变成巨型柯基的毛茸茸屁股，小短腿还露在外面。",
@@ -69,7 +69,7 @@
     },
     {
       "source": "09_chow_chow_mop.png",
-      "category": "羊毛毡",
+      "category": "wool-felt",
       "categoryLabel": "羊毛毡",
       "title": "拖把头是松狮",
       "description": "靠墙的拖把其实是一只倒立松狮，蓬松毛发盖住整张脸。",
@@ -77,7 +77,7 @@
     },
     {
       "source": "10_giant_cat_sofa.png",
-      "category": "羊毛毡",
+      "category": "wool-felt",
       "categoryLabel": "羊毛毡",
       "title": "沙发是巨猫",
       "description": "客厅里的灰色沙发其实是一只趴着的巨猫，小人偶坐在它背上看电视。",
@@ -85,7 +85,7 @@
     },
     {
       "source": "11_egg_carton_birds.png",
-      "category": "羊毛毡",
+      "category": "wool-felt",
       "categoryLabel": "羊毛毡",
       "title": "蛋盒里的小鸟",
       "description": "鸡蛋盒里六枚彩色蛋，实际上是缩成蛋形的小鸟。",
@@ -93,7 +93,7 @@
     },
     {
       "source": "12_drawer_sock_animals.png",
-      "category": "羊毛毡",
+      "category": "wool-felt",
       "categoryLabel": "羊毛毡",
       "title": "抽屉里的袜子卷是动物",
       "description": "抽屉中整齐排列的袜子卷，全部变成蜷成团的小动物。",
@@ -101,7 +101,7 @@
     },
     {
       "source": "13_succulent_animal_butts.png",
-      "category": "羊毛毡",
+      "category": "wool-felt",
       "categoryLabel": "羊毛毡",
       "title": "多肉盆栽是动物屁股",
       "description": "窗台小花盆里的多肉，其实是一排露出卷尾巴的小动物屁股。",
@@ -109,7 +109,7 @@
     },
     {
       "source": "14_dog_blanket.png",
-      "category": "羊毛毡",
+      "category": "wool-felt",
       "categoryLabel": "羊毛毡",
       "title": "巨型狗当被子",
       "description": "微缩床上的小人偶盖着一只巨大的白色羊毛毡狗。",
@@ -117,7 +117,7 @@
     },
     {
       "source": "15_strawberry_teamwork.png",
-      "category": "羊毛毡",
+      "category": "wool-felt",
       "categoryLabel": "羊毛毡",
       "title": "小动物团队搬巨型草莓",
       "description": "老鼠、仓鼠、兔子和刺猬合力搬起一颗比它们都大的羊毛毡草莓。",
