@@ -455,6 +455,39 @@
         return categoryLabels.get(type) || type;
       }
 
+      function shuffle(list) {
+        const result = list.slice();
+        for (let index = result.length - 1; index > 0; index -= 1) {
+          const swapIndex = Math.floor(Math.random() * (index + 1));
+          [result[index], result[swapIndex]] = [result[swapIndex], result[index]];
+        }
+        return result;
+      }
+
+      function mixedByCategory(sourceItems, categories) {
+        const categoryOrder = categories.map((category) => category.id);
+        const buckets = new Map();
+        sourceItems.forEach((item) => {
+          if (!buckets.has(item.category)) buckets.set(item.category, []);
+          buckets.get(item.category).push(item);
+        });
+
+        buckets.forEach((bucket, category) => {
+          buckets.set(category, shuffle(bucket));
+          if (!categoryOrder.includes(category)) categoryOrder.push(category);
+        });
+
+        const mixed = [];
+        while (mixed.length < sourceItems.length) {
+          shuffle(categoryOrder)
+            .filter((category) => buckets.get(category)?.length)
+            .forEach((category) => {
+              mixed.push(buckets.get(category).shift());
+            });
+        }
+        return mixed;
+      }
+
       function renderTabs(categories) {
         tabs.innerHTML = "";
         const all = document.createElement("button");
@@ -544,7 +577,7 @@
       async function init() {
         const response = await fetch("assets/gallery.json");
         const data = await response.json();
-        items = (data.items || []).slice().reverse();
+        items = mixedByCategory(data.items || [], data.categories || []);
         categoryLabels = new Map((data.categories || []).map((category) => [category.id, category.label]));
 
         document.querySelector(".brand strong").textContent = data.site?.title || "OpenAI image2 视觉实验";
