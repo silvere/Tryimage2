@@ -2,3 +2,4 @@
 *.log
 /[0-9][0-9]_*.jpg
 /contact_sheet.jpg
+tmp/

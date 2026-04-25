@@ -1,7 +1,7 @@
 {
   "site": {
     "title": "OpenAI image2 视觉实验",
-    "subtitle": "130 张传播向 AI 海报",
+    "subtitle": "145 张传播向 AI 海报",
     "headline": "OpenAI image2 视觉实验",
     "intro": "每一批图片围绕一个临时主题生成，并按当次最合适的 category 归档；可以是反差创意、真实场景、产品概念、人物叙事或任何新的视觉方向。",
     "coverImage": "assets/contact_sheet_image2.jpg",
@@ -46,6 +46,30 @@
     {
       "id": "epic-biography",
       "label": "史诗人生"
+    },
+    {
+      "id": "brand-prototype",
+      "label": "品牌原型"
+    },
+    {
+      "id": "work-life",
+      "label": "工作生活"
+    },
+    {
+      "id": "travel-outdoor",
+      "label": "旅行户外"
+    },
+    {
+      "id": "emotional-care",
+      "label": "情绪疗愈"
+    },
+    {
+      "id": "ai-future",
+      "label": "科技未来"
+    },
+    {
+      "id": "consumer-retail",
+      "label": "消费零售"
     }
   ],
   "batches": [
@@ -102,6 +126,12 @@
       "theme": "中国名人的一生：史诗艺术海报",
       "createdAt": "2026-04-25",
       "count": 10
+    },
+    {
+      "id": "wool-felt-rabbit-brand-variants-001",
+      "theme": "羊毛毡兔子品牌主题：差异化选型",
+      "createdAt": "2026-04-25",
+      "count": 15
     }
   ],
   "items": [
@@ -1519,6 +1549,171 @@
       "thumb": "assets/thumbs/chinese-famous-lives-epic-posters/10_钱学森-归途与星河.png",
       "description": "科学、归国、荒漠试验场与星空愿景交织出现代史诗感。",
       "prompt": "Horizontal 16:9 epic fine-art poster, no readable text, no logos. Qian Xuesen, Chinese aerospace scientist, across a twentieth-century life of science and return: young engineer among wind tunnel blueprints and equations rendered as abstract marks, ocean liner and diplomatic tension suggested by shadowed docks, mature scientist guiding rocket research with launch gantry and desert test range, elder figure looking toward stars over Earth. Heroic but grounded, cinematic science history, no flags or logos, deep indigo sky, white rocket plume, warm human lamplight, high-completion epic art poster."
+    },
+    {
+      "id": "wool-felt-rabbit-brand-variants-001_01_棉花糖兔-治愈主视觉",
+      "batch": "wool-felt-rabbit-brand-variants-001",
+      "category": "brand-prototype",
+      "number": "01",
+      "title": "棉花糖兔：治愈主视觉",
+      "image": "assets/images/wool-felt-rabbit-brand-variants-001/01_棉花糖兔-治愈主视觉.png",
+      "thumb": "assets/thumbs/wool-felt-rabbit-brand-variants-001/01_棉花糖兔-治愈主视觉.png",
+      "description": "圆润棉花糖体型与柔和产品陈列，适合作为治愈生活方式品牌主角。",
+      "prompt": "Horizontal 16:9 premium brand concept poster, no readable text, no logos. A super cute marshmallow-shaped wool felt rabbit mascot, round body, tiny ears, peach blush cheeks, stubby paws, creamy white and pale peach fibers. Scene: soft product launch tabletop with felt carrots, color swatches, tiny blank hangtags, warm studio lighting. Style direction: healing lifestyle brand, ultra tactile needle-felt fibers, high-completion commercial photography mixed with whimsical illustration, adorable, polished, brandable, pastel peach mint ivory palette."
+    },
+    {
+      "id": "wool-felt-rabbit-brand-variants-001_02_效率兔-职场桌面伙伴",
+      "batch": "wool-felt-rabbit-brand-variants-001",
+      "category": "work-life",
+      "number": "02",
+      "title": "效率兔：职场桌面伙伴",
+      "image": "assets/images/wool-felt-rabbit-brand-variants-001/02_效率兔-职场桌面伙伴.png",
+      "thumb": "assets/thumbs/wool-felt-rabbit-brand-variants-001/02_效率兔-职场桌面伙伴.png",
+      "description": "偏设计玩具感的办公室兔子，适合效率工具、SaaS 或办公周边方向。",
+      "prompt": "Horizontal 16:9 premium brand concept poster, no readable text, no logos. A cute stylized wool felt rabbit as a modern office productivity mascot: slightly angular designer-toy silhouette, long upright ears, light gray felt suit vest, round glasses, tiny laptop with blank screen, oversized keyboard keys, blank sticky-note blocks. Scene: clean workplace desk, bright morning light, small felt plant. Adorable but smart, brandable SaaS/work companion direction, tactile fibers, polished commercial composition, fresh white, graphite, mint and yellow accents."
+    },
+    {
+      "id": "wool-felt-rabbit-brand-variants-001_03_全职兔-创作者工作室",
+      "batch": "wool-felt-rabbit-brand-variants-001",
+      "category": "work-life",
+      "number": "03",
+      "title": "全职兔：创作者工作室",
+      "image": "assets/images/wool-felt-rabbit-brand-variants-001/03_全职兔-创作者工作室.png",
+      "thumb": "assets/thumbs/wool-felt-rabbit-brand-variants-001/03_全职兔-创作者工作室.png",
+      "description": "软糯手作感与独立创作者场景，适合手工、内容创业和慢生活品牌。",
+      "prompt": "Horizontal 16:9 premium brand concept poster, no readable text, no logos. A cozy full-time creator wool felt rabbit with floppy ears, beige speckled fibers, oversized knitted cardigan, holding a tiny needle-felting tool. Scene: home studio with miniature camera, blank mood board, packaging boxes, yarn baskets, sunlight through curtains. Brand direction: handmade creator and slow living, soft but entrepreneurial, extremely cute, tactile craft detail, high-completion product poster, warm cream, sage, terracotta palette."
+    },
+    {
+      "id": "wool-felt-rabbit-brand-variants-001_04_飞行员兔-旅行搭子",
+      "batch": "wool-felt-rabbit-brand-variants-001",
+      "category": "travel-outdoor",
+      "number": "04",
+      "title": "飞行员兔：旅行搭子",
+      "image": "assets/images/wool-felt-rabbit-brand-variants-001/04_飞行员兔-旅行搭子.png",
+      "thumb": "assets/thumbs/wool-felt-rabbit-brand-variants-001/04_飞行员兔-旅行搭子.png",
+      "description": "护目镜、红围巾和行李箱组合，偏旅行 IP 与收藏玩具路线。",
+      "prompt": "Horizontal 16:9 premium brand concept poster, no readable text, no logos. A travel-adventure wool felt rabbit mascot with sandy tan fibers, tiny aviator goggles, red scarf, small backpack, sitting on a miniature suitcase beside a toy train window and felt mountains. Scene: dreamy station platform with warm sunrise and blank travel stickers. Brand direction: cute travel companion IP, adventurous and collectible, tactile fibers, cinematic but adorable, polished poster, sky blue, coral red, oat beige accents."
+    },
+    {
+      "id": "wool-felt-rabbit-brand-variants-001_05_压力兔-下班抱抱",
+      "batch": "wool-felt-rabbit-brand-variants-001",
+      "category": "emotional-care",
+      "number": "05",
+      "title": "压力兔：下班抱抱",
+      "image": "assets/images/wool-felt-rabbit-brand-variants-001/05_压力兔-下班抱抱.png",
+      "thumb": "assets/thumbs/wool-felt-rabbit-brand-variants-001/05_压力兔-下班抱抱.png",
+      "description": "被毯子包住的压力兔，适合情绪支持、反内耗和疗愈产品线。",
+      "prompt": "Horizontal 16:9 premium brand concept poster, no readable text, no logos. A tiny exhausted but adorable wool felt rabbit stress-relief mascot, pale blue-gray fibers, droopy ears, oversized round eyes, wrapped in a soft blanket burrito, hugging a plush felt carrot pillow. Scene: desk after work with blank calendar blocks, tiny clock, rain on window, warm lamp glow, papers as blank felt sheets. Brand direction: emotional support and anti-burnout character, very cute, soothing, tactile, commercial wellness poster, blue lavender amber palette."
+    },
+    {
+      "id": "wool-felt-rabbit-brand-variants-001_06_ai-兔-软科技伙伴",
+      "batch": "wool-felt-rabbit-brand-variants-001",
+      "category": "ai-future",
+      "number": "06",
+      "title": "AI 兔：软科技伙伴",
+      "image": "assets/images/wool-felt-rabbit-brand-variants-001/06_ai-兔-软科技伙伴.png",
+      "thumb": "assets/thumbs/wool-felt-rabbit-brand-variants-001/06_ai-兔-软科技伙伴.png",
+      "description": "羊毛毡与发光线网结合，探索可爱 AI 助手的品牌人格。",
+      "prompt": "Horizontal 16:9 premium brand concept poster, no readable text, no logos. A futuristic cyber wool felt rabbit mascot, lavender and white fibers, translucent felt-like ears, tiny headset, sitting beside a friendly small AI assistant cube made of felt, glowing yarn network arcs around them, blank tablet screen. Scene: soft tech lab made from felt panels, luminous but handmade. Brand direction: AI companion for creative work, cute not cold, highly brandable, tactile fibers, clean futuristic composition, lavender cyan warm white palette."
+    },
+    {
+      "id": "wool-felt-rabbit-brand-variants-001_07_会议兔-小小-ceo",
+      "batch": "wool-felt-rabbit-brand-variants-001",
+      "category": "work-life",
+      "number": "07",
+      "title": "会议兔：小小 CEO",
+      "image": "assets/images/wool-felt-rabbit-brand-variants-001/07_会议兔-小小-ceo.png",
+      "thumb": "assets/thumbs/wool-felt-rabbit-brand-variants-001/07_会议兔-小小-ceo.png",
+      "description": "更有领导力和职场幽默感的兔子，适合会议、团队协作和办公文化。",
+      "prompt": "Horizontal 16:9 premium brand concept poster, no readable text, no logos. A tiny CEO wool felt rabbit mascot, charcoal gray body with white face patch, sharp little ears, miniature blazer cape, standing on a felt conference table with small felt animal teammates as simple rounded shapes. Blank presentation board with geometric color blocks only, tiny coffee cups. Brand direction: workplace leadership and meeting humor, cute confident mascot, designer collectible style, tactile fibers, polished office lighting, coral teal graphite palette."
+    },
+    {
+      "id": "wool-felt-rabbit-brand-variants-001_08_通勤兔-地铁早八",
+      "batch": "wool-felt-rabbit-brand-variants-001",
+      "category": "work-life",
+      "number": "08",
+      "title": "通勤兔：地铁早八",
+      "image": "assets/images/wool-felt-rabbit-brand-variants-001/08_通勤兔-地铁早八.png",
+      "thumb": "assets/thumbs/wool-felt-rabbit-brand-variants-001/08_通勤兔-地铁早八.png",
+      "description": "雨衣、耳机和地铁场景，走年轻打工人的日常陪伴路线。",
+      "prompt": "Horizontal 16:9 premium brand concept poster, no readable text, no logos. A commuting city wool felt rabbit mascot with sleek navy fibers, cream muzzle, tiny yellow raincoat, headphones, sitting in a miniature subway carriage with felt hand straps and blank route map shapes. Expression: sleepy but adorable. Brand direction: urban commuting companion, relatable young professional IP, tactile needle-felt, cinematic city morning, soft reflections, navy yellow cream palette, polished campaign poster."
+    },
+    {
+      "id": "wool-felt-rabbit-brand-variants-001_09_咖啡兔-暖店招牌",
+      "batch": "wool-felt-rabbit-brand-variants-001",
+      "category": "consumer-retail",
+      "number": "09",
+      "title": "咖啡兔：暖店招牌",
+      "image": "assets/images/wool-felt-rabbit-brand-variants-001/09_咖啡兔-暖店招牌.png",
+      "thumb": "assets/thumbs/wool-felt-rabbit-brand-variants-001/09_咖啡兔-暖店招牌.png",
+      "description": "焦糖色咖啡店兔子，适合咖啡、烘焙、线下零售和门店周边。",
+      "prompt": "Horizontal 16:9 premium brand concept poster, no readable text, no logos. A barista wool felt rabbit mascot with caramel brown fibers, cream belly, tiny green apron, latte-art paw print made of felt foam, standing behind a miniature coffee bar with pastries and blank menu board shapes. Brand direction: cafe lifestyle and cozy retail mascot, warm and highly cute, tactile fibers, shallow depth of field, polished commercial composition, espresso cream matcha green palette."
+    },
+    {
+      "id": "wool-felt-rabbit-brand-variants-001_10_元气兔-健康习惯",
+      "batch": "wool-felt-rabbit-brand-variants-001",
+      "category": "emotional-care",
+      "number": "10",
+      "title": "元气兔：健康习惯",
+      "image": "assets/images/wool-felt-rabbit-brand-variants-001/10_元气兔-健康习惯.png",
+      "thumb": "assets/thumbs/wool-felt-rabbit-brand-variants-001/10_元气兔-健康习惯.png",
+      "description": "运动头带和瑜伽垫让角色更轻快，适合健康生活和习惯养成品牌。",
+      "prompt": "Horizontal 16:9 premium brand concept poster, no readable text, no logos. A sporty wellness wool felt rabbit mascot with mint green fibers, white belly, sweatband, tiny sneakers, doing yoga stretch on a felt mat beside a water bottle and small dumbbells. Scene: bright home fitness studio with plants and sunrise. Brand direction: cute healthy habits IP, energetic but soft, tactile needle-felt fibers, clean commercial poster, mint, white, grapefruit and sky blue palette."
+    },
+    {
+      "id": "wool-felt-rabbit-brand-variants-001_11_学习兔-书桌伙伴",
+      "batch": "wool-felt-rabbit-brand-variants-001",
+      "category": "brand-prototype",
+      "number": "11",
+      "title": "学习兔：书桌伙伴",
+      "image": "assets/images/wool-felt-rabbit-brand-variants-001/11_学习兔-书桌伙伴.png",
+      "thumb": "assets/thumbs/wool-felt-rabbit-brand-variants-001/11_学习兔-书桌伙伴.png",
+      "description": "垂耳、眼镜和图书角强化陪伴感，适合文具、学习和自我提升方向。",
+      "prompt": "Horizontal 16:9 premium brand concept poster, no readable text, no logos. A studious wool felt rabbit mascot with chocolate brown lop ears, cream face, tiny round spectacles, sitting in a miniature library nook with stacked felt books, blank notebook pages, pencil, warm reading lamp. Expression: curious and sweet. Brand direction: learning, stationery, self-improvement mascot, cute and collectible, tactile fibers, high-completion cozy poster, walnut brown, cream, dusty blue, amber palette."
+    },
+    {
+      "id": "wool-felt-rabbit-brand-variants-001_12_香氛兔-高级礼品线",
+      "batch": "wool-felt-rabbit-brand-variants-001",
+      "category": "consumer-retail",
+      "number": "12",
+      "title": "香氛兔：高级礼品线",
+      "image": "assets/images/wool-felt-rabbit-brand-variants-001/12_香氛兔-高级礼品线.png",
+      "thumb": "assets/thumbs/wool-felt-rabbit-brand-variants-001/12_香氛兔-高级礼品线.png",
+      "description": "珍珠项圈和香氛陈列让兔子变得更精品化，适合高端礼物和生活方式。",
+      "prompt": "Horizontal 16:9 premium brand concept poster, no readable text, no logos. A luxury fashion wool felt rabbit mascot, elegant ivory fibers, very long sculptural ears, tiny pearl collar, standing among minimalist perfume bottles and soft fabric folds, all labels blank. Scene: refined boutique display with warm spotlight and subtle shadows. Brand direction: premium lifestyle fragrance or accessories IP, cute but sophisticated, tactile needle-felt fibers, high-completion editorial product poster, ivory, champagne, rose, black accents."
+    },
+    {
+      "id": "wool-felt-rabbit-brand-variants-001_13_露营兔-周末逃跑",
+      "batch": "wool-felt-rabbit-brand-variants-001",
+      "category": "travel-outdoor",
+      "number": "13",
+      "title": "露营兔：周末逃跑",
+      "image": "assets/images/wool-felt-rabbit-brand-variants-001/13_露营兔-周末逃跑.png",
+      "thumb": "assets/thumbs/wool-felt-rabbit-brand-variants-001/13_露营兔-周末逃跑.png",
+      "description": "橙色毛帽、篝火和帐篷，适合户外周边和周末生活方式品牌。",
+      "prompt": "Horizontal 16:9 premium brand concept poster, no readable text, no logos. A camping scout wool felt rabbit mascot, moss green and cream fibers, floppy ears, tiny orange beanie, roasting a felt marshmallow beside a miniature campfire, small tent, starry sky, pine trees made from felt. Brand direction: outdoor lifestyle and weekend escape mascot, cute and adventurous, tactile fibers, cinematic night glow, polished poster, moss green, orange, navy, cream palette."
+    },
+    {
+      "id": "wool-felt-rabbit-brand-variants-001_14_潮流兔-城市夜色",
+      "batch": "wool-felt-rabbit-brand-variants-001",
+      "category": "brand-prototype",
+      "number": "14",
+      "title": "潮流兔：城市夜色",
+      "image": "assets/images/wool-felt-rabbit-brand-variants-001/14_潮流兔-城市夜色.png",
+      "thumb": "assets/thumbs/wool-felt-rabbit-brand-variants-001/14_潮流兔-城市夜色.png",
+      "description": "黑白撞色、卫衣和城市霓虹，偏年轻潮玩与街头文化选型。",
+      "prompt": "Horizontal 16:9 premium brand concept poster, no readable text, no logos. A streetwear wool felt rabbit mascot, black and white panda-like rabbit colors, oversized hoodie, tiny sneakers, crossbody pouch, standing on a miniature city rooftop at neon dusk with blank billboards as color blocks. Expression: cool but still very cute. Brand direction: youth culture, trendy collectible character, tactile fibers, cinematic urban lighting, high-completion campaign poster, neon pink, cyan, black, cream accents."
+    },
+    {
+      "id": "wool-felt-rabbit-brand-variants-001_15_礼物兔-节日限定",
+      "batch": "wool-felt-rabbit-brand-variants-001",
+      "category": "consumer-retail",
+      "number": "15",
+      "title": "礼物兔：节日限定",
+      "image": "assets/images/wool-felt-rabbit-brand-variants-001/15_礼物兔-节日限定.png",
+      "thumb": "assets/thumbs/wool-felt-rabbit-brand-variants-001/15_礼物兔-节日限定.png",
+      "description": "粉白毛毡和礼盒场景突出赠礼属性，适合节日限定和毛绒收藏。",
+      "prompt": "Horizontal 16:9 premium brand concept poster, no readable text, no logos. A festive gift wool felt rabbit mascot, strawberry pink and white fibers, round baby proportions, wearing a tiny ribbon bow and sitting inside an open gift box with felt confetti, blank greeting cards, tiny ornaments and soft fairy lights. Brand direction: gift, holiday, limited-edition plush collectible, irresistibly cute, tactile needle-felt fibers, polished retail campaign composition, strawberry pink, cream, gold, soft green palette."
     }
   ]
 }
