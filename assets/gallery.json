@@ -1,7 +1,7 @@
 {
   "site": {
     "title": "OpenAI image2 视觉实验",
-    "subtitle": "160 张传播向 AI 海报",
+    "subtitle": "175 张传播向 AI 海报",
     "headline": "OpenAI image2 视觉实验",
     "intro": "每一批图片围绕一个临时主题生成，并按当次最合适的 category 归档；可以是反差创意、真实场景、产品概念、人物叙事或任何新的视觉方向。",
     "coverImage": "assets/contact_sheet_image2.jpg",
@@ -82,6 +82,10 @@
     {
       "id": "energy-quantum",
       "label": "能源材料与量子"
+    },
+    {
+      "id": "multimodal-llm-architecture",
+      "label": "多模态大模型架构"
     }
   ],
   "batches": [
@@ -148,6 +152,12 @@
     {
       "id": "academic-mechanism-diagrams-2026-04-25",
       "theme": "高质量学术论文机理示意图",
+      "createdAt": "2026-04-25",
+      "count": 15
+    },
+    {
+      "id": "multimodal-llm-architecture-image2-001",
+      "theme": "各个模态大模型的运作原理详细架构和说明图（Image2）",
       "createdAt": "2026-04-25",
       "count": 15
     }
@@ -1897,6 +1907,171 @@
       "thumb": "assets/thumbs/academic-mechanism-diagrams-2026-04-25/15_表面码量子纠错-syndrome-测量.png",
       "description": "展示二维量子比特阵列、X/Z stabilizer、syndrome 时空图、实时解码和阈值曲线。",
       "prompt": "Academic 16:9 surface code quantum error correction mechanism diagram with data and measure qubits, X/Z stabilizers, syndrome extraction, spacetime graph, real-time decoder and logical error threshold."
+    },
+    {
+      "id": "multimodal-llm-architecture-image2-001_01_文本-llm-解码器-transformer",
+      "batch": "multimodal-llm-architecture-image2-001",
+      "category": "multimodal-llm-architecture",
+      "number": "01",
+      "title": "文本 LLM：解码器 Transformer",
+      "image": "assets/images/multimodal-llm-architecture-image2-001/01_文本-llm-解码器-transformer.png",
+      "thumb": "assets/thumbs/multimodal-llm-architecture-image2-001/01_文本-llm-解码器-transformer.png",
+      "description": "展示文本大模型从分词、嵌入、注意力、MLP 到采样输出的推理链路。",
+      "prompt": "Horizontal 16:9 professional Chinese infographic poster about decoder-only text LLM architecture. Clean modern technical diagram, high information density, short readable labels only. Show pipeline: Text Input -> Tokenizer -> Embedding -> Transformer Blocks -> Attention -> MLP -> Logits -> Sampling -> Output Tokens. Include side mini-panel: KV Cache, Context Window, Next Token Prediction. Use crisp boxes, arrows, layered neural network blocks, white background, blue and graphite accents, no real logos, no watermark, no tiny paragraphs."
+    },
+    {
+      "id": "multimodal-llm-architecture-image2-001_02_视觉语言模型-图像-token-接入-llm",
+      "batch": "multimodal-llm-architecture-image2-001",
+      "category": "multimodal-llm-architecture",
+      "number": "02",
+      "title": "视觉语言模型：图像 token 接入 LLM",
+      "image": "assets/images/multimodal-llm-architecture-image2-001/02_视觉语言模型-图像-token-接入-llm.png",
+      "thumb": "assets/thumbs/multimodal-llm-architecture-image2-001/02_视觉语言模型-图像-token-接入-llm.png",
+      "description": "展示图像编码器、视觉 token、投影器与语言模型之间的多模态对齐结构。",
+      "prompt": "Horizontal 16:9 professional Chinese infographic poster explaining a vision-language model architecture. Short readable labels. Show Image Input -> Patch/ViT Vision Encoder -> Visual Tokens -> Projector / Adapter -> LLM -> Answer. Include two fusion routes: concat tokens and cross-attention. Add small training panel: contrastive pretraining, instruction tuning, image question answering. Clean white technical diagram, teal and navy accents, boxes, arrows, no logos, no watermark, avoid long text."
+    },
+    {
+      "id": "multimodal-llm-architecture-image2-001_03_音频语音大模型-波形到语义",
+      "batch": "multimodal-llm-architecture-image2-001",
+      "category": "multimodal-llm-architecture",
+      "number": "03",
+      "title": "音频语音大模型：波形到语义",
+      "image": "assets/images/multimodal-llm-architecture-image2-001/03_音频语音大模型-波形到语义.png",
+      "thumb": "assets/thumbs/multimodal-llm-architecture-image2-001/03_音频语音大模型-波形到语义.png",
+      "description": "展示语音波形、频谱或 codec token、音频编码器、适配器和回复生成路径。",
+      "prompt": "Horizontal 16:9 Chinese technical infographic explaining speech and audio large model architecture. Clean readable diagram. Show Microphone/Waveform -> Audio Frames -> Mel Spectrogram or Codec Tokens -> Audio Encoder -> Adapter -> LLM/Decoder -> Transcript, Intent, Spoken Reply. Include small panels: streaming chunks, latency buffer, speaker emotion, TTS output. Magenta and slate accents, white background, arrows, modular blocks, short labels, no logos."
+    },
+    {
+      "id": "multimodal-llm-architecture-image2-001_04_文生图扩散模型-从噪声到图像",
+      "batch": "multimodal-llm-architecture-image2-001",
+      "category": "multimodal-llm-architecture",
+      "number": "04",
+      "title": "文生图扩散模型：从噪声到图像",
+      "image": "assets/images/multimodal-llm-architecture-image2-001/04_文生图扩散模型-从噪声到图像.png",
+      "thumb": "assets/thumbs/multimodal-llm-architecture-image2-001/04_文生图扩散模型-从噪声到图像.png",
+      "description": "展示文本条件、潜空间噪声、去噪网络、调度器和 VAE 解码器。",
+      "prompt": "Horizontal 16:9 Chinese infographic explaining text-to-image diffusion model architecture. Show Prompt -> Text Encoder -> Conditioning; Random Noise / Latent -> Denoiser U-Net or DiT -> Scheduler Steps -> VAE Decoder -> Final Image. Include cross-attention, classifier-free guidance, latent space, denoising timeline. Clean white background, purple and cyan accents, architecture boxes and arrows, readable short labels, no logos, no watermark."
+    },
+    {
+      "id": "multimodal-llm-architecture-image2-001_05_文生视频模型-时空-patch-与运动一致性",
+      "batch": "multimodal-llm-architecture-image2-001",
+      "category": "multimodal-llm-architecture",
+      "number": "05",
+      "title": "文生视频模型：时空 patch 与运动一致性",
+      "image": "assets/images/multimodal-llm-architecture-image2-001/05_文生视频模型-时空-patch-与运动一致性.png",
+      "thumb": "assets/thumbs/multimodal-llm-architecture-image2-001/05_文生视频模型-时空-patch-与运动一致性.png",
+      "description": "展示视频生成中的 latent 压缩、时空 patch、Diffusion Transformer 与视频解码。",
+      "prompt": "Horizontal 16:9 Chinese technical infographic about text-to-video generative model architecture. Show Text Prompt + Optional Image -> Video Encoder/Latent Compressor -> Spacetime Patches -> Diffusion Transformer -> Temporal Attention -> Video Decoder -> Video Frames. Add panels for motion consistency, camera path, frame memory, physics/world model. Clean white background, orange and indigo accents, arrows, frame strips, readable short labels, no logos."
+    },
+    {
+      "id": "multimodal-llm-architecture-image2-001_06_视频理解模型-帧采样到问答摘要",
+      "batch": "multimodal-llm-architecture-image2-001",
+      "category": "multimodal-llm-architecture",
+      "number": "06",
+      "title": "视频理解模型：帧采样到问答摘要",
+      "image": "assets/images/multimodal-llm-architecture-image2-001/06_视频理解模型-帧采样到问答摘要.png",
+      "thumb": "assets/thumbs/multimodal-llm-architecture-image2-001/06_视频理解模型-帧采样到问答摘要.png",
+      "description": "展示视频帧采样、视觉编码、时间聚合、投影到 LLM 与摘要问答输出。",
+      "prompt": "Horizontal 16:9 Chinese architecture infographic explaining video understanding large model. Show Video Frames -> Frame Sampler -> Vision Encoder -> Temporal Aggregator -> Multimodal Projector -> LLM -> Summary / QA / Action. Include timeline tokens, keyframes, event memory, long-context compression. Clean technical diagram, green and dark blue accents, white background, readable short labels, arrows, no logos."
+    },
+    {
+      "id": "multimodal-llm-architecture-image2-001_07_统一多模态嵌入-一个语义空间",
+      "batch": "multimodal-llm-architecture-image2-001",
+      "category": "multimodal-llm-architecture",
+      "number": "07",
+      "title": "统一多模态嵌入：一个语义空间",
+      "image": "assets/images/multimodal-llm-architecture-image2-001/07_统一多模态嵌入-一个语义空间.png",
+      "thumb": "assets/thumbs/multimodal-llm-architecture-image2-001/07_统一多模态嵌入-一个语义空间.png",
+      "description": "展示文本、图像、音频、视频、深度和传感器输入如何对齐到共享嵌入空间。",
+      "prompt": "Horizontal 16:9 Chinese technical infographic about unified multimodal embedding model. Show Text, Image, Audio, Video, Depth, Sensor Inputs -> Modality Encoders -> Projection Heads -> Shared Embedding Space -> Cross-Modal Retrieval / Fusion / Task Head. Include contrastive learning pairs and semantic alignment. Clean white diagram, cyan and violet accents, readable short labels, no logos, no watermark."
+    },
+    {
+      "id": "multimodal-llm-architecture-image2-001_08_rag-检索增强生成链路",
+      "batch": "multimodal-llm-architecture-image2-001",
+      "category": "multimodal-llm-architecture",
+      "number": "08",
+      "title": "RAG：检索增强生成链路",
+      "image": "assets/images/multimodal-llm-architecture-image2-001/08_rag-检索增强生成链路.png",
+      "thumb": "assets/thumbs/multimodal-llm-architecture-image2-001/08_rag-检索增强生成链路.png",
+      "description": "展示离线索引和在线检索、重排、上下文组装与带引用回答。",
+      "prompt": "Horizontal 16:9 Chinese architecture infographic explaining RAG retrieval augmented generation. Show Offline Indexing: documents -> chunking -> embeddings -> vector index. Show Online Query: user question -> query embedding -> retrieval -> reranker -> context assembly -> LLM answer with citations. Add evaluation panel: recall, faithfulness, latency, cost. Clean white background, green and graphite accents, boxes, arrows, readable short labels, no logos."
+    },
+    {
+      "id": "multimodal-llm-architecture-image2-001_09_多模态-rag-图文音视频证据包",
+      "batch": "multimodal-llm-architecture-image2-001",
+      "category": "multimodal-llm-architecture",
+      "number": "09",
+      "title": "多模态 RAG：图文音视频证据包",
+      "image": "assets/images/multimodal-llm-architecture-image2-001/09_多模态-rag-图文音视频证据包.png",
+      "thumb": "assets/thumbs/multimodal-llm-architecture-image2-001/09_多模态-rag-图文音视频证据包.png",
+      "description": "展示 OCR、ASR、帧采样与多模态向量库如何支撑有证据的回答。",
+      "prompt": "Horizontal 16:9 Chinese technical infographic about multimodal RAG architecture. Show user asks with image/audio/video/text -> modality parsers -> embeddings -> multimodal vector database -> hybrid search -> reranker -> evidence pack -> multimodal LLM -> grounded answer. Include panels: OCR, ASR, frame sampling, metadata, citations. Clean white background, blue-green accents, clear arrows, short readable labels, no logos."
+    },
+    {
+      "id": "multimodal-llm-architecture-image2-001_10_工具调用-agent-规划行动观察循环",
+      "batch": "multimodal-llm-architecture-image2-001",
+      "category": "multimodal-llm-architecture",
+      "number": "10",
+      "title": "工具调用 Agent：规划行动观察循环",
+      "image": "assets/images/multimodal-llm-architecture-image2-001/10_工具调用-agent-规划行动观察循环.png",
+      "thumb": "assets/thumbs/multimodal-llm-architecture-image2-001/10_工具调用-agent-规划行动观察循环.png",
+      "description": "展示模型如何规划任务、路由工具、执行 API、读取观察并反思重试。",
+      "prompt": "Horizontal 16:9 Chinese architecture infographic explaining tool-calling AI agent loop. Show User Goal -> Planner -> Tool Router -> API / Browser / Code / Database / Search Tools -> Observation -> Memory -> Reflection -> Final Answer. Include safety boundary, permissions, logs, retry loop. Clean modern technical diagram, indigo and amber accents, readable short labels, arrows and loop, no logos."
+    },
+    {
+      "id": "multimodal-llm-architecture-image2-001_11_moe-专家混合-稀疏激活扩容",
+      "batch": "multimodal-llm-architecture-image2-001",
+      "category": "multimodal-llm-architecture",
+      "number": "11",
+      "title": "MoE 专家混合：稀疏激活扩容",
+      "image": "assets/images/multimodal-llm-architecture-image2-001/11_moe-专家混合-稀疏激活扩容.png",
+      "thumb": "assets/thumbs/multimodal-llm-architecture-image2-001/11_moe-专家混合-稀疏激活扩容.png",
+      "description": "展示路由器如何为 token 选择少量专家、合并输出并降低单次计算成本。",
+      "prompt": "Horizontal 16:9 Chinese technical infographic explaining Mixture of Experts large model architecture. Show Token Hidden States -> Router / Gating -> Top-k Expert Dispatch -> Expert FFN 1..N -> Weighted Combine -> Next Transformer Layer. Include load balancing, sparse activation, capacity factor, communication cost. Clean white background, gold and slate accents, modular boxes, arrows, readable short labels, no logos."
+    },
+    {
+      "id": "multimodal-llm-architecture-image2-001_12_训练与对齐-从数据到可用模型",
+      "batch": "multimodal-llm-architecture-image2-001",
+      "category": "multimodal-llm-architecture",
+      "number": "12",
+      "title": "训练与对齐：从数据到可用模型",
+      "image": "assets/images/multimodal-llm-architecture-image2-001/12_训练与对齐-从数据到可用模型.png",
+      "thumb": "assets/thumbs/multimodal-llm-architecture-image2-001/12_训练与对齐-从数据到可用模型.png",
+      "description": "展示数据清洗、预训练、监督微调、偏好优化、安全评测和发布流程。",
+      "prompt": "Horizontal 16:9 Chinese infographic explaining large model training and alignment pipeline. Show Data Collection -> Cleaning/Dedup/Safety Filter -> Pretraining -> Supervised Fine-tuning -> Preference Optimization/RLHF -> Safety Evaluation -> Model Release. Include datasets, GPUs, loss curve, eval benchmarks, red team loop. Clean white technical poster, red and navy accents, readable short labels, no real logos, no watermark."
+    },
+    {
+      "id": "multimodal-llm-architecture-image2-001_13_推理服务栈-从请求到流式输出",
+      "batch": "multimodal-llm-architecture-image2-001",
+      "category": "multimodal-llm-architecture",
+      "number": "13",
+      "title": "推理服务栈：从请求到流式输出",
+      "image": "assets/images/multimodal-llm-architecture-image2-001/13_推理服务栈-从请求到流式输出.png",
+      "thumb": "assets/thumbs/multimodal-llm-architecture-image2-001/13_推理服务栈-从请求到流式输出.png",
+      "description": "展示网关、Prompt 构建、模型路由、prefill、KV Cache、解码和监控。",
+      "prompt": "Horizontal 16:9 Chinese technical infographic about inference serving architecture for large multimodal models. Show Client Request -> Gateway -> Prompt Builder -> Model Router -> Prefill -> KV Cache -> Decode -> Streaming Output. Include GPU workers, batching, quantization, speculative decoding, cache reuse, monitoring metrics. Clean white enterprise architecture diagram, steel blue and green accents, short readable labels, no logos."
+    },
+    {
+      "id": "multimodal-llm-architecture-image2-001_14_机器人-vla-视觉语言到动作",
+      "batch": "multimodal-llm-architecture-image2-001",
+      "category": "multimodal-llm-architecture",
+      "number": "14",
+      "title": "机器人 VLA：视觉语言到动作",
+      "image": "assets/images/multimodal-llm-architecture-image2-001/14_机器人-vla-视觉语言到动作.png",
+      "thumb": "assets/thumbs/multimodal-llm-architecture-image2-001/14_机器人-vla-视觉语言到动作.png",
+      "description": "展示相机、深度、触觉和本体感知输入如何变成机器人动作 token。",
+      "prompt": "Horizontal 16:9 Chinese infographic about robotics vision-language-action model architecture. Show Camera / Depth / Tactile / Proprioception -> Perception Encoders -> Multimodal State Tokens -> Policy Transformer -> Action Tokens -> Robot Arm / Mobile Robot. Include world model, planning horizon, safety constraints, feedback loop, imitation learning. Clean technical diagram, white background, orange and teal accents, readable short labels, no logos."
+    },
+    {
+      "id": "multimodal-llm-architecture-image2-001_15_实时多模态助手-端到端感知与回复",
+      "batch": "multimodal-llm-architecture-image2-001",
+      "category": "multimodal-llm-architecture",
+      "number": "15",
+      "title": "实时多模态助手：端到端感知与回复",
+      "image": "assets/images/multimodal-llm-architecture-image2-001/15_实时多模态助手-端到端感知与回复.png",
+      "thumb": "assets/thumbs/multimodal-llm-architecture-image2-001/15_实时多模态助手-端到端感知与回复.png",
+      "description": "展示实时音频、摄像头、屏幕和文本进入统一 token 流，并输出语音、文本和图像。",
+      "prompt": "Horizontal 16:9 Chinese architecture infographic about an end-to-end real-time multimodal assistant. Show Live Audio, Camera, Screen, Text -> Unified Token Stream -> Multimodal Transformer -> Dialogue State -> Tool Calls -> Voice/Text/Image Response. Include duplex audio, interruption handling, memory, safety guardrails, latency budget. Clean white technical diagram, blue, pink, and green accents, readable short labels, no logos, no watermark."
     }
   ]
 }
