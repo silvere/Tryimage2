@@ -1,7 +1,7 @@
 {
   "site": {
     "title": "OpenAI image2 视觉实验",
-    "subtitle": "145 张传播向 AI 海报",
+    "subtitle": "155 张传播向 AI 海报",
     "headline": "OpenAI image2 视觉实验",
     "intro": "每一批图片围绕一个临时主题生成，并按当次最合适的 category 归档；可以是反差创意、真实场景、产品概念、人物叙事或任何新的视觉方向。",
     "coverImage": "assets/contact_sheet_image2.jpg",
@@ -48,28 +48,12 @@
       "label": "史诗人生"
     },
     {
-      "id": "brand-prototype",
-      "label": "品牌原型"
+      "id": "wool-felt-rabbit-brand",
+      "label": "羊毛毡兔子品牌"
     },
     {
-      "id": "work-life",
-      "label": "工作生活"
-    },
-    {
-      "id": "travel-outdoor",
-      "label": "旅行户外"
-    },
-    {
-      "id": "emotional-care",
-      "label": "情绪疗愈"
-    },
-    {
-      "id": "ai-future",
-      "label": "科技未来"
-    },
-    {
-      "id": "consumer-retail",
-      "label": "消费零售"
+      "id": "multimodal-llm-architecture",
+      "label": "多模态大模型架构"
     }
   ],
   "batches": [
@@ -132,6 +116,12 @@
       "theme": "羊毛毡兔子品牌主题：差异化选型",
       "createdAt": "2026-04-25",
       "count": 15
+    },
+    {
+      "id": "multimodal-llm-architecture-diagrams-001",
+      "theme": "各模态大模型运作原理：详细架构和说明图",
+      "createdAt": "2026-04-25",
+      "count": 10
     }
   ],
   "items": [
@@ -1553,7 +1543,7 @@
     {
       "id": "wool-felt-rabbit-brand-variants-001_01_棉花糖兔-治愈主视觉",
       "batch": "wool-felt-rabbit-brand-variants-001",
-      "category": "brand-prototype",
+      "category": "wool-felt-rabbit-brand",
       "number": "01",
       "title": "棉花糖兔：治愈主视觉",
       "image": "assets/images/wool-felt-rabbit-brand-variants-001/01_棉花糖兔-治愈主视觉.png",
@@ -1564,7 +1554,7 @@
     {
       "id": "wool-felt-rabbit-brand-variants-001_02_效率兔-职场桌面伙伴",
       "batch": "wool-felt-rabbit-brand-variants-001",
-      "category": "work-life",
+      "category": "wool-felt-rabbit-brand",
       "number": "02",
       "title": "效率兔：职场桌面伙伴",
       "image": "assets/images/wool-felt-rabbit-brand-variants-001/02_效率兔-职场桌面伙伴.png",
@@ -1575,7 +1565,7 @@
     {
       "id": "wool-felt-rabbit-brand-variants-001_03_全职兔-创作者工作室",
       "batch": "wool-felt-rabbit-brand-variants-001",
-      "category": "work-life",
+      "category": "wool-felt-rabbit-brand",
       "number": "03",
       "title": "全职兔：创作者工作室",
       "image": "assets/images/wool-felt-rabbit-brand-variants-001/03_全职兔-创作者工作室.png",
@@ -1586,7 +1576,7 @@
     {
       "id": "wool-felt-rabbit-brand-variants-001_04_飞行员兔-旅行搭子",
       "batch": "wool-felt-rabbit-brand-variants-001",
-      "category": "travel-outdoor",
+      "category": "wool-felt-rabbit-brand",
       "number": "04",
       "title": "飞行员兔：旅行搭子",
       "image": "assets/images/wool-felt-rabbit-brand-variants-001/04_飞行员兔-旅行搭子.png",
@@ -1597,7 +1587,7 @@
     {
       "id": "wool-felt-rabbit-brand-variants-001_05_压力兔-下班抱抱",
       "batch": "wool-felt-rabbit-brand-variants-001",
-      "category": "emotional-care",
+      "category": "wool-felt-rabbit-brand",
       "number": "05",
       "title": "压力兔：下班抱抱",
       "image": "assets/images/wool-felt-rabbit-brand-variants-001/05_压力兔-下班抱抱.png",
@@ -1608,7 +1598,7 @@
     {
       "id": "wool-felt-rabbit-brand-variants-001_06_ai-兔-软科技伙伴",
       "batch": "wool-felt-rabbit-brand-variants-001",
-      "category": "ai-future",
+      "category": "wool-felt-rabbit-brand",
       "number": "06",
       "title": "AI 兔：软科技伙伴",
       "image": "assets/images/wool-felt-rabbit-brand-variants-001/06_ai-兔-软科技伙伴.png",
@@ -1619,7 +1609,7 @@
     {
       "id": "wool-felt-rabbit-brand-variants-001_07_会议兔-小小-ceo",
       "batch": "wool-felt-rabbit-brand-variants-001",
-      "category": "work-life",
+      "category": "wool-felt-rabbit-brand",
       "number": "07",
       "title": "会议兔：小小 CEO",
       "image": "assets/images/wool-felt-rabbit-brand-variants-001/07_会议兔-小小-ceo.png",
@@ -1630,7 +1620,7 @@
     {
       "id": "wool-felt-rabbit-brand-variants-001_08_通勤兔-地铁早八",
       "batch": "wool-felt-rabbit-brand-variants-001",
-      "category": "work-life",
+      "category": "wool-felt-rabbit-brand",
       "number": "08",
       "title": "通勤兔：地铁早八",
       "image": "assets/images/wool-felt-rabbit-brand-variants-001/08_通勤兔-地铁早八.png",
@@ -1641,7 +1631,7 @@
     {
       "id": "wool-felt-rabbit-brand-variants-001_09_咖啡兔-暖店招牌",
       "batch": "wool-felt-rabbit-brand-variants-001",
-      "category": "consumer-retail",
+      "category": "wool-felt-rabbit-brand",
       "number": "09",
       "title": "咖啡兔：暖店招牌",
       "image": "assets/images/wool-felt-rabbit-brand-variants-001/09_咖啡兔-暖店招牌.png",
@@ -1652,7 +1642,7 @@
     {
       "id": "wool-felt-rabbit-brand-variants-001_10_元气兔-健康习惯",
       "batch": "wool-felt-rabbit-brand-variants-001",
-      "category": "emotional-care",
+      "category": "wool-felt-rabbit-brand",
       "number": "10",
       "title": "元气兔：健康习惯",
       "image": "assets/images/wool-felt-rabbit-brand-variants-001/10_元气兔-健康习惯.png",
@@ -1663,7 +1653,7 @@
     {
       "id": "wool-felt-rabbit-brand-variants-001_11_学习兔-书桌伙伴",
       "batch": "wool-felt-rabbit-brand-variants-001",
-      "category": "brand-prototype",
+      "category": "wool-felt-rabbit-brand",
       "number": "11",
       "title": "学习兔：书桌伙伴",
       "image": "assets/images/wool-felt-rabbit-brand-variants-001/11_学习兔-书桌伙伴.png",
@@ -1674,7 +1664,7 @@
     {
       "id": "wool-felt-rabbit-brand-variants-001_12_香氛兔-高级礼品线",
       "batch": "wool-felt-rabbit-brand-variants-001",
-      "category": "consumer-retail",
+      "category": "wool-felt-rabbit-brand",
       "number": "12",
       "title": "香氛兔：高级礼品线",
       "image": "assets/images/wool-felt-rabbit-brand-variants-001/12_香氛兔-高级礼品线.png",
@@ -1685,7 +1675,7 @@
     {
       "id": "wool-felt-rabbit-brand-variants-001_13_露营兔-周末逃跑",
       "batch": "wool-felt-rabbit-brand-variants-001",
-      "category": "travel-outdoor",
+      "category": "wool-felt-rabbit-brand",
       "number": "13",
       "title": "露营兔：周末逃跑",
       "image": "assets/images/wool-felt-rabbit-brand-variants-001/13_露营兔-周末逃跑.png",
@@ -1696,7 +1686,7 @@
     {
       "id": "wool-felt-rabbit-brand-variants-001_14_潮流兔-城市夜色",
       "batch": "wool-felt-rabbit-brand-variants-001",
-      "category": "brand-prototype",
+      "category": "wool-felt-rabbit-brand",
       "number": "14",
       "title": "潮流兔：城市夜色",
       "image": "assets/images/wool-felt-rabbit-brand-variants-001/14_潮流兔-城市夜色.png",
@@ -1707,13 +1697,123 @@
     {
       "id": "wool-felt-rabbit-brand-variants-001_15_礼物兔-节日限定",
       "batch": "wool-felt-rabbit-brand-variants-001",
-      "category": "consumer-retail",
+      "category": "wool-felt-rabbit-brand",
       "number": "15",
       "title": "礼物兔：节日限定",
       "image": "assets/images/wool-felt-rabbit-brand-variants-001/15_礼物兔-节日限定.png",
       "thumb": "assets/thumbs/wool-felt-rabbit-brand-variants-001/15_礼物兔-节日限定.png",
       "description": "粉白毛毡和礼盒场景突出赠礼属性，适合节日限定和毛绒收藏。",
       "prompt": "Horizontal 16:9 premium brand concept poster, no readable text, no logos. A festive gift wool felt rabbit mascot, strawberry pink and white fibers, round baby proportions, wearing a tiny ribbon bow and sitting inside an open gift box with felt confetti, blank greeting cards, tiny ornaments and soft fairy lights. Brand direction: gift, holiday, limited-edition plush collectible, irresistibly cute, tactile needle-felt fibers, polished retail campaign composition, strawberry pink, cream, gold, soft green palette."
+    },
+    {
+      "id": "multimodal-llm-architecture-diagrams-001_01_文本-llm-解码器-transformer-如何预测下一个-token",
+      "batch": "multimodal-llm-architecture-diagrams-001",
+      "category": "multimodal-llm-architecture",
+      "number": "01",
+      "title": "文本 LLM：解码器 Transformer 如何预测下一个 token",
+      "image": "assets/images/multimodal-llm-architecture-diagrams-001/01_文本-llm-解码器-transformer-如何预测下一个-token.svg",
+      "thumb": "assets/images/multimodal-llm-architecture-diagrams-001/01_文本-llm-解码器-transformer-如何预测下一个-token.svg",
+      "description": "从文本切分、嵌入、自注意力、MLP 到 KV Cache 与采样输出的完整推理路径。",
+      "prompt": "横版中文信息图，展示 decoder-only Transformer 文本大模型的运作原理：输入文本、tokenizer、embedding、masked self-attention、feed-forward、logits、sampling、KV cache，干净工程架构图，清晰中文标签。"
+    },
+    {
+      "id": "multimodal-llm-architecture-diagrams-001_02_视觉语言模型-图像-token-如何接入-llm",
+      "batch": "multimodal-llm-architecture-diagrams-001",
+      "category": "multimodal-llm-architecture",
+      "number": "02",
+      "title": "视觉语言模型：图像 token 如何接入 LLM",
+      "image": "assets/images/multimodal-llm-architecture-diagrams-001/02_视觉语言模型-图像-token-如何接入-llm.svg",
+      "thumb": "assets/images/multimodal-llm-architecture-diagrams-001/02_视觉语言模型-图像-token-如何接入-llm.svg",
+      "description": "用图像编码器提取视觉特征，再经投影器对齐到语言模型可消费的 token 空间。",
+      "prompt": "横版中文架构说明图，视觉语言大模型工作流：image patches, vision encoder, projector, visual tokens, LLM, answer；包含对齐训练与指令微调标注，现代技术白板风格。"
+    },
+    {
+      "id": "multimodal-llm-architecture-diagrams-001_03_音频-语音大模型-波形到语义再到回复",
+      "batch": "multimodal-llm-architecture-diagrams-001",
+      "category": "multimodal-llm-architecture",
+      "number": "03",
+      "title": "音频/语音大模型：波形到语义再到回复",
+      "image": "assets/images/multimodal-llm-architecture-diagrams-001/03_音频-语音大模型-波形到语义再到回复.svg",
+      "thumb": "assets/images/multimodal-llm-architecture-diagrams-001/03_音频-语音大模型-波形到语义再到回复.svg",
+      "description": "音频先被转换为声学特征，再由编码器、连接器与语言模型完成转写和理解。",
+      "prompt": "横版中文说明图，音频语音大模型架构：waveform, spectrogram, audio encoder, adapter, LLM decoder, transcript/TTS output；用频谱纹理和时间轴表现。"
+    },
+    {
+      "id": "multimodal-llm-architecture-diagrams-001_04_文本到图像扩散模型-从噪声到图像",
+      "batch": "multimodal-llm-architecture-diagrams-001",
+      "category": "multimodal-llm-architecture",
+      "number": "04",
+      "title": "文本到图像扩散模型：从噪声到图像",
+      "image": "assets/images/multimodal-llm-architecture-diagrams-001/04_文本到图像扩散模型-从噪声到图像.svg",
+      "thumb": "assets/images/multimodal-llm-architecture-diagrams-001/04_文本到图像扩散模型-从噪声到图像.svg",
+      "description": "文本条件进入去噪网络，在潜空间多步反推，最后由解码器还原为像素图。",
+      "prompt": "横版中文信息图，文生图扩散模型原理：text encoder, noise latent, denoiser U-Net/DiT, cross-attention, scheduler steps, VAE decoder；表现多步去噪路径。"
+    },
+    {
+      "id": "multimodal-llm-architecture-diagrams-001_05_视频大模型-时空-patch-与世界模拟",
+      "batch": "multimodal-llm-architecture-diagrams-001",
+      "category": "multimodal-llm-architecture",
+      "number": "05",
+      "title": "视频大模型：时空 patch 与世界模拟",
+      "image": "assets/images/multimodal-llm-architecture-diagrams-001/05_视频大模型-时空-patch-与世界模拟.svg",
+      "thumb": "assets/images/multimodal-llm-architecture-diagrams-001/05_视频大模型-时空-patch-与世界模拟.svg",
+      "description": "视频被压缩为时空 latent patch，Transformer/Diffusion 在时间维度上建模运动和因果连续性。",
+      "prompt": "横版中文架构图，视频大模型原理：video compressor, spacetime patches, diffusion transformer, temporal attention, video decoder；包含理解与生成双路径。"
+    },
+    {
+      "id": "multimodal-llm-architecture-diagrams-001_06_统一多模态模型-一个嵌入空间绑定多种信号",
+      "batch": "multimodal-llm-architecture-diagrams-001",
+      "category": "multimodal-llm-architecture",
+      "number": "06",
+      "title": "统一多模态模型：一个嵌入空间绑定多种信号",
+      "image": "assets/images/multimodal-llm-architecture-diagrams-001/06_统一多模态模型-一个嵌入空间绑定多种信号.svg",
+      "thumb": "assets/images/multimodal-llm-architecture-diagrams-001/06_统一多模态模型-一个嵌入空间绑定多种信号.svg",
+      "description": "文本、图像、音频、深度、传感器等模态通过各自编码器映射到共享语义空间。",
+      "prompt": "横版中文说明图，统一多模态嵌入空间：text, image, audio, video, depth, IMU encoders converge into shared embedding space, then retrieval/fusion/task head；科技架构风。"
+    },
+    {
+      "id": "multimodal-llm-architecture-diagrams-001_07_rag-外部知识如何进入大模型回答",
+      "batch": "multimodal-llm-architecture-diagrams-001",
+      "category": "multimodal-llm-architecture",
+      "number": "07",
+      "title": "RAG：外部知识如何进入大模型回答",
+      "image": "assets/images/multimodal-llm-architecture-diagrams-001/07_rag-外部知识如何进入大模型回答.svg",
+      "thumb": "assets/images/multimodal-llm-architecture-diagrams-001/07_rag-外部知识如何进入大模型回答.svg",
+      "description": "查询先检索知识库，召回片段经重排与拼接后作为上下文输入 LLM，减少纯参数记忆负担。",
+      "prompt": "横版中文技术图，RAG 检索增强生成架构：user query, embedding, vector database, reranker, context assembly, LLM answer with citations；数据管道风格。"
+    },
+    {
+      "id": "multimodal-llm-architecture-diagrams-001_08_工具调用-agent-模型如何规划-行动-观察",
+      "batch": "multimodal-llm-architecture-diagrams-001",
+      "category": "multimodal-llm-architecture",
+      "number": "08",
+      "title": "工具调用 Agent：模型如何规划、行动、观察",
+      "image": "assets/images/multimodal-llm-architecture-diagrams-001/08_工具调用-agent-模型如何规划-行动-观察.svg",
+      "thumb": "assets/images/multimodal-llm-architecture-diagrams-001/08_工具调用-agent-模型如何规划-行动-观察.svg",
+      "description": "LLM 不只生成文本，而是在循环中选择工具、传参、读取结果并更新下一步计划。",
+      "prompt": "横版中文架构说明图，工具调用 Agent 工作流：task, planner, tool router, API execution, observation, reflection, final answer；显示闭环箭头和安全边界。"
+    },
+    {
+      "id": "multimodal-llm-architecture-diagrams-001_09_moe-专家混合-稀疏激活如何扩展参数量",
+      "batch": "multimodal-llm-architecture-diagrams-001",
+      "category": "multimodal-llm-architecture",
+      "number": "09",
+      "title": "MoE 专家混合：稀疏激活如何扩展参数量",
+      "image": "assets/images/multimodal-llm-architecture-diagrams-001/09_moe-专家混合-稀疏激活如何扩展参数量.svg",
+      "thumb": "assets/images/multimodal-llm-architecture-diagrams-001/09_moe-专家混合-稀疏激活如何扩展参数量.svg",
+      "description": "路由器为每个 token 选择少量专家，计算成本近似固定，但总参数容量大幅增加。",
+      "prompt": "横版中文信息图，MoE 大模型架构：router, top-k expert dispatch, multiple FFN experts, combine, transformer layer；突出稀疏激活和负载均衡。"
+    },
+    {
+      "id": "multimodal-llm-architecture-diagrams-001_10_从训练到推理-大模型系统全链路",
+      "batch": "multimodal-llm-architecture-diagrams-001",
+      "category": "multimodal-llm-architecture",
+      "number": "10",
+      "title": "从训练到推理：大模型系统全链路",
+      "image": "assets/images/multimodal-llm-architecture-diagrams-001/10_从训练到推理-大模型系统全链路.svg",
+      "thumb": "assets/images/multimodal-llm-architecture-diagrams-001/10_从训练到推理-大模型系统全链路.svg",
+      "description": "数据、训练、对齐、压缩、服务化和监控共同决定一个多模态模型能否稳定上线。",
+      "prompt": "横版中文系统架构图，大模型从训练到推理全链路：data pipeline, pretraining, post-training, compression, serving, monitoring feedback loop；企业级工程图。"
     }
   ]
 }
