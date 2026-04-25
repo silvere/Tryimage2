@@ -46,9 +46,9 @@ sourceItems.forEach((item, index) => {
   const itemSlug = slug(item.slug || item.title || `${batchId}-${number}`);
   const outputName = `${number}_${itemSlug}${extname(source) || ".png"}`;
   const outputPath = join(imageOutputDir, outputName);
-  const thumbPath = join(thumbOutputDir, `${number}_${itemSlug}.webp`);
+  const thumbBase = join(thumbOutputDir, `${number}_${itemSlug}`);
   copyFileSync(source, outputPath);
-  createThumbnail(outputPath, thumbPath);
+  const thumbPath = createThumbnail(outputPath, thumbBase);
 
   let id = `${batchId}_${number}_${itemSlug}`;
   let suffix = 2;
@@ -143,7 +143,8 @@ function rebuildContactSheet(root) {
   }
 }
 
-function createThumbnail(source, target) {
+function createThumbnail(source, targetBase) {
+  const webpTarget = `${targetBase}.webp`;
   const magick = spawnSync("magick", [
     source,
     "-resize",
@@ -154,13 +155,32 @@ function createThumbnail(source, target) {
     "720x405",
     "-quality",
     "78",
-    target
+    webpTarget
   ], { encoding: "utf8" });
 
-  if (magick.status !== 0) {
-    console.warn(`ImageMagick thumbnail failed for ${source}; cards will use the original image.`);
-    if (magick.stderr) console.warn(magick.stderr.trim());
+  if (magick.status === 0 && existsSync(webpTarget)) {
+    return webpTarget;
   }
+
+  console.warn(`ImageMagick thumbnail failed for ${source}; trying sips PNG fallback.`);
+  if (magick.stderr) console.warn(magick.stderr.trim());
+
+  const pngTarget = `${targetBase}.png`;
+  const sips = spawnSync("sips", [
+    "-Z",
+    "720",
+    source,
+    "--out",
+    pngTarget
+  ], { encoding: "utf8" });
+
+  if (sips.status === 0 && existsSync(pngTarget)) {
+    return pngTarget;
+  }
+
+  console.warn(`Thumbnail generation failed for ${source}; cards will use the original image.`);
+  if (sips.stderr) console.warn(sips.stderr.trim());
+  return source;
 }
 
 function fail(message) {
