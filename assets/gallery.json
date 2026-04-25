@@ -1,7 +1,7 @@
 {
   "site": {
     "title": "OpenAI image2 视觉实验",
-    "subtitle": "90 张传播向 AI 海报",
+    "subtitle": "105 张传播向 AI 海报",
     "headline": "OpenAI image2 视觉实验",
     "intro": "每一批图片围绕一个临时主题生成，并按当次最合适的 category 归档；可以是反差创意、真实场景、产品概念、人物叙事或任何新的视觉方向。",
     "coverImage": "assets/contact_sheet_image2.jpg",
@@ -54,6 +54,10 @@
     {
       "id": "wool-felt-artful",
       "label": "羊毛毡账号调性"
+    },
+    {
+      "id": "羊毛毡",
+      "label": "羊毛毡"
     }
   ],
   "batches": [
@@ -90,6 +94,12 @@
     {
       "id": "wool-felt-xhs-prompts-001",
       "theme": "羊毛毡小红书 Prompt 精选 15 弹",
+      "createdAt": "2026-04-25",
+      "count": 15
+    },
+    {
+      "id": "wool-felt-contrast-cute-002",
+      "theme": "羊毛毡反差萌 Prompt 第二弹 15 例",
       "createdAt": "2026-04-25",
       "count": 15
     }
@@ -1069,6 +1079,171 @@
       "thumb": "assets/thumbs/wool-felt-xhs-prompts-001/15_长腿鹿宝宝.webp",
       "description": "细长腿小鹿站在苔藓蘑菇地里，白斑和大眼睛强调精致手作感。",
       "prompt": "Needle felted wool craft photography, 3:4 vertical composition. A delicate wool felted fawn with wire-armature thin legs, cream wool body with hand-stitched white spots, large dark eyes, standing in a tiny moss diorama with felted mushrooms, fairytale forest aesthetic, soft diffused light, visible wool fibers, fluffy fuzzy texture, handcrafted organic fiber detail, macro photography, shallow depth of field, ultra detailed, no readable text, no watermark, no logo."
+    },
+    {
+      "id": "wool-felt-contrast-cute-002_01_拉花咖啡浮出小猫",
+      "batch": "wool-felt-contrast-cute-002",
+      "category": "羊毛毡",
+      "number": "01",
+      "title": "拉花咖啡浮出小猫",
+      "image": "assets/images/wool-felt-contrast-cute-002/01_拉花咖啡浮出小猫.png",
+      "thumb": "assets/thumbs/wool-felt-contrast-cute-002/01_拉花咖啡浮出小猫.webp",
+      "description": "拿铁奶泡上的拉花变成从牛奶里浮出来的小猫耳朵和弯月眼。",
+      "prompt": "Square macro craft photography of a needle-felted wool latte in a ceramic cup: the white foam art is a tiny cat face slowly emerging from the milk surface, only two soft ears and crescent closed eyes visible above the wool foam, rich brown felted coffee around it, wooden cafe table, warm morning window light, shallow depth of field, charming surreal kawaii handmade wool texture, no readable text, no logo, 1:1 composition"
+    },
+    {
+      "id": "wool-felt-contrast-cute-002_02_小笼包里的仓鼠",
+      "batch": "wool-felt-contrast-cute-002",
+      "category": "羊毛毡",
+      "number": "02",
+      "title": "小笼包里的仓鼠",
+      "image": "assets/images/wool-felt-contrast-cute-002/02_小笼包里的仓鼠.png",
+      "thumb": "assets/thumbs/wool-felt-contrast-cute-002/02_小笼包里的仓鼠.webp",
+      "description": "竹蒸笼里的小笼包全部变成蜷成包子形状的小仓鼠。",
+      "prompt": "4:3 top-down macro craft photo of a bamboo steamer basket opened to reveal that each xiaolongbao-style soup dumpling is actually a tiny needle-felted wool hamster curled into a dumpling shape, white pleated wool tops, golden brown hamster bodies peeking out, tiny ears and paws, traditional Chinese kitchen setting, warm light, charming food craft humor, visible wool fiber texture, no readable text, no logo"
+    },
+    {
+      "id": "wool-felt-contrast-cute-002_03_半熟蛋里的小鸡屁股",
+      "batch": "wool-felt-contrast-cute-002",
+      "category": "羊毛毡",
+      "number": "03",
+      "title": "半熟蛋里的小鸡屁股",
+      "image": "assets/images/wool-felt-contrast-cute-002/03_半熟蛋里的小鸡屁股.png",
+      "thumb": "assets/thumbs/wool-felt-contrast-cute-002/03_半熟蛋里的小鸡屁股.webp",
+      "description": "切开的半熟蛋里，金黄蛋黄其实是一只小鸡蜷起来的背影。",
+      "prompt": "Square macro craft photography of a tiny needle-felted wool soft-boiled egg cut open in an egg cup: the golden yolk is actually the fluffy bottom of a curled-up baby chick, with two tiny orange feet sticking out, surrounded by white felt egg white, surreal breakfast diorama, soft morning light, ultra cute handmade wool texture, no readable text, no logo, 1:1 composition"
+    },
+    {
+      "id": "wool-felt-contrast-cute-002_04_三球冰激凌仓鼠",
+      "batch": "wool-felt-contrast-cute-002",
+      "category": "羊毛毡",
+      "number": "04",
+      "title": "三球冰激凌仓鼠",
+      "image": "assets/images/wool-felt-contrast-cute-002/04_三球冰激凌仓鼠.png",
+      "thumb": "assets/thumbs/wool-felt-contrast-cute-002/04_三球冰激凌仓鼠.webp",
+      "description": "甜筒上的草莓、薄荷和香草冰激凌球，其实是三只缩成球的仓鼠。",
+      "prompt": "Vertical 4:5 macro studio craft photo of a needle-felted wool ice cream cone topped with three scoops that are actually three tiny hamsters curled into balls: strawberry pink, mint green, and vanilla cream, soft ears and paws subtly visible, wool fiber texture reads as both fur and ice cream, pastel pink background, summer kawaii aesthetic, shallow depth of field, no readable text, no logo"
+    },
+    {
+      "id": "wool-felt-contrast-cute-002_05_糖葫芦串是小鸟",
+      "batch": "wool-felt-contrast-cute-002",
+      "category": "羊毛毡",
+      "number": "05",
+      "title": "糖葫芦串是小鸟",
+      "image": "assets/images/wool-felt-contrast-cute-002/05_糖葫芦串是小鸟.png",
+      "thumb": "assets/thumbs/wool-felt-contrast-cute-002/05_糖葫芦串是小鸟.webp",
+      "description": "冰糖葫芦上的红山楂变成一串红腹圆滚滚小鸟。",
+      "prompt": "Vertical 3:4 macro craft photography of a traditional Chinese tanghulu candied skewer made from wool felt: the red hawthorn fruits are actually tiny round needle-felted birds with red bellies, subtly skewered together on a bamboo stick, tiny beaks and eyes, glossy sugar coating effect made from translucent highlights, winter market background softly blurred, playful Chinese food fusion craft, no readable text, no logo"
+    },
+    {
+      "id": "wool-felt-contrast-cute-002_06_拖鞋是腊肠犬",
+      "batch": "wool-felt-contrast-cute-002",
+      "category": "羊毛毡",
+      "number": "06",
+      "title": "拖鞋是腊肠犬",
+      "image": "assets/images/wool-felt-contrast-cute-002/06_拖鞋是腊肠犬.png",
+      "thumb": "assets/thumbs/wool-felt-contrast-cute-002/06_拖鞋是腊肠犬.webp",
+      "description": "地板上的一双拖鞋其实是两只趴得长长的腊肠犬。",
+      "prompt": "4:3 cozy home craft photography of a pair of needle-felted wool slippers placed on a wooden floor, but the slippers are actually two long dachshund dogs lying flat with elongated bodies forming slipper shapes, tiny paws, floppy ears, noses, and tails visible at the back, warm afternoon light, soft shadows, surreal household humor, realistic wool fiber texture, no readable text, no logo"
+    },
+    {
+      "id": "wool-felt-contrast-cute-002_07_围巾是长猫",
+      "batch": "wool-felt-contrast-cute-002",
+      "category": "羊毛毡",
+      "number": "07",
+      "title": "围巾是长猫",
+      "image": "assets/images/wool-felt-contrast-cute-002/07_围巾是长猫.png",
+      "thumb": "assets/thumbs/wool-felt-contrast-cute-002/07_围巾是长猫.webp",
+      "description": "脖子上的灰色围巾拉近一看，是一只被拉得超长的猫。",
+      "prompt": "Vertical 3:4 lifestyle craft photography of a person wearing what appears to be a soft needle-felted wool scarf wrapped around their neck, but the scarf is actually one extremely elongated grey cat: smiling cat face on one end, tail on the other, tiny paws tucked into the scarf folds, cozy winter coat, soft outdoor light, viral long-cat concept, handmade wool fiber texture, crop at shoulders, no readable text, no logo"
+    },
+    {
+      "id": "wool-felt-contrast-cute-002_08_抱枕是巨柯基屁股",
+      "batch": "wool-felt-contrast-cute-002",
+      "category": "羊毛毡",
+      "number": "08",
+      "title": "抱枕是巨柯基屁股",
+      "image": "assets/images/wool-felt-contrast-cute-002/08_抱枕是巨柯基屁股.png",
+      "thumb": "assets/thumbs/wool-felt-contrast-cute-002/08_抱枕是巨柯基屁股.webp",
+      "description": "沙发抱枕变成巨型柯基的毛茸茸屁股，小短腿还露在外面。",
+      "prompt": "Vertical 4:5 cozy living room craft photo of a sofa with what first reads as a large needle-felted wool cushion, but the cushion is actually the giant fluffy butt of a corgi, stubby legs and tiny tail visible, the rest of the corgi disappearing behind the sofa back, warm interior lighting, playful handmade wool texture, soft upholstery, hilariously cute surreal household scene, no readable text, no logo"
+    },
+    {
+      "id": "wool-felt-contrast-cute-002_09_拖把头是松狮",
+      "batch": "wool-felt-contrast-cute-002",
+      "category": "羊毛毡",
+      "number": "09",
+      "title": "拖把头是松狮",
+      "image": "assets/images/wool-felt-contrast-cute-002/09_拖把头是松狮.png",
+      "thumb": "assets/thumbs/wool-felt-contrast-cute-002/09_拖把头是松狮.webp",
+      "description": "靠墙的拖把其实是一只倒立松狮，蓬松毛发盖住整张脸。",
+      "prompt": "Vertical 3:4 surreal household craft photography of a needle-felted wool mop leaning against a kitchen wall, but it is actually a fluffy cream chow chow dog standing upside down, dense wool fur covering its face like mop strands, paws visible near the handle end, simple kitchen floor and wall, soft natural light, humorous handmade felt sculpture, no readable text, no logo"
+    },
+    {
+      "id": "wool-felt-contrast-cute-002_10_沙发是巨猫",
+      "batch": "wool-felt-contrast-cute-002",
+      "category": "羊毛毡",
+      "number": "10",
+      "title": "沙发是巨猫",
+      "image": "assets/images/wool-felt-contrast-cute-002/10_沙发是巨猫.png",
+      "thumb": "assets/thumbs/wool-felt-contrast-cute-002/10_沙发是巨猫.webp",
+      "description": "客厅里的灰色沙发其实是一只趴着的巨猫，小人偶坐在它背上看电视。",
+      "prompt": "Wide 16:9 cozy living room craft diorama: what looks like a large grey needle-felted wool sofa is actually a giant grey cat lying down, with soft cat ears and tail visible, two tiny human felt figures sitting on its back watching a television, warm home lighting, surreal scale, detailed handmade wool fibers, wide shot, no readable text, no logo"
+    },
+    {
+      "id": "wool-felt-contrast-cute-002_11_蛋盒里的小鸟",
+      "batch": "wool-felt-contrast-cute-002",
+      "category": "羊毛毡",
+      "number": "11",
+      "title": "蛋盒里的小鸟",
+      "image": "assets/images/wool-felt-contrast-cute-002/11_蛋盒里的小鸟.png",
+      "thumb": "assets/thumbs/wool-felt-contrast-cute-002/11_蛋盒里的小鸟.webp",
+      "description": "鸡蛋盒里六枚彩色蛋，实际上是缩成蛋形的小鸟。",
+      "prompt": "Square top-down craft photography of an open egg carton holding six egg-shaped needle-felted wool birds, each curled into a perfect egg form in different pastel colors: blue, pink, mint, yellow, lavender, peach, tiny beaks and dot eyes visible, wooden kitchen counter, soft natural light, charming concept craft, strong wool fiber texture, no readable text, no logo, 1:1 composition"
+    },
+    {
+      "id": "wool-felt-contrast-cute-002_12_抽屉里的袜子卷是动物",
+      "batch": "wool-felt-contrast-cute-002",
+      "category": "羊毛毡",
+      "number": "12",
+      "title": "抽屉里的袜子卷是动物",
+      "image": "assets/images/wool-felt-contrast-cute-002/12_抽屉里的袜子卷是动物.png",
+      "thumb": "assets/thumbs/wool-felt-contrast-cute-002/12_抽屉里的袜子卷是动物.webp",
+      "description": "抽屉中整齐排列的袜子卷，全部变成蜷成团的小动物。",
+      "prompt": "4:3 top-down bedroom craft photography of an opened drawer neatly filled with rolled socks, but each roll is actually a tiny needle-felted wool animal curled into a ball: cat, fox, bunny, hamster, hedgehog, arranged like laundry, soft bedroom light, wholesome surreal home organization humor, detailed wool fiber, muted cozy colors, no readable text, no logo"
+    },
+    {
+      "id": "wool-felt-contrast-cute-002_13_多肉盆栽是动物屁股",
+      "batch": "wool-felt-contrast-cute-002",
+      "category": "羊毛毡",
+      "number": "13",
+      "title": "多肉盆栽是动物屁股",
+      "image": "assets/images/wool-felt-contrast-cute-002/13_多肉盆栽是动物屁股.png",
+      "thumb": "assets/thumbs/wool-felt-contrast-cute-002/13_多肉盆栽是动物屁股.webp",
+      "description": "窗台小花盆里的多肉，其实是一排露出卷尾巴的小动物屁股。",
+      "prompt": "Wide 16:9 bright craft photography of a sunny windowsill with a row of small ceramic pots filled with succulent-like shapes, but each succulent is actually a tiny needle-felted wool animal butt sticking upward with a curled tail: cat, bunny, hedgehog, fox, rounded fuzzy forms arranged like plants, plant-lover surreal humor, strong natural light, handmade wool texture, no readable text, no logo"
+    },
+    {
+      "id": "wool-felt-contrast-cute-002_14_巨型狗当被子",
+      "batch": "wool-felt-contrast-cute-002",
+      "category": "羊毛毡",
+      "number": "14",
+      "title": "巨型狗当被子",
+      "image": "assets/images/wool-felt-contrast-cute-002/14_巨型狗当被子.png",
+      "thumb": "assets/thumbs/wool-felt-contrast-cute-002/14_巨型狗当被子.webp",
+      "description": "微缩床上的小人偶盖着一只巨大的白色羊毛毡狗。",
+      "prompt": "Vertical 3:4 cozy miniature craft diorama of a tiny human felt figure sleeping in a miniature bed, covered by what looks like a blanket but is actually a giant fluffy white needle-felted dog lying on top, the dog's peaceful sleeping face resting at the pillow end, warm night lamp light, surreal scale, ultra cute handmade wool fibers, bedroom details, no readable text, no logo"
+    },
+    {
+      "id": "wool-felt-contrast-cute-002_15_小动物团队搬巨型草莓",
+      "batch": "wool-felt-contrast-cute-002",
+      "category": "羊毛毡",
+      "number": "15",
+      "title": "小动物团队搬巨型草莓",
+      "image": "assets/images/wool-felt-contrast-cute-002/15_小动物团队搬巨型草莓.png",
+      "thumb": "assets/thumbs/wool-felt-contrast-cute-002/15_小动物团队搬巨型草莓.webp",
+      "description": "老鼠、仓鼠、兔子和刺猬合力搬起一颗比它们都大的羊毛毡草莓。",
+      "prompt": "Wide 16:9 studio craft scene on cream linen: a team of tiny needle-felted wool animals, mouse, hamster, bunny, and hedgehog, working together to carry an oversized wool-felt strawberry bigger than all of them combined, tiny paws gripping the fruit, dynamic cooperative action pose, charming teamwork, soft studio light, highly detailed wool fibers, cute handmade diorama, no readable text, no logo"
     }
   ]
 }
