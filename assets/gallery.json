@@ -1,7 +1,7 @@
 {
   "site": {
     "title": "OpenAI image2 视觉实验",
-    "subtitle": "175 张传播向 AI 海报",
+    "subtitle": "185 张传播向 AI 海报",
     "headline": "OpenAI image2 视觉实验",
     "intro": "每一批图片围绕一个临时主题生成，并按当次最合适的 category 归档；可以是反差创意、真实场景、产品概念、人物叙事或任何新的视觉方向。",
     "coverImage": "assets/contact_sheet_image2.jpg",
@@ -86,6 +86,10 @@
     {
       "id": "multimodal-llm-architecture",
       "label": "多模态大模型架构"
+    },
+    {
+      "id": "china-travel-master-painters",
+      "label": "名画家中国旅行"
     }
   ],
   "batches": [
@@ -160,6 +164,12 @@
       "theme": "各个模态大模型的运作原理详细架构和说明图（Image2）",
       "createdAt": "2026-04-25",
       "count": 15
+    },
+    {
+      "id": "china-travel-master-painters-2026-04-26",
+      "theme": "世界名画家风格下的中国热门旅游城市",
+      "createdAt": "2026-04-26",
+      "count": 10
     }
   ],
   "items": [
@@ -2072,6 +2082,116 @@
       "thumb": "assets/thumbs/multimodal-llm-architecture-image2-001/15_实时多模态助手-端到端感知与回复.png",
       "description": "展示实时音频、摄像头、屏幕和文本进入统一 token 流，并输出语音、文本和图像。",
       "prompt": "Horizontal 16:9 Chinese architecture infographic about an end-to-end real-time multimodal assistant. Show Live Audio, Camera, Screen, Text -> Unified Token Stream -> Multimodal Transformer -> Dialogue State -> Tool Calls -> Voice/Text/Image Response. Include duplex audio, interruption handling, memory, safety guardrails, latency budget. Clean white technical diagram, blue, pink, and green accents, readable short labels, no logos, no watermark."
+    },
+    {
+      "id": "china-travel-master-painters-2026-04-26_01_北京故宫-梵高风格",
+      "batch": "china-travel-master-painters-2026-04-26",
+      "category": "china-travel-master-painters",
+      "number": "01",
+      "title": "北京故宫 - 梵高风格",
+      "image": "assets/images/china-travel-master-painters-2026-04-26/01_北京故宫-梵高风格.png",
+      "thumb": "assets/thumbs/china-travel-master-painters-2026-04-26/01_北京故宫-梵高风格.png",
+      "description": "雨后黄昏的故宫宫墙与金瓦，在梵高式旋涡天空和厚涂笔触中呈现出强烈的城市记忆。",
+      "prompt": "Horizontal museum-quality travel poster, Beijing Forbidden City at golden dusk after rain, red palace walls, yellow glazed roofs, reflections on wet stone, a few visitors with umbrellas as tiny scale figures, expressive swirling sky and thick impasto brushwork inspired by Vincent van Gogh, vivid cobalt and gold palette, dramatic perspective from a palace gate, painterly texture, no readable text, no logos."
+    },
+    {
+      "id": "china-travel-master-painters-2026-04-26_02_上海豫园-莫奈风格",
+      "batch": "china-travel-master-painters-2026-04-26",
+      "category": "china-travel-master-painters",
+      "number": "02",
+      "title": "上海豫园 - 莫奈风格",
+      "image": "assets/images/china-travel-master-painters-2026-04-26/02_上海豫园-莫奈风格.png",
+      "thumb": "assets/thumbs/china-travel-master-painters-2026-04-26/02_上海豫园-莫奈风格.png",
+      "description": "豫园桥影、灯笼与远处城市轮廓，被莫奈式晨雾和碎光处理成柔和的海派景观。",
+      "prompt": "Horizontal impressionist oil painting of Shanghai's Yuyuan Garden and old-city lanterns beside modern skyline glimpses, delicate bridges over green water, willow reflections, soft morning haze, shimmering broken color and light inspired by Claude Monet, airy brushstrokes, pastel jade, rose, pearl gray, balanced composition with people strolling in the distance, no readable text, no logos."
+    },
+    {
+      "id": "china-travel-master-painters-2026-04-26_03_西安兵马俑-伦勃朗风格",
+      "batch": "china-travel-master-painters-2026-04-26",
+      "category": "china-travel-master-painters",
+      "number": "03",
+      "title": "西安兵马俑 - 伦勃朗风格",
+      "image": "assets/images/china-travel-master-painters-2026-04-26/03_西安兵马俑-伦勃朗风格.png",
+      "thumb": "assets/thumbs/china-travel-master-painters-2026-04-26/03_西安兵马俑-伦勃朗风格.png",
+      "description": "考古大厅里的兵马俑从暗处显现，伦勃朗式金棕色明暗让历史质感更庄严。",
+      "prompt": "Horizontal dramatic chiaroscuro oil painting of Xi'an Terracotta Warriors inside the excavation hall, rows of clay soldiers emerging from shadow, warm raking light from above, archaeological dust in the air, solemn faces and armor textures, inspired by Rembrandt van Rijn's golden-brown palette and deep shadows, museum realism, low viewpoint, no readable text, no logos."
+    },
+    {
+      "id": "china-travel-master-painters-2026-04-26_04_杭州西湖-塞尚风格",
+      "batch": "china-travel-master-painters-2026-04-26",
+      "category": "china-travel-master-painters",
+      "number": "04",
+      "title": "杭州西湖 - 塞尚风格",
+      "image": "assets/images/china-travel-master-painters-2026-04-26/04_杭州西湖-塞尚风格.png",
+      "thumb": "assets/thumbs/china-travel-master-painters-2026-04-26/04_杭州西湖-塞尚风格.png",
+      "description": "断桥、荷叶、小船与远塔被整理成塞尚式稳定色面，呈现西湖清晨的秩序感。",
+      "prompt": "Horizontal post-impressionist landscape of Hangzhou West Lake at dawn, Broken Bridge, lotus leaves, soft mist, a small boat crossing still water, Leifeng Pagoda faint in the distance, structured planes of color and calm geometry inspired by Paul Cezanne, subtle brush texture, muted greens, ochre, blue gray, elegant tranquil composition, no readable text, no logos."
+    },
+    {
+      "id": "china-travel-master-painters-2026-04-26_05_成都火锅-马蒂斯风格",
+      "batch": "china-travel-master-painters-2026-04-26",
+      "category": "china-travel-master-painters",
+      "number": "05",
+      "title": "成都火锅 - 马蒂斯风格",
+      "image": "assets/images/china-travel-master-painters-2026-04-26/05_成都火锅-马蒂斯风格.png",
+      "thumb": "assets/thumbs/china-travel-master-painters-2026-04-26/05_成都火锅-马蒂斯风格.png",
+      "description": "成都院坝里的火锅、茶杯与竹椅，用马蒂斯式高饱和色块表现松弛热闹的烟火气。",
+      "prompt": "Horizontal expressive Fauvist painting of Chengdu hotpot culture in a lively open-air courtyard, red chili oil pot steaming at center, bamboo chairs, tea cups, relaxed friends, hints of panda decor as small painted motifs, bold simplified shapes and saturated color inspired by Henri Matisse, joyful rhythm, flattened perspective, warm lantern light, no readable text, no logos."
+    },
+    {
+      "id": "china-travel-master-painters-2026-04-26_06_苏州园林-葛饰北斋风格",
+      "batch": "china-travel-master-painters-2026-04-26",
+      "category": "china-travel-master-painters",
+      "number": "06",
+      "title": "苏州园林 - 葛饰北斋风格",
+      "image": "assets/images/china-travel-master-painters-2026-04-26/06_苏州园林-葛饰北斋风格.png",
+      "thumb": "assets/thumbs/china-travel-master-painters-2026-04-26/06_苏州园林-葛饰北斋风格.png",
+      "description": "月洞门、太湖石、锦鲤与曲桥被处理成浮世绘式线条和层叠平涂色。",
+      "prompt": "Horizontal ukiyo-e inspired woodblock print of Suzhou classical garden, moon gate, scholar rocks, koi pond, zigzag bridge, plum blossoms and tiled roofs, crisp contour lines and layered flat color inspired by Katsushika Hokusai, elegant wave-like cloud shapes, calm composition, handmade paper texture, no readable text, no seals, no logos."
+    },
+    {
+      "id": "china-travel-master-painters-2026-04-26_07_桂林漓江-透纳风格",
+      "batch": "china-travel-master-painters-2026-04-26",
+      "category": "china-travel-master-painters",
+      "number": "07",
+      "title": "桂林漓江 - 透纳风格",
+      "image": "assets/images/china-travel-master-painters-2026-04-26/07_桂林漓江-透纳风格.png",
+      "thumb": "assets/thumbs/china-travel-master-painters-2026-04-26/07_桂林漓江-透纳风格.png",
+      "description": "漓江竹筏与喀斯特群峰浸在透纳式金色雾光中，突出山水的开阔与流动。",
+      "prompt": "Horizontal romantic landscape painting of Guilin and Yangshuo karst mountains along the Li River, bamboo raft with cormorant fisherman silhouette, mist rising between limestone peaks, luminous sunrise, sweeping atmospheric light inspired by J. M. W. Turner, soft edges, golden haze and blue shadows, panoramic depth, no readable text, no logos."
+    },
+    {
+      "id": "china-travel-master-painters-2026-04-26_08_重庆洪崖洞-毕加索风格",
+      "batch": "china-travel-master-painters-2026-04-26",
+      "category": "china-travel-master-painters",
+      "number": "08",
+      "title": "重庆洪崖洞 - 毕加索风格",
+      "image": "assets/images/china-travel-master-painters-2026-04-26/08_重庆洪崖洞-毕加索风格.png",
+      "thumb": "assets/thumbs/china-travel-master-painters-2026-04-26/08_重庆洪崖洞-毕加索风格.png",
+      "description": "洪崖洞、轨道、桥梁与小面摊被拆解成毕加索式几何平面，呈现山城夜色层次。",
+      "prompt": "Horizontal cubist night scene of Chongqing mountain city, Hongya Cave stilted buildings glowing with lanterns, layered bridges and monorail tracks, spicy noodle stall in foreground with steam, fractured planes and bold geometry inspired by Pablo Picasso, warm reds and yellows against deep teal night, dynamic urban depth, no readable text, no logos."
+    },
+    {
+      "id": "china-travel-master-painters-2026-04-26_09_拉萨布达拉宫-克里姆特风格",
+      "batch": "china-travel-master-painters-2026-04-26",
+      "category": "china-travel-master-painters",
+      "number": "09",
+      "title": "拉萨布达拉宫 - 克里姆特风格",
+      "image": "assets/images/china-travel-master-painters-2026-04-26/09_拉萨布达拉宫-克里姆特风格.png",
+      "thumb": "assets/thumbs/china-travel-master-painters-2026-04-26/09_拉萨布达拉宫-克里姆特风格.png",
+      "description": "布达拉宫、经幡与朝圣者被克里姆特式金色装饰纹理包裹，形成高原圣地的静穆感。",
+      "prompt": "Horizontal golden ornamental painting of Lhasa Potala Palace on the hillside under clear high-altitude sky, prayer flags fluttering, pilgrims walking the kora path, snow mountains behind, intricate decorative patterns and luminous gold accents inspired by Gustav Klimt, mosaic-like surfaces, serene sacred mood, rich blue, white, crimson and gold, no readable text, no logos."
+    },
+    {
+      "id": "china-travel-master-painters-2026-04-26_10_广州早茶-雷诺阿风格",
+      "batch": "china-travel-master-painters-2026-04-26",
+      "category": "china-travel-master-painters",
+      "number": "10",
+      "title": "广州早茶 - 雷诺阿风格",
+      "image": "assets/images/china-travel-master-painters-2026-04-26/10_广州早茶-雷诺阿风格.png",
+      "thumb": "assets/thumbs/china-travel-master-painters-2026-04-26/10_广州早茶-雷诺阿风格.png",
+      "description": "广式早茶的蒸笼、茶杯与家人闲谈，以雷诺阿式柔光表现城市饮食风俗。",
+      "prompt": "Horizontal warm impressionist scene of Guangzhou morning dim sum in a traditional teahouse, bamboo steamers filled with shrimp dumplings and siu mai, porcelain teacups, families chatting, sunlight through wooden lattice windows, loose luminous brushwork and soft human warmth inspired by Pierre-Auguste Renoir, creamy highlights, lively but elegant, no readable text, no logos."
     }
   ]
 }
