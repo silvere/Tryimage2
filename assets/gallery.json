@@ -1,7 +1,7 @@
 {
   "site": {
     "title": "OpenAI image2 视觉实验",
-    "subtitle": "185 张传播向 AI 海报",
+    "subtitle": "195 张传播向 AI 海报",
     "headline": "OpenAI image2 视觉实验",
     "intro": "每一批图片围绕一个临时主题生成，并按当次最合适的 category 归档；可以是反差创意、真实场景、产品概念、人物叙事或任何新的视觉方向。",
     "coverImage": "assets/contact_sheet_image2.jpg",
@@ -90,6 +90,10 @@
     {
       "id": "china-travel-master-painters",
       "label": "名画家中国旅行"
+    },
+    {
+      "id": "visual-illusions",
+      "label": "视觉错觉"
     }
   ],
   "batches": [
@@ -169,6 +173,12 @@
       "id": "china-travel-master-painters-2026-04-26",
       "theme": "世界名画家风格下的中国热门旅游城市",
       "createdAt": "2026-04-26",
+      "count": 10
+    },
+    {
+      "id": "visual-illusions-2026-04-27",
+      "theme": "展示视觉错觉的十张图片",
+      "createdAt": "2026-04-27",
       "count": 10
     }
   ],
@@ -2192,6 +2202,116 @@
       "thumb": "assets/thumbs/china-travel-master-painters-2026-04-26/10_广州早茶-雷诺阿风格.png",
       "description": "广式早茶的蒸笼、茶杯与家人闲谈，以雷诺阿式柔光表现城市饮食风俗。",
       "prompt": "Horizontal warm impressionist scene of Guangzhou morning dim sum in a traditional teahouse, bamboo steamers filled with shrimp dumplings and siu mai, porcelain teacups, families chatting, sunlight through wooden lattice windows, loose luminous brushwork and soft human warmth inspired by Pierre-Auguste Renoir, creamy highlights, lively but elegant, no readable text, no logos."
+    },
+    {
+      "id": "visual-illusions-2026-04-27_01_不可能楼梯博物馆",
+      "batch": "visual-illusions-2026-04-27",
+      "category": "visual-illusions",
+      "number": "01",
+      "title": "不可能楼梯博物馆",
+      "image": "assets/images/visual-illusions-2026-04-27/01_不可能楼梯博物馆.png",
+      "thumb": "assets/thumbs/visual-illusions-2026-04-27/01_不可能楼梯博物馆.png",
+      "description": "白色石阶在同一空间里同时向上和向下循环，人物的行走方向强化了不可能结构。",
+      "prompt": "Horizontal high-resolution surreal architectural illustration showing an impossible staircase museum inspired by the Penrose stairs illusion, clean white stone steps looping upward and downward at once, visitors walking in contradictory gravity directions, soft daylight through tall windows, precise perspective lines, museum poster quality, crisp shadows, visually convincing optical illusion, no readable text, no logos."
+    },
+    {
+      "id": "visual-illusions-2026-04-27_02_花瓶与双人侧脸",
+      "batch": "visual-illusions-2026-04-27",
+      "category": "visual-illusions",
+      "number": "02",
+      "title": "花瓶与双人侧脸",
+      "image": "assets/images/visual-illusions-2026-04-27/02_花瓶与双人侧脸.png",
+      "thumb": "assets/thumbs/visual-illusions-2026-04-27/02_花瓶与双人侧脸.png",
+      "description": "中央花瓶轮廓和两侧人脸负空间互相切换，形成经典的图底反转错觉。",
+      "prompt": "Horizontal optical illusion artwork: a large elegant vase silhouette in the center that also forms two human faces in profile looking at each other, black and ivory high contrast, subtle ceramic texture on the vase, realistic gallery lighting, balanced negative space, refined minimalist poster, strong Rubin vase illusion, no readable text, no logos."
+    },
+    {
+      "id": "visual-illusions-2026-04-27_03_捏住太阳",
+      "batch": "visual-illusions-2026-04-27",
+      "category": "visual-illusions",
+      "number": "03",
+      "title": "捏住太阳",
+      "image": "assets/images/visual-illusions-2026-04-27/03_捏住太阳.png",
+      "thumb": "assets/thumbs/visual-illusions-2026-04-27/03_捏住太阳.png",
+      "description": "近处手指与远处落日精准对齐，让真实街景产生玩具般的尺度错觉。",
+      "prompt": "Horizontal realistic street photograph style scene of forced perspective: a person in the foreground appears to pinch the glowing sun between two fingers while distant city buildings align perfectly, warm sunset, long shadows, playful tourist composition, sharp foreground hand and slightly soft skyline, believable scale illusion, cinematic color grading, no readable text, no logos."
+    },
+    {
+      "id": "visual-illusions-2026-04-27_04_艾姆斯房间",
+      "batch": "visual-illusions-2026-04-27",
+      "category": "visual-illusions",
+      "number": "04",
+      "title": "艾姆斯房间",
+      "image": "assets/images/visual-illusions-2026-04-27/04_艾姆斯房间.png",
+      "thumb": "assets/thumbs/visual-illusions-2026-04-27/04_艾姆斯房间.png",
+      "description": "两个人站在同一房间却显得一大一小，倾斜墙面和地板隐藏了真实空间结构。",
+      "prompt": "Horizontal surreal fine-art image of an Ames room illusion: two people standing in the same room appear radically different sizes, one giant and one tiny, but the room has subtly skewed walls, trapezoid windows, checkerboard floor, pastel modern interior, camera positioned at the exact illusion viewpoint, clean lighting, educational yet beautiful, no readable text, no logos."
+    },
+    {
+      "id": "visual-illusions-2026-04-27_05_街头深洞粉笔画",
+      "batch": "visual-illusions-2026-04-27",
+      "category": "visual-illusions",
+      "number": "05",
+      "title": "街头深洞粉笔画",
+      "image": "assets/images/visual-illusions-2026-04-27/05_街头深洞粉笔画.png",
+      "thumb": "assets/thumbs/visual-illusions-2026-04-27/05_街头深洞粉笔画.png",
+      "description": "平坦广场上的粉笔画从特定角度看像深洞，行人的避让动作增强了立体感。",
+      "prompt": "Horizontal anamorphic sidewalk chalk illusion: a deep circular hole appears to open in a city plaza, with painted stone edges and glowing blue water far below, passersby carefully stepping around it, viewed from the precise angle that makes the flat drawing look three-dimensional, bright midday light, ultra-detailed chalk texture, no readable text, no logos."
+    },
+    {
+      "id": "visual-illusions-2026-04-27_06_彭罗斯三角静物",
+      "batch": "visual-illusions-2026-04-27",
+      "category": "visual-illusions",
+      "number": "06",
+      "title": "彭罗斯三角静物",
+      "image": "assets/images/visual-illusions-2026-04-27/06_彭罗斯三角静物.png",
+      "thumb": "assets/thumbs/visual-illusions-2026-04-27/06_彭罗斯三角静物.png",
+      "description": "木质三角框架在真实光影中闭合成无法成立的连接关系。",
+      "prompt": "Horizontal impossible object still life: a polished wooden triangle frame forming a Penrose triangle on a dark studio table, impossible joints that connect in contradictory ways, soft spotlight, realistic wood grain, subtle dust motes, precise geometric edges, museum-quality optical illusion photograph, no readable text, no logos."
+    },
+    {
+      "id": "visual-illusions-2026-04-27_07_森林尺度错觉",
+      "batch": "visual-illusions-2026-04-27",
+      "category": "visual-illusions",
+      "number": "07",
+      "title": "森林尺度错觉",
+      "image": "assets/images/visual-illusions-2026-04-27/07_森林尺度错觉.png",
+      "thumb": "assets/thumbs/visual-illusions-2026-04-27/07_森林尺度错觉.png",
+      "description": "汇聚透视和条纹地面让相同大小的人与树看起来不断变大或缩小。",
+      "prompt": "Horizontal optical illusion landscape: a forest path where identical trees appear to shrink and grow because of converging perspective and patterned ground, alternating light and dark stripes create a strong size illusion, a hiker stands at both near and far points with identical clothing, misty morning atmosphere, realistic painterly style, no readable text, no logos."
+    },
+    {
+      "id": "visual-illusions-2026-04-27_08_城市组成的人脸",
+      "batch": "visual-illusions-2026-04-27",
+      "category": "visual-illusions",
+      "number": "08",
+      "title": "城市组成的人脸",
+      "image": "assets/images/visual-illusions-2026-04-27/08_城市组成的人脸.png",
+      "thumb": "assets/thumbs/visual-illusions-2026-04-27/08_城市组成的人脸.png",
+      "description": "远看是人脸，近看则由街道、桥、窗户、树木和行人共同拼成。",
+      "prompt": "Horizontal surreal portrait illusion: from far away it looks like a human face, but up close it is assembled from a city street with windows as eyes, an arched bridge as a mouth, trees as eyebrows, and pedestrians as tiny details, twilight urban lighting, detailed digital painting, strong double-image effect, no readable text, no logos."
+    },
+    {
+      "id": "visual-illusions-2026-04-27_09_波浪棋盘",
+      "batch": "visual-illusions-2026-04-27",
+      "category": "visual-illusions",
+      "number": "09",
+      "title": "波浪棋盘",
+      "image": "assets/images/visual-illusions-2026-04-27/09_波浪棋盘.png",
+      "thumb": "assets/thumbs/visual-illusions-2026-04-27/09_波浪棋盘.png",
+      "description": "黑白棋盘格制造出地面起伏的错觉，而红球提示表面其实是平的。",
+      "prompt": "Horizontal op-art style image of a flat checkerboard floor that appears to ripple into waves, black and white tiles bending visually though the surface remains flat, a small red ball resting on top to reveal the deceptive surface, clean gallery setting, sharp geometry, high contrast, mesmerizing optical illusion, no readable text, no logos."
+    },
+    {
+      "id": "visual-illusions-2026-04-27_10_不可能瀑布",
+      "batch": "visual-illusions-2026-04-27",
+      "category": "visual-illusions",
+      "number": "10",
+      "title": "不可能瀑布",
+      "image": "assets/images/visual-illusions-2026-04-27/10_不可能瀑布.png",
+      "thumb": "assets/thumbs/visual-illusions-2026-04-27/10_不可能瀑布.png",
+      "description": "水渠看似一路向上却回到原点，形成自我循环的空间悖论。",
+      "prompt": "Horizontal impossible waterfall scene inspired by classic optical illusion architecture: a stone aqueduct carries water uphill and loops back into itself, wooden waterwheel turning below, medieval garden terraces with contradictory perspective, bright clear daylight, realistic engraved fantasy style, visually coherent impossible flow, no readable text, no logos."
     }
   ]
 }
