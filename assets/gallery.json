@@ -1,7 +1,7 @@
 {
   "site": {
     "title": "OpenAI image2 视觉实验",
-    "subtitle": "240 张传播向 AI 海报",
+    "subtitle": "248 张传播向 AI 海报",
     "headline": "OpenAI image2 视觉实验",
     "intro": "每一批图片围绕一个临时主题生成，并按当次最合适的 category 归档；可以是反差创意、真实场景、产品概念、人物叙事或任何新的视觉方向。",
     "coverImage": "assets/contact_sheet_image2.jpg",
@@ -106,6 +106,10 @@
     {
       "id": "llm-methodology-infographics",
       "label": "大模型方法论"
+    },
+    {
+      "id": "taipingnian-history",
+      "label": "太平年历史讲解"
     }
   ],
   "batches": [
@@ -210,6 +214,12 @@
       "theme": "大模型核心知识与方法论学术论文信息图",
       "createdAt": "2026-04-28",
       "count": 15
+    },
+    {
+      "id": "taipingnian-historical-infographics-2026-04-28",
+      "theme": "电视剧《太平年》人物历史地理讲解图",
+      "createdAt": "2026-04-28",
+      "count": 8
     }
   ],
   "items": [
@@ -2837,6 +2847,94 @@
       "thumb": "assets/thumbs/llm-methodology-infographics-2026-04-28/15_灾难性遗忘与持续学习.png",
       "description": "展示新领域微调带来增益的同时，如何通过 replay、正则和 adapter 保留旧能力。",
       "prompt": "Horizontal academic infographic, LLM methodology: Catastrophic Forgetting and Continual Learning. Show base model skill map, new domain fine-tuning data, performance gains in new domain, drops on old tasks, replay buffer, regularization anchor, adapters, and evaluation dashboard across time. Short labels: Old Skills, New Data, Fine-tune, Forgetting, Replay, Adapter, Retain. Clean scientific paper figure, white background, blue-gray and yellow accents, precise charts and arrows, no logos, no long text."
+    },
+    {
+      "id": "taipingnian-historical-infographics-2026-04-28_01_五代十国到纳土归宋时间线",
+      "batch": "taipingnian-historical-infographics-2026-04-28",
+      "category": "taipingnian-history",
+      "number": "01",
+      "title": "五代十国到纳土归宋时间线",
+      "image": "assets/images/taipingnian-historical-infographics-2026-04-28/01_五代十国到纳土归宋时间线.png",
+      "thumb": "assets/thumbs/taipingnian-historical-infographics-2026-04-28/01_五代十国到纳土归宋时间线.png",
+      "description": "用 907 到 978 的时间线解释《太平年》的时代起点、吴越位置和统一大势。",
+      "prompt": "Horizontal academic television-history infographic explaining the drama Taiping Nian without actor likenesses. Topic: overall historical timeline from late Five Dynasties to early Northern Song. Show a clean scroll-like timeline from 907 to 978, fragmented states gradually converging toward unity, with Wu-Yue in the southeast highlighted, Northern Zhou and Northern Song transition in the north, key marker 978 for peaceful submission. Include short Chinese labels only: 五代十国, 吴越, 后周, 北宋, 纳土归宋, 978. Visual style: scholarly historical paper infographic, muted ink, cinnabar, jade green, map texture, precise arrows, small palace and city icons, no TV logo, no actor faces, no copyrighted stills."
+    },
+    {
+      "id": "taipingnian-historical-infographics-2026-04-28_02_核心人物关系图",
+      "batch": "taipingnian-historical-infographics-2026-04-28",
+      "category": "taipingnian-history",
+      "number": "02",
+      "title": "核心人物关系图",
+      "image": "assets/images/taipingnian-historical-infographics-2026-04-28/02_核心人物关系图.png",
+      "thumb": "assets/thumbs/taipingnian-historical-infographics-2026-04-28/02_核心人物关系图.png",
+      "description": "围绕钱弘俶、孙太真、赵匡胤、郭荣与南唐人物，梳理剧中的政治和情感网络。",
+      "prompt": "Horizontal academic infographic explaining Taiping Nian character relationships, based on historical roles, no actor likeness. Center: Qian Hongchu as Wu-Yue ruler, shown as a generic young king in plain historical robes. Around him: Sun Taizhen as partner and royal consort, Zhao Kuangyin as Northern Song founder, Guo Rong as Later Zhou emperor, Li Yu and Han Xizai as Southern Tang cultural-political line, officials and people of Wu-Yue. Use relationship lines: alliance, marriage, succession, pressure, diplomacy. Short Chinese labels: 钱弘俶, 孙太真, 赵匡胤, 郭荣, 李煜, 韩熙载, 吴越百姓, 保境安民. Style: elegant scholarly relationship chart, parchment background, restrained colors, small portrait medallions with generic faces, no celebrity resemblance, no TV logo."
+    },
+    {
+      "id": "taipingnian-historical-infographics-2026-04-28_03_吴越地理与东南水网",
+      "batch": "taipingnian-historical-infographics-2026-04-28",
+      "category": "taipingnian-history",
+      "number": "03",
+      "title": "吴越地理与东南水网",
+      "image": "assets/images/taipingnian-historical-infographics-2026-04-28/03_吴越地理与东南水网.png",
+      "thumb": "assets/thumbs/taipingnian-historical-infographics-2026-04-28/03_吴越地理与东南水网.png",
+      "description": "以杭州、钱塘江、运河、海贸和周边政权展示吴越为什么能成为剧集地理核心。",
+      "prompt": "Horizontal historical geography infographic for Taiping Nian: Wu-Yue kingdom and surrounding powers. A refined map of southeast China around 10th century, highlighting Hangzhou / Qiantang as capital, Suzhou frontier, Mingzhou, Wenzhou, Fuzhou coastal route, Jiangnan river network, Qiantang River, Grand Canal link, sea trade lanes. Show neighboring Southern Tang to west/northwest and Northern Song pressure from north. Short Chinese labels: 杭州, 钱塘, 苏州前线, 明州, 温州, 福州, 南唐, 北宋, 海贸, 水利. Include tiny icons of pagodas, canals, rice fields, ships, city walls. Style: academic atlas plate, parchment, blue rivers, green Wu-Yue territory, no actor likeness, no TV stills."
+    },
+    {
+      "id": "taipingnian-historical-infographics-2026-04-28_04_北方五代更迭与统一压力",
+      "batch": "taipingnian-historical-infographics-2026-04-28",
+      "category": "taipingnian-history",
+      "number": "04",
+      "title": "北方五代更迭与统一压力",
+      "image": "assets/images/taipingnian-historical-infographics-2026-04-28/04_北方五代更迭与统一压力.png",
+      "thumb": "assets/thumbs/taipingnian-historical-infographics-2026-04-28/04_北方五代更迭与统一压力.png",
+      "description": "用后梁、后唐、后晋、后汉、后周到北宋的更替说明剧中北方权力背景。",
+      "prompt": "Horizontal academic infographic for Taiping Nian: northern Five Dynasties political churn and why unity became urgent. Show five short-lived dynasties as stacked broken seals or rotating court banners: Later Liang, Later Tang, Later Jin, Later Han, Later Zhou, then Northern Song emerging. Include battlefield smoke, refugees, tax registers, shifting capitals, generals, and a stability curve. Short Chinese labels: 后梁, 后唐, 后晋, 后汉, 后周, 北宋, 兵变, 割据, 统一压力. Style: serious historical explanation diagram, dark north-side palette contrasted with orderly blue Song area, clean layout, no gore, no actor likeness, no TV stills."
+    },
+    {
+      "id": "taipingnian-historical-infographics-2026-04-28_05_南唐-文化镜像与政治邻国",
+      "batch": "taipingnian-historical-infographics-2026-04-28",
+      "category": "taipingnian-history",
+      "number": "05",
+      "title": "南唐：文化镜像与政治邻国",
+      "image": "assets/images/taipingnian-historical-infographics-2026-04-28/05_南唐-文化镜像与政治邻国.png",
+      "thumb": "assets/thumbs/taipingnian-historical-infographics-2026-04-28/05_南唐-文化镜像与政治邻国.png",
+      "description": "把金陵、李璟、李煜、徐铉、韩熙载等线索放进南唐的文化与战略处境中。",
+      "prompt": "Horizontal academic infographic for Taiping Nian: Southern Tang as cultural mirror and political neighbor. Show Jinling / Nanjing palace, literati court, poetry, painting, music, official debates, and border pressure with Wu-Yue and Song. Include generic figures for Li Jing, Li Yu, Xu Xuan, Han Xizai, with no actor likeness. Visual contrast: refined Southern Tang culture vs shrinking geopolitical space. Short Chinese labels: 南唐, 金陵, 李璟, 李煜, 徐铉, 韩熙载, 诗词书画, 边境压力, 归宋大势. Style: elegant museum-exhibit infographic, ink wash plus diagrams, cultural artifacts, map inset, no TV logo, no copyrighted stills."
+    },
+    {
+      "id": "taipingnian-historical-infographics-2026-04-28_06_钱弘俶的纳土归宋决策树",
+      "batch": "taipingnian-historical-infographics-2026-04-28",
+      "category": "taipingnian-history",
+      "number": "06",
+      "title": "钱弘俶的纳土归宋决策树",
+      "image": "assets/images/taipingnian-historical-infographics-2026-04-28/06_钱弘俶的纳土归宋决策树.png",
+      "thumb": "assets/thumbs/taipingnian-historical-infographics-2026-04-28/06_钱弘俶的纳土归宋决策树.png",
+      "description": "用决策树拆解抗宋、自保、纳土归宋三种路径及其对百姓、水利和贸易的影响。",
+      "prompt": "Horizontal academic decision-tree infographic for Taiping Nian: Qian Hongchu's peaceful submission to Song. Center a royal council table in Wu-Yue palace, generic historical figures discussing options. Three branches: resist war, maintain autonomy, submit territory peacefully; show consequences as small panels: casualties, trade disruption, temple/city preservation, people protected, political legitimacy. Highlight final branch 纳土归宋 and 保境安民. Short Chinese labels: 抗宋, 自保, 纳土归宋, 百姓, 战火, 水利, 贸易, 太平. Style: scholarly policy-analysis diagram, parchment background, calm court scene, decision arrows, no actor likeness, no TV stills, no logos."
+    },
+    {
+      "id": "taipingnian-historical-infographics-2026-04-28_07_杭州与吴越遗存地图",
+      "batch": "taipingnian-historical-infographics-2026-04-28",
+      "category": "taipingnian-history",
+      "number": "07",
+      "title": "杭州与吴越遗存地图",
+      "image": "assets/images/taipingnian-historical-infographics-2026-04-28/07_杭州与吴越遗存地图.png",
+      "thumb": "assets/thumbs/taipingnian-historical-infographics-2026-04-28/07_杭州与吴越遗存地图.png",
+      "description": "用西湖、钱塘江、六和塔、雷峰塔、灵隐和运河串联剧集背后的城市记忆。",
+      "prompt": "Horizontal museum-style historical infographic for Taiping Nian: present-day cultural and geographic traces of Wu-Yue around Hangzhou and Jiangnan. Show a map-board connecting West Lake, Qiantang River, Liuhe Pagoda, Leifeng Pagoda, Lingyin Temple, canals, old city gates, Suzhou and coastal trade routes. Use then-and-now split panels: 10th-century city planning and modern heritage sites. Short Chinese labels: 杭州, 西湖, 钱塘江, 六和塔, 雷峰塔, 灵隐, 运河, 吴越遗存. Style: scholarly travel-history infographic, warm parchment, jade green water, small architectural drawings, clean arrows, no actors, no TV stills, no logos."
+    },
+    {
+      "id": "taipingnian-historical-infographics-2026-04-28_08_史实-地理与戏剧叙事结构",
+      "batch": "taipingnian-historical-infographics-2026-04-28",
+      "category": "taipingnian-history",
+      "number": "08",
+      "title": "史实、地理与戏剧叙事结构",
+      "image": "assets/images/taipingnian-historical-infographics-2026-04-28/08_史实-地理与戏剧叙事结构.png",
+      "thumb": "assets/thumbs/taipingnian-historical-infographics-2026-04-28/08_史实-地理与戏剧叙事结构.png",
+      "description": "用三层结构解释历史剧如何把史实、地理空间、人物关系组织成可看的叙事。",
+      "prompt": "Horizontal academic infographic for Taiping Nian: drama-making method, how a historical TV series turns records into narrative. Show a three-layer board: historical facts layer with annals and dates, geographic layer with Wu-Yue and Song map, character layer with generic figures and relationship arcs, then episode narrative layer with palace, battlefield, family, diplomacy, ordinary people. Emphasize principle 大事不虚，小事不拘 as short Chinese label, also labels 史实, 地理, 人物, 戏剧, 纳土归宋. Style: clean scholarly media-studies diagram, paper storyboard, timeline strips, map insets, muted ink and cinnabar, no actor likeness, no TV logo, no copyrighted stills."
     }
   ]
 }
