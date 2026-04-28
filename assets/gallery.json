@@ -1,7 +1,7 @@
 {
   "site": {
     "title": "OpenAI image2 视觉实验",
-    "subtitle": "248 张传播向 AI 海报",
+    "subtitle": "263 张传播向 AI 海报",
     "headline": "OpenAI image2 视觉实验",
     "intro": "每一批图片围绕一个临时主题生成，并按当次最合适的 category 归档；可以是反差创意、真实场景、产品概念、人物叙事或任何新的视觉方向。",
     "coverImage": "assets/contact_sheet_image2.jpg",
@@ -110,6 +110,10 @@
     {
       "id": "taipingnian-history",
       "label": "太平年历史讲解"
+    },
+    {
+      "id": "modern-art-everyday-gallery",
+      "label": "现代艺术日常展览"
     }
   ],
   "batches": [
@@ -220,6 +224,12 @@
       "theme": "电视剧《太平年》人物历史地理讲解图",
       "createdAt": "2026-04-28",
       "count": 8
+    },
+    {
+      "id": "modern-art-everyday-gallery-2026-04-28",
+      "theme": "现代艺术流派展现日常生活的展览实拍",
+      "createdAt": "2026-04-28",
+      "count": 15
     }
   ],
   "items": [
@@ -2935,6 +2945,171 @@
       "thumb": "assets/thumbs/taipingnian-historical-infographics-2026-04-28/08_史实-地理与戏剧叙事结构.png",
       "description": "用三层结构解释历史剧如何把史实、地理空间、人物关系组织成可看的叙事。",
       "prompt": "Horizontal academic infographic for Taiping Nian: drama-making method, how a historical TV series turns records into narrative. Show a three-layer board: historical facts layer with annals and dates, geographic layer with Wu-Yue and Song map, character layer with generic figures and relationship arcs, then episode narrative layer with palace, battlefield, family, diplomacy, ordinary people. Emphasize principle 大事不虚，小事不拘 as short Chinese label, also labels 史实, 地理, 人物, 戏剧, 纳土归宋. Style: clean scholarly media-studies diagram, paper storyboard, timeline strips, map insets, muted ink and cinnabar, no actor likeness, no TV logo, no copyrighted stills."
+    },
+    {
+      "id": "modern-art-everyday-gallery-2026-04-28_01_立体主义早餐桌",
+      "batch": "modern-art-everyday-gallery-2026-04-28",
+      "category": "modern-art-everyday-gallery",
+      "number": "01",
+      "title": "立体主义早餐桌",
+      "image": "assets/images/modern-art-everyday-gallery-2026-04-28/01_立体主义早餐桌.png",
+      "thumb": "assets/thumbs/modern-art-everyday-gallery-2026-04-28/01_立体主义早餐桌.png",
+      "description": "白盒展厅里，一张早餐桌被拆解成多视角的杯子、吐司、钥匙和手机。",
+      "prompt": "Horizontal photorealistic museum exhibition installation shot. A white-cube gallery room with polished concrete floor, track lighting, a few visitors quietly observing. On the main wall hangs a large cubist painting of an ordinary breakfast table: coffee mug, toast, phone, keys, newspaper, fruit bowl fractured into multiple angular viewpoints, muted ochre, gray, navy, and brick red. Include a small blank wall label with unreadable text. The photograph should feel like a real art exhibition documentation image, not a digital poster. Natural lens perspective, 35mm, subtle reflections, no recognizable artist, no logos, no readable text."
+    },
+    {
+      "id": "modern-art-everyday-gallery-2026-04-28_02_未来主义地铁通勤",
+      "batch": "modern-art-everyday-gallery-2026-04-28",
+      "category": "modern-art-everyday-gallery",
+      "number": "02",
+      "title": "未来主义地铁通勤",
+      "image": "assets/images/modern-art-everyday-gallery-2026-04-28/02_未来主义地铁通勤.png",
+      "thumb": "assets/thumbs/modern-art-everyday-gallery-2026-04-28/02_未来主义地铁通勤.png",
+      "description": "通勤人群、车门和伞被速度线与重复轮廓压缩成一幅运动感展品。",
+      "prompt": "Horizontal photorealistic art museum installation shot, white gallery room with visitors. A large futurist painting on the wall depicts daily subway commuting: people holding handles, train doors, phone screens, coffee cups, umbrellas, all fragmented into speed lines and repeated motion silhouettes, dynamic diagonals, metallic gray, electric blue, orange. The commuters in the artwork are anonymous and stylized, not real people. Exhibition documentation photo, track lighting, polished floor, blank wall label with unreadable text, realistic shadows, no logos, no readable text, no famous artist imitation."
+    },
+    {
+      "id": "modern-art-everyday-gallery-2026-04-28_03_构成主义晾衣日",
+      "batch": "modern-art-everyday-gallery-2026-04-28",
+      "category": "modern-art-everyday-gallery",
+      "number": "03",
+      "title": "构成主义晾衣日",
+      "image": "assets/images/modern-art-everyday-gallery-2026-04-28/03_构成主义晾衣日.png",
+      "thumb": "assets/thumbs/modern-art-everyday-gallery-2026-04-28/03_构成主义晾衣日.png",
+      "description": "洗衣机、晾衣架和塑料篮被组织成红黑米色的几何秩序。",
+      "prompt": "Horizontal photorealistic gallery exhibition shot. In a white museum room, a large constructivist-style wall artwork shows ordinary apartment laundry day: drying rack, socks, shirts, washing machine, plastic basket, window frame, all arranged as bold geometric planes, circles, diagonal beams, red-black-cream palette, utilitarian graphic rhythm. Two visitors stand at a respectful distance, small blank label beside the artwork with unreadable text. Real exhibition documentation look, track lights, crisp shadows, concrete floor, no logos, no readable text, not a poster mockup."
+    },
+    {
+      "id": "modern-art-everyday-gallery-2026-04-28_04_达达主义办公桌",
+      "batch": "modern-art-everyday-gallery-2026-04-28",
+      "category": "modern-art-everyday-gallery",
+      "number": "04",
+      "title": "达达主义办公桌",
+      "image": "assets/images/modern-art-everyday-gallery-2026-04-28/04_达达主义办公桌.png",
+      "thumb": "assets/thumbs/modern-art-everyday-gallery-2026-04-28/04_达达主义办公桌.png",
+      "description": "订书机、收据、键帽和咖啡渍被装配成一件荒诞的办公室浮雕。",
+      "prompt": "Horizontal photorealistic museum gallery documentation photo. A large dada-inspired mixed-media assemblage artwork is mounted on a white wall: everyday office desk chaos transformed into absurd art, with stapler, receipt roll, calendar pages, keyboard keys, coffee stain rings, rubber bands, torn envelopes, and a chair leg arranged as a playful collage relief. Neutral visitors in foreground, museum bench, small blank wall label unreadable. Lighting realistic, shadows from raised objects, polished floor. The artwork should feel humorous and anti-rational but still about normal office life. No logos, no readable text, no brand names."
+    },
+    {
+      "id": "modern-art-everyday-gallery-2026-04-28_05_超现实主义清晨卧室",
+      "batch": "modern-art-everyday-gallery-2026-04-28",
+      "category": "modern-art-everyday-gallery",
+      "number": "05",
+      "title": "超现实主义清晨卧室",
+      "image": "assets/images/modern-art-everyday-gallery-2026-04-28/05_超现实主义清晨卧室.png",
+      "thumb": "assets/thumbs/modern-art-everyday-gallery-2026-04-28/05_超现实主义清晨卧室.png",
+      "description": "闹钟、拖鞋、牙刷和被子把醒来的普通早晨变成梦境展品。",
+      "prompt": "Horizontal photorealistic art exhibition view. A museum room displays a large surrealist painting of a normal bedroom morning: alarm clock melting softly over a pillow, slippers floating under the bed, a toothbrush sprouting from a moonlit window, blanket turning into a quiet sea, but the subject remains ordinary waking up. Visitors stand in silhouette, gallery wall white, track lights, blank label unreadable. Dreamlike artwork inside a real gallery photo, not a fantasy scene outside the painting. Soft blue and beige palette, realistic museum documentation, no famous artist imitation, no logos, no readable text."
+    },
+    {
+      "id": "modern-art-everyday-gallery-2026-04-28_06_抽象表现主义洗碗",
+      "batch": "modern-art-everyday-gallery-2026-04-28",
+      "category": "modern-art-everyday-gallery",
+      "number": "06",
+      "title": "抽象表现主义洗碗",
+      "image": "assets/images/modern-art-everyday-gallery-2026-04-28/06_抽象表现主义洗碗.png",
+      "thumb": "assets/thumbs/modern-art-everyday-gallery-2026-04-28/06_抽象表现主义洗碗.png",
+      "description": "晚饭后的水槽、盘子和泡沫被转译为大幅滴洒和手势笔触。",
+      "prompt": "Horizontal photorealistic contemporary art museum shot. A large abstract expressionist canvas about washing dishes after dinner: energetic layered brushstrokes and drips in porcelain white, sink steel gray, soap bubble cyan, tomato sauce red, dark plate circles, gestural arcs suggesting hands, faucet, plates, running water. Viewers stand quietly in gallery, white walls, track lighting, wooden floor, small blank label unreadable. The artwork should be purely gestural but clearly rooted in the daily chore through shapes and colors. Real exhibition photography, no artist name, no logos, no readable text."
+    },
+    {
+      "id": "modern-art-everyday-gallery-2026-04-28_07_波普艺术超市购物",
+      "batch": "modern-art-everyday-gallery-2026-04-28",
+      "category": "modern-art-everyday-gallery",
+      "number": "07",
+      "title": "波普艺术超市购物",
+      "image": "assets/images/modern-art-everyday-gallery-2026-04-28/07_波普艺术超市购物.png",
+      "thumb": "assets/thumbs/modern-art-everyday-gallery-2026-04-28/07_波普艺术超市购物.png",
+      "description": "虚构包装的牛奶、泡面和清洁剂以亮色网点和重复网格呈现。",
+      "prompt": "Horizontal photorealistic museum exhibition documentation photo. A large pop art wall piece depicts supermarket daily life: canned goods, instant noodles, milk cartons, detergent bottles, shopping basket, price sticker shapes, all rendered in bright flat colors, halftone dots, repeated grids, thick outlines, but with fictional generic packaging and no readable brand text. Gallery visitors look at it, white walls, polished floor, track lighting, blank wall label unreadable. The scene must feel like a real art exhibition photograph, not a poster, no logos, no real brands, no readable text."
+    },
+    {
+      "id": "modern-art-everyday-gallery-2026-04-28_08_极简主义钥匙与门",
+      "batch": "modern-art-everyday-gallery-2026-04-28",
+      "category": "modern-art-everyday-gallery",
+      "number": "08",
+      "title": "极简主义钥匙与门",
+      "image": "assets/images/modern-art-everyday-gallery-2026-04-28/08_极简主义钥匙与门.png",
+      "thumb": "assets/thumbs/modern-art-everyday-gallery-2026-04-28/08_极简主义钥匙与门.png",
+      "description": "离家这个日常动作被简化为门的轮廓、一把钥匙和大片留白。",
+      "prompt": "Horizontal photorealistic white-cube gallery shot. A minimalist installation about daily keys and a doorway: three simple matte rectangular slabs, a single metal key on a thin shelf, a pale outline of a door, one small wooden stool, large negative space, quiet beige, off-white, graphite tones. Visitors stand far away, emphasizing scale and emptiness. Museum lighting, concrete floor, blank label unreadable. The artwork should reduce the daily act of leaving home to minimal forms, not a product display. Realistic exhibition documentation photo, no logos, no readable text."
+    },
+    {
+      "id": "modern-art-everyday-gallery-2026-04-28_09_概念艺术电话",
+      "batch": "modern-art-everyday-gallery-2026-04-28",
+      "category": "modern-art-everyday-gallery",
+      "number": "09",
+      "title": "概念艺术电话",
+      "image": "assets/images/modern-art-everyday-gallery-2026-04-28/09_概念艺术电话.png",
+      "thumb": "assets/thumbs/modern-art-everyday-gallery-2026-04-28/09_概念艺术电话.png",
+      "description": "电话听筒、卷线、索引卡和线性图把一次通话变成痕迹系统。",
+      "prompt": "Horizontal photorealistic museum exhibition shot. A conceptual art installation about making a phone call: a plain table with an old generic phone handset, a long coiled cord stretched across the floor into a transparent acrylic box, a row of index cards with unreadable marks, a wall diagram of call duration as simple lines without text. Quiet white gallery, visitors reading a blank wall label, track lights. The artwork transforms everyday communication into a system of traces and absence. Real exhibition documentation, neutral palette, no readable text, no logos, no brand names."
+    },
+    {
+      "id": "modern-art-everyday-gallery-2026-04-28_10_欧普艺术拖地",
+      "batch": "modern-art-everyday-gallery-2026-04-28",
+      "category": "modern-art-everyday-gallery",
+      "number": "10",
+      "title": "欧普艺术拖地",
+      "image": "assets/images/modern-art-everyday-gallery-2026-04-28/10_欧普艺术拖地.png",
+      "thumb": "assets/thumbs/modern-art-everyday-gallery-2026-04-28/10_欧普艺术拖地.png",
+      "description": "厨房地砖、拖把和水痕构成黑白震动的视觉错觉。",
+      "prompt": "Horizontal photorealistic art gallery installation shot. A large op art painting about a kitchen floor and daily mopping: black-and-white warped tile grid, optical vibration, bucket circle, mop handle as diagonal vector, water ripples becoming concentric illusions. A visitor leans slightly to inspect it, white walls, track lighting, small blank label unreadable. The artwork should make an ordinary floor-cleaning chore visually unstable through optical art principles. Real museum documentation photo, crisp perspective, no logos, no readable text."
+    },
+    {
+      "id": "modern-art-everyday-gallery-2026-04-28_11_贫穷艺术午休便当",
+      "batch": "modern-art-everyday-gallery-2026-04-28",
+      "category": "modern-art-everyday-gallery",
+      "number": "11",
+      "title": "贫穷艺术午休便当",
+      "image": "assets/images/modern-art-everyday-gallery-2026-04-28/11_贫穷艺术午休便当.png",
+      "thumb": "assets/thumbs/modern-art-everyday-gallery-2026-04-28/11_贫穷艺术午休便当.png",
+      "description": "面包屑、陶碗、布、石头和饭盒形状组成一条朴素的午餐螺旋。",
+      "prompt": "Horizontal photorealistic contemporary museum installation shot. A large land art and arte povera inspired indoor installation about a daily lunch break: a low field of humble materials arranged on the gallery floor, bread crumbs, clay bowls, folded cloth, stones, dried leaves, lunch box shapes, a thermos silhouette, all organized into a quiet spiral path. Visitors walk around the installation behind a thin boundary line. White gallery walls, skylight, soft shadows, blank label unreadable. Earthy, tactile, ordinary meal transformed into art, no logos, no readable text, no brand packaging."
+    },
+    {
+      "id": "modern-art-everyday-gallery-2026-04-28_12_新表现主义家庭晚餐",
+      "batch": "modern-art-everyday-gallery-2026-04-28",
+      "category": "modern-art-everyday-gallery",
+      "number": "12",
+      "title": "新表现主义家庭晚餐",
+      "image": "assets/images/modern-art-everyday-gallery-2026-04-28/12_新表现主义家庭晚餐.png",
+      "thumb": "assets/thumbs/modern-art-everyday-gallery-2026-04-28/12_新表现主义家庭晚餐.png",
+      "description": "餐桌、椅子、手势和面条被粗黑轮廓与强烈色彩处理成家庭情绪场。",
+      "prompt": "Horizontal photorealistic art museum exhibition shot. A neo-expressionist large canvas about a family dinner table: rough energetic brushwork, distorted chairs, big black outlines, emotional red and yellow plates, messy noodles, arguing hands, a child’s cup, overhead lamp, everyday domestic tension. The painting is mounted in a clean white gallery with visitors and a bench, track lights, blank wall label unreadable. It should feel raw and expressive but not imitate any specific living artist. Real exhibition documentation photo, high detail, no logos, no readable text."
+    },
+    {
+      "id": "modern-art-everyday-gallery-2026-04-28_13_色域绘画晚间淋浴",
+      "batch": "modern-art-everyday-gallery-2026-04-28",
+      "category": "modern-art-everyday-gallery",
+      "number": "13",
+      "title": "色域绘画晚间淋浴",
+      "image": "assets/images/modern-art-everyday-gallery-2026-04-28/13_色域绘画晚间淋浴.png",
+      "thumb": "assets/thumbs/modern-art-everyday-gallery-2026-04-28/13_色域绘画晚间淋浴.png",
+      "description": "蒸汽、水、瓷砖和毛巾被抽象成大面积柔和色带。",
+      "prompt": "Horizontal photorealistic museum exhibition view. A color field painting about a quiet evening shower: huge soft vertical bands of steam white, tile blue, skin-warm peach, towel gray, drain dark circle, with a subtle gradient suggesting water and privacy. The canvas is very large and serene on a white gallery wall, two visitors sitting on a bench, track lighting, blank label unreadable. The daily bathroom moment is abstracted into color fields and atmosphere. Real exhibition documentation, calm, refined, no specific artist imitation, no logos, no readable text."
+    },
+    {
+      "id": "modern-art-everyday-gallery-2026-04-28_14_动态艺术等红绿灯",
+      "batch": "modern-art-everyday-gallery-2026-04-28",
+      "category": "modern-art-everyday-gallery",
+      "number": "14",
+      "title": "动态艺术等红绿灯",
+      "image": "assets/images/modern-art-everyday-gallery-2026-04-28/14_动态艺术等红绿灯.png",
+      "thumb": "assets/thumbs/modern-art-everyday-gallery-2026-04-28/14_动态艺术等红绿灯.png",
+      "description": "红黄绿半透明圆盘和地面斑马线把等红灯变成运动雕塑。",
+      "prompt": "Horizontal photorealistic contemporary art museum shot. A kinetic art installation about daily traffic lights and waiting at a crosswalk: suspended translucent discs in red, amber, green, slow blurred motion, thin rods, small mirrored panels, shadow patterns on white walls, a minimal painted crosswalk on the floor. Visitors stand watching the movement, gallery lighting, blank label unreadable. The artwork turns ordinary waiting and pedestrian rhythm into motion sculpture. Real exhibition documentation photo, no logos, no readable text, no city brands."
+    },
+    {
+      "id": "modern-art-everyday-gallery-2026-04-28_15_照相写实厨房水槽",
+      "batch": "modern-art-everyday-gallery-2026-04-28",
+      "category": "modern-art-everyday-gallery",
+      "number": "15",
+      "title": "照相写实厨房水槽",
+      "image": "assets/images/modern-art-everyday-gallery-2026-04-28/15_照相写实厨房水槽.png",
+      "thumb": "assets/thumbs/modern-art-everyday-gallery-2026-04-28/15_照相写实厨房水槽.png",
+      "description": "早餐后的水滴、碗、勺子和海绵被放大成近乎照片的绘画展品。",
+      "prompt": "Horizontal photorealistic art exhibition documentation shot. A contemporary photorealism-inspired painting displayed in a white gallery: an enormous hyper-detailed close-up of an ordinary kitchen sink after breakfast, water droplets, spoon, ceramic bowl, tea stain, sponge, soft window reflection, rendered with almost photographic precision but clearly a painted canvas with subtle brush texture at the edges. Visitors inspect it closely, museum bench, track lighting, blank label unreadable. The artwork elevates a humble daily cleanup moment. Real gallery photo perspective, no logos, no readable text, no brand packaging."
     }
   ]
 }
