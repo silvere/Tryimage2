@@ -1,0 +1,127 @@
+{
+  "theme": "大模型核心知识与方法论学术论文信息图",
+  "batchId": "llm-methodology-infographics-2026-04-28",
+  "createdAt": "2026-04-28",
+  "items": [
+    {
+      "source": "ig_09ea8de2c216c7830169f025d274e8819093fc198b4d6b8ebe.png",
+      "category": "llm-methodology-infographics",
+      "categoryLabel": "大模型方法论",
+      "title": "Scaling Laws 与计算最优训练",
+      "description": "用参数量、数据 token 与算力预算的等算力曲线解释大模型训练的规模律权衡。",
+      "prompt": "Horizontal academic paper infographic, large language model methodology, topic: Scaling Laws and compute-optimal training. Clean scientific poster on white background with subtle blue, charcoal, and amber accents. Show three axes as visual modules: model parameters, dataset tokens, compute budget; isoFLOP contour curves, a Chinchilla-style balance point, loss curves flattening, small server cluster icon feeding into a mathematical chart. Include very short readable labels only: Parameters, Tokens, Compute, Loss. Dense but elegant, Nature/ICML paper figure style, vector-like clarity, precise arrows, no company logos, no real model names."
+    },
+    {
+      "source": "ig_09ea8de2c216c7830169f0263236c08190a0c7b581e92d1956.png",
+      "category": "llm-methodology-infographics",
+      "categoryLabel": "大模型方法论",
+      "title": "数据混合与训练集治理",
+      "description": "展示从原始语料到去重、质量过滤、污染检测和混合权重配置的训练数据工程。",
+      "prompt": "Horizontal academic infographic for LLM methodology: Data Mixture Engineering and Dataset Governance. A clean paper figure showing raw web, books, code, dialogue, math, and domain corpora entering a pipeline: license screen, language ID, deduplication, quality scoring, toxicity filter, contamination check, mixture weights, curriculum schedule, final training shards. Use elegant flowchart panels, small corpus icons, Sankey stream widths, quality score histogram. Short labels only: Raw Data, Filters, Dedup, Mixture, Shards. Scientific, high information density, white background, teal and slate accents, no logos, no readable long paragraphs."
+    },
+    {
+      "source": "ig_09ea8de2c216c7830169f0269812988190a8e6d10772704004.png",
+      "category": "llm-methodology-infographics",
+      "categoryLabel": "大模型方法论",
+      "title": "分词与词表权衡",
+      "description": "从 BPE、字节回退、词表大小和序列长度解释分词方案对计算与覆盖率的影响。",
+      "prompt": "Horizontal academic paper infographic, LLM core knowledge: Tokenization and Vocabulary Trade-offs. Show a sentence and code snippet being split into subword tokens, byte fallback blocks, multilingual fragments, vocabulary size dial, sequence length vs compression chart, rare word fragmentation map, and downstream effects on compute and fairness. Clean grid layout with callout boxes, short labels: BPE, Bytes, Vocab, Length, Coverage. Use abstract pseudo text only, no real copyrighted text, no logos. Precise vector-like scientific diagram, white background, purple, cyan, and graphite accents, high information density."
+    },
+    {
+      "source": "ig_09ea8de2c216c7830169f0271a47388190a53b196fb70285a2.png",
+      "category": "llm-methodology-infographics",
+      "categoryLabel": "大模型方法论",
+      "title": "上下文学习与任务推断",
+      "description": "把 few-shot 示例看作潜在任务推断过程，展示示例如何改变预测分布。",
+      "prompt": "Horizontal academic infographic, LLM methodology: In-Context Learning as Bayesian Task Inference. Show a prompt containing few-shot examples flowing into a latent task variable, posterior belief distribution, prediction boundary shift, and final answer. Include panels for zero-shot, few-shot, noisy demonstrations, order sensitivity, and calibration. Visual metaphors: colored dots, probability curves, small transformer silhouette as black box but not architecture. Short labels only: Examples, Latent Task, Posterior, Prediction. Clean scientific paper figure, white background, green and indigo accents, no logos, no long text."
+    },
+    {
+      "source": "ig_09ea8de2c216c7830169f02782f25481908b36a0c290531bba.png",
+      "category": "llm-methodology-infographics",
+      "categoryLabel": "大模型方法论",
+      "title": "测试时计算与验证器搜索",
+      "description": "用多路径推理、候选轨迹、验证器打分和预算滑杆解释 test-time compute 方法。",
+      "prompt": "Horizontal academic infographic for LLM methods: Test-Time Compute, Reasoning Traces, and Verifier-Guided Search. Show a problem entering multiple sampled reasoning paths, branching tree of candidate traces, self-consistency vote, verifier score heatmap, budget slider, and final selected answer. Include tradeoff chart: accuracy vs latency vs token budget. Short labels: Sample, Trace, Verifier, Vote, Budget. Paper figure style, white background, red-orange and navy accents, precise arrows, clean panels, no brand logos, no long readable text."
+    },
+    {
+      "source": "ig_09ea8de2c216c7830169f027dd349481908c28c48283997623.png",
+      "category": "llm-methodology-infographics",
+      "categoryLabel": "大模型方法论",
+      "title": "偏好优化与参考模型约束",
+      "description": "用 chosen/rejected 响应、偏好边际和 KL 锚点解释无需完整 RL 的对齐优化。",
+      "prompt": "Horizontal academic infographic, LLM post-training method: Preference Optimization without full RL. Show paired responses A/B, human or AI preference labels, reward margin, policy model update, reference model KL anchor, DPO-style objective as abstract equation block, before/after response quality distribution. Keep it not tied to any specific company. Short labels: Prompt, Chosen, Rejected, Policy, Reference, KL, Preference. Clean conference paper figure, white background, magenta and dark teal accents, high information density, precise arrows, no logos, no long prose."
+    },
+    {
+      "source": "ig_09ea8de2c216c7830169f02833aacc81909fbf3ab1c822d26f.png",
+      "category": "llm-methodology-infographics",
+      "categoryLabel": "大模型方法论",
+      "title": "合成数据飞轮与拒绝采样",
+      "description": "展示教师模型生成、验证器过滤、困难样本挖掘和学生模型迭代的数据飞轮。",
+      "prompt": "Horizontal academic infographic, LLM methodology: Synthetic Data Flywheel and Rejection Sampling. Show teacher model generating candidate instructions and answers, filters for correctness/diversity/safety, verifier scoring, hard-negative mining, student fine-tuning, evaluation loop, and dataset refresh cycle. Use circular flywheel layout plus side charts for quality vs diversity. Short labels: Teacher, Generate, Filter, Verify, Student, Evaluate. Scientific paper style, white background, amber and blue accents, no logos, no real model names, no long text."
+    },
+    {
+      "source": "ig_09ea8de2c216c7830169f0295de7bc81908c5fdecff22abf3e.png",
+      "category": "llm-methodology-infographics",
+      "categoryLabel": "大模型方法论",
+      "title": "评测设计、污染检测与置信区间",
+      "description": "把题库分层、训练集泄漏检测、误差条和人工审计放进统一评测框架。",
+      "prompt": "Horizontal academic paper infographic, LLM evaluation methodology: Benchmark Design, Contamination, and Statistical Confidence. Show benchmark item bank, train-data overlap detector, canary strings, stratified task buckets, bootstrap confidence intervals, leaderboard with error bars, and human review audit. Use clean panels and small charts. Short labels only: Benchmark, Leakage, Strata, CI, Audit, Score. White background, deep blue and coral accents, precise scientific diagram, high information density, no company logos, no actual benchmark names, no long readable text."
+    },
+    {
+      "source": "ig_09ea8de2c216c7830169f029d195d0819087c28eee83ad1125.png",
+      "category": "llm-methodology-infographics",
+      "categoryLabel": "大模型方法论",
+      "title": "幻觉分类与证据归因",
+      "description": "从声明拆解、证据蕴含、未支撑结论检测和拒答门控解释幻觉控制流程。",
+      "prompt": "Horizontal academic infographic, LLM reliability: Hallucination Taxonomy and Grounding Pipeline. Show user question, retrieved evidence snippets, claim decomposition, entailment checks, unsupported claim detector, citation coverage matrix, abstention decision, and final grounded answer. Include taxonomy side panel: fabrication, contradiction, outdated fact, overclaim, source mismatch. Short labels: Claim, Evidence, Entail, Ground, Abstain. Clean scientific paper style, white background, green and red accents, no brand logos, no real copyrighted text, high information density."
+    },
+    {
+      "source": "ig_09ea8de2c216c7830169f02a3e08248190ab324bcc12591abe.png",
+      "category": "llm-methodology-infographics",
+      "categoryLabel": "大模型方法论",
+      "title": "校准、不确定性与选择性回答",
+      "description": "用可靠性图、ECE、温度缩放和风险覆盖曲线解释模型何时应回答或拒答。",
+      "prompt": "Horizontal academic infographic, LLM methodology: Calibration, Uncertainty, and Selective Answering. Show logits turning into probability distribution, temperature scaling, reliability diagram, expected calibration error blocks, confidence threshold gate, abstain option, and risk-coverage curve. Include examples as abstract icons only. Short labels: Logits, Softmax, Calibrate, ECE, Threshold, Abstain. Clean paper figure, white background, violet and lime accents, precise charts, no logos, no long text."
+    },
+    {
+      "source": "ig_09ea8de2c216c7830169f02a9eae408190ba4c568884a1c1f4.png",
+      "category": "llm-methodology-infographics",
+      "categoryLabel": "大模型方法论",
+      "title": "长上下文评测与 Needle-in-a-Haystack",
+      "description": "用证据插针深度、干扰密度和位置偏差曲线解释长上下文能力评测。",
+      "prompt": "Horizontal academic infographic, LLM methodology: Long-Context Evaluation and Needle-in-a-Haystack Analysis. Show document length axis, inserted evidence needles at different depths, retrieval attention heatmap, position bias curve, distractor density, answer accuracy by depth, and context compression summary. Short labels: Context, Needle, Depth, Distractors, Accuracy, Compress. Clean paper figure, white background, turquoise and charcoal accents, precise charts, no logos, no architecture diagrams, no long readable text."
+    },
+    {
+      "source": "ig_09ea8de2c216c7830169f02b0983008190a7cc56876450b411.png",
+      "category": "llm-methodology-infographics",
+      "categoryLabel": "大模型方法论",
+      "title": "知识编辑与模型遗忘",
+      "description": "展示定位、局部修改、概念遗忘、保留测试和副作用监控之间的张力。",
+      "prompt": "Horizontal academic infographic, LLM methodology: Knowledge Editing and Model Unlearning. Show a factual memory represented as a small localized region in parameter space, edit request, locate neurons or rank-one update, apply patch, specificity test, generalization test, and side-effect monitor. Include unlearning flow for removing a sensitive concept with retention of unrelated capabilities. Short labels: Locate, Edit, Erase, Retain, Specificity, Side Effects. Clean scientific paper figure, white background, crimson and slate accents, abstract neural map, no logos, no real people, no long text."
+    },
+    {
+      "source": "ig_09ea8de2c216c7830169f02b77c46081908500f6fd79cc909a.png",
+      "category": "llm-methodology-infographics",
+      "categoryLabel": "大模型方法论",
+      "title": "知识蒸馏与量化压缩",
+      "description": "用教师学生模型、软标签、INT8/INT4 量化和帕累托曲线解释模型压缩。",
+      "prompt": "Horizontal academic infographic, LLM efficiency methods: Knowledge Distillation and Quantization. Show large teacher model producing soft targets and rationales, compact student model, distillation loss, feature matching, then quantization from FP16 to INT8/INT4 with scale factors, accuracy-size-latency Pareto chart, memory footprint bars, edge device deployment icon. Short labels: Teacher, Student, Soft Targets, Distill, Quantize, Pareto. Clean scientific paper figure, white background, orange and blue accents, no company logos, no real model names, no long text."
+    },
+    {
+      "source": "ig_09ea8de2c216c7830169f02bca7c5c8190ac2c16a5389cd2bc.png",
+      "category": "llm-methodology-infographics",
+      "categoryLabel": "大模型方法论",
+      "title": "课程学习与数据排序",
+      "description": "比较随机采样、阶段式课程和自适应采样对损失曲线与遗忘监控的影响。",
+      "prompt": "Horizontal academic infographic, LLM methodology: Curriculum Learning and Data Ordering. Show training examples sorted by difficulty, domain, noise level, and skill prerequisite graph; compare random sampling, staged curriculum, and adaptive sampling. Include loss curves for easy and hard tasks, forgetting monitor, and sampler controller adjusting mixture weights. Short labels: Difficulty, Sampler, Curriculum, Loss, Forgetting, Adaptive. Clean paper figure, white background, emerald and amber accents, no logos, no long paragraphs."
+    },
+    {
+      "source": "ig_09ea8de2c216c7830169f02c24b58c8190b3e21f00bd89f947.png",
+      "category": "llm-methodology-infographics",
+      "categoryLabel": "大模型方法论",
+      "title": "灾难性遗忘与持续学习",
+      "description": "展示新领域微调带来增益的同时，如何通过 replay、正则和 adapter 保留旧能力。",
+      "prompt": "Horizontal academic infographic, LLM methodology: Catastrophic Forgetting and Continual Learning. Show base model skill map, new domain fine-tuning data, performance gains in new domain, drops on old tasks, replay buffer, regularization anchor, adapters, and evaluation dashboard across time. Short labels: Old Skills, New Data, Fine-tune, Forgetting, Replay, Adapter, Retain. Clean scientific paper figure, white background, blue-gray and yellow accents, precise charts and arrows, no logos, no long text."
+    }
+  ]
+}
