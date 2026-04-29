@@ -1,7 +1,7 @@
 {
   "site": {
     "title": "OpenAI image2 视觉实验",
-    "subtitle": "263 张传播向 AI 海报",
+    "subtitle": "271 张传播向 AI 海报",
     "headline": "OpenAI image2 视觉实验",
     "intro": "每一批图片围绕一个临时主题生成，并按当次最合适的 category 归档；可以是反差创意、真实场景、产品概念、人物叙事或任何新的视觉方向。",
     "coverImage": "assets/contact_sheet_image2.jpg",
@@ -114,6 +114,10 @@
     {
       "id": "modern-art-everyday-gallery",
       "label": "现代艺术日常展览"
+    },
+    {
+      "id": "brawl-stars-guide",
+      "label": "荒野乱斗攻略"
     }
   ],
   "batches": [
@@ -230,6 +234,12 @@
       "theme": "现代艺术流派展现日常生活的展览实拍",
       "createdAt": "2026-04-28",
       "count": 15
+    },
+    {
+      "id": "brawl-stars-beginner-to-pro-2026-04-29",
+      "theme": "荒野乱斗从小白到高手系统攻略图",
+      "createdAt": "2026-04-29",
+      "count": 8
     }
   ],
   "items": [
@@ -3110,6 +3120,94 @@
       "thumb": "assets/thumbs/modern-art-everyday-gallery-2026-04-28/15_照相写实厨房水槽.png",
       "description": "早餐后的水滴、碗、勺子和海绵被放大成近乎照片的绘画展品。",
       "prompt": "Horizontal photorealistic art exhibition documentation shot. A contemporary photorealism-inspired painting displayed in a white gallery: an enormous hyper-detailed close-up of an ordinary kitchen sink after breakfast, water droplets, spoon, ceramic bowl, tea stain, sponge, soft window reflection, rendered with almost photographic precision but clearly a painted canvas with subtle brush texture at the edges. Visitors inspect it closely, museum bench, track lighting, blank label unreadable. The artwork elevates a humble daily cleanup moment. Real gallery photo perspective, no logos, no readable text, no brand packaging."
+    },
+    {
+      "id": "brawl-stars-beginner-to-pro-2026-04-29_01_从小白到高手路线图",
+      "batch": "brawl-stars-beginner-to-pro-2026-04-29",
+      "category": "brawl-stars-guide",
+      "number": "01",
+      "title": "从小白到高手路线图",
+      "image": "assets/images/brawl-stars-beginner-to-pro-2026-04-29/01_从小白到高手路线图.png",
+      "thumb": "assets/thumbs/brawl-stars-beginner-to-pro-2026-04-29/01_从小白到高手路线图.png",
+      "description": "把操作、瞄准、弹药、兵线、模式目标、英雄池和复盘串成一条成长路径。",
+      "prompt": "Horizontal Chinese esports coaching infographic for Brawl Stars beginners, no official logo, no exact game UI, no copied character art. Title area: 荒野乱斗：从小白到高手路线图. Show an 8-step learning road from first week to ranked climb: controls, aim, dodge, ammo, lane, mode objective, brawler pool, replay review. Use stylized generic chibi hero silhouettes, joystick icon, trophy path, map tiles, checklist cards. Clean mobile-game guide style, dark navy background with neon yellow, cyan, and magenta accents, high information density, readable short Chinese labels, no real screenshots."
+    },
+    {
+      "id": "brawl-stars-beginner-to-pro-2026-04-29_02_强势英雄不是无脑选",
+      "batch": "brawl-stars-beginner-to-pro-2026-04-29",
+      "category": "brawl-stars-guide",
+      "number": "02",
+      "title": "强势英雄不是无脑选",
+      "image": "assets/images/brawl-stars-beginner-to-pro-2026-04-29/02_强势英雄不是无脑选.png",
+      "thumb": "assets/thumbs/brawl-stars-beginner-to-pro-2026-04-29/02_强势英雄不是无脑选.png",
+      "description": "用当前榜单信号解释 Colette、Edgar、Crow、Mortis、Colt 等强势英雄必须结合地图和阵容理解。",
+      "prompt": "Horizontal Chinese meta guide infographic for Brawl Stars, no official logo, no exact game UI, no copied character art. Title: 当前强势英雄怎么理解：不是无脑选 S 级. Create a tier-and-context board: top row 版本强势信号 with labels Colette, Edgar, Crow, Mortis, Colt shown as generic role icons rather than exact portraits; second row 看地图与模式 with open map, walls map, bushes map, objective map; third row 看队伍缺口 damage, control, assassin, anti-tank, thrower. Include warning cards: 强度会随平衡调整, 先练 3-5 个本命. Clean esports analysis board, dark background, cyan/yellow/red accents, readable Chinese labels, high information density."
+    },
+    {
+      "id": "brawl-stars-beginner-to-pro-2026-04-29_03_英雄定位与兵线心法",
+      "batch": "brawl-stars-beginner-to-pro-2026-04-29",
+      "category": "brawl-stars-guide",
+      "number": "03",
+      "title": "英雄定位与兵线心法",
+      "image": "assets/images/brawl-stars-beginner-to-pro-2026-04-29/03_英雄定位与兵线心法.png",
+      "thumb": "assets/thumbs/brawl-stars-beginner-to-pro-2026-04-29/03_英雄定位与兵线心法.png",
+      "description": "用坦克、刺客、射手、投掷、控场、辅助六类角色说明抢线、换位和反制关系。",
+      "prompt": "Horizontal Chinese Brawl Stars learning infographic, no official logo, no copied character art. Title: 英雄定位与兵线心法. Show six role cards with generic icons and silhouettes: 坦克, 刺客, 射手, 投掷, 控场, 辅助. Center: a three-lane map diagram with left/mid/right lanes, choke points, bushes, walls, safe zones. Add decision arrows: 抢线, 压血, 换位, 控草, 开大, 回撤. Include small matchup matrix: range beats tank, assassin punishes sniper, thrower punishes walls, control wins objective. Clean esports coaching board, dark arena-grid background, bright role colors, readable Chinese labels, high density, no game screenshots."
+    },
+    {
+      "id": "brawl-stars-beginner-to-pro-2026-04-29_04_高手操作四件事",
+      "batch": "brawl-stars-beginner-to-pro-2026-04-29",
+      "category": "brawl-stars-guide",
+      "number": "04",
+      "title": "高手操作四件事",
+      "image": "assets/images/brawl-stars-beginner-to-pro-2026-04-29/04_高手操作四件事.png",
+      "thumb": "assets/thumbs/brawl-stars-beginner-to-pro-2026-04-29/04_高手操作四件事.png",
+      "description": "拆解弹药经济、走位、预判和技能循环，并列出新手最常见的操作错误。",
+      "prompt": "Horizontal Chinese Brawl Stars micro-mechanics infographic, no official logo, no copied UI. Title: 高手操作核心：弹药、走位、预判、技能循环. Layout with four large panels: 1 ammo economy with three bullet bars and reload timing; 2 aiming prediction with dotted trajectories and enemy dodge cones; 3 cover dancing around walls and bushes; 4 super and gadget timing loop. Add common mistakes strip: 空枪追击, 满弹不用, 站桩输出, 盲进草, 大招单开. Use stylized generic top-down arena diagrams and chibi silhouettes, neon coaching-board style, dark grid background, readable Chinese labels, high information density."
+    },
+    {
+      "id": "brawl-stars-beginner-to-pro-2026-04-29_05_模式打法速查",
+      "batch": "brawl-stars-beginner-to-pro-2026-04-29",
+      "category": "brawl-stars-guide",
+      "number": "05",
+      "title": "模式打法速查",
+      "image": "assets/images/brawl-stars-beginner-to-pro-2026-04-29/05_模式打法速查.png",
+      "thumb": "assets/thumbs/brawl-stars-beginner-to-pro-2026-04-29/05_模式打法速查.png",
+      "description": "把宝石、足球、热区、赏金、金库、淘汰赛六种模式压成目标优先的打法卡片。",
+      "prompt": "Horizontal Chinese Brawl Stars game-mode playbook infographic, no official logo, no screenshots. Title: 模式打法速查：目标比击杀更重要. Six mode cards with generic icons and mini maps: 宝石争霸 Gem Grab, 乱斗足球 Brawl Ball, 热区争夺 Hot Zone, 赏金猎人 Bounty, 金库攻防 Heist, 淘汰赛 Knockout. For each: objective, win condition, first 20 seconds, common mistake. Use top-down stylized maps, arrows, role icons, stopwatch, trophy. Clean esports guide style, dark background, readable Chinese labels, bright color-coded mode cards, high density, no copyrighted character designs."
+    },
+    {
+      "id": "brawl-stars-beginner-to-pro-2026-04-29_06_地图读法与反制选择",
+      "batch": "brawl-stars-beginner-to-pro-2026-04-29",
+      "category": "brawl-stars-guide",
+      "number": "06",
+      "title": "地图读法与反制选择",
+      "image": "assets/images/brawl-stars-beginner-to-pro-2026-04-29/06_地图读法与反制选择.png",
+      "thumb": "assets/thumbs/brawl-stars-beginner-to-pro-2026-04-29/06_地图读法与反制选择.png",
+      "description": "从开阔图、墙多图、草丛图和目标图推导角色选择、克制链与选禁清单。",
+      "prompt": "Horizontal Chinese Brawl Stars draft and counter-pick infographic, no official logo, no screenshots. Title: 地图读法与反制选择. Main board: four map archetypes: 开阔远程图, 墙多投掷图, 草丛埋伏图, 热区目标图. For each show best role types and counters. Include counter triangle: 坦克, 反坦克, 刺客, 射手, 投掷, 控场. Add pick/ban checklist: 先看墙体, 再看草丛, 再看目标, 最后看队友. Include examples as text names in small chips: Piper, Colt, Bull, Bibi, Crow, Colette, Barley, Spike, Griff, Leon, but generic icons only. Dark tactical board, high-density readable Chinese labels."
+    },
+    {
+      "id": "brawl-stars-beginner-to-pro-2026-04-29_07_怎么花钱最划算",
+      "batch": "brawl-stars-beginner-to-pro-2026-04-29",
+      "category": "brawl-stars-guide",
+      "number": "07",
+      "title": "怎么花钱最划算",
+      "image": "assets/images/brawl-stars-beginner-to-pro-2026-04-29/07_怎么花钱最划算.png",
+      "thumb": "assets/thumbs/brawl-stars-beginner-to-pro-2026-04-29/07_怎么花钱最划算.png",
+      "description": "以先战力后外观为原则，按零氪、月卡型、小氪和收藏党分配升级与消费优先级。",
+      "prompt": "Horizontal Chinese Brawl Stars economy and spending guide infographic, no official logo, no real shop screenshots. Title: 怎么花钱最划算：先战力，后外观. Show a value ladder: 1 free quests and events, 2 choose a small core brawler pool, 3 upgrade to key power levels, 4 buy high-value pass or bundles only if actively playing, 5 consider hypercharge/value offers, 6 cosmetics with spare budget. Include avoid list: 随机冲动, 只买皮肤, 分散升级, 追每个新英雄, 非官方充值. Show budget buckets: 零氪, 月卡型, 小氪, 收藏党. Use coin, gem, ticket, safe-wallet icons, upgrade tree, warning signs. Clean finance-meets-game guide style, dark background, green/gold/cyan accents, readable Chinese labels, no logos, no copied UI."
+    },
+    {
+      "id": "brawl-stars-beginner-to-pro-2026-04-29_08_30-天训练闭环",
+      "batch": "brawl-stars-beginner-to-pro-2026-04-29",
+      "category": "brawl-stars-guide",
+      "number": "08",
+      "title": "30 天训练闭环",
+      "image": "assets/images/brawl-stars-beginner-to-pro-2026-04-29/08_30-天训练闭环.png",
+      "thumb": "assets/thumbs/brawl-stars-beginner-to-pro-2026-04-29/08_30-天训练闭环.png",
+      "description": "把每天 45 分钟训练拆成热身、认真对局、复盘失败和指标追踪四个动作。",
+      "prompt": "Horizontal Chinese Brawl Stars 30-day improvement plan infographic, no official logo, no screenshots, no copied character art. Title: 30 天从小白到高手：训练闭环. Show calendar divided into 4 weeks: Week 1 controls and survival, Week 2 role pool and mode basics, Week 3 draft and matchup review, Week 4 ranked climb and replay analysis. Include daily 45-minute routine: warm-up aim, 5 serious matches, replay one loss, write one mistake, upgrade one goal. Add KPI dashboard: survival time, hit rate, ammo waste, deaths first, objective time, win streak. Use coaching notebook, arena mini maps, stopwatch, replay icon, target icon, rank ladder. Dark esports dashboard, cyan/orange accents, readable Chinese labels, high information density."
     }
   ]
 }
