@@ -1,0 +1,127 @@
+{
+  "theme": "世界哲学体系十五讲",
+  "batchId": "world-philosophy-systems-2026-05-02",
+  "createdAt": "2026-05-02",
+  "items": [
+    {
+      "source": "ig_09ea8de2c216c7830169f5c11cca7c8190ba55af52e18d0297.png",
+      "category": "world-philosophy-systems",
+      "categoryLabel": "世界哲学体系",
+      "title": "世界哲学体系总地图",
+      "description": "用四个基本问题把世界主要哲学传统放到同一张地图上。",
+      "prompt": "Horizontal Chinese educational infographic poster: 世界哲学体系总地图. A clear world map plus conceptual compass showing four universal questions: 我能知道什么? 世界是什么? 我应如何生活? 社会如何正义? Around the map, visual clusters for Greek, Indian, Chinese, Buddhist, Islamic, African, modern Western, analytic, continental traditions. Use simple icons: scroll, debate circle, lotus, yin-yang, astrolabe, talking drum, microscope, courtroom. Deep but beginner-friendly, museum-quality infographic, readable short Chinese labels, warm parchment background with blue, red, jade accents, high information density, no logos, no long paragraphs."
+    },
+    {
+      "source": "ig_09ea8de2c216c7830169f5c1ebc3e48190871a453505a5ca9f.png",
+      "category": "world-philosophy-systems",
+      "categoryLabel": "世界哲学体系",
+      "title": "古希腊哲学",
+      "description": "从自然本原、苏格拉底问答、柏拉图理念到亚里士多德逻辑，讲清理性论证的起点。",
+      "prompt": "Horizontal Chinese infographic poster: 古希腊哲学：从自然到理性论证. Show an ancient agora with generic marble columns, debate circle, early nature philosophers pointing to water, fire, atom icons; Socratic dialogue scene; Plato's cave diagram; Aristotle's classification tree. Process path: 自然本原 -> 诡辩与苏格拉底 -> 理念论 -> 逻辑与目的论 -> 城邦伦理. Use readable short Chinese labels: 泰勒斯, 赫拉克利特, 德谟克利特, 苏格拉底, 柏拉图, 亚里士多德, 逻辑, 德性. Museum-quality educational infographic, parchment and marble palette, no logos, no long paragraphs, no exact statue replicas."
+    },
+    {
+      "source": "ig_09ea8de2c216c7830169f5c25f431c81908fd77ef423f0ba84.png",
+      "category": "world-philosophy-systems",
+      "categoryLabel": "世界哲学体系",
+      "title": "印度哲学",
+      "description": "围绕业、轮回与解脱，梳理印度六派及佛教、耆那教等批判传统。",
+      "prompt": "Horizontal Chinese educational infographic: 印度哲学：解脱问题与六派体系. Show a riverbank learning scene, palm-leaf manuscripts, meditation figure, debate hall. Central wheel: 业 karma, 轮回 samsara, 解脱 moksha. Six orthodox schools as panels: 数论, 瑜伽, 正理, 胜论, 弥曼差, 吠檀多; side panel for materialist, Jain, Buddhist critiques. Use simple diagrams: self/world, proof methods, meditation path, nondual river-ocean metaphor. Readable short Chinese labels, warm saffron, indigo, lotus pink palette, museum-quality infographic, no religious endorsement, no logos, no long text."
+    },
+    {
+      "source": "ig_09ea8de2c216c7830169f5c6bbd5cc81908846133405030181.png",
+      "category": "world-philosophy-systems",
+      "categoryLabel": "世界哲学体系",
+      "title": "中国哲学",
+      "description": "以儒、道、墨、法为主轴，讲修身、秩序、自然与天人关系。",
+      "prompt": "Horizontal Chinese infographic poster: 中国哲学：秩序、修身与天人关系. Show an ancient academy courtyard, bamboo slips, ritual vessel, mountains and river. Three main streams as balanced panels: 儒家 with 修身齐家治国 and 仁义礼智; 道家 with 道, 无为, 自然, 齐物; 墨家/法家 with 兼爱, 尚贤, 法术势. Include timeline from 先秦诸子 to 宋明理学. Visual metaphors: concentric circles body-family-state-world, yin-yang landscape, rule tablet. Museum-quality educational infographic, ink wash plus clean vector diagrams, readable Chinese labels, no logos, no long paragraphs."
+    },
+    {
+      "source": "ig_09ea8de2c216c7830169f5c774a95c8190aebd820ac7185822.png",
+      "category": "world-philosophy-systems",
+      "categoryLabel": "世界哲学体系",
+      "title": "佛教哲学",
+      "description": "用四圣谛、缘起、空性、无我与中道解释佛教哲学的核心问题。",
+      "prompt": "Horizontal Chinese infographic poster: 佛教哲学：苦、空、无我与慈悲. Show a quiet monastery library, lotus diagram, wheel of dependent origination, meditation path, compassion network. Main panels: 四圣谛, 八正道, 缘起, 空性, 无我, 中道, 禅宗顿悟. Include a simple example: cup -> causes -> empty of fixed self. Avoid worshipful tone; make it philosophical and educational. Warm gold, saffron, deep blue palette, readable short Chinese labels, museum-quality diagram, no logos, no long paragraphs."
+    },
+    {
+      "source": "ig_09ea8de2c216c7830169f5ca9fb34481908d0cb4ef601246ba.png",
+      "category": "world-philosophy-systems",
+      "categoryLabel": "世界哲学体系",
+      "title": "伊斯兰与中世纪哲学",
+      "description": "讲翻译运动、理性与启示、存在与本质，以及中世纪经院哲学的知识结构。",
+      "prompt": "Horizontal Chinese educational infographic poster: 伊斯兰与中世纪哲学：信仰、理性与知识保存. Show a Baghdad House of Wisdom inspired library, generic scholars translating Greek texts, astrolabe, geometry diagrams, medical manuscript, mosque courtyard abstract architecture. Concept panels: 翻译运动, 亚里士多德传统, 理性与启示, 存在与本质, 共相问题, 经院哲学. Include generic labels: 法拉比, 伊本·西那, 伊本·鲁世德, 阿奎那. Scholarly museum infographic, teal, gold, parchment palette, respectful, no religious iconography, no logos, readable short Chinese labels."
+    },
+    {
+      "source": "ig_09ea8de2c216c7830169f5cb6a70a48190820968b6fa4120d5.png",
+      "category": "world-philosophy-systems",
+      "categoryLabel": "世界哲学体系",
+      "title": "非洲与原住民哲学",
+      "description": "以共同体、关系性自我、口述传统、土地伦理和修复性正义补全世界哲学视野。",
+      "prompt": "Horizontal Chinese educational infographic poster: 非洲与原住民哲学：关系、自我与共同体. Show a respectful comparative board with African palaver tree discussion circle, Ubuntu community web, Akan adinkra-inspired abstract symbols, Indigenous land-based knowledge circle, oral tradition storyteller, ecological reciprocity. Concept panels: 共同体, 关系性自我, 祖先与记忆, 口述传统, 土地伦理, 修复性正义. Use generic human figures, no stereotypes, no sacred restricted symbols. Warm earth tones, indigo, green accents, museum-quality educational infographic, readable short Chinese labels, no logos, no long paragraphs."
+    },
+    {
+      "source": "ig_09ea8de2c216c7830169f5cc24861881909c014dadd773a7d5.png",
+      "category": "world-philosophy-systems",
+      "categoryLabel": "世界哲学体系",
+      "title": "近代哲学转向",
+      "description": "比较理性主义、经验主义与康德批判哲学，回答知识如何可能。",
+      "prompt": "Horizontal Chinese infographic poster: 近代哲学转向：主体、经验与批判. Show a study room with telescope, printing press, mathematical diagrams, courtroom of reason. Main comparison: 理性主义 vs 经验主义 vs 康德批判哲学. Panels: 笛卡尔 我思, 斯宾诺莎 system, 洛克经验, 休谟怀疑, 康德先验框架. Include diagram: 感性 -> 知性 -> 理性, and question 知识如何可能? Clean museum education style, readable Chinese labels, parchment with crisp blue and crimson diagrams, no long paragraphs, no logos."
+    },
+    {
+      "source": "ig_09ea8de2c216c7830169f5cc99144881909bf9ca356f94633b.png",
+      "category": "world-philosophy-systems",
+      "categoryLabel": "世界哲学体系",
+      "title": "欧陆哲学",
+      "description": "从黑格尔、马克思、尼采到现象学、批判理论与后结构主义，理解主体如何被历史塑造。",
+      "prompt": "Horizontal Chinese infographic poster: 欧陆哲学：历史、权力与存在. Show a branching river from German idealism to Marx, Nietzsche, phenomenology, existentialism, hermeneutics, critical theory, post-structuralism. Use abstract panels, not portraits: dialectical spiral, factory and class map, hammer breaking idols, lived body, city alienation, discourse network. Short labels: 黑格尔, 马克思, 尼采, 胡塞尔, 海德格尔, 萨特, 法兰克福学派, 福柯, 德里达. Explain core question: 主体如何被历史塑造? Museum-quality infographic, deep charcoal, crimson, ochre, readable Chinese labels, no long text, no logos."
+    },
+    {
+      "source": "ig_09ea8de2c216c7830169f5cebcb45c819097b0464ec12de6c8.png",
+      "category": "world-philosophy-systems",
+      "categoryLabel": "世界哲学体系",
+      "title": "分析哲学",
+      "description": "用定义、命题分析、反例、语言用法和形式化展示分析哲学的清晰论证方法。",
+      "prompt": "Horizontal Chinese infographic poster: 分析哲学：语言、逻辑与清晰论证. Show a modern seminar blackboard, symbolic logic tree, truth table, language-game board, ordinary language examples, mind-language-world triangle. Main panels: 弗雷格 meaning/reference, 罗素 analysis, 维特根斯坦 early/late, 逻辑实证主义, 普通语言哲学, 当代心灵与语言. Include method strip: 定义概念 -> 分析命题 -> 找反例 -> 澄清用法 -> 形式化. Clean academic infographic, whiteboard and dark blue palette, readable Chinese labels, no logos, no long paragraphs."
+    },
+    {
+      "source": "ig_09ea8de2c216c7830169f5dae751308190a1edf20bc1687174.png",
+      "category": "world-philosophy-systems",
+      "categoryLabel": "世界哲学体系",
+      "title": "现象学与存在主义",
+      "description": "从意识经验、在世存在到自由选择，说明哲学如何回到人的处境。",
+      "prompt": "Horizontal Chinese educational infographic poster: 现象学与存在主义：从意识经验到人生选择. Show a split scene: left side a person observing a coffee cup, chair, street, clock with arrows labeled 意向性 and 现象; right side a crossroads under city lights labeled 自由, 焦虑, 选择, 责任. Concept panels: 胡塞尔 还原, 海德格尔 在世存在, 萨特 自由, 加缪 荒诞, 波伏娃 他者. Add a simple method strip: 悬置判断 -> 描述经验 -> 看见处境 -> 承担选择. Museum-quality infographic, readable short Chinese labels, deep blue, amber, gray palette, beginner-friendly, no logos, no long paragraphs."
+    },
+    {
+      "source": "ig_09ea8de2c216c7830169f5db4ca9dc8190838de75654c463f8.png",
+      "category": "world-philosophy-systems",
+      "categoryLabel": "世界哲学体系",
+      "title": "伦理学",
+      "description": "用找钱包的日常案例比较德性伦理、义务论、功利主义和关怀伦理。",
+      "prompt": "Horizontal Chinese educational infographic poster: 伦理学：怎样判断一件事该不该做. Show a practical moral decision dashboard around one everyday case: finding a lost wallet. Four frameworks as panels: 德性伦理 asks what kind of person, 义务论 asks what rule, 功利主义 asks consequences, 关怀伦理 asks relationships and vulnerability. Include icons: compass, rule book, balance scale, community hands, outcome tree. Add method strip: 事实 -> 相关者 -> 原则 -> 后果 -> 品格 -> 行动. Clean museum-quality infographic, readable short Chinese labels, warm white background with green, purple, gold accents, beginner-friendly, no logos, no long paragraphs."
+    },
+    {
+      "source": "ig_09ea8de2c216c7830169f5dbbbc7c88190bb7e268d5c6ec5d2.png",
+      "category": "world-philosophy-systems",
+      "categoryLabel": "世界哲学体系",
+      "title": "政治哲学",
+      "description": "围绕权力正当性、授权、分配和少数保护，讲清政治哲学的基本框架。",
+      "prompt": "Horizontal Chinese educational infographic poster: 政治哲学：权力为什么正当. Show a city-state diagram with citizens, institutions, law, market, public square, protest, voting, welfare, rights. Main frameworks: 契约论, 自由主义, 共和主义, 社群主义, 马克思主义, 女性主义, 后殖民. Core questions: 谁统治? 如何授权? 如何分配? 如何保护少数? Include diagrams: social contract bridge, justice scales, Rawls veil of ignorance as a curtain, power pyramid, deliberation circle. Museum-quality infographic, readable short Chinese labels, blue, red, cream palette, no logos, no long paragraphs."
+    },
+    {
+      "source": "ig_09ea8de2c216c7830169f5debf277c81908367bacc0a28713f.png",
+      "category": "world-philosophy-systems",
+      "categoryLabel": "世界哲学体系",
+      "title": "科学哲学与心灵哲学",
+      "description": "把证据、模型、范式与意识、意向性、身心问题放在同一张解释框架中。",
+      "prompt": "Horizontal Chinese educational infographic poster: 科学哲学与心灵哲学：解释、证据与意识. Show a laboratory and brain-mind diagram. Left panels: 观察, 假说, 实验, 证伪, 范式, 模型. Right panels: 身心问题, 意识, 意向性, 功能主义, 物理主义, 人工智能. Include simple diagrams: hypothesis testing cycle, theory-laden observation lens, Kuhn paradigm shift as rotating frame, brain-computer-mind triangle, Chinese room as abstract room icon without specific text. Clean academic infographic, readable short Chinese labels, white and dark teal palette with orange highlights, no logos, no long paragraphs."
+    },
+    {
+      "source": "ig_09ea8de2c216c7830169f5df342c1881908d41b5806b9f1d40.png",
+      "category": "world-philosophy-systems",
+      "categoryLabel": "世界哲学体系",
+      "title": "怎么用哲学思考",
+      "description": "从提问、定义、找前提、反例检验到回到行动，给出一套可执行的哲学思维工具。",
+      "prompt": "Horizontal Chinese educational infographic poster: 怎么用哲学思考：从问题到立场. Show a practical thinking workflow as a clean visual toolkit: 1 提问, 2 定义概念, 3 区分事实与价值, 4 找前提, 5 推理论证, 6 反例检验, 7 比较传统, 8 回到生活行动. Include a central case card: 技术进步一定好吗? with branches to ethics, politics, knowledge, human nature. Add tools: concept ladder, argument map, premise boxes, objection arrows, steelman scale, reflective journal. Museum-quality beginner-friendly infographic, readable Chinese labels, parchment plus modern blue-green accents, high information density, no logos, no long paragraphs."
+    }
+  ]
+}
