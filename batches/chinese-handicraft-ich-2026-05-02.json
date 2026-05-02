@@ -1,0 +1,127 @@
+{
+  "theme": "中国手工非遗十五个领域系统讲解",
+  "batchId": "chinese-handicraft-ich-2026-05-02",
+  "createdAt": "2026-05-02",
+  "items": [
+    {
+      "source": "ig_09ea8de2c216c7830169f581f22adc8190a27609e9880e59ba.png",
+      "category": "chinese-handicraft-ich",
+      "categoryLabel": "中国手工非遗",
+      "title": "剪纸",
+      "description": "从画样、折纸、剪刻到展开贴窗，讲解剪纸如何把民俗图案转化为纸上镂空结构。",
+      "prompt": "Horizontal Chinese infographic poster explaining intangible cultural heritage craft: Chinese paper-cutting 剪纸. Show a master craftswoman at a red paper worktable, scissors and carving knives, folded paper, window flower patterns, wedding double-happiness motif, zodiac animals, village window scene. Include process diagram: 画样, 折纸, 剪刻, 展开, 贴窗. Add material icons: 红纸, 剪刀, 刻刀. Museum-quality educational poster style, warm workshop light, clean layout, readable short Chinese labels, rich red and ivory palette, no logos, no long paragraphs."
+    },
+    {
+      "source": "ig_09ea8de2c216c7830169f5824d752c8190a21a9573cda3a157.png",
+      "category": "chinese-handicraft-ich",
+      "categoryLabel": "中国手工非遗",
+      "title": "刺绣",
+      "description": "用绷架、丝线、针法和双面绣样本展示中国刺绣的材料、工序与技艺谱系。",
+      "prompt": "Horizontal Chinese infographic poster explaining Suzhou embroidery / Chinese embroidery 刺绣. Show an embroiderer at a wooden frame with silk threads, fine needles, magnifying lamp, partially finished double-sided embroidery of birds and flowers. Include process panels: 选稿, 配线, 上绷, 运针, 收边. Show stitch vocabulary: 平针, 套针, 乱针, 打籽, 双面绣. Elegant museum education board, silk texture background, soft daylight, detailed hands, thread color palette, readable short Chinese labels, no logos, no long text."
+    },
+    {
+      "source": "ig_09ea8de2c216c7830169f582a95a748190852cf77ceccc2a54.png",
+      "category": "chinese-handicraft-ich",
+      "categoryLabel": "中国手工非遗",
+      "title": "南京云锦",
+      "description": "展示设计纹样、挑花结本、装造和通经断纬，说明云锦为何被称作复杂的织造系统。",
+      "prompt": "Horizontal Chinese infographic poster explaining Nanjing Yunjin brocade 南京云锦. Show a large traditional wooden jacquard loom with two artisans coordinating, shimmering brocade with dragon, cloud, peony motifs, gold thread, silk shuttles. Include process map: 设计纹样, 挑花结本, 装造, 通经断纬, 妆花织造. Add diagram of loom layers and two-person collaboration. Luxurious but scholarly museum board, deep indigo, gold, crimson, silk texture, readable short Chinese labels, no logos, no long paragraphs."
+    },
+    {
+      "source": "ig_09ea8de2c216c7830169f5859a5f0c8190a998057937812132.png",
+      "category": "chinese-handicraft-ich",
+      "categoryLabel": "中国手工非遗",
+      "title": "宣纸制作",
+      "description": "以青檀皮、竹帘、纸槽和焙纸墙说明宣纸从纤维到纸张的手工流程。",
+      "prompt": "Horizontal Chinese infographic poster explaining Xuan paper making 宣纸制作. Show bamboo and qingtan bark raw materials, soaking pits, steaming, pulping, sheet lifting with bamboo screen, pressing, drying on heated wall, finished white paper. Main artisan lifts a wet sheet from a vat. Include process labels: 选料, 浸泡, 蒸煮, 捣浆, 捞纸, 榨干, 焙纸. Scientific craft diagram with fiber close-up, water texture, Anhui workshop atmosphere, ivory and pale blue palette, readable short Chinese labels, no logos."
+    },
+    {
+      "source": "ig_09ea8de2c216c7830169f585fe4dd48190a48d12ff6139777e.png",
+      "category": "chinese-handicraft-ich",
+      "categoryLabel": "中国手工非遗",
+      "title": "雕版印刷",
+      "description": "拆解写样、上板、雕刻、刷墨、覆纸、拓印与装订，呈现木版印刷的工艺链。",
+      "prompt": "Horizontal Chinese infographic poster explaining woodblock printing 雕版印刷. Show artisan brushing ink onto carved wooden block, laying paper, rubbing with pad, lifting printed page. Include carved block close-up with reversed characters as abstract marks, shelves of woodblocks, inkstone, brush, bamboo paper. Process labels: 写样, 上板, 雕刻, 刷墨, 覆纸, 拓印, 装订. Museum educational diagram, warm wooden workshop, black ink and ochre palette, readable short Chinese labels, no long paragraphs, no copyrighted text."
+    },
+    {
+      "source": "ig_09ea8de2c216c7830169f586607c688190ade8c794828581b7.png",
+      "category": "chinese-handicraft-ich",
+      "categoryLabel": "中国手工非遗",
+      "title": "龙泉青瓷",
+      "description": "从练泥、拉坯、刻花、施釉到龙窑烧成，解释青瓷釉色和窑火的关系。",
+      "prompt": "Horizontal Chinese infographic poster explaining Longquan celadon 龙泉青瓷. Show pottery artisan shaping clay on wheel, carved lotus pattern, glazing basin, dragon kiln firing, finished celadon bowls and vases with jade-like green glaze and crackle. Include process labels: 练泥, 拉坯, 修坯, 刻花, 施釉, 入窑, 烧成. Add kiln temperature curve and glaze cross-section diagram. Museum craft education poster, calm celadon green and warm clay palette, detailed workshop photography plus clean diagrams, readable short Chinese labels, no logos."
+    },
+    {
+      "source": "ig_09ea8de2c216c7830169f5872487c081909b227f4f93b388b6.png",
+      "category": "chinese-handicraft-ich",
+      "categoryLabel": "中国手工非遗",
+      "title": "景泰蓝",
+      "description": "用制胎、掐丝、点蓝、烧蓝、磨光和镀金解释铜胎掐丝珐琅的层层工序。",
+      "prompt": "Horizontal Chinese infographic poster explaining cloisonne enamel 景泰蓝. Show artisan shaping copper vessel, soldering thin copper wires into floral patterns, filling colored enamel, firing, polishing, gilding. Include close-up of blue enamel vase with lotus and cloud patterns. Process labels: 制胎, 掐丝, 点蓝, 烧蓝, 磨光, 镀金. Add material icons: 铜胎, 铜丝, 釉料, 炉火. Imperial workshop mood but educational museum layout, cobalt blue, gold, turquoise palette, detailed hands and tools, readable short Chinese labels, no logos."
+    },
+    {
+      "source": "ig_09ea8de2c216c7830169f58928d9488190ad6fa11ff898ec0c.png",
+      "category": "chinese-handicraft-ich",
+      "categoryLabel": "中国手工非遗",
+      "title": "漆器髹饰",
+      "description": "展示制胎、刮灰、髹漆、阴干、打磨、雕漆与螺钿等漆艺关键工序。",
+      "prompt": "Horizontal Chinese infographic poster explaining lacquerware craft 漆器髹饰. Show artisan applying natural lacquer to a wooden bowl, layers drying in humidity cabinet, polishing, carving red lacquer relief, inlaying mother-of-pearl. Include process labels: 制胎, 刮灰, 髹漆, 阴干, 打磨, 雕漆, 螺钿. Add cross-section showing many lacquer layers. Museum educational board, deep cinnabar red, black lacquer, mother-of-pearl iridescence, precise diagrams and realistic workshop hands, readable short Chinese labels, no logos."
+    },
+    {
+      "source": "ig_09ea8de2c216c7830169f5899340208190a1530546cd540684.png",
+      "category": "chinese-handicraft-ich",
+      "categoryLabel": "中国手工非遗",
+      "title": "玉雕",
+      "description": "从相玉、画样、切料、粗雕、细琢到抛光，说明玉雕如何顺势利用玉料特性。",
+      "prompt": "Horizontal Chinese infographic poster explaining jade carving 玉雕. Show artisan carving a pale green jade pebble with rotary tools and hand files, water drip, polishing, finished pendant and small sculpture. Include process labels: 相玉, 画样, 切料, 粗雕, 细琢, 抛光. Add diagram of reading natural jade color, cracks, skin, translucency. Scholarly museum craft poster, jade green, white, warm wood palette, macro details of hands and tools, readable short Chinese labels, no logos, no long paragraphs."
+    },
+    {
+      "source": "ig_09ea8de2c216c7830169f589f584bc81908edfc36d13e5c6dd.png",
+      "category": "chinese-handicraft-ich",
+      "categoryLabel": "中国手工非遗",
+      "title": "榫卯木作",
+      "description": "用梁柱、斗拱和榫卯爆炸图讲解中国传统木构建筑的结构智慧。",
+      "prompt": "Horizontal Chinese infographic poster explaining traditional wooden architecture joinery 营造木作 / 榫卯. Show carpenter marking beams with ink line, chisels, mallet, mortise-and-tenon joints, bracket set dougong, miniature timber frame, temple roof silhouette. Include process labels: 选材, 放样, 划线, 开榫, 凿卯, 试拼, 立架. Add exploded diagrams of 榫卯, 斗拱, 梁柱. Museum educational craft board, warm timber and ink line palette, precise technical drawing mixed with workshop realism, readable short Chinese labels, no logos."
+    },
+    {
+      "source": "ig_09ea8de2c216c7830169f58a6d26f08190ba66b4bbf7f48553.png",
+      "category": "chinese-handicraft-ich",
+      "categoryLabel": "中国手工非遗",
+      "title": "竹编",
+      "description": "从选竹、破篾、刮青、劈篾到编织收口，展示竹编如何依靠篾条组织纹样。",
+      "prompt": "Horizontal Chinese infographic poster explaining bamboo weaving 竹编. Show artisan splitting bamboo strips, shaving thin ribbons, soaking, dyeing, weaving basket, fan, lampshade and geometric lattice. Include process labels: 选竹, 破篾, 刮青, 劈篾, 染色, 编织, 收口. Add weave pattern diagrams: 十字编, 人字编, 六角眼, 斜纹. Fresh workshop scene, bamboo green and natural straw palette, hands and tools in detail, museum educational layout, readable short Chinese labels, no logos."
+    },
+    {
+      "source": "ig_09ea8de2c216c7830169f58acfa5008190ac6bbef2699aec19.png",
+      "category": "chinese-handicraft-ich",
+      "categoryLabel": "中国手工非遗",
+      "title": "皮影制作",
+      "description": "展示选皮、刮制、画稿、镂刻、染色、缀订和操纵，让皮影从材料变成角色。",
+      "prompt": "Horizontal Chinese infographic poster explaining Chinese shadow puppetry leather carving 皮影制作. Show artisan scraping and carving translucent donkey-hide or cowhide puppet pieces, dyeing, jointing limbs with rivets, attaching rods, and performing behind a lit screen. Include process labels: 选皮, 刮制, 画稿, 镂刻, 染色, 缀订, 操纵. Add anatomy diagram of head, torso, arms, rods, joints. Dramatic warm backlight with museum educational layout, amber, black, crimson palette, readable short Chinese labels, no logos, no long paragraphs."
+    },
+    {
+      "source": "ig_09ea8de2c216c7830169f58b38e1348190850906e79c09e6ab.png",
+      "category": "chinese-handicraft-ich",
+      "categoryLabel": "中国手工非遗",
+      "title": "泥塑",
+      "description": "以取泥、揉泥、捏塑、阴干、上粉、彩绘和封护说明泥人制作流程。",
+      "prompt": "Horizontal Chinese infographic poster explaining Huishan clay figurines and traditional clay sculpture 惠山泥人 / 泥塑. Show artisan kneading clay, molding a small figure, drying, priming with white base, painting bright opera-like face and clothing, finished smiling child figures and folk characters. Include process labels: 取泥, 揉泥, 捏塑, 阴干, 上粉, 彩绘, 封护. Add material icons: 胶泥, 竹签, 毛笔, 矿物颜料. Warm folk-art workshop, bright red, green, yellow palette, museum educational layout, readable short Chinese labels, no logos."
+    },
+    {
+      "source": "ig_09ea8de2c216c7830169f58e3f41c881909906166338960236.png",
+      "category": "chinese-handicraft-ich",
+      "categoryLabel": "中国手工非遗",
+      "title": "苗族蜡染",
+      "description": "用蜡刀、蜂蜡、靛蓝和棉布拆解画蜡、入靛、氧化、脱蜡与晾晒。",
+      "prompt": "Horizontal Chinese infographic poster explaining Miao batik 苗族蜡染. Show artisan using a copper wax knife to draw molten beeswax patterns on white cotton cloth, indigo dye vat, boiling to remove wax, finished blue-white geometric birds, butterflies, spirals and ancestral motifs. Include process labels: 画蜡, 入靛, 氧化, 脱蜡, 晾晒. Add tool icons: 蜡刀, 蜂蜡, 靛蓝, 棉布. Museum educational craft poster, deep indigo and white palette, Guizhou mountain village workshop atmosphere, readable short Chinese labels, no logos, no long paragraphs."
+    },
+    {
+      "source": "ig_09ea8de2c216c7830169f58e9af71c81909a362251cc5330f5.png",
+      "category": "chinese-handicraft-ich",
+      "categoryLabel": "中国手工非遗",
+      "title": "蓝印花布与扎染",
+      "description": "用刻版、刮浆、入靛、拆线和晾晒展示防染印花与扎染的蓝白图案生成逻辑。",
+      "prompt": "Horizontal Chinese infographic poster explaining blue calico resist dye and tie-dye 蓝印花布 / 扎染. Show artisan applying soybean-lime resist paste through a carved stencil onto cotton cloth, indigo dyeing, washing, drying blue-white patterned fabric; also a side panel showing tying, folding, binding cloth for 扎染 circular patterns. Include process labels: 刻版, 刮浆, 晾干, 入靛, 清洗, 拆线, 晾晒. Add tools: 花版, 刮板, 防染浆, 靛缸, 棉线. Museum educational craft poster, Jiangnan workshop atmosphere, indigo and white palette, readable short Chinese labels, no logos."
+    }
+  ]
+}
