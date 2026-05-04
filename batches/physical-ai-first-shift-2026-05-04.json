@@ -1,0 +1,126 @@
+{
+  "theme": "一台家务机器人的第一次上岗",
+  "batchId": "physical-ai-first-shift-2026-05-04",
+  "items": [
+    {
+      "source": "01.png",
+      "category": "physical-ai-first-shift",
+      "categoryLabel": "具身机器人上岗",
+      "title": "开箱校准",
+      "description": "新送达的家务机器人在公寓玄关完成第一次校准。",
+      "prompt": "Horizontal editorial poster, photorealistic product documentary style. A newly delivered home robot standing in a modest apartment entryway, shipping foam and calibration cards on the floor, soft morning light, a human hand holding a tablet with abstract UI shapes but no readable text, robot has neutral friendly industrial design, no logos, wide-angle composition, detailed materials, realistic shadows, hopeful but practical mood."
+    },
+    {
+      "source": "02.png",
+      "category": "physical-ai-first-shift",
+      "categoryLabel": "具身机器人上岗",
+      "title": "捡起一只袜子",
+      "description": "机器人用触觉手指完成最小却最真实的家务动作。",
+      "prompt": "Horizontal editorial poster, photorealistic close-up. A home robot gently pinching a crumpled sock from a hardwood floor using tactile robotic fingers, laundry basket nearby, apartment hallway cluttered with shoes, afternoon window light, shallow depth of field, tiny sensors visible in the fingertips, realistic fabric fibers, no logos, no readable text, theme of embodied AI learning small domestic tasks."
+    },
+    {
+      "source": "03.png",
+      "category": "physical-ai-first-shift",
+      "categoryLabel": "具身机器人上岗",
+      "title": "厨房安全边界",
+      "description": "机器人整理餐具时识别刀具和易碎物，安全边界成为第一课。",
+      "prompt": "Horizontal editorial poster, realistic documentary lighting. A domestic robot carefully sorting dishes on a kitchen counter, one hand holding a ceramic bowl, the other avoiding a chef knife marked only by shape, visual safety boundary shown as subtle translucent light around sharp objects, no readable labels, stainless steel appliances, crumbs and vegetables on the counter, warm overhead light, practical near-future home, no logos."
+    },
+    {
+      "source": "04.png",
+      "category": "physical-ai-first-shift",
+      "categoryLabel": "具身机器人上岗",
+      "title": "老人陪护",
+      "description": "机器人在老人家中递水，传感器和人类照护形成协作。",
+      "prompt": "Horizontal editorial poster, realistic home care scene. A quiet domestic robot in an elderly person's apartment, carrying a glass of water on a tray while discreet wall sensors and a wearable band glow softly, an elderly person seated safely in a sunlit armchair reading, cozy plants and family photos without identifiable faces, respectful and warm mood, no medical branding, no readable text, high detail, natural light."
+    },
+    {
+      "source": "05.png",
+      "category": "physical-ai-first-shift",
+      "categoryLabel": "具身机器人上岗",
+      "title": "跌倒检测",
+      "description": "一次未造成伤害的跌倒提醒，暴露出家庭场景里的安全责任。",
+      "prompt": "Horizontal editorial poster, tense but non-graphic safety scene. A home robot pauses at a doorway after detecting an elderly person has stumbled but is unharmed, the robot projects a soft safety zone on the floor and reaches toward an emergency call device, evening apartment lighting, slippers and rug visible as trip hazard, cinematic realism, no panic, no injury detail, no logos, no readable text."
+    },
+    {
+      "source": "06.png",
+      "category": "physical-ai-first-shift",
+      "categoryLabel": "具身机器人上岗",
+      "title": "儿童安全边界",
+      "description": "当孩子在旁边玩耍，机器人必须先学会停下。",
+      "prompt": "Horizontal editorial poster, realistic family apartment. A home robot standing still with its arms folded inward while a child plays with toy blocks nearby, a translucent protective boundary between robot and child, parent watching from kitchen doorway, soft daylight, safety-first embodied AI mood, no logos, no readable text, detailed textures, balanced composition."
+    },
+    {
+      "source": "07.png",
+      "category": "physical-ai-first-shift",
+      "categoryLabel": "具身机器人上岗",
+      "title": "仓库第一箱",
+      "description": "同样的具身能力进入仓库，第一项任务是稳定搬起纸箱。",
+      "prompt": "Horizontal editorial poster, realistic warehouse scene. A humanoid service robot on its first logistics shift lifting a plain cardboard box from a low shelf, human supervisor nearby with safety vest, shelves of unbranded packages, overhead industrial lights, floor navigation markers, realistic motion and weight, no logos, no readable text, practical physical AI in commerce."
+    },
+    {
+      "source": "08.png",
+      "category": "physical-ai-first-shift",
+      "categoryLabel": "具身机器人上岗",
+      "title": "医院送药",
+      "description": "机器人在护士监督下承担可验证、可交接的医院物流。",
+      "prompt": "Horizontal editorial poster, hospital corridor documentary style. A service robot delivering a tray of medicine cups and supplies down a clean hospital hallway, nurse walking beside it and checking a tablet with abstract non-readable interface, soft clinical lighting, unbranded carts, emphasis on human oversight and reliable logistics, no logos, no readable text, realistic materials."
+    },
+    {
+      "source": "09.png",
+      "category": "physical-ai-first-shift",
+      "categoryLabel": "具身机器人上岗",
+      "title": "工厂质检",
+      "description": "机器人第一次面对高速、重复、但容错率很低的制造现场。",
+      "prompt": "Horizontal editorial poster, realistic factory quality-control scene. A humanoid robot inspecting a row of small metal parts on a conveyor with a tiny handheld scanner, human technician watching a monitor with abstract graphs and no readable text, cool industrial lighting, sparks far in background, precise robotic posture, no logos, no readable labels, theme of physical AI in manufacturing."
+    },
+    {
+      "source": "10.png",
+      "category": "physical-ai-first-shift",
+      "categoryLabel": "具身机器人上岗",
+      "title": "屋顶巡检",
+      "description": "机器人和小型无人机协作，进入人类不愿频繁到达的维护现场。",
+      "prompt": "Horizontal editorial poster, cinematic outdoor-industrial scene. A compact inspection drone launching from a service robot's shoulder on a rainy rooftop to check solar panels and HVAC units, city skyline in background, technician observing from safe distance, small status lights, wet reflective surfaces, no brand marks, no readable text, realistic near-future physical AI maintenance."
+    },
+    {
+      "source": "11.png",
+      "category": "physical-ai-first-shift",
+      "categoryLabel": "具身机器人上岗",
+      "title": "触觉传感器",
+      "description": "能不能轻拿一颗番茄，是具身智能比语言更难的考题。",
+      "prompt": "Horizontal editorial poster, macro realism. Close view of a robotic hand with soft tactile sensor pads gently pressing a ripe tomato and a metal spoon side by side on a kitchen counter, faint colored pressure map projected as abstract light, scientist-engineer notes blurred in background but unreadable, rich texture detail, no logos, no readable text, theme of touch and embodied intelligence."
+    },
+    {
+      "source": "12.png",
+      "category": "physical-ai-first-shift",
+      "categoryLabel": "具身机器人上岗",
+      "title": "失败恢复",
+      "description": "毛巾掉落后，机器人先暂停、识别，再决定如何补救。",
+      "prompt": "Horizontal editorial poster, realistic domestic failure-recovery scene. A home robot has accidentally dropped a stack of folded towels, then stops and scans the mess with a calm amber light, human owner kneels nearby but does not intervene, laundry room with washer and shelves, mood of learning from failure, no logos, no readable text, natural practical lighting, high detail."
+    },
+    {
+      "source": "13.png",
+      "category": "physical-ai-first-shift",
+      "categoryLabel": "具身机器人上岗",
+      "title": "远程接管",
+      "description": "复杂楼梯口让机器人停下，远程操作员接入成为安全兜底。",
+      "prompt": "Horizontal editorial poster, realistic remote operations room. A support technician at a workstation remotely guiding a home robot through a tricky apartment stair landing, split-scene composition with large monitor showing abstract camera feed without readable text, robot frozen safely on stairs, muted blue lighting, privacy-conscious blurred home details, no logos, no readable words, theme of human-in-the-loop robotics."
+    },
+    {
+      "source": "14.png",
+      "category": "physical-ai-first-shift",
+      "categoryLabel": "具身机器人上岗",
+      "title": "维修工单",
+      "description": "机器人的第一份工单提醒我们，家用机器人也是长期服务系统。",
+      "prompt": "Horizontal editorial poster, realistic maintenance desk. A home robot sitting partly opened on a low workbench while a repair technician replaces a worn finger joint, tiny screws arranged in trays, diagnostic tablet with abstract UI shapes and no readable text, warm workshop light, practical repairability and service economy, no logos, no readable text, high detail."
+    },
+    {
+      "source": "15.png",
+      "category": "physical-ai-first-shift",
+      "categoryLabel": "具身机器人上岗",
+      "title": "夜间充电",
+      "description": "当一家人睡去，机器人回到角落补能，家务自动化也有能源账单。",
+      "prompt": "Horizontal editorial poster, quiet night scene. A home robot docked at a compact charging station in the corner of a dark living room, battery light pulsing softly, household asleep, robot's tools neatly stored, window shows city night, warm lamp glow, theme of everyday infrastructure and energy use, no logos, no readable text, photorealistic, calm composition."
+    }
+  ]
+}
