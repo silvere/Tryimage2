@@ -1,6 +1,8 @@
 #!/usr/bin/env bash
 set -euo pipefail
 
+export PATH="/opt/homebrew/bin:/opt/homebrew/sbin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin"
+
 ROOT="/Users/jingweisun/Code/Tryimage2"
 LOG_DIR="$HOME/Library/Logs/Tryimage2Scheduler"
 PROMPT_FILE="$LOG_DIR/prompt.md"
