@@ -1,0 +1,127 @@
+{
+  "theme": "Orion 舷窗里的 15 个地月时刻",
+  "batchId": "orion-window-earth-moon-moments-2026-05-04",
+  "createdAt": "2026-05-04",
+  "items": [
+    {
+      "source": "/Users/jingweisun/.codex/generated_images/019df06c-2078-76b2-8a62-006687cbe47b/ig_034f3c31796550470169f7eb5cb7488190a9b79c4f77ed9c08.png",
+      "category": "earth-moon-mission-observations",
+      "categoryLabel": "地月任务观察",
+      "title": "发射塔黄昏",
+      "description": "海岸发射塔与火焰云柱，把重返深空的开端压缩成一个远距离观察瞬间。",
+      "prompt": "Horizontal cinematic documentary poster, \"Orion Window: Launch Tower Evening\". A powerful moon rocket lifting off from a coastal launch pad at twilight, viewed from a safe distant press-site angle, orange exhaust lighting the water and clouds, no visible logos or readable text, realistic aerospace photography style, crisp smoke texture, human-scale spectators as tiny silhouettes, hopeful and historic mood, 16:9 composition, high detail."
+    },
+    {
+      "source": "/Users/jingweisun/.codex/generated_images/019df06c-2078-76b2-8a62-006687cbe47b/ig_034f3c31796550470169f7eb872eb88190bceadd270067c70f.png",
+      "category": "earth-moon-mission-observations",
+      "categoryLabel": "地月任务观察",
+      "title": "舱内清单",
+      "description": "紧凑舱室、手套和窗口中的蓝色地球，呈现载人深空任务的日常操作感。",
+      "prompt": "Horizontal cinematic documentary poster, \"Orion Window: Cabin Checklist\". Interior of a modern deep-space crew capsule shortly after launch, gloved hands near switches, floating checklist cards with abstract marks but no readable words, small round window showing blue Earth below, soft instrument glow, compact life-support equipment, realistic aerospace cabin details, no logos, intimate 16:9 framing."
+    },
+    {
+      "source": "/Users/jingweisun/.codex/generated_images/019df06c-2078-76b2-8a62-006687cbe47b/ig_034f3c31796550470169f7ebb6da388190b7746b2bd524470c.png",
+      "category": "earth-moon-mission-observations",
+      "categoryLabel": "地月任务观察",
+      "title": "奔月点火",
+      "description": "发动机羽流与地球曲率共同构成离开近地轨道的关键一秒。",
+      "prompt": "Horizontal cinematic documentary poster, \"Orion Window: Translunar Injection\". A deep-space capsule engine firing above Earth after leaving orbit, blue planet curving below, bright controlled plume from service module, solar array wings catching sunlight, minimal stars, precise engineering mood, realistic space photography, no logos or readable text, 16:9 wide composition."
+    },
+    {
+      "source": "/Users/jingweisun/.codex/generated_images/019df06c-2078-76b2-8a62-006687cbe47b/ig_034f3c31796550470169f7ebe0650081909407b976ddf62e5b.png",
+      "category": "earth-moon-mission-observations",
+      "categoryLabel": "地月任务观察",
+      "title": "地球变小",
+      "description": "舷窗外的蓝色小球和玻璃上的头盔倒影，表现距离带来的认知转换。",
+      "prompt": "Horizontal cinematic documentary poster, \"Orion Window: Earth Growing Small\". View from inside a crew capsule window, Earth now a small luminous blue marble suspended in black space, subtle reflections of four crew helmets on the glass, floating camera equipment, quiet awe, realistic deep-space photography, no logos, no readable text, 16:9."
+    },
+    {
+      "source": "/Users/jingweisun/.codex/generated_images/019df06c-2078-76b2-8a62-006687cbe47b/ig_034f3c31796550470169f7ec0c2e98819090f903119aca6b85.png",
+      "category": "earth-moon-mission-observations",
+      "categoryLabel": "地月任务观察",
+      "title": "月面目标表",
+      "description": "平板上的抽象月面目标和窗外真实月球，把科学观测变成飞行中的工作台。",
+      "prompt": "Horizontal cinematic documentary poster, \"Orion Window: Lunar Targeting Plan\". Inside a spacecraft, a mission specialist studies a tablet-like lunar targeting map with abstract crater diagrams and colored pins, the real Moon visible through a window beyond, warm cabin light against cold lunar gray, documentary realism, no readable text, no logos, 16:9."
+    },
+    {
+      "source": "/Users/jingweisun/.codex/generated_images/019df06c-2078-76b2-8a62-006687cbe47b/ig_034f3c31796550470169f7ec392bfc8190be467c29de9f4657.png",
+      "category": "earth-moon-mission-observations",
+      "categoryLabel": "地月任务观察",
+      "title": "月背静默",
+      "description": "没有地球的月背视野，强调深空飞行中罕见的隔绝感。",
+      "prompt": "Horizontal cinematic documentary poster, \"Orion Window: Far Side Silence\". The Moon's far side fills the frame in stark gray relief, a spacecraft window rim in the foreground, no Earth visible, cabin reflections barely visible, radio-dark solitude, high-detail craters and shadowed ridges, realistic lunar flyby image, no text, no logos, 16:9."
+    },
+    {
+      "source": "/Users/jingweisun/.codex/generated_images/019df06c-2078-76b2-8a62-006687cbe47b/ig_034f3c31796550470169f7ec61c7e08190904f3324bab6b481.png",
+      "category": "earth-moon-mission-observations",
+      "categoryLabel": "地月任务观察",
+      "title": "环形山上的地落",
+      "description": "蓝色地球贴着月球地平线下沉，形成地月关系最直观的画面。",
+      "prompt": "Horizontal cinematic documentary poster, \"Orion Window: Earthset Over Ohm Crater\". Blue Earth setting behind a rugged lunar horizon, terraced crater foreground and long black shadows, seen through a spacecraft window with subtle glass reflections, poetic but realistic, high dynamic range, no text, no logos, 16:9."
+    },
+    {
+      "source": "/Users/jingweisun/.codex/generated_images/019df06c-2078-76b2-8a62-006687cbe47b/ig_034f3c31796550470169f7ec8c63e08190bec3c0e565f42ab5.png",
+      "category": "earth-moon-mission-observations",
+      "categoryLabel": "地月任务观察",
+      "title": "月旁日冕",
+      "description": "月球遮挡太阳后的日冕，把任务视角从地球观天转成深空观天。",
+      "prompt": "Horizontal cinematic documentary poster, \"Orion Window: Solar Eclipse From the Moon\". The Moon blocking the Sun as seen from deep space near lunar flyby, brilliant corona halo behind a black lunar disk, a sliver of spacecraft window frame and camera mount in foreground, scientifically inspired, realistic exposure, no readable text, no logos, 16:9."
+    },
+    {
+      "source": "/Users/jingweisun/.codex/generated_images/019df06c-2078-76b2-8a62-006687cbe47b/ig_034f3c31796550470169f7ecf75d908190a71232d3946eae17.png",
+      "category": "earth-moon-mission-observations",
+      "categoryLabel": "地月任务观察",
+      "title": "远距离通话",
+      "description": "乘组与地球进行视频连线，展现深空任务里最有人味的一面。",
+      "prompt": "Horizontal cinematic documentary still with absolutely no typography, no title, no captions, no logos, \"Crew long-distance call\". Four astronauts floating inside a compact deep-space capsule during a video call with Earth, faces softly lit by screens, Earth seen through one small window and the Moon through another, screens show only abstract waveform blocks and colored rectangles without letters, warm human documentary mood, realistic photography, 16:9."
+    },
+    {
+      "source": "/Users/jingweisun/.codex/generated_images/019df06c-2078-76b2-8a62-006687cbe47b/ig_034f3c31796550470169f7ed2c3e1c8190afdce82f21290fc7.png",
+      "category": "earth-moon-mission-observations",
+      "categoryLabel": "地月任务观察",
+      "title": "辐射监测器",
+      "description": "小小剂量仪把深空旅行从浪漫叙事拉回生理风险和工程控制。",
+      "prompt": "Horizontal cinematic documentary poster, \"Orion Window: Radiation Monitor\". Close-up of a compact radiation dosimeter and sensor panel strapped inside a crew capsule, tiny colored LEDs, gloved hand logging readings on a blank slate with abstract marks, starfield and dim Moon through a small window, tense quiet science mood, no readable text, no logos, realistic macro photography, 16:9."
+    },
+    {
+      "source": "/Users/jingweisun/.codex/generated_images/019df06c-2078-76b2-8a62-006687cbe47b/ig_034f3c31796550470169f7ed5e8c788190a2cef672ae6fb994.png",
+      "category": "earth-moon-mission-observations",
+      "categoryLabel": "地月任务观察",
+      "title": "返航轨迹墙",
+      "description": "控制室屏幕上的地月弧线，表现返航不是回头路而是一套精密计算。",
+      "prompt": "Horizontal cinematic documentary poster, \"Orion Window: Return Trajectory\". A mission control room at night, huge wall display showing abstract Earth-Moon return trajectory arcs and telemetry blocks without readable text, engineers in headsets as silhouettes, coffee cups and notebooks, calm concentration after lunar flyby, realistic photojournalism, no logos, 16:9."
+    },
+    {
+      "source": "/Users/jingweisun/.codex/generated_images/019df06c-2078-76b2-8a62-006687cbe47b/ig_034f3c31796550470169f7edea7fec8190b811b25c56aa7a4a.png",
+      "category": "earth-moon-mission-observations",
+      "categoryLabel": "地月任务观察",
+      "title": "再入等离子体",
+      "description": "橙色等离子体包裹返回舱，呈现高速回家的危险边界。",
+      "prompt": "Horizontal cinematic documentary poster, \"Orion Window: Reentry Plasma\". Crew capsule descending through Earth's upper atmosphere, surrounded by orange plasma and glowing shock waves, seen from an external chase-camera perspective, dark curve of Earth below, heat shield drama, realistic aerospace rendering, no logos, no readable text, 16:9."
+    },
+    {
+      "source": "/Users/jingweisun/.codex/generated_images/019df06c-2078-76b2-8a62-006687cbe47b/ig_034f3c31796550470169f7ee8013f08190a384d2b701822512.png",
+      "category": "earth-moon-mission-observations",
+      "categoryLabel": "地月任务观察",
+      "title": "海上回收",
+      "description": "溅落后的返回舱、船只与日出海面，给远征一个潮湿而真实的结尾。",
+      "prompt": "Horizontal cinematic documentary poster, \"Orion Window: Ocean Recovery\". A crew capsule floating in a calm ocean after splashdown, recovery boats approaching at sunrise, helicopters in distant haze, parachutes collapsed on the water, wet heat-shield texture, human figures in orange suits, no logos, no readable text, realistic maritime recovery photography, 16:9."
+    },
+    {
+      "source": "/Users/jingweisun/.codex/generated_images/019df06c-2078-76b2-8a62-006687cbe47b/ig_034f3c31796550470169f7eeae32a88190ac3a666f6f06487a.png",
+      "category": "earth-moon-mission-observations",
+      "categoryLabel": "地月任务观察",
+      "title": "落地后的数据墙",
+      "description": "科学团队复盘飞掠影像和传感器曲线，把壮观画面转化为可积累的知识。",
+      "prompt": "Horizontal cinematic documentary poster, \"Orion Window: Data Wall After Landing\". Post-mission analysis room with scientists studying large displays of abstract lunar flyby imagery, capsule sensor plots, and Earth-Moon diagrams without readable text, a small scorched capsule window on a table as artifact, clean lab lighting, thoughtful mood, no logos, realistic documentary photography, 16:9."
+    },
+    {
+      "source": "/Users/jingweisun/.codex/generated_images/019df06c-2078-76b2-8a62-006687cbe47b/ig_034f3c31796550470169f7ef23a2508190914537b5093d40f4.png",
+      "category": "earth-moon-mission-observations",
+      "categoryLabel": "地月任务观察",
+      "title": "月球南极沙盘",
+      "description": "桌面浮雕图中的永久阴影和候选点，把下一次登月任务落到具体地形。",
+      "prompt": "Horizontal cinematic documentary poster, \"Orion Window: South Pole Map Table\". Scientists and astronauts gathered around a large physical relief map of the lunar south pole, small lamps casting long shadows into crater basins, candidate landing zones marked by colored pins without labels, mission notebooks, overhead lab lighting, no logos, no readable text, realistic editorial photography, 16:9."
+    }
+  ]
+}
