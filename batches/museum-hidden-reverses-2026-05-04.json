@@ -1,0 +1,127 @@
+{
+  "theme": "博物馆里看不见的背面",
+  "batchId": "museum-hidden-reverses-2026-05-04",
+  "createdAt": "2026-05-04",
+  "items": [
+    {
+      "source": "/Users/jingweisun/.codex/generated_images/019df06c-2078-76b2-8a62-006687cbe47b/ig_034f3c31796550470169f86394e1e081909bd1f1912b0b866a.png",
+      "category": "museum-hidden-reverses",
+      "categoryLabel": "博物馆隐藏背面",
+      "title": "瓷器底足",
+      "description": "白手套轻轻倾斜瓷碗，露出通常藏在展柜下方的底足、窑痕和使用线索。",
+      "prompt": "Horizontal museum documentary photograph, \"Porcelain Foot Ring\". A white-gloved curator gently tilts an ancient porcelain bowl inside a glass conservation room, revealing the unglazed foot ring and tiny kiln marks on the underside, soft raking light, neutral museum table, magnifying loupe nearby, no readable text, no logos, refined editorial realism, 16:9."
+    },
+    {
+      "source": "/Users/jingweisun/.codex/generated_images/019df06c-2078-76b2-8a62-006687cbe47b/ig_034f3c31796550470169f863bdd07481908a3c1d57c7a0d41f.png",
+      "category": "museum-hidden-reverses",
+      "categoryLabel": "博物馆隐藏背面",
+      "title": "画框背板",
+      "description": "油画背面的木撑、五金和旧标签，比正面更直接地暴露收藏和流转历史。",
+      "prompt": "Horizontal museum conservation photograph, \"Painting Backboard\". The back of an old framed oil painting lying face-down on padded supports, showing wooden stretcher bars, brass hardware, aged paper labels rendered as blank rectangles, string and small nails, conservator hands at the frame edge, warm studio light, shallow depth of field, no readable text, no logos, realistic 16:9."
+    },
+    {
+      "source": "/Users/jingweisun/.codex/generated_images/019df06c-2078-76b2-8a62-006687cbe47b/ig_034f3c31796550470169f863f3c19c8190975f1cb4cfc87d38.png",
+      "category": "museum-hidden-reverses",
+      "categoryLabel": "博物馆隐藏背面",
+      "title": "佛像内腔",
+      "description": "打开的造像内腔呈现织物包裹和仪式性填藏，让雕塑从外观转向信仰结构。",
+      "prompt": "Horizontal museum documentary photograph, \"Buddha Statue Interior\". A small gilded Buddhist statue opened safely on a padded conservation bench, revealing a dark hollow interior with silk-wrapped relic bundles and folded ritual papers shown as blank shapes, two conservators in white gloves nearby, dim reverent lighting, no readable text, no logos, cinematic realism, 16:9."
+    },
+    {
+      "source": "/Users/jingweisun/.codex/generated_images/019df06c-2078-76b2-8a62-006687cbe47b/ig_034f3c31796550470169f8642d394c819093f0138166885290.png",
+      "category": "museum-hidden-reverses",
+      "categoryLabel": "博物馆隐藏背面",
+      "title": "屏风背面",
+      "description": "屏风反面的纸张、铰链和修补痕，记录了装裱、使用和时间留下的另一层图像。",
+      "prompt": "Horizontal museum exhibition photograph, \"Folding Screen Reverse\". A Korean folding screen displayed in a special freestanding case so visitors can see its plain paper reverse, hinges, brush bleed-through, and repair patches; front side faintly reflected in glass, quiet gallery, one visitor leaning close, no readable text, no logos, soft museum lighting, 16:9 realism."
+    },
+    {
+      "source": "/Users/jingweisun/.codex/generated_images/019df06c-2078-76b2-8a62-006687cbe47b/ig_034f3c31796550470169f864635efc8190a7b70b7e29138907.png",
+      "category": "museum-hidden-reverses",
+      "categoryLabel": "博物馆隐藏背面",
+      "title": "服装内衬",
+      "description": "翻开的历史服装内侧显示缝线、补丁和褪色层次，像一张贴身的时间地图。",
+      "prompt": "Horizontal museum conservation photograph, \"Textile Lining\". The inside of an ornate historical robe turned open on a padded table, showing hidden seams, faded lining, small repair stitches, and color differences between exterior and interior cloth, white-gloved hands holding the hem, fiber microscope and swatches nearby, no readable text, no logos, quiet archival lighting, 16:9."
+    },
+    {
+      "source": "/Users/jingweisun/.codex/generated_images/019df06c-2078-76b2-8a62-006687cbe47b/ig_034f3c31796550470169f8649f12cc8190bba36b78b96ce3f4.png",
+      "category": "museum-hidden-reverses",
+      "categoryLabel": "博物馆隐藏背面",
+      "title": "书脊结构",
+      "description": "古书在修复托架中露出书脊缝线、装订绳和修补布，显示知识如何被物理地装订。",
+      "prompt": "Horizontal museum conservation photograph, \"Book Hidden Spine\". An old illustrated book opened in a conservation cradle with the cover carefully lifted to reveal hidden spine sewing, binding cords, marbled endpaper edges, and old repair cloth, conservator tools arranged neatly, no readable text, no logos, soft directional light, precise documentary realism, 16:9."
+    },
+    {
+      "source": "/Users/jingweisun/.codex/generated_images/019df06c-2078-76b2-8a62-006687cbe47b/ig_034f3c31796550470169f864dbd9908190a4bb9a299a9cf279.png",
+      "category": "museum-hidden-reverses",
+      "categoryLabel": "博物馆隐藏背面",
+      "title": "青铜铸缝",
+      "description": "青铜器底部的铸缝、修补钉和矿物包浆，把工艺过程从装饰正面拉回制造现场。",
+      "prompt": "Horizontal museum macro photograph, \"Bronze Casting Seams\". The underside of an ancient bronze vessel suspended on a custom mount, revealing casting seams, repair pins, mineral patina, and tool marks usually hidden from visitors, black velvet background, low grazing light, conservator pointing with a wooden tool, no readable text, no logos, high-detail realism, 16:9."
+    },
+    {
+      "source": "/Users/jingweisun/.codex/generated_images/019df06c-2078-76b2-8a62-006687cbe47b/ig_034f3c31796550470169f86513a9e88190b7bcfc0032438e83.png",
+      "category": "museum-hidden-reverses",
+      "categoryLabel": "博物馆隐藏背面",
+      "title": "库房抽屉",
+      "description": "博物馆库房抽屉中，一组小件被反面朝上安放，隐藏的修补和磨损同时出现。",
+      "prompt": "Horizontal museum storage photograph, \"Drawer of Object Backs\". A climate-controlled museum storage room with a wide drawer pulled open, dozens of small artifacts resting upside down on foam mounts so their undersides, old repairs, maker marks as abstract shapes, and mounting scars are visible, archivist in gloves taking notes on blank forms, no readable text, no logos, cool fluorescent realism, 16:9."
+    },
+    {
+      "source": "/Users/jingweisun/.codex/generated_images/019df06c-2078-76b2-8a62-006687cbe47b/ig_034f3c31796550470169f86556c6d881909c06e22a9c87b6d0.png",
+      "category": "museum-hidden-reverses",
+      "categoryLabel": "博物馆隐藏背面",
+      "title": "红外底稿",
+      "description": "红外成像让画面下方的草稿线浮现，观众看见的不再只是最终表面。",
+      "prompt": "Horizontal museum imaging lab photograph, \"Infrared Reveals the Underlayer\". A painting on an easel in a dark imaging room, infrared camera and monitor showing ghostly underdrawing lines and earlier composition beneath the visible surface as abstract imagery, technician silhouette, cables and calibration targets without readable text, no logos, blue-black scientific lighting, realistic 16:9."
+    },
+    {
+      "source": "/Users/jingweisun/.codex/generated_images/019df06c-2078-76b2-8a62-006687cbe47b/ig_034f3c31796550470169f86598b3b88190a9410a1714a9d707.png",
+      "category": "museum-hidden-reverses",
+      "categoryLabel": "博物馆隐藏背面",
+      "title": "双面展柜",
+      "description": "透明展柜让漆盒的正面装饰和内部木胎同时被观看，展陈方式本身成为解释工具。",
+      "prompt": "Horizontal museum display photograph, \"Glass Case Built for Both Sides\". A transparent double-sided museum case holding a lacquer box on a floating mount, one side showing polished decoration, the other revealing raw interior wood, hinge wear, and tool marks; visitors can walk around the case, quiet contemporary gallery, no readable text, no logos, warm spotlights, realistic 16:9."
+    },
+    {
+      "source": "/Users/jingweisun/.codex/generated_images/019df06c-2078-76b2-8a62-006687cbe47b/ig_034f3c31796550470169f86615b9ac81909763c9ff67940ad5.png",
+      "category": "museum-hidden-reverses",
+      "categoryLabel": "博物馆隐藏背面",
+      "title": "面具背痕",
+      "description": "木质面具背面的绑绳孔、汗渍和后期挂载痕，让仪式使用和博物馆保存叠在一起。",
+      "prompt": "Horizontal museum documentary photograph, \"Mount Scars on a Mask\". The back of a carved wooden ceremonial mask resting on a black padded mount, showing old attachment holes, sweat-darkened wood, fiber ties, and later museum mounting scars, a conservator photographing it with scale bars rendered blank, no readable text, no logos, intimate low light, 16:9 realism."
+    },
+    {
+      "source": "/Users/jingweisun/.codex/generated_images/019df06c-2078-76b2-8a62-006687cbe47b/ig_034f3c31796550470169f86659f2e88190bbd4d1619951b54f.png",
+      "category": "museum-hidden-reverses",
+      "categoryLabel": "博物馆隐藏背面",
+      "title": "儿童放大镜",
+      "description": "孩子们用放大镜查看复制品底部，学习从背面读出接缝、底款和修补线索。",
+      "prompt": "Horizontal museum education photograph, \"Children with Magnifiers\". A small group of children in a museum learning studio examining replica objects turned upside down with magnifying glasses, discovering base marks, seams, and hidden repairs; educator gestures to the underside of a ceramic tile, no readable text, no logos, bright natural light, warm documentary realism, 16:9."
+    },
+    {
+      "source": "/Users/jingweisun/.codex/generated_images/019df06c-2078-76b2-8a62-006687cbe47b/ig_034f3c31796550470169f867374d2081909a361ad46db6f315.png",
+      "category": "museum-hidden-reverses",
+      "categoryLabel": "博物馆隐藏背面",
+      "title": "绕行织毯",
+      "description": "悬挂织毯让观众绕行观看，正面的图案和背面的线迹共同构成完整作品。",
+      "prompt": "Horizontal museum exhibition photograph, \"Visitors Circling the Reverse\". A gallery installation where visitors slowly walk around a suspended tapestry to see both the colorful front and the faded stitched back, soft spotlights, shadows on polished floor, rope barriers, quiet contemplative mood, no readable text, no logos, cinematic museum realism, 16:9."
+    },
+    {
+      "source": "/Users/jingweisun/.codex/generated_images/019df06c-2078-76b2-8a62-006687cbe47b/ig_034f3c31796550470169f86771d7508190a204771c1b529ca6.png",
+      "category": "museum-hidden-reverses",
+      "categoryLabel": "博物馆隐藏背面",
+      "title": "陶砖修复图",
+      "description": "翻面的建筑陶砖显示胶线和修复标记，破损不是缺陷，而是修复知识的入口。",
+      "prompt": "Horizontal museum conservation photograph, \"Repair Map on a Ceramic Tile\". A cracked glazed ceramic architectural tile turned over on a conservation bench, its plain clay backside showing adhesive lines, numbered blank tabs, and a repair map drawn as abstract colored dots, tweezers and cotton swabs nearby, no readable text, no logos, clean lab light, high-detail realism, 16:9."
+    },
+    {
+      "source": "/Users/jingweisun/.codex/generated_images/019df06c-2078-76b2-8a62-006687cbe47b/ig_034f3c31796550470169f867ac6fa48190bac6937f4d54337a.png",
+      "category": "museum-hidden-reverses",
+      "categoryLabel": "博物馆隐藏背面",
+      "title": "完整故事墙",
+      "description": "正面、背面、扫描和修复照片并置，提醒观众每件展品都有不在正面的半部历史。",
+      "prompt": "Horizontal museum gallery photograph, \"The Complete Story Wall\". A final exhibition wall made of object fronts, backs, X-ray images, conservation photos, and blank caption cards arranged in a clean grid, visitors standing quietly and comparing visible surfaces with hidden reverses, no readable text, no logos, balanced warm gallery lighting, polished editorial realism, 16:9."
+    }
+  ]
+}
