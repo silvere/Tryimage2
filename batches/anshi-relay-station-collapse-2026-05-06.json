@@ -1,0 +1,126 @@
+{
+  "theme": "安史之乱后，一座驿站怎样看见唐朝崩盘",
+  "batchId": "anshi-relay-station-collapse-2026-05-06",
+  "items": [
+    {
+      "source": "01.png",
+      "category": "tang-relay-collapse",
+      "categoryLabel": "唐代驿站崩塌",
+      "title": "驿卒夜奔",
+      "description": "迟到的军报穿过夜色，帝国的神经仍在勉强传递。",
+      "prompt": "Horizontal cinematic historical documentary poster, Tang dynasty China after the An Lushan Rebellion. A lone imperial courier riding at night toward a remote relay station, exhausted horse, wind-blown cloak, dim lanterns, muddy road, distant watchtower silhouette, tense moonlit atmosphere, realistic period costumes and architecture, no readable text, no modern objects, no gore, wide composition, high detail."
+    },
+    {
+      "source": "02.png",
+      "category": "tang-relay-collapse",
+      "categoryLabel": "唐代驿站崩塌",
+      "title": "破损驿马",
+      "description": "驿站的马匹先于制度显出疲态，补给已经跟不上命令。",
+      "prompt": "Horizontal cinematic historical documentary poster, Tang dynasty relay station stable after years of war. A gaunt relay horse with patched tack stands under a sagging wooden roof, exhausted stable boy holding a water bucket, broken saddle racks, straw, dust, cold dawn light, mountains behind, understated melancholy, realistic ancient Chinese setting, no readable text, no modern objects, no gore."
+    },
+    {
+      "source": "03.png",
+      "category": "tang-relay-collapse",
+      "categoryLabel": "唐代驿站崩塌",
+      "title": "烽燧残火",
+      "description": "边地烽火还在燃烧，但看路的人已经不确定援军会不会来。",
+      "prompt": "Horizontal cinematic historical documentary poster, Tang dynasty frontier beacon tower after rebellion. A ruined beacon tower with the last orange embers under a dark sky, two tired soldiers watching an empty road, torn banners, ash on stone, distant mountains, no battle violence, no readable text, no modern objects, realistic ancient Chinese military frontier, wide atmospheric composition."
+    },
+    {
+      "source": "04.png",
+      "category": "tang-relay-collapse",
+      "categoryLabel": "唐代驿站崩塌",
+      "title": "军粮账册",
+      "description": "空粮瓮和未结清的账册，暴露出战争机器的腹中空洞。",
+      "prompt": "Horizontal cinematic historical documentary poster, Tang dynasty military grain ledger scene. Inside a dim relay station office, an old clerk opens bamboo slips and blank paper ledgers beside a nearly empty grain jar, courier seal box, abacus-like counting rods, dust in lantern light, worried officials, no readable text or legible characters, realistic period props, no modern objects, subdued documentary mood."
+    },
+    {
+      "source": "05.png",
+      "category": "tang-relay-collapse",
+      "categoryLabel": "唐代驿站崩塌",
+      "title": "长安空街",
+      "description": "帝国的中心仍有宫阙，却少了商旅、车马和确定的秩序。",
+      "prompt": "Horizontal cinematic historical documentary poster, Chang'an after the An Lushan Rebellion. A once grand Tang capital avenue nearly empty at dawn, closed shop fronts, broken carriage wheel, fallen lanterns, a few displaced civilians walking quietly, imperial architecture in distance, muted golden-gray light, no readable text, no modern objects, no gore, wide melancholy composition."
+    },
+    {
+      "source": "06.png",
+      "category": "tang-relay-collapse",
+      "categoryLabel": "唐代驿站崩塌",
+      "title": "藩镇节度使府",
+      "description": "地方军府开始像小朝廷，中央命令要先穿过新的权力门槛。",
+      "prompt": "Horizontal cinematic historical documentary poster, regional military governor's office in late Tang China. A powerful jiedushi warlord studies a campaign map made of blank parchment blocks, armored guards, provincial banners, tax chests, a messenger kneeling with sealed dispatch, rich but tense interior, no readable text or legible characters, no modern objects, realistic Tang dynasty costumes, dramatic lantern light."
+    },
+    {
+      "source": "07.png",
+      "category": "tang-relay-collapse",
+      "categoryLabel": "唐代驿站崩塌",
+      "title": "盐铁税关",
+      "description": "盐与铁被重新计量，战后的财政从码头和关卡一点点挤出。",
+      "prompt": "Horizontal cinematic historical documentary poster, late Tang salt and iron tax checkpoint near a river. Tax clerks inspect salt sacks and iron tools beside a wooden pier, weary merchants waiting, soldiers watching, river barges in mist, small seals and blank tally slips with no readable text, realistic Tang dynasty economy, no modern objects, no gore, muted overcast light."
+    },
+    {
+      "source": "08.png",
+      "category": "tang-relay-collapse",
+      "categoryLabel": "唐代驿站崩塌",
+      "title": "逃户村落",
+      "description": "户籍簿上少掉的人，变成荒田、空门和没人缴的税。",
+      "prompt": "Horizontal cinematic historical documentary poster, late Tang village after war. Abandoned households and missing registry scene: an elderly woman locks an empty courtyard gate, tax clerk holds blank wooden tally boards, fields untended, smoke far away, muted winter light, realistic Tang rural clothing and architecture, no readable text, no modern objects, no gore, quiet human-centered composition."
+    },
+    {
+      "source": "09.png",
+      "category": "tang-relay-collapse",
+      "categoryLabel": "唐代驿站崩塌",
+      "title": "边关残雪",
+      "description": "风雪里的边关还在等命令，而朝廷的声音越来越远。",
+      "prompt": "Horizontal cinematic historical documentary poster, late Tang frontier pass in winter. Snow-covered border gate, exhausted soldiers huddled around a brazier, a courier arriving with frost on cloak, empty horse post, rugged mountains and pale sky, realistic ancient Chinese armor and architecture, no readable text, no modern objects, no gore, stark quiet atmosphere."
+    },
+    {
+      "source": "10.png",
+      "category": "tang-relay-collapse",
+      "categoryLabel": "唐代驿站崩塌",
+      "title": "诗人旅店",
+      "description": "雨夜旅店里，诗人听见驿马声，也听见时代裂开的声音。",
+      "prompt": "Horizontal cinematic historical documentary poster, late Tang roadside inn where a poet watches empire decline. A weary scholar-poet sits by a small oil lamp in a travel inn, rain outside, courier boots and sealed packet on nearby bench, blank paper sheets with no readable text, sparse wooden room, muted blue-gray light, realistic Tang clothing, no modern objects, introspective mood."
+    },
+    {
+      "source": "11.png",
+      "category": "tang-relay-collapse",
+      "categoryLabel": "唐代驿站崩塌",
+      "title": "江南漕运",
+      "description": "北方失序后，江南粮船成了维持朝廷呼吸的水上血脉。",
+      "prompt": "Horizontal cinematic historical documentary poster, late Tang Jiangnan canal grain transport. Long grain barges moving through morning mist, porters loading sacks, official seal boxes and blank tally tags, distant water town roofs, soldiers guarding the pier, no readable text, no modern objects, realistic Tang dynasty canal logistics, muted silver-green light, wide composition."
+    },
+    {
+      "source": "12.png",
+      "category": "tang-relay-collapse",
+      "categoryLabel": "唐代驿站崩塌",
+      "title": "宦官密诏",
+      "description": "宫墙深处的密诏穿过长廊，命令变得更隐秘也更脆弱。",
+      "prompt": "Horizontal cinematic historical documentary poster, late Tang palace corridor with eunuch secret edict. A palace eunuch carrying a sealed scroll through a shadowy corridor at night, guards and silk curtains, bronze lamps, anxious court atmosphere, scroll has blank seal patterns and no readable characters, realistic Tang palace architecture, no modern objects, no gore, dramatic chiaroscuro."
+    },
+    {
+      "source": "13.png",
+      "category": "tang-relay-collapse",
+      "categoryLabel": "唐代驿站崩塌",
+      "title": "兵变城门",
+      "description": "半掩的城门下，军队和百姓都在等一个无法信任的命令。",
+      "prompt": "Horizontal cinematic historical documentary poster, late Tang city gate during a mutiny, non-graphic. Soldiers crowd under a half-closed wooden gate, anxious civilians retreating, officer holding a blank order tablet, dust and torchlight, tension without visible injury, realistic Tang dynasty armor and city walls, no readable text, no modern objects, wide dramatic composition."
+    },
+    {
+      "source": "14.png",
+      "category": "tang-relay-collapse",
+      "categoryLabel": "唐代驿站崩塌",
+      "title": "黄巢前夜",
+      "description": "粮价、税牌和空篮子，让下一场风暴在市井里提前成形。",
+      "prompt": "Horizontal cinematic historical documentary poster, late Tang on the eve of Huang Chao rebellion. A tense marketplace at dusk with empty grain baskets, closed money changer stall, hungry travelers, tax notice boards shown as blank wooden plaques, distant soldiers at crossroad, no readable text, no modern objects, no gore, realistic period clothing, ominous amber sky."
+    },
+    {
+      "source": "15.png",
+      "category": "tang-relay-collapse",
+      "categoryLabel": "唐代驿站崩塌",
+      "title": "废弃驿站",
+      "description": "等路断、人散、马槽开裂，驿站才露出帝国崩塌后的静默。",
+      "prompt": "Horizontal cinematic historical documentary poster, abandoned late Tang relay station years after rebellion. Empty courtyard overgrown with weeds, cracked stone horse trough, broken message board with blank plaques, collapsed stable roof, one torn lantern swaying, distant road disappearing into fog, no readable text, no people, no modern objects, elegiac ending, realistic historical architecture."
+    }
+  ]
+}
