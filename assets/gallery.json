@@ -1,7 +1,7 @@
 {
   "site": {
     "title": "OpenAI image2 视觉实验",
-    "subtitle": "361 张传播向 AI 海报",
+    "subtitle": "376 张传播向 AI 海报",
     "headline": "OpenAI image2 视觉实验",
     "intro": "每一批图片围绕一个临时主题生成，并按当次最合适的 category 归档；可以是反差创意、真实场景、产品概念、人物叙事或任何新的视觉方向。",
     "coverImage": "assets/contact_sheet_image2.jpg",
@@ -142,6 +142,10 @@
     {
       "id": "red-mansion-meal-fate",
       "label": "红楼饭桌命运"
+    },
+    {
+      "id": "ming-silver-tax-burden",
+      "label": "明代白银税负"
     }
   ],
   "batches": [
@@ -298,6 +302,12 @@
     {
       "id": "red-mansion-meal-fate-2026-05-06",
       "theme": "《红楼梦》里一顿饭，吃掉了多少人的命运",
+      "createdAt": "2026-05-06",
+      "count": 15
+    },
+    {
+      "id": "ming-silver-tax-burden-2026-05-06",
+      "theme": "大明的一两银子，最后压在谁身上",
       "createdAt": "2026-05-06",
       "count": 15
     }
@@ -4258,6 +4268,171 @@
       "thumb": "assets/thumbs/red-mansion-meal-fate-2026-05-06/15_雪地残席.png",
       "description": "最后只剩一张空桌，替整座园子收尾。",
       "prompt": "Horizontal cinematic historical image, after the fall of a Qing dynasty noble household, snow visible in courtyard, abandoned dining hall with one empty table, a few broken porcelain bowls, cold ashes in brazier, torn silk chair covers, no people or only distant servant silhouette, quiet devastation, no readable text, no logos, no modern objects, inspired by Dream of the Red Chamber final emptiness"
+    },
+    {
+      "id": "ming-silver-tax-burden-2026-05-06_01_碎银称量",
+      "batch": "ming-silver-tax-burden-2026-05-06",
+      "category": "ming-silver-tax-burden",
+      "number": "01",
+      "title": "碎银称量",
+      "image": "assets/images/ming-silver-tax-burden-2026-05-06/01_碎银称量.png",
+      "thumb": "assets/thumbs/ming-silver-tax-burden-2026-05-06/01_碎银称量.png",
+      "description": "一块碎银放上戥秤，帝国财政首先变成县衙桌上的重量。",
+      "prompt": "Horizontal cinematic Ming dynasty historical drama still, \"Weighing Broken Silver\". Close-up in a county tax office: a small piece of broken silver weighed on a brass scale, abacus, blank tax papers, rough wooden table, clerk hands in plain robes, muted daylight, no readable text, no logos, historically inspired Chinese realism, 16:9."
+    },
+    {
+      "id": "ming-silver-tax-burden-2026-05-06_02_县衙税房",
+      "batch": "ming-silver-tax-burden-2026-05-06",
+      "category": "ming-silver-tax-burden",
+      "number": "02",
+      "title": "县衙税房",
+      "image": "assets/images/ming-silver-tax-burden-2026-05-06/02_县衙税房.png",
+      "thumb": "assets/thumbs/ming-silver-tax-burden-2026-05-06/02_县衙税房.png",
+      "description": "农户、胥吏和柜台把白银制度压缩成一间拥挤的税房。",
+      "prompt": "Horizontal cinematic Ming dynasty historical drama still, \"County Tax Room\". A crowded county yamen tax room, clerks behind wooden counters, peasants holding cloth bundles and blank tax slips, abacus beads, inkstones, official seal boxes, tense waiting, no readable text, no logos, historically inspired Chinese realism, 16:9."
+    },
+    {
+      "id": "ming-silver-tax-burden-2026-05-06_03_鱼鳞图册",
+      "batch": "ming-silver-tax-burden-2026-05-06",
+      "category": "ming-silver-tax-burden",
+      "number": "03",
+      "title": "鱼鳞图册",
+      "image": "assets/images/ming-silver-tax-burden-2026-05-06/03_鱼鳞图册.png",
+      "thumb": "assets/thumbs/ming-silver-tax-burden-2026-05-06/03_鱼鳞图册.png",
+      "description": "田地被画成抽象格块，土地从生活空间变成征税依据。",
+      "prompt": "Horizontal cinematic Ming dynasty historical drama still, \"Fish-Scale Land Register\". County officials unfold a large land register map on a table, fields drawn as abstract blocks without readable writing, measuring ropes, wooden tally sticks, farmers watching anxiously through the doorway, dusty afternoon light, no logos, no readable text, 16:9 historical realism."
+    },
+    {
+      "id": "ming-silver-tax-burden-2026-05-06_04_漕粮船",
+      "batch": "ming-silver-tax-burden-2026-05-06",
+      "category": "ming-silver-tax-burden",
+      "number": "04",
+      "title": "漕粮船",
+      "image": "assets/images/ming-silver-tax-burden-2026-05-06/04_漕粮船.png",
+      "thumb": "assets/thumbs/ming-silver-tax-burden-2026-05-06/04_漕粮船.png",
+      "description": "满载粮袋的运河船说明财政不只是银子，也是物流、劳役和时间。",
+      "prompt": "Horizontal cinematic Ming dynasty historical drama still, \"Grain Tribute Boat\". A canal at dawn with a heavily loaded grain transport boat, sacks and sealed baskets, boatmen pushing poles, a tax official checking blank tally boards, mist, stone bridge, tension of state logistics, no readable text, no logos, historical Chinese realism, 16:9."
+    },
+    {
+      "id": "ming-silver-tax-burden-2026-05-06_05_边军军饷",
+      "batch": "ming-silver-tax-burden-2026-05-06",
+      "category": "ming-silver-tax-burden",
+      "number": "05",
+      "title": "边军军饷",
+      "image": "assets/images/ming-silver-tax-burden-2026-05-06/05_边军军饷.png",
+      "thumb": "assets/thumbs/ming-silver-tax-burden-2026-05-06/05_边军军饷.png",
+      "description": "边镇士兵等着发饷，军费缺口把财政压力推到北方寒风里。",
+      "prompt": "Horizontal cinematic Ming dynasty historical drama still, \"Frontier Soldiers Waiting for Pay\". A cold northern garrison courtyard, weary soldiers in Ming armor waiting near a pay table with small silver pieces and empty cloth bags, windblown banners without markings, snow dust, tense faces, no readable text, no logos, historical realism, 16:9."
+    },
+    {
+      "id": "ming-silver-tax-burden-2026-05-06_06_海商银锭",
+      "batch": "ming-silver-tax-burden-2026-05-06",
+      "category": "ming-silver-tax-burden",
+      "number": "06",
+      "title": "海商银锭",
+      "image": "assets/images/ming-silver-tax-burden-2026-05-06/06_海商银锭.png",
+      "thumb": "assets/thumbs/ming-silver-tax-burden-2026-05-06/06_海商银锭.png",
+      "description": "沿海仓库里的银锭和货箱，把白银货币连接到海贸网络。",
+      "prompt": "Horizontal cinematic Ming dynasty historical drama still, \"Maritime Silver Ingots\". A coastal trading warehouse in late Ming China, merchants inspecting boat-shaped silver ingots, sea crates, porcelain bundles, foreign trade goods without flags or logos, humid lantern light, guards and scribes nearby with blank ledgers, no readable text, historical realism, 16:9."
+    },
+    {
+      "id": "ming-silver-tax-burden-2026-05-06_07_矿监山场",
+      "batch": "ming-silver-tax-burden-2026-05-06",
+      "category": "ming-silver-tax-burden",
+      "number": "07",
+      "title": "矿监山场",
+      "image": "assets/images/ming-silver-tax-burden-2026-05-06/07_矿监山场.png",
+      "thumb": "assets/thumbs/ming-silver-tax-burden-2026-05-06/07_矿监山场.png",
+      "description": "矿山里的矿监、炉烟和背篓把白银来源画成劳役现场。",
+      "prompt": "Horizontal cinematic Ming dynasty historical drama still, \"Mine Supervisor\". A harsh mountain mining camp, exhausted workers carrying ore baskets, an imperial mine supervisor in dark robes inspecting silver ore and tools, smoky furnaces, guards, blank tally boards, no readable text, no logos, gritty historical realism, 16:9."
+    },
+    {
+      "id": "ming-silver-tax-burden-2026-05-06_08_灾荒粥棚",
+      "batch": "ming-silver-tax-burden-2026-05-06",
+      "category": "ming-silver-tax-burden",
+      "number": "08",
+      "title": "灾荒粥棚",
+      "image": "assets/images/ming-silver-tax-burden-2026-05-06/08_灾荒粥棚.png",
+      "thumb": "assets/thumbs/ming-silver-tax-burden-2026-05-06/08_灾荒粥棚.png",
+      "description": "粥棚中的小额银钱和干裂田地，显示财政制度在灾荒中最先压到弱者。",
+      "prompt": "Horizontal cinematic Ming dynasty historical drama still, \"Famine Porridge Shed\". A drought-stricken village relief porridge shed, thin villagers queueing with bowls, an exhausted clerk counting small silver pieces beside grain sacks, dry earth, withered fields in background, no readable text, no logos, somber historical realism, 16:9."
+    },
+    {
+      "id": "ming-silver-tax-burden-2026-05-06_09_官员奏疏",
+      "batch": "ming-silver-tax-burden-2026-05-06",
+      "category": "ming-silver-tax-burden",
+      "number": "09",
+      "title": "官员奏疏",
+      "image": "assets/images/ming-silver-tax-burden-2026-05-06/09_官员奏疏.png",
+      "thumb": "assets/thumbs/ming-silver-tax-burden-2026-05-06/09_官员奏疏.png",
+      "description": "夜雨中的奏疏和账册，把地方困局转写成朝廷案头的压力。",
+      "prompt": "Horizontal cinematic Ming dynasty historical drama still, \"Memorial to the Throne\". A tired official writing an imperial memorial at night, blank folded papers, red candle, inkstone, small piles of silver accounts and grain tallies on the desk, rain outside lattice window, no readable text, no logos, restrained historical realism, 16:9."
+    },
+    {
+      "id": "ming-silver-tax-burden-2026-05-06_10_胥吏算盘",
+      "batch": "ming-silver-tax-burden-2026-05-06",
+      "category": "ming-silver-tax-burden",
+      "number": "10",
+      "title": "胥吏算盘",
+      "image": "assets/images/ming-silver-tax-burden-2026-05-06/10_胥吏算盘.png",
+      "thumb": "assets/thumbs/ming-silver-tax-burden-2026-05-06/10_胥吏算盘.png",
+      "description": "算盘珠子的细小移动，决定农户到底要多交多少。",
+      "prompt": "Horizontal cinematic Ming dynasty historical drama still, \"Petty Clerk's Abacus\". A county petty clerk in worn robes moves abacus beads while peasants wait outside a lattice screen, blank slips and silver fragments on the counter, dim bureaucratic room, moral pressure of small corruption, no readable text, no logos, historical realism, 16:9."
+    },
+    {
+      "id": "ming-silver-tax-burden-2026-05-06_11_商铺赊账",
+      "batch": "ming-silver-tax-burden-2026-05-06",
+      "category": "ming-silver-tax-burden",
+      "number": "11",
+      "title": "商铺赊账",
+      "image": "assets/images/ming-silver-tax-burden-2026-05-06/11_商铺赊账.png",
+      "thumb": "assets/thumbs/ming-silver-tax-burden-2026-05-06/11_商铺赊账.png",
+      "description": "市场小店的赊账和空货架，把白银紧缩传导到城镇日常。",
+      "prompt": "Horizontal cinematic Ming dynasty historical drama still, \"Shopkeeper's Credit Ledger\". A small late Ming market shop at dusk, shopkeeper comparing empty shelves, cloth goods, a blank credit ledger, copper coins and tiny silver pieces, worried townspeople bargaining, paper lanterns, no readable text, no logos, historical realism, 16:9."
+    },
+    {
+      "id": "ming-silver-tax-burden-2026-05-06_12_农户卖地",
+      "batch": "ming-silver-tax-burden-2026-05-06",
+      "category": "ming-silver-tax-burden",
+      "number": "12",
+      "title": "农户卖地",
+      "image": "assets/images/ming-silver-tax-burden-2026-05-06/12_农户卖地.png",
+      "thumb": "assets/thumbs/ming-silver-tax-burden-2026-05-06/12_农户卖地.png",
+      "description": "一纸契约和几块银子，说明税负最终会改变土地归属。",
+      "prompt": "Horizontal cinematic Ming dynasty historical drama still, \"Family Selling the Field\". A poor farming family at the edge of a dry field, a land deed shown as a blank folded paper, small silver pieces on a wooden tray, landlord's servant waiting, distant village and withered crops, no readable text, no logos, somber historical realism, 16:9."
+    },
+    {
+      "id": "ming-silver-tax-burden-2026-05-06_13_京城内库",
+      "batch": "ming-silver-tax-burden-2026-05-06",
+      "category": "ming-silver-tax-burden",
+      "number": "13",
+      "title": "京城内库",
+      "image": "assets/images/ming-silver-tax-burden-2026-05-06/13_京城内库.png",
+      "thumb": "assets/thumbs/ming-silver-tax-burden-2026-05-06/13_京城内库.png",
+      "description": "宫廷库房里的银箱和空位，显示中心也在短缺中维持体面。",
+      "prompt": "Horizontal cinematic Ming dynasty historical drama still, \"Imperial Inner Treasury\". A shadowed palace treasury room, officials opening wooden chests with silver ingots and empty spaces, silk curtains, guards, lamplight reflecting on metal, a sense of shortage inside luxury, no readable text, no logos, Ming dynasty historical realism, 16:9."
+    },
+    {
+      "id": "ming-silver-tax-burden-2026-05-06_14_白银外流",
+      "batch": "ming-silver-tax-burden-2026-05-06",
+      "category": "ming-silver-tax-burden",
+      "number": "14",
+      "title": "白银外流",
+      "image": "assets/images/ming-silver-tax-burden-2026-05-06/14_白银外流.png",
+      "thumb": "assets/thumbs/ming-silver-tax-burden-2026-05-06/14_白银外流.png",
+      "description": "港口夜色中的银锭、瓷箱和账簿，把帝国财政接到全球贸易。",
+      "prompt": "Horizontal cinematic Ming dynasty historical drama still, \"Silver Flowing Out\". A harbor counting room at night, silver ingots and porcelain crates being transferred between Chinese merchants and distant foreign traders without flags, ocean lanterns, worried official observing, abstract trade flow implied by ropes and ledgers, no readable text, no logos, historical realism, 16:9."
+    },
+    {
+      "id": "ming-silver-tax-burden-2026-05-06_15_崇祯夜案",
+      "batch": "ming-silver-tax-burden-2026-05-06",
+      "category": "ming-silver-tax-burden",
+      "number": "15",
+      "title": "崇祯夜案",
+      "image": "assets/images/ming-silver-tax-burden-2026-05-06/15_崇祯夜案.png",
+      "thumb": "assets/thumbs/ming-silver-tax-burden-2026-05-06/15_崇祯夜案.png",
+      "description": "空库箱和堆积奏疏前，财政崩塌变成深夜案头的沉默。",
+      "prompt": "Horizontal cinematic Ming dynasty historical drama still, \"Chongzhen Night Desk\". A late Ming emperor alone at a dark palace desk, small candle, empty treasury boxes, blank memorials piled high, distant guards in shadow, stormy night atmosphere, fiscal collapse expressed through silence, no readable text, no logos, historically inspired realism, 16:9."
     }
   ]
 }
