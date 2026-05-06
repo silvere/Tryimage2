@@ -8,8 +8,15 @@ LOG_DIR="$HOME/Library/Logs/Tryimage2Scheduler"
 PROMPT_FILE="$LOG_DIR/prompt.md"
 LAST_MESSAGE="$LOG_DIR/last-message.md"
 RUN_LOG="$LOG_DIR/run.log"
+LOCK_DIR="$LOG_DIR/lock"
 
 mkdir -p "$LOG_DIR"
+
+if ! mkdir "$LOCK_DIR" 2>/dev/null; then
+  echo "===== $(date '+%Y-%m-%d %H:%M:%S %z') Tryimage2 scheduler skipped: previous run still active =====" >> "$RUN_LOG"
+  exit 0
+fi
+trap 'rmdir "$LOCK_DIR"' EXIT
 
 cat > "$PROMPT_FILE" <<'PROMPT'
 这是 Tryimage2 的 6 小时定时选题任务。
@@ -25,7 +32,7 @@ PROMPT
 {
   echo "===== $(date '+%Y-%m-%d %H:%M:%S %z') Tryimage2 scheduler start ====="
   cd "$ROOT"
-  /opt/homebrew/bin/codex exec resume --last --full-auto -o "$LAST_MESSAGE" - < "$PROMPT_FILE"
+  /opt/homebrew/bin/codex --search exec --ephemeral --full-auto -C "$ROOT" -o "$LAST_MESSAGE" - < "$PROMPT_FILE"
   echo "===== $(date '+%Y-%m-%d %H:%M:%S %z') Tryimage2 scheduler done ====="
 } >> "$RUN_LOG" 2>&1
 
