@@ -27,6 +27,7 @@ cat > "$PROMPT_FILE" <<'PROMPT'
 3. 联网搜索最新新闻热点、行业时事、人类知识体系和认知热点，优先找有现实热度、有知识纵深、适合做 10-15 张系列图的“以小见大”主题。
 4. 把本轮调研信号、至少 3 个候选主题、每个主题的“小切口 / 大问题 / 可做 10-15 张 / 避重复”追加记录到 process.md。
 5. 最终回复只给本轮候选主题选项和简短判断，不要调用 image_gen，不要导入图库，不要发布。等用户选择后再进入图片生成。
+6. 最终回复末尾明确写一句：请回到当前 Tryimage2 会话回复主题编号或主题名，我再开始画图。
 PROMPT
 
 {
@@ -37,5 +38,5 @@ PROMPT
 } >> "$RUN_LOG" 2>&1
 
 if command -v osascript >/dev/null 2>&1; then
-  /usr/bin/osascript -e 'display notification "Tryimage2 新一轮候选主题已生成，请查看 Codex 会话或 logs/tryimage2-scheduler/last-message.md" with title "Tryimage2 定时选题"'
+  /usr/bin/osascript -e 'display notification "新一轮候选主题已准备。请回到当前 Tryimage2 会话回复编号或主题名，我再开始画图。" with title "Tryimage2 等待选题"'
 fi
