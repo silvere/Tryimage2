@@ -1,7 +1,7 @@
 {
   "site": {
     "title": "OpenAI image2 视觉实验",
-    "subtitle": "346 张传播向 AI 海报",
+    "subtitle": "361 张传播向 AI 海报",
     "headline": "OpenAI image2 视觉实验",
     "intro": "每一批图片围绕一个临时主题生成，并按当次最合适的 category 归档；可以是反差创意、真实场景、产品概念、人物叙事或任何新的视觉方向。",
     "coverImage": "assets/contact_sheet_image2.jpg",
@@ -138,6 +138,10 @@
     {
       "id": "museum-hidden-reverses",
       "label": "博物馆隐藏背面"
+    },
+    {
+      "id": "red-mansion-meal-fate",
+      "label": "红楼饭桌命运"
     }
   ],
   "batches": [
@@ -289,6 +293,12 @@
       "id": "museum-hidden-reverses-2026-05-04",
       "theme": "博物馆里看不见的背面",
       "createdAt": "2026-05-04",
+      "count": 15
+    },
+    {
+      "id": "red-mansion-meal-fate-2026-05-06",
+      "theme": "《红楼梦》里一顿饭，吃掉了多少人的命运",
+      "createdAt": "2026-05-06",
       "count": 15
     }
   ],
@@ -4083,6 +4093,171 @@
       "thumb": "assets/thumbs/museum-hidden-reverses-2026-05-04/15_完整故事墙.png",
       "description": "正面、背面、扫描和修复照片并置，提醒观众每件展品都有不在正面的半部历史。",
       "prompt": "Horizontal museum gallery photograph, \"The Complete Story Wall\". A final exhibition wall made of object fronts, backs, X-ray images, conservation photos, and blank caption cards arranged in a clean grid, visitors standing quietly and comparing visible surfaces with hidden reverses, no readable text, no logos, balanced warm gallery lighting, polished editorial realism, 16:9."
+    },
+    {
+      "id": "red-mansion-meal-fate-2026-05-06_01_厨房备菜",
+      "batch": "red-mansion-meal-fate-2026-05-06",
+      "category": "red-mansion-meal-fate",
+      "number": "01",
+      "title": "厨房备菜",
+      "image": "assets/images/red-mansion-meal-fate-2026-05-06/01_厨房备菜.png",
+      "thumb": "assets/thumbs/red-mansion-meal-fate-2026-05-06/01_厨房备菜.png",
+      "description": "贾府饭桌的体面，先从后厨的蒸汽和手忙脚乱开始。",
+      "prompt": "Horizontal cinematic documentary-style image, Qing dynasty Chinese aristocratic mansion kitchen before a grand family meal, large copper pots steaming, carved wooden shelves, porcelain bowls, maids in restrained historical clothing preparing dishes, warm lantern light, busy but composed composition, rich material detail, no readable text, no logos, no modern objects, no fantasy, subtle social tension, inspired by Dream of the Red Chamber but no direct character likenesses"
+    },
+    {
+      "id": "red-mansion-meal-fate-2026-05-06_02_丫鬟传膳",
+      "batch": "red-mansion-meal-fate-2026-05-06",
+      "category": "red-mansion-meal-fate",
+      "number": "02",
+      "title": "丫鬟传膳",
+      "image": "assets/images/red-mansion-meal-fate-2026-05-06/02_丫鬟传膳.png",
+      "thumb": "assets/thumbs/red-mansion-meal-fate-2026-05-06/02_丫鬟传膳.png",
+      "description": "一道菜从厨房到内宅，要经过一条看不见的等级走廊。",
+      "prompt": "Horizontal cinematic documentary-style image, a line of young maids carrying covered lacquer food trays through a long corridor of a Qing dynasty noble household, winter light through carved lattice windows, quiet hierarchy and labor, the meal moving from kitchen to inner chambers, detailed silk sleeves and wooden architecture, no readable text, no logos, no modern objects, naturalistic historical drama still"
+    },
+    {
+      "id": "red-mansion-meal-fate-2026-05-06_03_贾母座次",
+      "batch": "red-mansion-meal-fate-2026-05-06",
+      "category": "red-mansion-meal-fate",
+      "number": "03",
+      "title": "贾母座次",
+      "image": "assets/images/red-mansion-meal-fate-2026-05-06/03_贾母座次.png",
+      "thumb": "assets/thumbs/red-mansion-meal-fate-2026-05-06/03_贾母座次.png",
+      "description": "一张饭桌的座次，比墙上的家法更直接。",
+      "prompt": "Horizontal cinematic documentary-style image, formal dining room in a Qing dynasty aristocratic Chinese mansion, elderly matriarch seated at the central honored place, younger family members arranged by rank around a lavish round table, maids standing behind chairs, porcelain dishes, carved screens, tense social order visible through seating, warm interior light, no readable text, no logos, no modern items, inspired by Dream of the Red Chamber social structure"
+    },
+    {
+      "id": "red-mansion-meal-fate-2026-05-06_04_宝玉碗边",
+      "batch": "red-mansion-meal-fate-2026-05-06",
+      "category": "red-mansion-meal-fate",
+      "number": "04",
+      "title": "宝玉碗边",
+      "image": "assets/images/red-mansion-meal-fate-2026-05-06/04_宝玉碗边.png",
+      "thumb": "assets/thumbs/red-mansion-meal-fate-2026-05-06/04_宝玉碗边.png",
+      "description": "公子的一只碗，旁边站着整套家族机器。",
+      "prompt": "Horizontal close documentary image, ornate Qing dynasty dining table edge, a sensitive young nobleman’s porcelain bowl and chopsticks in foreground, half-eaten delicate dish, surrounding family blurred by shallow depth of field, mood of privilege and unease, carved wood, silk sleeves, soft lantern light, no readable text, no logos, no modern objects, no direct named character likeness"
+    },
+    {
+      "id": "red-mansion-meal-fate-2026-05-06_05_黛玉药膳",
+      "batch": "red-mansion-meal-fate-2026-05-06",
+      "category": "red-mansion-meal-fate",
+      "number": "05",
+      "title": "黛玉药膳",
+      "image": "assets/images/red-mansion-meal-fate-2026-05-06/05_黛玉药膳.png",
+      "thumb": "assets/thumbs/red-mansion-meal-fate-2026-05-06/05_黛玉药膳.png",
+      "description": "病弱不是纯粹的诗意，也是一碗被安排好的饭。",
+      "prompt": "Horizontal cinematic historical image, quiet inner chamber of a Qing dynasty noble household, frail young aristocratic woman receiving a delicate medicinal meal on a small lacquer tray, porcelain medicine bowl, thin steam, window lattice, pale winter garden outside, one maid waiting respectfully, mood tender and constrained, no readable text, no logos, no modern objects, inspired by Dream of the Red Chamber illness and ritual"
+    },
+    {
+      "id": "red-mansion-meal-fate-2026-05-06_06_凤姐点账",
+      "batch": "red-mansion-meal-fate-2026-05-06",
+      "category": "red-mansion-meal-fate",
+      "number": "06",
+      "title": "凤姐点账",
+      "image": "assets/images/red-mansion-meal-fate-2026-05-06/06_凤姐点账.png",
+      "thumb": "assets/thumbs/red-mansion-meal-fate-2026-05-06/06_凤姐点账.png",
+      "description": "豪门的热闹背后，是算盘、银子和每一口开销。",
+      "prompt": "Horizontal historical documentary image, Qing dynasty noble household accounting room, powerful female household manager reviewing food expenses beside abacus, silver pieces, stacked blank ledgers, servants waiting with baskets of ingredients, lamplight, controlled tension, carved shelves, no readable text on papers, no logos, no modern objects, inspired by household economics in Dream of the Red Chamber"
+    },
+    {
+      "id": "red-mansion-meal-fate-2026-05-06_07_刘姥姥进席",
+      "batch": "red-mansion-meal-fate-2026-05-06",
+      "category": "red-mansion-meal-fate",
+      "number": "07",
+      "title": "刘姥姥进席",
+      "image": "assets/images/red-mansion-meal-fate-2026-05-06/07_刘姥姥进席.png",
+      "thumb": "assets/thumbs/red-mansion-meal-fate-2026-05-06/07_刘姥姥进席.png",
+      "description": "笑声最响的一桌，阶层差异也最刺眼。",
+      "prompt": "Horizontal cinematic Qing dynasty banquet scene, elderly rural woman guest at an opulent aristocratic table, amused noble family around her, abundance of crab and seasonal dishes, servants watching from edges, comic surface with class discomfort underneath, detailed porcelain and lacquerware, no readable text, no logos, no modern objects, inspired by Dream of the Red Chamber but original faces"
+    },
+    {
+      "id": "red-mansion-meal-fate-2026-05-06_08_螃蟹宴",
+      "batch": "red-mansion-meal-fate-2026-05-06",
+      "category": "red-mansion-meal-fate",
+      "number": "08",
+      "title": "螃蟹宴",
+      "image": "assets/images/red-mansion-meal-fate-2026-05-06/08_螃蟹宴.png",
+      "thumb": "assets/thumbs/red-mansion-meal-fate-2026-05-06/08_螃蟹宴.png",
+      "description": "诗社和螃蟹很美，前提是有人承担这份精致。",
+      "prompt": "Horizontal cinematic image, autumn crab feast in a Qing dynasty garden pavilion, aristocratic women and young scholars eating crabs with delicate tools, poetry gathering atmosphere, servants pouring wine, lake and chrysanthemums in background, beauty with hidden excess, no readable text on scrolls or screens, no logos, no modern objects, inspired by Dream of the Red Chamber social dining"
+    },
+    {
+      "id": "red-mansion-meal-fate-2026-05-06_09_丫鬟吃剩菜",
+      "batch": "red-mansion-meal-fate-2026-05-06",
+      "category": "red-mansion-meal-fate",
+      "number": "09",
+      "title": "丫鬟吃剩菜",
+      "image": "assets/images/red-mansion-meal-fate-2026-05-06/09_丫鬟吃剩菜.png",
+      "thumb": "assets/thumbs/red-mansion-meal-fate-2026-05-06/09_丫鬟吃剩菜.png",
+      "description": "同一场宴席，换个房间就变成另一种生活。",
+      "prompt": "Horizontal documentary-style image, side chamber after a noble Qing dynasty banquet, lower-ranking maids quietly eating leftover dishes at a small plain wooden table, lavish banquet room visible far behind through doorway, contrast of abundance and hierarchy, dim oil lamp, tired faces, porcelain bowls chipped, no readable text, no logos, no modern objects, realist historical composition"
+    },
+    {
+      "id": "red-mansion-meal-fate-2026-05-06_10_夜里煎药",
+      "batch": "red-mansion-meal-fate-2026-05-06",
+      "category": "red-mansion-meal-fate",
+      "number": "10",
+      "title": "夜里煎药",
+      "image": "assets/images/red-mansion-meal-fate-2026-05-06/10_夜里煎药.png",
+      "thumb": "assets/thumbs/red-mansion-meal-fate-2026-05-06/10_夜里煎药.png",
+      "description": "一碗药膳端上去之前，先有人在夜里守火。",
+      "prompt": "Horizontal cinematic historical image, late night Qing dynasty kitchen medicine corner, maid boiling herbal medicine over charcoal stove, small bowl of cold rice beside it, sleeping mansion in background, exhausted labor behind aristocratic illness, blue night light and warm ember glow, no readable text, no logos, no modern objects, quiet realist mood"
+    },
+    {
+      "id": "red-mansion-meal-fate-2026-05-06_11_账房银钱",
+      "batch": "red-mansion-meal-fate-2026-05-06",
+      "category": "red-mansion-meal-fate",
+      "number": "11",
+      "title": "账房银钱",
+      "image": "assets/images/red-mansion-meal-fate-2026-05-06/11_账房银钱.png",
+      "thumb": "assets/thumbs/red-mansion-meal-fate-2026-05-06/11_账房银钱.png",
+      "description": "饭桌上看见的是菜，账房里看见的是家族的耗损。",
+      "prompt": "Horizontal image, Qing dynasty mansion accounting office connected to dining expenses, wooden table with abacus, silver ingots, baskets of rice, vegetable tally tokens, blank folded papers, stern steward and female manager arguing silently while servants wait, no readable text, no logos, no modern objects, muted realistic lighting, social system visible through food budget"
+    },
+    {
+      "id": "red-mansion-meal-fate-2026-05-06_12_诗社茶点",
+      "batch": "red-mansion-meal-fate-2026-05-06",
+      "category": "red-mansion-meal-fate",
+      "number": "12",
+      "title": "诗社茶点",
+      "image": "assets/images/red-mansion-meal-fate-2026-05-06/12_诗社茶点.png",
+      "thumb": "assets/thumbs/red-mansion-meal-fate-2026-05-06/12_诗社茶点.png",
+      "description": "茶点越轻，背后的等级越重。",
+      "prompt": "Horizontal cinematic image, elegant garden poetry society tea table in a Qing dynasty aristocratic estate, young women composing poems over tea and small pastries, blank paper scrolls with no readable writing, flowers, lake stones, servants refilling cups, beauty layered over privilege and confinement, no logos, no modern objects, inspired by Dream of the Red Chamber literary life"
+    },
+    {
+      "id": "red-mansion-meal-fate-2026-05-06_13_病中冷饭",
+      "batch": "red-mansion-meal-fate-2026-05-06",
+      "category": "red-mansion-meal-fate",
+      "number": "13",
+      "title": "病中冷饭",
+      "image": "assets/images/red-mansion-meal-fate-2026-05-06/13_病中冷饭.png",
+      "thumb": "assets/thumbs/red-mansion-meal-fate-2026-05-06/13_病中冷饭.png",
+      "description": "富贵人家的冷饭，也能看出命运正在变冷。",
+      "prompt": "Horizontal cinematic historical image, Qing dynasty aristocratic chamber during decline, sick young woman with untouched cold meal on small table, medicine bowl, wilted flowers, servant quietly closing curtain, dim afternoon light, once-luxurious textiles fading, no readable text, no logos, no modern objects, restrained emotional realism, inspired by Dream of the Red Chamber family decay"
+    },
+    {
+      "id": "red-mansion-meal-fate-2026-05-06_14_抄家后的饭桌",
+      "batch": "red-mansion-meal-fate-2026-05-06",
+      "category": "red-mansion-meal-fate",
+      "number": "14",
+      "title": "抄家后的饭桌",
+      "image": "assets/images/red-mansion-meal-fate-2026-05-06/14_抄家后的饭桌.png",
+      "thumb": "assets/thumbs/red-mansion-meal-fate-2026-05-06/14_抄家后的饭桌.png",
+      "description": "家族秩序倒下时，最先乱掉的是那些日常器物。",
+      "prompt": "Horizontal cinematic historical image, Qing dynasty noble mansion being searched during confiscation, officials opening cabinets while servants stand frozen, overturned banquet table in foreground with scattered porcelain bowls and leftover food, no violence, cold daylight, collapse of family order, no readable text, no logos, no modern objects, realistic period drama composition"
+    },
+    {
+      "id": "red-mansion-meal-fate-2026-05-06_15_雪地残席",
+      "batch": "red-mansion-meal-fate-2026-05-06",
+      "category": "red-mansion-meal-fate",
+      "number": "15",
+      "title": "雪地残席",
+      "image": "assets/images/red-mansion-meal-fate-2026-05-06/15_雪地残席.png",
+      "thumb": "assets/thumbs/red-mansion-meal-fate-2026-05-06/15_雪地残席.png",
+      "description": "最后只剩一张空桌，替整座园子收尾。",
+      "prompt": "Horizontal cinematic historical image, after the fall of a Qing dynasty noble household, snow visible in courtyard, abandoned dining hall with one empty table, a few broken porcelain bowls, cold ashes in brazier, torn silk chair covers, no people or only distant servant silhouette, quiet devastation, no readable text, no logos, no modern objects, inspired by Dream of the Red Chamber final emptiness"
     }
   ]
 }
