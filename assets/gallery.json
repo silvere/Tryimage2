@@ -1,7 +1,7 @@
 {
   "site": {
     "title": "OpenAI image2 视觉实验",
-    "subtitle": "391 张传播向 AI 海报",
+    "subtitle": "406 张传播向 AI 海报",
     "headline": "OpenAI image2 视觉实验",
     "intro": "每一批图片围绕一个临时主题生成，并按当次最合适的 category 归档；可以是反差创意、真实场景、产品概念、人物叙事或任何新的视觉方向。",
     "coverImage": "assets/contact_sheet_image2.jpg",
@@ -150,6 +150,10 @@
     {
       "id": "tang-relay-collapse",
       "label": "唐代驿站崩塌"
+    },
+    {
+      "id": "chocolate-price-stickiness",
+      "label": "巧克力价格黏性"
     }
   ],
   "batches": [
@@ -319,6 +323,12 @@
       "id": "anshi-relay-station-collapse-2026-05-06",
       "theme": "安史之乱后，一座驿站怎样看见唐朝崩盘",
       "createdAt": "2026-05-06",
+      "count": 15
+    },
+    {
+      "id": "chocolate-price-stickiness-2026-05-07",
+      "theme": "一块巧克力为什么还没便宜",
+      "createdAt": "2026-05-07",
       "count": 15
     }
   ],
@@ -4608,6 +4618,171 @@
       "thumb": "assets/thumbs/anshi-relay-station-collapse-2026-05-06/15_废弃驿站.png",
       "description": "等路断、人散、马槽开裂，驿站才露出帝国崩塌后的静默。",
       "prompt": "Horizontal cinematic historical documentary poster, abandoned late Tang relay station years after rebellion. Empty courtyard overgrown with weeds, cracked stone horse trough, broken message board with blank plaques, collapsed stable roof, one torn lantern swaying, distant road disappearing into fog, no readable text, no people, no modern objects, elegiac ending, realistic historical architecture."
+    },
+    {
+      "id": "chocolate-price-stickiness-2026-05-07_01_货架价签",
+      "batch": "chocolate-price-stickiness-2026-05-07",
+      "category": "chocolate-price-stickiness",
+      "number": "01",
+      "title": "货架价签",
+      "image": "assets/images/chocolate-price-stickiness-2026-05-07/01_货架价签.png",
+      "thumb": "assets/thumbs/chocolate-price-stickiness-2026-05-07/01_货架价签.png",
+      "description": "超市货架上的巧克力仍未降价，消费者从价签开始感受到价格黏性。",
+      "prompt": "Horizontal documentary editorial photograph, unbranded supermarket chocolate shelf in 2026, several wrapped chocolate bars with plain packaging and simple blank price tags, a shopper's hand hesitating near the shelf, bright grocery lighting, no readable text, no logos, realistic consumer inflation mood, sharp detail, wide composition."
+    },
+    {
+      "id": "chocolate-price-stickiness-2026-05-07_02_可可果",
+      "batch": "chocolate-price-stickiness-2026-05-07",
+      "category": "chocolate-price-stickiness",
+      "number": "02",
+      "title": "可可果",
+      "image": "assets/images/chocolate-price-stickiness-2026-05-07/02_可可果.png",
+      "thumb": "assets/thumbs/chocolate-price-stickiness-2026-05-07/02_可可果.png",
+      "description": "可可树上的果荚是价格链条的起点。",
+      "prompt": "Horizontal documentary editorial photograph, cacao pods growing directly from a tree trunk on a humid tropical farm, farmer's weathered hands inspecting pods, lush green understory, natural morning light, no text, no logos, realistic agriculture supply chain, high detail, wide composition."
+    },
+    {
+      "id": "chocolate-price-stickiness-2026-05-07_03_病害叶片",
+      "batch": "chocolate-price-stickiness-2026-05-07",
+      "category": "chocolate-price-stickiness",
+      "number": "03",
+      "title": "病害叶片",
+      "image": "assets/images/chocolate-price-stickiness-2026-05-07/03_病害叶片.png",
+      "thumb": "assets/thumbs/chocolate-price-stickiness-2026-05-07/03_病害叶片.png",
+      "description": "病害和湿热气候把供应风险带到农场。",
+      "prompt": "Horizontal documentary editorial photograph, close view of diseased cacao leaves and damaged pods on a farm after wet weather, an agronomist in plain field clothes examining the plant with a hand lens, soft overcast light, no readable text, no logos, realistic crop disease and climate risk mood."
+    },
+    {
+      "id": "chocolate-price-stickiness-2026-05-07_04_发酵木箱",
+      "batch": "chocolate-price-stickiness-2026-05-07",
+      "category": "chocolate-price-stickiness",
+      "number": "04",
+      "title": "发酵木箱",
+      "image": "assets/images/chocolate-price-stickiness-2026-05-07/04_发酵木箱.png",
+      "thumb": "assets/thumbs/chocolate-price-stickiness-2026-05-07/04_发酵木箱.png",
+      "description": "发酵环节决定品质，也决定时间和人工成本。",
+      "prompt": "Horizontal documentary editorial photograph, cacao beans fermenting in wooden boxes under banana leaves, workers turning the beans with wooden paddles, steam and rich brown textures, rural processing shed, no readable text, no logos, realistic craft and labor cost atmosphere."
+    },
+    {
+      "id": "chocolate-price-stickiness-2026-05-07_05_晾晒场",
+      "batch": "chocolate-price-stickiness-2026-05-07",
+      "category": "chocolate-price-stickiness",
+      "number": "05",
+      "title": "晾晒场",
+      "image": "assets/images/chocolate-price-stickiness-2026-05-07/05_晾晒场.png",
+      "thumb": "assets/thumbs/chocolate-price-stickiness-2026-05-07/05_晾晒场.png",
+      "description": "晾晒受天气控制，突然降雨会影响产量和质量。",
+      "prompt": "Horizontal documentary editorial photograph, wide cacao bean drying yard under a changing sky, beans spread on raised mats, workers rushing to cover part of the crop as dark rain clouds approach, no readable text, no logos, realistic weather-sensitive food supply chain, cinematic natural light."
+    },
+    {
+      "id": "chocolate-price-stickiness-2026-05-07_06_港口麻袋",
+      "batch": "chocolate-price-stickiness-2026-05-07",
+      "category": "chocolate-price-stickiness",
+      "number": "06",
+      "title": "港口麻袋",
+      "image": "assets/images/chocolate-price-stickiness-2026-05-07/06_港口麻袋.png",
+      "thumb": "assets/thumbs/chocolate-price-stickiness-2026-05-07/06_港口麻袋.png",
+      "description": "港口库存和运输延迟让农产品变成全球物流问题。",
+      "prompt": "Horizontal documentary editorial photograph, port warehouse stacked with plain jute sacks of cocoa beans, forklifts and shipping containers in the background, workers checking unmarked inventory tags, humid industrial light, no readable text, no logos, realistic global commodity logistics."
+    },
+    {
+      "id": "chocolate-price-stickiness-2026-05-07_07_期货屏幕",
+      "batch": "chocolate-price-stickiness-2026-05-07",
+      "category": "chocolate-price-stickiness",
+      "number": "07",
+      "title": "期货屏幕",
+      "image": "assets/images/chocolate-price-stickiness-2026-05-07/07_期货屏幕.png",
+      "thumb": "assets/thumbs/chocolate-price-stickiness-2026-05-07/07_期货屏幕.png",
+      "description": "期货价格下跌不等于消费者马上少付钱。",
+      "prompt": "Horizontal documentary editorial photograph, commodity trading desk with abstract red and green line charts on monitors, cocoa beans in a small sample bowl beside a keyboard, trader's hand pointing at an unlabeled curve, no readable numbers or text, no logos, realistic financial market atmosphere, low office light."
+    },
+    {
+      "id": "chocolate-price-stickiness-2026-05-07_08_巧克力工厂",
+      "batch": "chocolate-price-stickiness-2026-05-07",
+      "category": "chocolate-price-stickiness",
+      "number": "08",
+      "title": "巧克力工厂",
+      "image": "assets/images/chocolate-price-stickiness-2026-05-07/08_巧克力工厂.png",
+      "thumb": "assets/thumbs/chocolate-price-stickiness-2026-05-07/08_巧克力工厂.png",
+      "description": "工厂加工、能源和设备成本继续留在零售价里。",
+      "prompt": "Horizontal documentary editorial photograph, chocolate factory roaster and refining line, warm stainless steel equipment, plain-uniform workers monitoring flowing dark chocolate, energy meters shown as unreadable abstract dials, no logos, no readable text, realistic manufacturing cost chain."
+    },
+    {
+      "id": "chocolate-price-stickiness-2026-05-07_09_替代配方",
+      "batch": "chocolate-price-stickiness-2026-05-07",
+      "category": "chocolate-price-stickiness",
+      "number": "09",
+      "title": "替代配方",
+      "image": "assets/images/chocolate-price-stickiness-2026-05-07/09_替代配方.png",
+      "thumb": "assets/thumbs/chocolate-price-stickiness-2026-05-07/09_替代配方.png",
+      "description": "配方调整显示品牌如何在成本和口感之间取舍。",
+      "prompt": "Horizontal documentary editorial photograph, food lab bench with small bowls of cocoa powder, cocoa butter, sugar, milk powder, and alternative fats, a technician comparing plain chocolate samples, blank labels only, no readable text, no logos, clean realistic product development environment."
+    },
+    {
+      "id": "chocolate-price-stickiness-2026-05-07_10_缩水包装",
+      "batch": "chocolate-price-stickiness-2026-05-07",
+      "category": "chocolate-price-stickiness",
+      "number": "10",
+      "title": "缩水包装",
+      "image": "assets/images/chocolate-price-stickiness-2026-05-07/10_缩水包装.png",
+      "thumb": "assets/thumbs/chocolate-price-stickiness-2026-05-07/10_缩水包装.png",
+      "description": "包装缩水让价格不变但实际克重变化。",
+      "prompt": "Horizontal documentary editorial photograph, two unbranded chocolate bars side by side on a kitchen table, one slightly smaller package next to a larger older-looking package, a ruler and grocery receipt turned face down, no readable text, no logos, realistic shrinkflation comparison, neutral daylight."
+    },
+    {
+      "id": "chocolate-price-stickiness-2026-05-07_11_精品柜台",
+      "batch": "chocolate-price-stickiness-2026-05-07",
+      "category": "chocolate-price-stickiness",
+      "number": "11",
+      "title": "精品柜台",
+      "image": "assets/images/chocolate-price-stickiness-2026-05-07/11_精品柜台.png",
+      "thumb": "assets/thumbs/chocolate-price-stickiness-2026-05-07/11_精品柜台.png",
+      "description": "高端零售把品牌、体验和稀缺感加入价格。",
+      "prompt": "Horizontal documentary editorial photograph, premium chocolate counter with handmade truffles and plain elegant boxes, staff member using tongs, customer looking through glass, soft boutique lighting, all signs blank or unreadable, no logos, realistic luxury retail price atmosphere."
+    },
+    {
+      "id": "chocolate-price-stickiness-2026-05-07_12_农民合作社",
+      "batch": "chocolate-price-stickiness-2026-05-07",
+      "category": "chocolate-price-stickiness",
+      "number": "12",
+      "title": "农民合作社",
+      "image": "assets/images/chocolate-price-stickiness-2026-05-07/12_农民合作社.png",
+      "thumb": "assets/thumbs/chocolate-price-stickiness-2026-05-07/12_农民合作社.png",
+      "description": "农户议价和合作社账本决定供应端能拿到多少。",
+      "prompt": "Horizontal documentary editorial photograph, cacao farmer cooperative meeting in a simple room, farmers gathered around a table with blank ledger pages, sacks of beans in the background, calculator without readable numbers, no logos, warm natural light, realistic supply-side bargaining and income tension."
+    },
+    {
+      "id": "chocolate-price-stickiness-2026-05-07_13_定价会议",
+      "batch": "chocolate-price-stickiness-2026-05-07",
+      "category": "chocolate-price-stickiness",
+      "number": "13",
+      "title": "定价会议",
+      "image": "assets/images/chocolate-price-stickiness-2026-05-07/13_定价会议.png",
+      "thumb": "assets/thumbs/chocolate-price-stickiness-2026-05-07/13_定价会议.png",
+      "description": "品牌定价会议把原料、包装、渠道和利润合在一起。",
+      "prompt": "Horizontal documentary editorial photograph, corporate pricing meeting room for an unbranded chocolate company, table covered with plain chocolate samples, blank packaging mockups, abstract cost blocks on a whiteboard with no readable text, executives in discussion, realistic business decision atmosphere."
+    },
+    {
+      "id": "chocolate-price-stickiness-2026-05-07_14_消费者账单",
+      "batch": "chocolate-price-stickiness-2026-05-07",
+      "category": "chocolate-price-stickiness",
+      "number": "14",
+      "title": "消费者账单",
+      "image": "assets/images/chocolate-price-stickiness-2026-05-07/14_消费者账单.png",
+      "thumb": "assets/thumbs/chocolate-price-stickiness-2026-05-07/14_消费者账单.png",
+      "description": "家庭账单把复杂供应链还原成一次支出。",
+      "prompt": "Horizontal documentary editorial photograph, kitchen table with grocery items including unbranded chocolate, a folded receipt with unreadable marks, household budget notebook with blank lines, adult hand holding a pen, quiet evening light, no readable text, no logos, realistic household inflation mood."
+    },
+    {
+      "id": "chocolate-price-stickiness-2026-05-07_15_气候温室",
+      "batch": "chocolate-price-stickiness-2026-05-07",
+      "category": "chocolate-price-stickiness",
+      "number": "15",
+      "title": "气候温室",
+      "image": "assets/images/chocolate-price-stickiness-2026-05-07/15_气候温室.png",
+      "thumb": "assets/thumbs/chocolate-price-stickiness-2026-05-07/15_气候温室.png",
+      "description": "未来可可温室代表对气候风险的长期适应。",
+      "prompt": "Horizontal documentary editorial photograph, experimental cacao greenhouse for climate adaptation, young cacao trees under shade cloth and irrigation sensors, researcher checking seedlings, humid controlled environment, no readable labels, no logos, realistic future agriculture resilience, clean natural light."
     }
   ]
 }
