@@ -1,7 +1,7 @@
 {
   "site": {
     "title": "OpenAI image2 视觉实验",
-    "subtitle": "451 张传播向 AI 海报",
+    "subtitle": "466 张传播向 AI 海报",
     "headline": "OpenAI image2 视觉实验",
     "intro": "每一批图片围绕一个临时主题生成，并按当次最合适的 category 归档；可以是反差创意、真实场景、产品概念、人物叙事或任何新的视觉方向。",
     "coverImage": "assets/contact_sheet_image2.jpg",
@@ -166,6 +166,10 @@
     {
       "id": "rooftop-bar-class-display",
       "label": "高空阶层样板间"
+    },
+    {
+      "id": "labubu-spiritual-shrine",
+      "label": "Labubu精神神龛"
     }
   ],
   "batches": [
@@ -359,6 +363,12 @@
       "id": "rooftop-bar-class-display-2026-05-08",
       "theme": "一家城市屋顶酒吧，为什么越来越像高空阶层样板间",
       "createdAt": "2026-05-08",
+      "count": 15
+    },
+    {
+      "id": "labubu-spiritual-shrine-2026-05-09",
+      "theme": "一墙 Labubu 和包挂，为什么像成年人的精神神龛",
+      "createdAt": "2026-05-09",
       "count": 15
     }
   ],
@@ -5308,6 +5318,171 @@
       "thumb": "assets/thumbs/rooftop-bar-class-display-2026-05-08/15_白天俯瞰的空露台.png",
       "description": "白天再看这座露台，它像一间提前为欲望布置好的展示房。",
       "prompt": "Horizontal documentary editorial photograph, empty rooftop bar terrace in daylight overlooking the city, immaculate furniture, glass barriers, luxury minimal design, no people, revealing the space as an aspirational stage set, no logos, no readable text."
+    },
+    {
+      "id": "labubu-spiritual-shrine-2026-05-09_01_玄关小神龛墙",
+      "batch": "labubu-spiritual-shrine-2026-05-09",
+      "category": "labubu-spiritual-shrine",
+      "number": "01",
+      "title": "玄关小神龛墙",
+      "image": "assets/images/labubu-spiritual-shrine-2026-05-09/01_玄关小神龛墙.png",
+      "thumb": "assets/thumbs/labubu-spiritual-shrine-2026-05-09/01_玄关小神龛墙.png",
+      "description": "很多成年人的回家仪式，是先看一眼那排把情绪接住的小怪物。",
+      "prompt": "Horizontal documentary editorial photograph, stylish urban apartment entryway arranged like a tiny emotional shrine, a wall of cute mischievous monster dolls and bag charms, warm lamp glow, keys and perfume tray below, highly aesthetic but realistic home styling, no logos, no readable text."
+    },
+    {
+      "id": "labubu-spiritual-shrine-2026-05-09_02_通勤包挂自拍镜",
+      "batch": "labubu-spiritual-shrine-2026-05-09",
+      "category": "labubu-spiritual-shrine",
+      "number": "02",
+      "title": "通勤包挂自拍镜",
+      "image": "assets/images/labubu-spiritual-shrine-2026-05-09/02_通勤包挂自拍镜.png",
+      "thumb": "assets/thumbs/labubu-spiritual-shrine-2026-05-09/02_通勤包挂自拍镜.png",
+      "description": "它不是配件而已，更像很多人白天带在身上的情绪护身符。",
+      "prompt": "Horizontal documentary editorial photograph, mirror selfie moment before leaving home, luxury commuter bag with multiple cute monster bag charms hanging from the handle, stylish outfit, morning light, intimate Xiaohongshu-style realism, no logos, no readable text."
+    },
+    {
+      "id": "labubu-spiritual-shrine-2026-05-09_03_工位角落守护位",
+      "batch": "labubu-spiritual-shrine-2026-05-09",
+      "category": "labubu-spiritual-shrine",
+      "number": "03",
+      "title": "工位角落守护位",
+      "image": "assets/images/labubu-spiritual-shrine-2026-05-09/03_工位角落守护位.png",
+      "thumb": "assets/thumbs/labubu-spiritual-shrine-2026-05-09/03_工位角落守护位.png",
+      "description": "有些人的办公桌像在上班，有些人的办公桌像在给自己养一口气。",
+      "prompt": "Horizontal documentary editorial photograph, creative office desk corner with a small cluster of cute collectible dolls beside keyboard, water cup and notebook, soft afternoon light, emotional support object energy, realistic workday scene, no logos, no readable text."
+    },
+    {
+      "id": "labubu-spiritual-shrine-2026-05-09_04_透明柜里的整排收藏",
+      "batch": "labubu-spiritual-shrine-2026-05-09",
+      "category": "labubu-spiritual-shrine",
+      "number": "04",
+      "title": "透明柜里的整排收藏",
+      "image": "assets/images/labubu-spiritual-shrine-2026-05-09/04_透明柜里的整排收藏.png",
+      "thumb": "assets/thumbs/labubu-spiritual-shrine-2026-05-09/04_透明柜里的整排收藏.png",
+      "description": "当一排玩偶被认真陈列起来，房间就会开始像信仰空间。",
+      "prompt": "Horizontal documentary editorial photograph, glass display cabinet filled with carefully arranged mischievous cute monster dolls in coordinated outfits, subtle LED shelf lighting, luxurious but lived-in apartment interior, collector devotion atmosphere, no logos, no readable text."
+    },
+    {
+      "id": "labubu-spiritual-shrine-2026-05-09_05_夜灯下的开盒桌",
+      "batch": "labubu-spiritual-shrine-2026-05-09",
+      "category": "labubu-spiritual-shrine",
+      "number": "05",
+      "title": "夜灯下的开盒桌",
+      "image": "assets/images/labubu-spiritual-shrine-2026-05-09/05_夜灯下的开盒桌.png",
+      "thumb": "assets/thumbs/labubu-spiritual-shrine-2026-05-09/05_夜灯下的开盒桌.png",
+      "description": "开盒最上头的时刻，像给一天的疲惫拆一份私人奖励。",
+      "prompt": "Horizontal documentary editorial photograph, late-night unboxing table under warm lamp light, blind-box packaging torn open, cute monster figure revealed, scissors, tissue paper, hands frozen in excitement, intimate collector ritual, no logos, no readable text."
+    },
+    {
+      "id": "labubu-spiritual-shrine-2026-05-09_06_换娃衣抽屉铺开",
+      "batch": "labubu-spiritual-shrine-2026-05-09",
+      "category": "labubu-spiritual-shrine",
+      "number": "06",
+      "title": "换娃衣抽屉铺开",
+      "image": "assets/images/labubu-spiritual-shrine-2026-05-09/06_换娃衣抽屉铺开.png",
+      "thumb": "assets/thumbs/labubu-spiritual-shrine-2026-05-09/06_换娃衣抽屉铺开.png",
+      "description": "给玩偶换衣服这件事，本身就像一种成年人版本的疗愈手工。",
+      "prompt": "Horizontal documentary editorial photograph, drawer pulled open full of tiny doll clothes, mini jackets, hats and shoes arranged neatly around cute monster figures, hands choosing outfits, cozy fashion-styling ritual, realistic textures, no logos, no readable text."
+    },
+    {
+      "id": "labubu-spiritual-shrine-2026-05-09_07_朋友交换会摊位",
+      "batch": "labubu-spiritual-shrine-2026-05-09",
+      "category": "labubu-spiritual-shrine",
+      "number": "07",
+      "title": "朋友交换会摊位",
+      "image": "assets/images/labubu-spiritual-shrine-2026-05-09/07_朋友交换会摊位.png",
+      "thumb": "assets/thumbs/labubu-spiritual-shrine-2026-05-09/07_朋友交换会摊位.png",
+      "description": "收藏真正变成社交的那一刻，盲盒桌就像一场小型命运集市。",
+      "prompt": "Horizontal documentary editorial photograph, casual collector swap meet table in a cafe or studio, cute monster figures lined up for trading, young adults leaning in to compare and exchange, lively but tasteful social scene, no logos, no readable text."
+    },
+    {
+      "id": "labubu-spiritual-shrine-2026-05-09_08_二级交易照灯台",
+      "batch": "labubu-spiritual-shrine-2026-05-09",
+      "category": "labubu-spiritual-shrine",
+      "number": "08",
+      "title": "二级交易照灯台",
+      "image": "assets/images/labubu-spiritual-shrine-2026-05-09/08_二级交易照灯台.png",
+      "thumb": "assets/thumbs/labubu-spiritual-shrine-2026-05-09/08_二级交易照灯台.png",
+      "description": "一旦站到灯下被拍照，它就不只是可爱，也成了流通中的价格。",
+      "prompt": "Horizontal documentary editorial photograph, small resale photography setup with softbox lights and rotating stand, collectible cute monster toy being documented for secondhand sale, gloves, phone tripod, tension between affection and pricing, no logos, no readable text."
+    },
+    {
+      "id": "labubu-spiritual-shrine-2026-05-09_09_旅行箱上的挂件队伍",
+      "batch": "labubu-spiritual-shrine-2026-05-09",
+      "category": "labubu-spiritual-shrine",
+      "number": "09",
+      "title": "旅行箱上的挂件队伍",
+      "image": "assets/images/labubu-spiritual-shrine-2026-05-09/09_旅行箱上的挂件队伍.png",
+      "thumb": "assets/thumbs/labubu-spiritual-shrine-2026-05-09/09_旅行箱上的挂件队伍.png",
+      "description": "很多人把它们挂上行李箱，不只是为了可爱，也是为了把自己带在路上。",
+      "prompt": "Horizontal documentary editorial photograph, airport or train-station waiting area with a silver suitcase covered in cute monster bag charms, stylish traveler seated nearby, movement blur in background, personal identity through accessories, no logos, no readable text."
+    },
+    {
+      "id": "labubu-spiritual-shrine-2026-05-09_10_床头夜灯陪睡位",
+      "batch": "labubu-spiritual-shrine-2026-05-09",
+      "category": "labubu-spiritual-shrine",
+      "number": "10",
+      "title": "床头夜灯陪睡位",
+      "image": "assets/images/labubu-spiritual-shrine-2026-05-09/10_床头夜灯陪睡位.png",
+      "thumb": "assets/thumbs/labubu-spiritual-shrine-2026-05-09/10_床头夜灯陪睡位.png",
+      "description": "真正像神龛的地方不一定在客厅，也可能在一个只属于自己的床头角落。",
+      "prompt": "Horizontal documentary editorial photograph, bedside table at night with a glowing lamp, stacked books, lip balm, and one cute monster figure watching over the bed, soft shadowy room, intimate emotional support atmosphere, no logos, no readable text."
+    },
+    {
+      "id": "labubu-spiritual-shrine-2026-05-09_11_咖啡馆桌边合照位",
+      "batch": "labubu-spiritual-shrine-2026-05-09",
+      "category": "labubu-spiritual-shrine",
+      "number": "11",
+      "title": "咖啡馆桌边合照位",
+      "image": "assets/images/labubu-spiritual-shrine-2026-05-09/11_咖啡馆桌边合照位.png",
+      "thumb": "assets/thumbs/labubu-spiritual-shrine-2026-05-09/11_咖啡馆桌边合照位.png",
+      "description": "把玩偶带去咖啡馆拍照，本质上是在给自己的日常加一层梦感滤镜。",
+      "prompt": "Horizontal documentary editorial photograph, beautiful cafe table with specialty coffee, glossy dessert, and a cute collectible doll posed for photos beside the cup, fashionable hands arranging the scene, Xiaohongshu-style lifestyle image, no logos, no readable text."
+    },
+    {
+      "id": "labubu-spiritual-shrine-2026-05-09_12_化妆台旁的同款配色",
+      "batch": "labubu-spiritual-shrine-2026-05-09",
+      "category": "labubu-spiritual-shrine",
+      "number": "12",
+      "title": "化妆台旁的同款配色",
+      "image": "assets/images/labubu-spiritual-shrine-2026-05-09/12_化妆台旁的同款配色.png",
+      "thumb": "assets/thumbs/labubu-spiritual-shrine-2026-05-09/12_化妆台旁的同款配色.png",
+      "description": "当玩偶和口红、腮红、镜框开始同色系，收藏就成了自我形象的一部分。",
+      "prompt": "Horizontal documentary editorial photograph, beauty vanity with cosmetics arranged in a coordinated palette matching a cute monster doll outfit, mirror bulbs glowing, highly aesthetic but realistic feminine styling scene, no logos, no readable text."
+    },
+    {
+      "id": "labubu-spiritual-shrine-2026-05-09_13_收纳墙前的独自发呆",
+      "batch": "labubu-spiritual-shrine-2026-05-09",
+      "category": "labubu-spiritual-shrine",
+      "number": "13",
+      "title": "收纳墙前的独自发呆",
+      "image": "assets/images/labubu-spiritual-shrine-2026-05-09/13_收纳墙前的独自发呆.png",
+      "thumb": "assets/thumbs/labubu-spiritual-shrine-2026-05-09/13_收纳墙前的独自发呆.png",
+      "description": "最能说明情绪价值的，不是买到那一下，而是有人会对着那面墙安静坐很久。",
+      "prompt": "Horizontal documentary editorial photograph, young adult sitting quietly on the floor facing a wall of neatly displayed collectible dolls, dusk light entering room, contemplative pause, emotional projection and solitude, realistic apartment interior, no logos, no readable text."
+    },
+    {
+      "id": "labubu-spiritual-shrine-2026-05-09_14_清洁保养仪式",
+      "batch": "labubu-spiritual-shrine-2026-05-09",
+      "category": "labubu-spiritual-shrine",
+      "number": "14",
+      "title": "清洁保养仪式",
+      "image": "assets/images/labubu-spiritual-shrine-2026-05-09/14_清洁保养仪式.png",
+      "thumb": "assets/thumbs/labubu-spiritual-shrine-2026-05-09/14_清洁保养仪式.png",
+      "description": "认真擦拭和整理它们的时候，收藏更像一种要被照顾的关系。",
+      "prompt": "Horizontal documentary editorial photograph, careful maintenance ritual at home, collector using microfiber cloth and soft brush to clean cute monster figures on a table, open storage boxes, precise affectionate gestures, realistic domestic detail, no logos, no readable text."
+    },
+    {
+      "id": "labubu-spiritual-shrine-2026-05-09_15_凌晨回家先看一眼",
+      "batch": "labubu-spiritual-shrine-2026-05-09",
+      "category": "labubu-spiritual-shrine",
+      "number": "15",
+      "title": "凌晨回家先看一眼",
+      "image": "assets/images/labubu-spiritual-shrine-2026-05-09/15_凌晨回家先看一眼.png",
+      "thumb": "assets/thumbs/labubu-spiritual-shrine-2026-05-09/15_凌晨回家先看一眼.png",
+      "description": "所谓精神神龛，大概就是凌晨回家时你会下意识先确认它们还在那里。",
+      "prompt": "Horizontal documentary editorial photograph, late-night homecoming scene, apartment door just opened, city clothes and tote bag still on shoulder, eyes turning first toward a glowing shelf of cute collectible dolls, cinematic urban tenderness, no logos, no readable text."
     }
   ]
 }
