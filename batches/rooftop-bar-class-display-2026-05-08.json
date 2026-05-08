@@ -1,0 +1,127 @@
+{
+  "theme": "一家城市屋顶酒吧，为什么越来越像高空阶层样板间",
+  "batchId": "rooftop-bar-class-display-2026-05-08",
+  "createdAt": "2026-05-08",
+  "items": [
+    {
+      "source": "01_高空入口排队.png",
+      "category": "rooftop-bar-class-display",
+      "categoryLabel": "高空阶层样板间",
+      "title": "高空入口排队",
+      "description": "真正的夜生活分层，往往从电梯口的排队顺序就开始了。",
+      "prompt": "Horizontal documentary editorial photograph, fashionable crowd queueing at the entrance of a rooftop bar on a high floor, velvet rope, elevator lobby glow, city skyline hinted through glass, sharp outfits, subtle class tension, realistic urban nightlife, no logos, no readable text."
+    },
+    {
+      "source": "02_电梯镜面补妆.png",
+      "category": "rooftop-bar-class-display",
+      "categoryLabel": "高空阶层样板间",
+      "title": "电梯镜面补妆",
+      "description": "通往夜景之前，很多人先在镜面里检查自己配不配得上那一层楼。",
+      "prompt": "Horizontal documentary editorial photograph, mirrored elevator interior on the way up to a rooftop bar, young women and men adjusting makeup, collars and jewelry, reflected city lights, glossy but realistic atmosphere, no logos, no readable text."
+    },
+    {
+      "source": "03_天际线第一张自拍.png",
+      "category": "rooftop-bar-class-display",
+      "categoryLabel": "高空阶层样板间",
+      "title": "天际线第一张自拍",
+      "description": "很多人还没点酒，先要确认自己和这片夜景同框得够好看。",
+      "prompt": "Horizontal documentary editorial photograph, first selfie moment at a rooftop terrace edge, skyline glittering behind, phone screen glow on faces, dramatic city night, stylish pose culture, realistic nightlife energy, no logos, no readable text."
+    },
+    {
+      "source": "04_香槟塔与闪光灯.png",
+      "category": "rooftop-bar-class-display",
+      "categoryLabel": "高空阶层样板间",
+      "title": "香槟塔与闪光灯",
+      "description": "高空社交最像样板间的时刻，就是每一层泡沫都要被拍下来。",
+      "prompt": "Horizontal documentary editorial photograph, champagne tower under flash photography in a rooftop bar, hands holding phones, crystal reflections, expensive celebration mood with slight performative tension, realistic detail, no logos, no readable text."
+    },
+    {
+      "source": "05_DJ台前的穿搭对峙.png",
+      "category": "rooftop-bar-class-display",
+      "categoryLabel": "高空阶层样板间",
+      "title": "DJ台前的穿搭对峙",
+      "description": "有些社交不是在聊天，而是在彼此打量谁更适合被看见。",
+      "prompt": "Horizontal documentary editorial photograph, stylish groups facing off near a DJ booth at a rooftop bar, bold tailoring, metallic dresses, controlled attitude, colored club light but grounded realism, no logos, no readable text."
+    },
+    {
+      "source": "06_调酒台的玻璃秩序.png",
+      "category": "rooftop-bar-class-display",
+      "categoryLabel": "高空阶层样板间",
+      "title": "调酒台的玻璃秩序",
+      "description": "一排玻璃杯、冰块和手势，像这场夜晚最精确的阶层陈列。",
+      "prompt": "Horizontal documentary editorial photograph, close-up of a sophisticated rooftop bar counter, bartender crafting cocktails among aligned glassware and ice, hands, polished metal, luxury orderliness, cinematic urban night, no logos, no readable text."
+    },
+    {
+      "source": "07_角落里的独自看城.png",
+      "category": "rooftop-bar-class-display",
+      "categoryLabel": "高空阶层样板间",
+      "title": "角落里的独自看城",
+      "description": "高空最迷人的并不总是热闹，而是有人一个人靠着栏杆看完整座城。",
+      "prompt": "Horizontal documentary editorial photograph, solitary figure leaning on rooftop railing looking over a vast city at night, distant crowd behind, wind moving clothes, emotional urban loneliness, elegant but realistic, no logos, no readable text."
+    },
+    {
+      "source": "08_洗手间镜前社交.png",
+      "category": "rooftop-bar-class-display",
+      "categoryLabel": "高空阶层样板间",
+      "title": "洗手间镜前社交",
+      "description": "夜里真正精致的社交，有一半发生在镜子和补妆灯之间。",
+      "prompt": "Horizontal documentary editorial photograph, luxury restroom mirror scene inside a rooftop bar, women retouching makeup, friends photographing each other, warm vanity lights, social performance mood, realistic material textures, no logos, no readable text."
+    },
+    {
+      "source": "09_VIP卡座的低声交易.png",
+      "category": "rooftop-bar-class-display",
+      "categoryLabel": "高空阶层样板间",
+      "title": "VIP卡座的低声交易",
+      "description": "有些夜景是用来喝酒的，有些夜景是用来谈条件的。",
+      "prompt": "Horizontal documentary editorial photograph, dim VIP booth at a rooftop bar with sharply dressed guests in close conversation, bottle service, skyline glow through glass, ambiguous deal-making atmosphere, realistic and cinematic, no logos, no readable text."
+    },
+    {
+      "source": "10_高跟鞋与服务电梯.png",
+      "category": "rooftop-bar-class-display",
+      "categoryLabel": "高空阶层样板间",
+      "title": "高跟鞋与服务电梯",
+      "description": "同一层楼的前台和后台，往往只隔着一扇不对外开放的门。",
+      "prompt": "Horizontal documentary editorial photograph, contrast between glamorous guests in heels and staff using a service elevator corridor behind the rooftop bar, trays, black uniforms, backstage realism, no logos, no readable text."
+    },
+    {
+      "source": "11_雨后露台的空酒杯.png",
+      "category": "rooftop-bar-class-display",
+      "categoryLabel": "高空阶层样板间",
+      "title": "雨后露台的空酒杯",
+      "description": "天气一变，刚才还热闹的高空样板间立刻只剩下玻璃和风。",
+      "prompt": "Horizontal documentary editorial photograph, rooftop terrace just after a light rain, abandoned cocktail glasses on wet tables, city reflections, moody clouds over skyline, elegant emptiness, realistic lighting, no logos, no readable text."
+    },
+    {
+      "source": "12_凌晨散场的下楼人群.png",
+      "category": "rooftop-bar-class-display",
+      "categoryLabel": "高空阶层样板间",
+      "title": "凌晨散场的下楼人群",
+      "description": "热闹结束之后，所有人都要重新回到地面。",
+      "prompt": "Horizontal documentary editorial photograph, late-night crowd leaving a rooftop bar toward elevators, slightly tired faces, loosened jackets, heels in hand, afterparty exhaustion, realistic nightlife comedown, no logos, no readable text."
+    },
+    {
+      "source": "13_保洁员收拾香槟塔.png",
+      "category": "rooftop-bar-class-display",
+      "categoryLabel": "高空阶层样板间",
+      "title": "保洁员收拾香槟塔",
+      "description": "最能说明这是一间样板间的，往往不是派对，而是派对后谁来把它恢复原样。",
+      "prompt": "Horizontal documentary editorial photograph, cleaning staff dismantling a champagne tower after closing at a rooftop bar, gloves, carts, half-lit skyline, backstage labor after glamour, realistic and respectful, no logos, no readable text."
+    },
+    {
+      "source": "14_清晨窗边的结账单.png",
+      "category": "rooftop-bar-class-display",
+      "categoryLabel": "高空阶层样板间",
+      "title": "清晨窗边的结账单",
+      "description": "夜景的价格通常不会写在脸上，而会留在第二天早上的一张单子里。",
+      "prompt": "Horizontal documentary editorial photograph, dawn light by a high-rise window with cocktail receipts, phone, lipstick mark on glass, jacket draped on chair, luxurious aftermath, no readable text, no logos, realistic contemporary urban mood."
+    },
+    {
+      "source": "15_白天俯瞰的空露台.png",
+      "category": "rooftop-bar-class-display",
+      "categoryLabel": "高空阶层样板间",
+      "title": "白天俯瞰的空露台",
+      "description": "白天再看这座露台，它像一间提前为欲望布置好的展示房。",
+      "prompt": "Horizontal documentary editorial photograph, empty rooftop bar terrace in daylight overlooking the city, immaculate furniture, glass barriers, luxury minimal design, no people, revealing the space as an aspirational stage set, no logos, no readable text."
+    }
+  ]
+}

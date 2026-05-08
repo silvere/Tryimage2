@@ -1,0 +1,127 @@
+{
+  "theme": "一座海缆登陆站，怎样把一场地区战争变成全球网络焦虑",
+  "batchId": "subsea-cable-landing-station-2026-05-08",
+  "createdAt": "2026-05-08",
+  "items": [
+    {
+      "source": "01_海边登陆站外景.png",
+      "category": "subsea-cable-landing-station",
+      "categoryLabel": "海缆登陆站",
+      "title": "海边登陆站外景",
+      "description": "互联网最关键的神经束，往往先以一栋不起眼的小楼出现。",
+      "prompt": "Horizontal documentary editorial photograph, low-profile subsea cable landing station on a rocky Gulf coastline at dawn, fenced utility building, warning lights, a few technicians arriving, sea haze, quiet but tense atmosphere, realistic infrastructure, no logos, no readable text."
+    },
+    {
+      "source": "02_上岸的光纤束.png",
+      "category": "subsea-cable-landing-station",
+      "categoryLabel": "海缆登陆站",
+      "title": "上岸的光纤束",
+      "description": "人们以为信息在云里，其实很多时候它先从沙地里穿出来。",
+      "prompt": "Horizontal documentary editorial photograph, close view of armored fiber cable emerging from a beach conduit into a landing trench, gloved hands guiding protective tubing, wet sand, industrial detail, soft overcast light, no logos, no readable text, realistic materials."
+    },
+    {
+      "source": "03_海缆剖面与护层.png",
+      "category": "subsea-cable-landing-station",
+      "categoryLabel": "海缆登陆站",
+      "title": "海缆剖面与护层",
+      "description": "一根海缆的每一层包裹，都是给现代生活上的一道保险。",
+      "prompt": "Horizontal documentary editorial photograph, engineering lab table with a cut-open subsea cable cross-section, steel armoring, insulation, fiber core, calipers, blank spec sheet, dramatic side light, tactile industrial close-up, no readable text, no logos."
+    },
+    {
+      "source": "04_维修船甲板待命.png",
+      "category": "subsea-cable-landing-station",
+      "categoryLabel": "海缆登陆站",
+      "title": "维修船甲板待命",
+      "description": "真正让人焦虑的，不是断了没断，而是修它的人离得有多远。",
+      "prompt": "Horizontal documentary editorial photograph, cable repair vessel deck at first light, massive spool equipment, grappling tools, crew in hard hats preparing for departure, choppy sea, muted emergency mood, realistic maritime infrastructure, no logos, no readable text."
+    },
+    {
+      "source": "05_海图桌上的数字咽喉点.png",
+      "category": "subsea-cable-landing-station",
+      "categoryLabel": "海缆登陆站",
+      "title": "海图桌上的数字咽喉点",
+      "description": "战争新闻落到海图上，才会看见哪些水道同时也是网络的喉咙。",
+      "prompt": "Horizontal documentary editorial photograph, operations room table covered with nautical charts and transparent overlays marking cable corridors through a strategic strait, hands pointing, blank note cards, dim tactical lighting, geopolitical tension, no readable text, no logos."
+    },
+    {
+      "source": "06_登陆站告警室.png",
+      "category": "subsea-cable-landing-station",
+      "categoryLabel": "海缆登陆站",
+      "title": "登陆站告警室",
+      "description": "平静的时候这里像普通机房，告警亮起时它更像神经系统的急诊室。",
+      "prompt": "Horizontal documentary editorial photograph, landing station monitoring room with engineers watching abstract network alarm dashboards, racks of telecom gear, red and amber indicator lights, concentrated faces, no readable text, no logos, realistic crisis-control mood."
+    },
+    {
+      "source": "07_数据中心机柜接力.png",
+      "category": "subsea-cable-landing-station",
+      "categoryLabel": "海缆登陆站",
+      "title": "数据中心机柜接力",
+      "description": "海底的线一上岸，很快就变成机柜里的热、风和耗电。",
+      "prompt": "Horizontal documentary editorial photograph, modern desert-edge data center aisle receiving international traffic from cable links, dense server racks, cooling airflow, technicians checking patch panels, grounded industrial realism, no logos, no readable text."
+    },
+    {
+      "source": "08_交易大厅的延迟一秒.png",
+      "category": "subsea-cable-landing-station",
+      "categoryLabel": "海缆登陆站",
+      "title": "交易大厅的延迟一秒",
+      "description": "有些地方网络慢一秒只是转圈，有些地方会立刻变成钱的形状。",
+      "prompt": "Horizontal documentary editorial photograph, financial trading floor reacting to sudden latency, traders turning toward abstract screens, tense posture, cool blue light, no readable numbers, no logos, realistic global finance atmosphere."
+    },
+    {
+      "source": "09_医院备用网络切换.png",
+      "category": "subsea-cable-landing-station",
+      "categoryLabel": "海缆登陆站",
+      "title": "医院备用网络切换",
+      "description": "网络基础设施最像公共基础设施的时候，常常是在医院里。",
+      "prompt": "Horizontal documentary editorial photograph, hospital IT room during network failover, clinicians waiting nearby, abstract patient-monitor traffic on screens without readable text, backup links switching, fluorescent urgency, no logos, realistic healthcare infrastructure."
+    },
+    {
+      "source": "10_海湾港口与集装箱网络.png",
+      "category": "subsea-cable-landing-station",
+      "categoryLabel": "海缆登陆站",
+      "title": "海湾港口与集装箱网络",
+      "description": "货运、能源和数据并不是三条平行线，它们经常共用同一片海。",
+      "prompt": "Horizontal documentary editorial photograph, busy Gulf port with container cranes, tanker silhouettes, telecom utility corridor along the quay, dusty sunset atmosphere, visible logistics scale, realistic infrastructure interdependence, no logos, no readable text."
+    },
+    {
+      "source": "11_海军巡逻与海上警戒.png",
+      "category": "subsea-cable-landing-station",
+      "categoryLabel": "海缆登陆站",
+      "title": "海军巡逻与海上警戒",
+      "description": "当海缆进入战争叙事后，海上的每一次巡逻都多了一层看不见的任务。",
+      "prompt": "Horizontal documentary editorial photograph, patrol craft moving through a strategic strait near critical infrastructure waters, distant cargo ships, radar mast, hazy horizon, restrained military presence, no flags emphasized, no readable text, realistic geopolitical surveillance mood."
+    },
+    {
+      "source": "12_海床机器人检修想象.png",
+      "category": "subsea-cable-landing-station",
+      "categoryLabel": "海缆登陆站",
+      "title": "海床机器人检修",
+      "description": "真正脆弱的部分常常躺在最少人能看见的地方。",
+      "prompt": "Horizontal documentary editorial image, subsea ROV inspecting a cable on the seafloor, beams cutting through dark water, sediment clouds, manipulator arm near armored line, realistic marine engineering style rather than sci-fi, no logos, no readable text."
+    },
+    {
+      "source": "13_卫星与海缆对照图景.png",
+      "category": "subsea-cable-landing-station",
+      "categoryLabel": "海缆登陆站",
+      "title": "卫星与海缆对照",
+      "description": "人们常把卫星当成互联网本体，其实真正的大流量仍旧紧贴海底前行。",
+      "prompt": "Horizontal documentary editorial photograph, split-style comparison in a telecom briefing room: satellite terminal equipment on one side, submarine cable route model on the other, experts discussing tradeoffs, abstract diagrams only, no readable text, no logos, realistic communications strategy setting."
+    },
+    {
+      "source": "14_沙漠里的云计算机房.png",
+      "category": "subsea-cable-landing-station",
+      "categoryLabel": "海缆登陆站",
+      "title": "沙漠里的云计算机房",
+      "description": "AI 和云看起来最轻，落地时却总要占据最重的土地、电和水。",
+      "prompt": "Horizontal documentary editorial photograph, large cloud and AI data facility rising from an arid Gulf-edge landscape, cooling towers, transmission lines, service road, heat shimmer, grounded industrial grandeur, no logos, no readable text."
+    },
+    {
+      "source": "15_断链应急演练会议.png",
+      "category": "subsea-cable-landing-station",
+      "categoryLabel": "海缆登陆站",
+      "title": "断链应急演练",
+      "description": "所谓网络焦虑，最终总要落回一张桌子：谁先断、谁先保、谁来解释。",
+      "prompt": "Horizontal documentary editorial photograph, emergency continuity drill around a conference table after simulated cable disruption, operators, officials and hospital/finance reps studying blank maps and abstract status boards, serious faces, realistic systems-crisis atmosphere, no readable text, no logos."
+    }
+  ]
+}

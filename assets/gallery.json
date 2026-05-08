@@ -1,7 +1,7 @@
 {
   "site": {
     "title": "OpenAI image2 视觉实验",
-    "subtitle": "421 张传播向 AI 海报",
+    "subtitle": "451 张传播向 AI 海报",
     "headline": "OpenAI image2 视觉实验",
     "intro": "每一批图片围绕一个临时主题生成，并按当次最合适的 category 归档；可以是反差创意、真实场景、产品概念、人物叙事或任何新的视觉方向。",
     "coverImage": "assets/contact_sheet_image2.jpg",
@@ -158,6 +158,14 @@
     {
       "id": "mbti-office-culture",
       "label": "MBTI办公室"
+    },
+    {
+      "id": "subsea-cable-landing-station",
+      "label": "海缆登陆站"
+    },
+    {
+      "id": "rooftop-bar-class-display",
+      "label": "高空阶层样板间"
     }
   ],
   "batches": [
@@ -339,6 +347,18 @@
       "id": "mbti-office-culture-2026-05-07",
       "theme": "一张 MBTI 表，怎样把 16 种人塞进同一间办公室",
       "createdAt": "2026-05-07",
+      "count": 15
+    },
+    {
+      "id": "subsea-cable-landing-station-2026-05-08",
+      "theme": "一座海缆登陆站，怎样把一场地区战争变成全球网络焦虑",
+      "createdAt": "2026-05-08",
+      "count": 15
+    },
+    {
+      "id": "rooftop-bar-class-display-2026-05-08",
+      "theme": "一家城市屋顶酒吧，为什么越来越像高空阶层样板间",
+      "createdAt": "2026-05-08",
       "count": 15
     }
   ],
@@ -4958,6 +4978,336 @@
       "thumb": "assets/thumbs/mbti-office-culture-2026-05-07/15_撕掉人格便利贴.png",
       "description": "真正困难的时刻，不是知道自己像哪一型，而是决定不再只按那一型活。",
       "prompt": "Horizontal documentary editorial photograph, close emotional office scene where a worker removes colored personality sticky notes from a desk divider, morning light entering after a long night, quiet sense of reclaiming complexity, no readable text, no logos, realistic and slightly hopeful."
+    },
+    {
+      "id": "subsea-cable-landing-station-2026-05-08_01_海边登陆站外景",
+      "batch": "subsea-cable-landing-station-2026-05-08",
+      "category": "subsea-cable-landing-station",
+      "number": "01",
+      "title": "海边登陆站外景",
+      "image": "assets/images/subsea-cable-landing-station-2026-05-08/01_海边登陆站外景.png",
+      "thumb": "assets/thumbs/subsea-cable-landing-station-2026-05-08/01_海边登陆站外景.png",
+      "description": "互联网最关键的神经束，往往先以一栋不起眼的小楼出现。",
+      "prompt": "Horizontal documentary editorial photograph, low-profile subsea cable landing station on a rocky Gulf coastline at dawn, fenced utility building, warning lights, a few technicians arriving, sea haze, quiet but tense atmosphere, realistic infrastructure, no logos, no readable text."
+    },
+    {
+      "id": "subsea-cable-landing-station-2026-05-08_02_上岸的光纤束",
+      "batch": "subsea-cable-landing-station-2026-05-08",
+      "category": "subsea-cable-landing-station",
+      "number": "02",
+      "title": "上岸的光纤束",
+      "image": "assets/images/subsea-cable-landing-station-2026-05-08/02_上岸的光纤束.png",
+      "thumb": "assets/thumbs/subsea-cable-landing-station-2026-05-08/02_上岸的光纤束.png",
+      "description": "人们以为信息在云里，其实很多时候它先从沙地里穿出来。",
+      "prompt": "Horizontal documentary editorial photograph, close view of armored fiber cable emerging from a beach conduit into a landing trench, gloved hands guiding protective tubing, wet sand, industrial detail, soft overcast light, no logos, no readable text, realistic materials."
+    },
+    {
+      "id": "subsea-cable-landing-station-2026-05-08_03_海缆剖面与护层",
+      "batch": "subsea-cable-landing-station-2026-05-08",
+      "category": "subsea-cable-landing-station",
+      "number": "03",
+      "title": "海缆剖面与护层",
+      "image": "assets/images/subsea-cable-landing-station-2026-05-08/03_海缆剖面与护层.png",
+      "thumb": "assets/thumbs/subsea-cable-landing-station-2026-05-08/03_海缆剖面与护层.png",
+      "description": "一根海缆的每一层包裹，都是给现代生活上的一道保险。",
+      "prompt": "Horizontal documentary editorial photograph, engineering lab table with a cut-open subsea cable cross-section, steel armoring, insulation, fiber core, calipers, blank spec sheet, dramatic side light, tactile industrial close-up, no readable text, no logos."
+    },
+    {
+      "id": "subsea-cable-landing-station-2026-05-08_04_维修船甲板待命",
+      "batch": "subsea-cable-landing-station-2026-05-08",
+      "category": "subsea-cable-landing-station",
+      "number": "04",
+      "title": "维修船甲板待命",
+      "image": "assets/images/subsea-cable-landing-station-2026-05-08/04_维修船甲板待命.png",
+      "thumb": "assets/thumbs/subsea-cable-landing-station-2026-05-08/04_维修船甲板待命.png",
+      "description": "真正让人焦虑的，不是断了没断，而是修它的人离得有多远。",
+      "prompt": "Horizontal documentary editorial photograph, cable repair vessel deck at first light, massive spool equipment, grappling tools, crew in hard hats preparing for departure, choppy sea, muted emergency mood, realistic maritime infrastructure, no logos, no readable text."
+    },
+    {
+      "id": "subsea-cable-landing-station-2026-05-08_05_海图桌上的数字咽喉点",
+      "batch": "subsea-cable-landing-station-2026-05-08",
+      "category": "subsea-cable-landing-station",
+      "number": "05",
+      "title": "海图桌上的数字咽喉点",
+      "image": "assets/images/subsea-cable-landing-station-2026-05-08/05_海图桌上的数字咽喉点.png",
+      "thumb": "assets/thumbs/subsea-cable-landing-station-2026-05-08/05_海图桌上的数字咽喉点.png",
+      "description": "战争新闻落到海图上，才会看见哪些水道同时也是网络的喉咙。",
+      "prompt": "Horizontal documentary editorial photograph, operations room table covered with nautical charts and transparent overlays marking cable corridors through a strategic strait, hands pointing, blank note cards, dim tactical lighting, geopolitical tension, no readable text, no logos."
+    },
+    {
+      "id": "subsea-cable-landing-station-2026-05-08_06_登陆站告警室",
+      "batch": "subsea-cable-landing-station-2026-05-08",
+      "category": "subsea-cable-landing-station",
+      "number": "06",
+      "title": "登陆站告警室",
+      "image": "assets/images/subsea-cable-landing-station-2026-05-08/06_登陆站告警室.png",
+      "thumb": "assets/thumbs/subsea-cable-landing-station-2026-05-08/06_登陆站告警室.png",
+      "description": "平静的时候这里像普通机房，告警亮起时它更像神经系统的急诊室。",
+      "prompt": "Horizontal documentary editorial photograph, landing station monitoring room with engineers watching abstract network alarm dashboards, racks of telecom gear, red and amber indicator lights, concentrated faces, no readable text, no logos, realistic crisis-control mood."
+    },
+    {
+      "id": "subsea-cable-landing-station-2026-05-08_07_数据中心机柜接力",
+      "batch": "subsea-cable-landing-station-2026-05-08",
+      "category": "subsea-cable-landing-station",
+      "number": "07",
+      "title": "数据中心机柜接力",
+      "image": "assets/images/subsea-cable-landing-station-2026-05-08/07_数据中心机柜接力.png",
+      "thumb": "assets/thumbs/subsea-cable-landing-station-2026-05-08/07_数据中心机柜接力.png",
+      "description": "海底的线一上岸，很快就变成机柜里的热、风和耗电。",
+      "prompt": "Horizontal documentary editorial photograph, modern desert-edge data center aisle receiving international traffic from cable links, dense server racks, cooling airflow, technicians checking patch panels, grounded industrial realism, no logos, no readable text."
+    },
+    {
+      "id": "subsea-cable-landing-station-2026-05-08_08_交易大厅的延迟一秒",
+      "batch": "subsea-cable-landing-station-2026-05-08",
+      "category": "subsea-cable-landing-station",
+      "number": "08",
+      "title": "交易大厅的延迟一秒",
+      "image": "assets/images/subsea-cable-landing-station-2026-05-08/08_交易大厅的延迟一秒.png",
+      "thumb": "assets/thumbs/subsea-cable-landing-station-2026-05-08/08_交易大厅的延迟一秒.png",
+      "description": "有些地方网络慢一秒只是转圈，有些地方会立刻变成钱的形状。",
+      "prompt": "Horizontal documentary editorial photograph, financial trading floor reacting to sudden latency, traders turning toward abstract screens, tense posture, cool blue light, no readable numbers, no logos, realistic global finance atmosphere."
+    },
+    {
+      "id": "subsea-cable-landing-station-2026-05-08_09_医院备用网络切换",
+      "batch": "subsea-cable-landing-station-2026-05-08",
+      "category": "subsea-cable-landing-station",
+      "number": "09",
+      "title": "医院备用网络切换",
+      "image": "assets/images/subsea-cable-landing-station-2026-05-08/09_医院备用网络切换.png",
+      "thumb": "assets/thumbs/subsea-cable-landing-station-2026-05-08/09_医院备用网络切换.png",
+      "description": "网络基础设施最像公共基础设施的时候，常常是在医院里。",
+      "prompt": "Horizontal documentary editorial photograph, hospital IT room during network failover, clinicians waiting nearby, abstract patient-monitor traffic on screens without readable text, backup links switching, fluorescent urgency, no logos, realistic healthcare infrastructure."
+    },
+    {
+      "id": "subsea-cable-landing-station-2026-05-08_10_海湾港口与集装箱网络",
+      "batch": "subsea-cable-landing-station-2026-05-08",
+      "category": "subsea-cable-landing-station",
+      "number": "10",
+      "title": "海湾港口与集装箱网络",
+      "image": "assets/images/subsea-cable-landing-station-2026-05-08/10_海湾港口与集装箱网络.png",
+      "thumb": "assets/thumbs/subsea-cable-landing-station-2026-05-08/10_海湾港口与集装箱网络.png",
+      "description": "货运、能源和数据并不是三条平行线，它们经常共用同一片海。",
+      "prompt": "Horizontal documentary editorial photograph, busy Gulf port with container cranes, tanker silhouettes, telecom utility corridor along the quay, dusty sunset atmosphere, visible logistics scale, realistic infrastructure interdependence, no logos, no readable text."
+    },
+    {
+      "id": "subsea-cable-landing-station-2026-05-08_11_海军巡逻与海上警戒",
+      "batch": "subsea-cable-landing-station-2026-05-08",
+      "category": "subsea-cable-landing-station",
+      "number": "11",
+      "title": "海军巡逻与海上警戒",
+      "image": "assets/images/subsea-cable-landing-station-2026-05-08/11_海军巡逻与海上警戒.png",
+      "thumb": "assets/thumbs/subsea-cable-landing-station-2026-05-08/11_海军巡逻与海上警戒.png",
+      "description": "当海缆进入战争叙事后，海上的每一次巡逻都多了一层看不见的任务。",
+      "prompt": "Horizontal documentary editorial photograph, patrol craft moving through a strategic strait near critical infrastructure waters, distant cargo ships, radar mast, hazy horizon, restrained military presence, no flags emphasized, no readable text, realistic geopolitical surveillance mood."
+    },
+    {
+      "id": "subsea-cable-landing-station-2026-05-08_12_海床机器人检修",
+      "batch": "subsea-cable-landing-station-2026-05-08",
+      "category": "subsea-cable-landing-station",
+      "number": "12",
+      "title": "海床机器人检修",
+      "image": "assets/images/subsea-cable-landing-station-2026-05-08/12_海床机器人检修.png",
+      "thumb": "assets/thumbs/subsea-cable-landing-station-2026-05-08/12_海床机器人检修.png",
+      "description": "真正脆弱的部分常常躺在最少人能看见的地方。",
+      "prompt": "Horizontal documentary editorial image, subsea ROV inspecting a cable on the seafloor, beams cutting through dark water, sediment clouds, manipulator arm near armored line, realistic marine engineering style rather than sci-fi, no logos, no readable text."
+    },
+    {
+      "id": "subsea-cable-landing-station-2026-05-08_13_卫星与海缆对照",
+      "batch": "subsea-cable-landing-station-2026-05-08",
+      "category": "subsea-cable-landing-station",
+      "number": "13",
+      "title": "卫星与海缆对照",
+      "image": "assets/images/subsea-cable-landing-station-2026-05-08/13_卫星与海缆对照.png",
+      "thumb": "assets/thumbs/subsea-cable-landing-station-2026-05-08/13_卫星与海缆对照.png",
+      "description": "人们常把卫星当成互联网本体，其实真正的大流量仍旧紧贴海底前行。",
+      "prompt": "Horizontal documentary editorial photograph, split-style comparison in a telecom briefing room: satellite terminal equipment on one side, submarine cable route model on the other, experts discussing tradeoffs, abstract diagrams only, no readable text, no logos, realistic communications strategy setting."
+    },
+    {
+      "id": "subsea-cable-landing-station-2026-05-08_14_沙漠里的云计算机房",
+      "batch": "subsea-cable-landing-station-2026-05-08",
+      "category": "subsea-cable-landing-station",
+      "number": "14",
+      "title": "沙漠里的云计算机房",
+      "image": "assets/images/subsea-cable-landing-station-2026-05-08/14_沙漠里的云计算机房.png",
+      "thumb": "assets/thumbs/subsea-cable-landing-station-2026-05-08/14_沙漠里的云计算机房.png",
+      "description": "AI 和云看起来最轻，落地时却总要占据最重的土地、电和水。",
+      "prompt": "Horizontal documentary editorial photograph, large cloud and AI data facility rising from an arid Gulf-edge landscape, cooling towers, transmission lines, service road, heat shimmer, grounded industrial grandeur, no logos, no readable text."
+    },
+    {
+      "id": "subsea-cable-landing-station-2026-05-08_15_断链应急演练",
+      "batch": "subsea-cable-landing-station-2026-05-08",
+      "category": "subsea-cable-landing-station",
+      "number": "15",
+      "title": "断链应急演练",
+      "image": "assets/images/subsea-cable-landing-station-2026-05-08/15_断链应急演练.png",
+      "thumb": "assets/thumbs/subsea-cable-landing-station-2026-05-08/15_断链应急演练.png",
+      "description": "所谓网络焦虑，最终总要落回一张桌子：谁先断、谁先保、谁来解释。",
+      "prompt": "Horizontal documentary editorial photograph, emergency continuity drill around a conference table after simulated cable disruption, operators, officials and hospital/finance reps studying blank maps and abstract status boards, serious faces, realistic systems-crisis atmosphere, no readable text, no logos."
+    },
+    {
+      "id": "rooftop-bar-class-display-2026-05-08_01_高空入口排队",
+      "batch": "rooftop-bar-class-display-2026-05-08",
+      "category": "rooftop-bar-class-display",
+      "number": "01",
+      "title": "高空入口排队",
+      "image": "assets/images/rooftop-bar-class-display-2026-05-08/01_高空入口排队.png",
+      "thumb": "assets/thumbs/rooftop-bar-class-display-2026-05-08/01_高空入口排队.png",
+      "description": "真正的夜生活分层，往往从电梯口的排队顺序就开始了。",
+      "prompt": "Horizontal documentary editorial photograph, fashionable crowd queueing at the entrance of a rooftop bar on a high floor, velvet rope, elevator lobby glow, city skyline hinted through glass, sharp outfits, subtle class tension, realistic urban nightlife, no logos, no readable text."
+    },
+    {
+      "id": "rooftop-bar-class-display-2026-05-08_02_电梯镜面补妆",
+      "batch": "rooftop-bar-class-display-2026-05-08",
+      "category": "rooftop-bar-class-display",
+      "number": "02",
+      "title": "电梯镜面补妆",
+      "image": "assets/images/rooftop-bar-class-display-2026-05-08/02_电梯镜面补妆.png",
+      "thumb": "assets/thumbs/rooftop-bar-class-display-2026-05-08/02_电梯镜面补妆.png",
+      "description": "通往夜景之前，很多人先在镜面里检查自己配不配得上那一层楼。",
+      "prompt": "Horizontal documentary editorial photograph, mirrored elevator interior on the way up to a rooftop bar, young women and men adjusting makeup, collars and jewelry, reflected city lights, glossy but realistic atmosphere, no logos, no readable text."
+    },
+    {
+      "id": "rooftop-bar-class-display-2026-05-08_03_天际线第一张自拍",
+      "batch": "rooftop-bar-class-display-2026-05-08",
+      "category": "rooftop-bar-class-display",
+      "number": "03",
+      "title": "天际线第一张自拍",
+      "image": "assets/images/rooftop-bar-class-display-2026-05-08/03_天际线第一张自拍.png",
+      "thumb": "assets/thumbs/rooftop-bar-class-display-2026-05-08/03_天际线第一张自拍.png",
+      "description": "很多人还没点酒，先要确认自己和这片夜景同框得够好看。",
+      "prompt": "Horizontal documentary editorial photograph, first selfie moment at a rooftop terrace edge, skyline glittering behind, phone screen glow on faces, dramatic city night, stylish pose culture, realistic nightlife energy, no logos, no readable text."
+    },
+    {
+      "id": "rooftop-bar-class-display-2026-05-08_04_香槟塔与闪光灯",
+      "batch": "rooftop-bar-class-display-2026-05-08",
+      "category": "rooftop-bar-class-display",
+      "number": "04",
+      "title": "香槟塔与闪光灯",
+      "image": "assets/images/rooftop-bar-class-display-2026-05-08/04_香槟塔与闪光灯.png",
+      "thumb": "assets/thumbs/rooftop-bar-class-display-2026-05-08/04_香槟塔与闪光灯.png",
+      "description": "高空社交最像样板间的时刻，就是每一层泡沫都要被拍下来。",
+      "prompt": "Horizontal documentary editorial photograph, champagne tower under flash photography in a rooftop bar, hands holding phones, crystal reflections, expensive celebration mood with slight performative tension, realistic detail, no logos, no readable text."
+    },
+    {
+      "id": "rooftop-bar-class-display-2026-05-08_05_dj台前的穿搭对峙",
+      "batch": "rooftop-bar-class-display-2026-05-08",
+      "category": "rooftop-bar-class-display",
+      "number": "05",
+      "title": "DJ台前的穿搭对峙",
+      "image": "assets/images/rooftop-bar-class-display-2026-05-08/05_dj台前的穿搭对峙.png",
+      "thumb": "assets/thumbs/rooftop-bar-class-display-2026-05-08/05_dj台前的穿搭对峙.png",
+      "description": "有些社交不是在聊天，而是在彼此打量谁更适合被看见。",
+      "prompt": "Horizontal documentary editorial photograph, stylish groups facing off near a DJ booth at a rooftop bar, bold tailoring, metallic dresses, controlled attitude, colored club light but grounded realism, no logos, no readable text."
+    },
+    {
+      "id": "rooftop-bar-class-display-2026-05-08_06_调酒台的玻璃秩序",
+      "batch": "rooftop-bar-class-display-2026-05-08",
+      "category": "rooftop-bar-class-display",
+      "number": "06",
+      "title": "调酒台的玻璃秩序",
+      "image": "assets/images/rooftop-bar-class-display-2026-05-08/06_调酒台的玻璃秩序.png",
+      "thumb": "assets/thumbs/rooftop-bar-class-display-2026-05-08/06_调酒台的玻璃秩序.png",
+      "description": "一排玻璃杯、冰块和手势，像这场夜晚最精确的阶层陈列。",
+      "prompt": "Horizontal documentary editorial photograph, close-up of a sophisticated rooftop bar counter, bartender crafting cocktails among aligned glassware and ice, hands, polished metal, luxury orderliness, cinematic urban night, no logos, no readable text."
+    },
+    {
+      "id": "rooftop-bar-class-display-2026-05-08_07_角落里的独自看城",
+      "batch": "rooftop-bar-class-display-2026-05-08",
+      "category": "rooftop-bar-class-display",
+      "number": "07",
+      "title": "角落里的独自看城",
+      "image": "assets/images/rooftop-bar-class-display-2026-05-08/07_角落里的独自看城.png",
+      "thumb": "assets/thumbs/rooftop-bar-class-display-2026-05-08/07_角落里的独自看城.png",
+      "description": "高空最迷人的并不总是热闹，而是有人一个人靠着栏杆看完整座城。",
+      "prompt": "Horizontal documentary editorial photograph, solitary figure leaning on rooftop railing looking over a vast city at night, distant crowd behind, wind moving clothes, emotional urban loneliness, elegant but realistic, no logos, no readable text."
+    },
+    {
+      "id": "rooftop-bar-class-display-2026-05-08_08_洗手间镜前社交",
+      "batch": "rooftop-bar-class-display-2026-05-08",
+      "category": "rooftop-bar-class-display",
+      "number": "08",
+      "title": "洗手间镜前社交",
+      "image": "assets/images/rooftop-bar-class-display-2026-05-08/08_洗手间镜前社交.png",
+      "thumb": "assets/thumbs/rooftop-bar-class-display-2026-05-08/08_洗手间镜前社交.png",
+      "description": "夜里真正精致的社交，有一半发生在镜子和补妆灯之间。",
+      "prompt": "Horizontal documentary editorial photograph, luxury restroom mirror scene inside a rooftop bar, women retouching makeup, friends photographing each other, warm vanity lights, social performance mood, realistic material textures, no logos, no readable text."
+    },
+    {
+      "id": "rooftop-bar-class-display-2026-05-08_09_vip卡座的低声交易",
+      "batch": "rooftop-bar-class-display-2026-05-08",
+      "category": "rooftop-bar-class-display",
+      "number": "09",
+      "title": "VIP卡座的低声交易",
+      "image": "assets/images/rooftop-bar-class-display-2026-05-08/09_vip卡座的低声交易.png",
+      "thumb": "assets/thumbs/rooftop-bar-class-display-2026-05-08/09_vip卡座的低声交易.png",
+      "description": "有些夜景是用来喝酒的，有些夜景是用来谈条件的。",
+      "prompt": "Horizontal documentary editorial photograph, dim VIP booth at a rooftop bar with sharply dressed guests in close conversation, bottle service, skyline glow through glass, ambiguous deal-making atmosphere, realistic and cinematic, no logos, no readable text."
+    },
+    {
+      "id": "rooftop-bar-class-display-2026-05-08_10_高跟鞋与服务电梯",
+      "batch": "rooftop-bar-class-display-2026-05-08",
+      "category": "rooftop-bar-class-display",
+      "number": "10",
+      "title": "高跟鞋与服务电梯",
+      "image": "assets/images/rooftop-bar-class-display-2026-05-08/10_高跟鞋与服务电梯.png",
+      "thumb": "assets/thumbs/rooftop-bar-class-display-2026-05-08/10_高跟鞋与服务电梯.png",
+      "description": "同一层楼的前台和后台，往往只隔着一扇不对外开放的门。",
+      "prompt": "Horizontal documentary editorial photograph, contrast between glamorous guests in heels and staff using a service elevator corridor behind the rooftop bar, trays, black uniforms, backstage realism, no logos, no readable text."
+    },
+    {
+      "id": "rooftop-bar-class-display-2026-05-08_11_雨后露台的空酒杯",
+      "batch": "rooftop-bar-class-display-2026-05-08",
+      "category": "rooftop-bar-class-display",
+      "number": "11",
+      "title": "雨后露台的空酒杯",
+      "image": "assets/images/rooftop-bar-class-display-2026-05-08/11_雨后露台的空酒杯.png",
+      "thumb": "assets/thumbs/rooftop-bar-class-display-2026-05-08/11_雨后露台的空酒杯.png",
+      "description": "天气一变，刚才还热闹的高空样板间立刻只剩下玻璃和风。",
+      "prompt": "Horizontal documentary editorial photograph, rooftop terrace just after a light rain, abandoned cocktail glasses on wet tables, city reflections, moody clouds over skyline, elegant emptiness, realistic lighting, no logos, no readable text."
+    },
+    {
+      "id": "rooftop-bar-class-display-2026-05-08_12_凌晨散场的下楼人群",
+      "batch": "rooftop-bar-class-display-2026-05-08",
+      "category": "rooftop-bar-class-display",
+      "number": "12",
+      "title": "凌晨散场的下楼人群",
+      "image": "assets/images/rooftop-bar-class-display-2026-05-08/12_凌晨散场的下楼人群.png",
+      "thumb": "assets/thumbs/rooftop-bar-class-display-2026-05-08/12_凌晨散场的下楼人群.png",
+      "description": "热闹结束之后，所有人都要重新回到地面。",
+      "prompt": "Horizontal documentary editorial photograph, late-night crowd leaving a rooftop bar toward elevators, slightly tired faces, loosened jackets, heels in hand, afterparty exhaustion, realistic nightlife comedown, no logos, no readable text."
+    },
+    {
+      "id": "rooftop-bar-class-display-2026-05-08_13_保洁员收拾香槟塔",
+      "batch": "rooftop-bar-class-display-2026-05-08",
+      "category": "rooftop-bar-class-display",
+      "number": "13",
+      "title": "保洁员收拾香槟塔",
+      "image": "assets/images/rooftop-bar-class-display-2026-05-08/13_保洁员收拾香槟塔.png",
+      "thumb": "assets/thumbs/rooftop-bar-class-display-2026-05-08/13_保洁员收拾香槟塔.png",
+      "description": "最能说明这是一间样板间的，往往不是派对，而是派对后谁来把它恢复原样。",
+      "prompt": "Horizontal documentary editorial photograph, cleaning staff dismantling a champagne tower after closing at a rooftop bar, gloves, carts, half-lit skyline, backstage labor after glamour, realistic and respectful, no logos, no readable text."
+    },
+    {
+      "id": "rooftop-bar-class-display-2026-05-08_14_清晨窗边的结账单",
+      "batch": "rooftop-bar-class-display-2026-05-08",
+      "category": "rooftop-bar-class-display",
+      "number": "14",
+      "title": "清晨窗边的结账单",
+      "image": "assets/images/rooftop-bar-class-display-2026-05-08/14_清晨窗边的结账单.png",
+      "thumb": "assets/thumbs/rooftop-bar-class-display-2026-05-08/14_清晨窗边的结账单.png",
+      "description": "夜景的价格通常不会写在脸上，而会留在第二天早上的一张单子里。",
+      "prompt": "Horizontal documentary editorial photograph, dawn light by a high-rise window with cocktail receipts, phone, lipstick mark on glass, jacket draped on chair, luxurious aftermath, no readable text, no logos, realistic contemporary urban mood."
+    },
+    {
+      "id": "rooftop-bar-class-display-2026-05-08_15_白天俯瞰的空露台",
+      "batch": "rooftop-bar-class-display-2026-05-08",
+      "category": "rooftop-bar-class-display",
+      "number": "15",
+      "title": "白天俯瞰的空露台",
+      "image": "assets/images/rooftop-bar-class-display-2026-05-08/15_白天俯瞰的空露台.png",
+      "thumb": "assets/thumbs/rooftop-bar-class-display-2026-05-08/15_白天俯瞰的空露台.png",
+      "description": "白天再看这座露台，它像一间提前为欲望布置好的展示房。",
+      "prompt": "Horizontal documentary editorial photograph, empty rooftop bar terrace in daylight overlooking the city, immaculate furniture, glass barriers, luxury minimal design, no people, revealing the space as an aspirational stage set, no logos, no readable text."
     }
   ]
 }
