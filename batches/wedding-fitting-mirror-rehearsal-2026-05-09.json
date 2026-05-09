@@ -1,0 +1,127 @@
+{
+  "theme": "一间婚纱试纱间，为什么像成年人对未来的一次镜前彩排",
+  "batchId": "wedding-fitting-mirror-rehearsal-2026-05-09",
+  "createdAt": "2026-05-09",
+  "items": [
+    {
+      "source": "01_试纱镜前第一眼.png",
+      "category": "wedding-fitting-mirror-rehearsal",
+      "categoryLabel": "试纱镜前彩排",
+      "title": "试纱镜前第一眼",
+      "description": "很多人第一次真正相信婚礼快来了，是在镜子里看到自己被婚纱包住的那一秒。",
+      "prompt": "Horizontal documentary editorial photograph, bride-to-be seeing herself in a wedding dress for the first time in a fitting studio mirror, soft ivory fabric, warm spotlights, restrained emotion, elegant but realistic Xiaohongshu-style atmosphere, no logos, no readable text."
+    },
+    {
+      "source": "02_拉帘打开的主纱.png",
+      "category": "wedding-fitting-mirror-rehearsal",
+      "categoryLabel": "试纱镜前彩排",
+      "title": "拉帘打开的主纱",
+      "description": "试纱间最像电影开场的时刻，往往就是那一下拉帘。",
+      "prompt": "Horizontal documentary editorial photograph, fitting room curtain just pulled open to reveal a dramatic main wedding gown, layered tulle and satin, waiting friends on sofa, boutique lighting, anticipatory emotion, realistic bridal studio scene, no logos, no readable text."
+    },
+    {
+      "source": "03_妈妈在沙发上举手机.png",
+      "category": "wedding-fitting-mirror-rehearsal",
+      "categoryLabel": "试纱镜前彩排",
+      "title": "妈妈在沙发上举手机",
+      "description": "有时候最先落泪的人，不是穿婚纱的人，而是坐在旁边偷偷拍照的人。",
+      "prompt": "Horizontal documentary editorial photograph, mother seated on a boutique sofa lifting her phone to photograph her daughter in a wedding gown, garment racks and soft mirrors around them, intimate family tenderness, realistic bridal fitting room, no logos, no readable text."
+    },
+    {
+      "source": "04_缝纫师别针收腰.png",
+      "category": "wedding-fitting-mirror-rehearsal",
+      "categoryLabel": "试纱镜前彩排",
+      "title": "缝纫师别针收腰",
+      "description": "婚礼梦感最现实的一面，常常藏在缝纫师手上的别针和粉笔线里。",
+      "prompt": "Horizontal documentary editorial photograph, bridal seamstress adjusting the waist of a wedding gown with pins and chalk, close attention to hands, fabric texture, professional backstage detail, realistic atelier mood, no logos, no readable text."
+    },
+    {
+      "source": "05_伴娘帮提裙摆.png",
+      "category": "wedding-fitting-mirror-rehearsal",
+      "categoryLabel": "试纱镜前彩排",
+      "title": "伴娘帮提裙摆",
+      "description": "一条裙摆被几双手同时提起来的时候，婚礼才第一次像集体行动。",
+      "prompt": "Horizontal documentary editorial photograph, bridesmaids helping lift and spread a wedding gown train in a fitting studio, laughter mixed with concentration, layered white fabric filling the room, stylish and realistic social intimacy, no logos, no readable text."
+    },
+    {
+      "source": "06_头纱落下的安静瞬间.png",
+      "category": "wedding-fitting-mirror-rehearsal",
+      "categoryLabel": "试纱镜前彩排",
+      "title": "头纱落下的安静瞬间",
+      "description": "真正让人突然安静下来的，不是裙子本身，而是头纱轻轻落下来的那一刻。",
+      "prompt": "Horizontal documentary editorial photograph, delicate veil being lowered over a bride-to-be in front of a mirror, softened light, pearl earrings, suspended quiet emotion, realistic bridal studio aesthetic, no logos, no readable text."
+    },
+    {
+      "source": "07_白灯下的侧身犹豫.png",
+      "category": "wedding-fitting-mirror-rehearsal",
+      "categoryLabel": "试纱镜前彩排",
+      "title": "白灯下的侧身犹豫",
+      "description": "很多关于身材、年龄和值得不值得被看见的犹豫，都会在白灯下同时出现。",
+      "prompt": "Horizontal documentary editorial photograph, bride-to-be turning sideways under bright fitting-room lights, studying the silhouette of a wedding gown with a complicated expression, body image tension, elegant yet grounded realism, no logos, no readable text."
+    },
+    {
+      "source": "08_长镜廊里的试走步.png",
+      "category": "wedding-fitting-mirror-rehearsal",
+      "categoryLabel": "试纱镜前彩排",
+      "title": "长镜廊里的试走步",
+      "description": "婚纱不是站着好看就够了，还要学会穿着它向未来慢慢走过去。",
+      "prompt": "Horizontal documentary editorial photograph, bride-to-be practicing short careful steps in heels down a long mirrored bridal studio corridor, gown hem brushing the floor, motion and nerves, cinematic but realistic, no logos, no readable text."
+    },
+    {
+      "source": "09_整排防尘袋待挑选.png",
+      "category": "wedding-fitting-mirror-rehearsal",
+      "categoryLabel": "试纱镜前彩排",
+      "title": "整排防尘袋待挑选",
+      "description": "一整排挂着防尘袋的婚纱，像是很多种人生版本安静排队等被选中。",
+      "prompt": "Horizontal documentary editorial photograph, bridal gowns lined up in protective garment bags inside a fitting studio, subtle labels hidden, soft side light, aspirational abundance with decision pressure, realistic boutique styling, no logos, no readable text."
+    },
+    {
+      "source": "10_试妆台边的珍珠耳环.png",
+      "category": "wedding-fitting-mirror-rehearsal",
+      "categoryLabel": "试纱镜前彩排",
+      "title": "试妆台边的珍珠耳环",
+      "description": "很多人以为自己在选一套婚纱，其实是在排演整张脸和整个人设。",
+      "prompt": "Horizontal documentary editorial photograph, bridal styling table with pearl earrings, hair accessories, lipstick, and a half-finished makeup reflection beside a wedding dress, feminine detail, polished but realistic, no logos, no readable text."
+    },
+    {
+      "source": "11_摄影师测试闪光.png",
+      "category": "wedding-fitting-mirror-rehearsal",
+      "categoryLabel": "试纱镜前彩排",
+      "title": "摄影师测试闪光",
+      "description": "还没到婚礼当天，镜头已经先开始替这段关系决定该怎么被记住。",
+      "prompt": "Horizontal documentary editorial photograph, wedding photographer testing flash and framing in a bridal studio while bride-to-be stands in gown near textured backdrop, equipment light bouncing off fabric, backstage realism, no logos, no readable text."
+    },
+    {
+      "source": "12_礼服箱被推过酒店走廊.png",
+      "category": "wedding-fitting-mirror-rehearsal",
+      "categoryLabel": "试纱镜前彩排",
+      "title": "礼服箱被推过酒店走廊",
+      "description": "婚礼工业真正开动的时候，白色礼服会先像货物一样被准时送到现场。",
+      "prompt": "Horizontal documentary editorial photograph, large bridal garment case and dress bag being pushed through a hotel corridor before a wedding, staff hands, carpeted hall, soft morning light, backstage event logistics, no logos, no readable text."
+    },
+    {
+      "source": "13_捧花旁边的空等候椅.png",
+      "category": "wedding-fitting-mirror-rehearsal",
+      "categoryLabel": "试纱镜前彩排",
+      "title": "捧花旁边的空等候椅",
+      "description": "再热闹的婚礼准备里，也总会有一个人先坐在角落里安静想很久。",
+      "prompt": "Horizontal documentary editorial photograph, bouquet resting on a chair in a bridal waiting area, another empty chair beside it, quiet pause between fittings, polished interior and emotional stillness, realistic editorial mood, no logos, no readable text."
+    },
+    {
+      "source": "14_试纱结束后的空衣架.png",
+      "category": "wedding-fitting-mirror-rehearsal",
+      "categoryLabel": "试纱镜前彩排",
+      "title": "试纱结束后的空衣架",
+      "description": "人一走，房间里剩下的空衣架会突然暴露这场仪式本来就很短。",
+      "prompt": "Horizontal documentary editorial photograph, bridal fitting room after the appointment, empty hanger, slightly open curtain, shoe marks on carpet, soft evening light, elegant afterglow and emptiness, no logos, no readable text."
+    },
+    {
+      "source": "15_夜里把婚纱挂回车后座.png",
+      "category": "wedding-fitting-mirror-rehearsal",
+      "categoryLabel": "试纱镜前彩排",
+      "title": "夜里把婚纱挂回车后座",
+      "description": "真正像成年人彩排未来的，是试纱结束后还要把那件白裙小心挂回车里带回现实。",
+      "prompt": "Horizontal documentary editorial photograph, wedding gown carefully hung across the back seat of a car at night after a fitting, city lights outside the window, hands adjusting fabric, dreamy but practical urban realism, no logos, no readable text."
+    }
+  ]
+}
