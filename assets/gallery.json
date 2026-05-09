@@ -1,7 +1,7 @@
 {
   "site": {
     "title": "OpenAI image2 视觉实验",
-    "subtitle": "481 张传播向 AI 海报",
+    "subtitle": "502 张传播向 AI 海报",
     "headline": "OpenAI image2 视觉实验",
     "intro": "每一批图片围绕一个临时主题生成，并按当次最合适的 category 归档；可以是反差创意、真实场景、产品概念、人物叙事或任何新的视觉方向。",
     "coverImage": "assets/contact_sheet_image2.jpg",
@@ -172,8 +172,16 @@
       "label": "Labubu精神神龛"
     },
     {
-      "id": "wedding-fitting-mirror-rehearsal",
-      "label": "试纱镜前彩排"
+      "id": "niche-coffee-cups-aesthetic-resume",
+      "label": "咖啡杯审美简历"
+    },
+    {
+      "id": "natural-stones-desk-mysticism",
+      "label": "自然石桌面玄学"
+    },
+    {
+      "id": "commuter-edc-pocket-personality",
+      "label": "通勤EDC人格口袋"
     }
   ],
   "batches": [
@@ -376,10 +384,22 @@
       "count": 15
     },
     {
-      "id": "wedding-fitting-mirror-rehearsal-2026-05-09",
-      "theme": "一间婚纱试纱间，为什么像成年人对未来的一次镜前彩排",
+      "id": "niche-coffee-cups-aesthetic-resume-2026-05-09",
+      "theme": "一排 niche coffee cups，为什么比咖啡豆更像一个人的审美简历",
       "createdAt": "2026-05-09",
-      "count": 15
+      "count": 12
+    },
+    {
+      "id": "natural-stones-desk-mysticism-2026-05-09",
+      "theme": "一盘自然石和矿物，为什么越来越像成年人桌面的安静玄学",
+      "createdAt": "2026-05-09",
+      "count": 12
+    },
+    {
+      "id": "commuter-edc-pocket-personality-2026-05-09",
+      "theme": "一地通勤 EDC 摊开，为什么大家越来越爱把自己的人格装进口袋",
+      "createdAt": "2026-05-09",
+      "count": 12
     }
   ],
   "items": [
@@ -5495,169 +5515,400 @@
       "prompt": "Horizontal documentary editorial photograph, late-night homecoming scene, apartment door just opened, city clothes and tote bag still on shoulder, eyes turning first toward a glowing shelf of cute collectible dolls, cinematic urban tenderness, no logos, no readable text."
     },
     {
-      "id": "wedding-fitting-mirror-rehearsal-2026-05-09_01_试纱镜前第一眼",
-      "batch": "wedding-fitting-mirror-rehearsal-2026-05-09",
-      "category": "wedding-fitting-mirror-rehearsal",
+      "id": "niche-coffee-cups-aesthetic-resume-2026-05-09_01_晨光柜格第一排",
+      "batch": "niche-coffee-cups-aesthetic-resume-2026-05-09",
+      "category": "niche-coffee-cups-aesthetic-resume",
       "number": "01",
-      "title": "试纱镜前第一眼",
-      "image": "assets/images/wedding-fitting-mirror-rehearsal-2026-05-09/01_试纱镜前第一眼.png",
-      "thumb": "assets/thumbs/wedding-fitting-mirror-rehearsal-2026-05-09/01_试纱镜前第一眼.png",
-      "description": "很多人第一次真正相信婚礼快来了，是在镜子里看到自己被婚纱包住的那一秒。",
-      "prompt": "Horizontal documentary editorial photograph, bride-to-be seeing herself in a wedding dress for the first time in a fitting studio mirror, soft ivory fabric, warm spotlights, restrained emotion, elegant but realistic Xiaohongshu-style atmosphere, no logos, no readable text."
+      "title": "晨光柜格第一排",
+      "image": "assets/images/niche-coffee-cups-aesthetic-resume-2026-05-09/01_晨光柜格第一排.png",
+      "thumb": "assets/thumbs/niche-coffee-cups-aesthetic-resume-2026-05-09/01_晨光柜格第一排.png",
+      "description": "很多人的杯子不是器皿而已，更像一排替自己发言的审美标签。",
+      "prompt": "Horizontal documentary editorial photograph, a first row of niche specialty coffee cups displayed in square cabinet shelves under soft morning light, varied glazes and unusual handles, collector atmosphere, highly aesthetic but realistic Xiaohongshu-style interior, no logos, no readable text."
     },
     {
-      "id": "wedding-fitting-mirror-rehearsal-2026-05-09_02_拉帘打开的主纱",
-      "batch": "wedding-fitting-mirror-rehearsal-2026-05-09",
-      "category": "wedding-fitting-mirror-rehearsal",
+      "id": "niche-coffee-cups-aesthetic-resume-2026-05-09_02_手冲台边的异形杯耳",
+      "batch": "niche-coffee-cups-aesthetic-resume-2026-05-09",
+      "category": "niche-coffee-cups-aesthetic-resume",
       "number": "02",
-      "title": "拉帘打开的主纱",
-      "image": "assets/images/wedding-fitting-mirror-rehearsal-2026-05-09/02_拉帘打开的主纱.png",
-      "thumb": "assets/thumbs/wedding-fitting-mirror-rehearsal-2026-05-09/02_拉帘打开的主纱.png",
-      "description": "试纱间最像电影开场的时刻，往往就是那一下拉帘。",
-      "prompt": "Horizontal documentary editorial photograph, fitting room curtain just pulled open to reveal a dramatic main wedding gown, layered tulle and satin, waiting friends on sofa, boutique lighting, anticipatory emotion, realistic bridal studio scene, no logos, no readable text."
+      "title": "手冲台边的异形杯耳",
+      "image": "assets/images/niche-coffee-cups-aesthetic-resume-2026-05-09/02_手冲台边的异形杯耳.png",
+      "thumb": "assets/thumbs/niche-coffee-cups-aesthetic-resume-2026-05-09/02_手冲台边的异形杯耳.png",
+      "description": "杯耳的弧度有时候比豆种和风味表更先说明主人的偏好。",
+      "prompt": "Horizontal documentary editorial photograph, close-up of an unusual handmade coffee cup handle beside a pour-over station, kettle steam, dripper shadows, tactile ceramic details, intimate collector realism, no logos, no readable text."
     },
     {
-      "id": "wedding-fitting-mirror-rehearsal-2026-05-09_03_妈妈在沙发上举手机",
-      "batch": "wedding-fitting-mirror-rehearsal-2026-05-09",
-      "category": "wedding-fitting-mirror-rehearsal",
+      "id": "niche-coffee-cups-aesthetic-resume-2026-05-09_03_咖啡馆桌上的今日轮换杯",
+      "batch": "niche-coffee-cups-aesthetic-resume-2026-05-09",
+      "category": "niche-coffee-cups-aesthetic-resume",
       "number": "03",
-      "title": "妈妈在沙发上举手机",
-      "image": "assets/images/wedding-fitting-mirror-rehearsal-2026-05-09/03_妈妈在沙发上举手机.png",
-      "thumb": "assets/thumbs/wedding-fitting-mirror-rehearsal-2026-05-09/03_妈妈在沙发上举手机.png",
-      "description": "有时候最先落泪的人，不是穿婚纱的人，而是坐在旁边偷偷拍照的人。",
-      "prompt": "Horizontal documentary editorial photograph, mother seated on a boutique sofa lifting her phone to photograph her daughter in a wedding gown, garment racks and soft mirrors around them, intimate family tenderness, realistic bridal fitting room, no logos, no readable text."
+      "title": "咖啡馆桌上的今日轮换杯",
+      "image": "assets/images/niche-coffee-cups-aesthetic-resume-2026-05-09/03_咖啡馆桌上的今日轮换杯.png",
+      "thumb": "assets/thumbs/niche-coffee-cups-aesthetic-resume-2026-05-09/03_咖啡馆桌上的今日轮换杯.png",
+      "description": "有些人每天换一只杯子，就像在替今天挑一个更合适的情绪壳。",
+      "prompt": "Horizontal documentary editorial photograph, specialty cafe table with today's selected handcrafted coffee cup, espresso spoon, receipt tucked away, fashionable hands adjusting the scene, realistic Xiaohongshu save-worthy composition, no logos, no readable text."
     },
     {
-      "id": "wedding-fitting-mirror-rehearsal-2026-05-09_04_缝纫师别针收腰",
-      "batch": "wedding-fitting-mirror-rehearsal-2026-05-09",
-      "category": "wedding-fitting-mirror-rehearsal",
+      "id": "niche-coffee-cups-aesthetic-resume-2026-05-09_04_釉色试排工作台",
+      "batch": "niche-coffee-cups-aesthetic-resume-2026-05-09",
+      "category": "niche-coffee-cups-aesthetic-resume",
       "number": "04",
-      "title": "缝纫师别针收腰",
-      "image": "assets/images/wedding-fitting-mirror-rehearsal-2026-05-09/04_缝纫师别针收腰.png",
-      "thumb": "assets/thumbs/wedding-fitting-mirror-rehearsal-2026-05-09/04_缝纫师别针收腰.png",
-      "description": "婚礼梦感最现实的一面，常常藏在缝纫师手上的别针和粉笔线里。",
-      "prompt": "Horizontal documentary editorial photograph, bridal seamstress adjusting the waist of a wedding gown with pins and chalk, close attention to hands, fabric texture, professional backstage detail, realistic atelier mood, no logos, no readable text."
+      "title": "釉色试排工作台",
+      "image": "assets/images/niche-coffee-cups-aesthetic-resume-2026-05-09/04_釉色试排工作台.png",
+      "thumb": "assets/thumbs/niche-coffee-cups-aesthetic-resume-2026-05-09/04_釉色试排工作台.png",
+      "description": "一只杯子的高级感，往往先来自釉色之间那种很难说清的克制关系。",
+      "prompt": "Horizontal documentary editorial photograph, worktable where several ceramic coffee cups are arranged by glaze tone for comparison, muted earthy palette, notebook and cloth nearby, design-minded still life, no logos, no readable text."
     },
     {
-      "id": "wedding-fitting-mirror-rehearsal-2026-05-09_05_伴娘帮提裙摆",
-      "batch": "wedding-fitting-mirror-rehearsal-2026-05-09",
-      "category": "wedding-fitting-mirror-rehearsal",
+      "id": "niche-coffee-cups-aesthetic-resume-2026-05-09_05_包里露出的随身杯口",
+      "batch": "niche-coffee-cups-aesthetic-resume-2026-05-09",
+      "category": "niche-coffee-cups-aesthetic-resume",
       "number": "05",
-      "title": "伴娘帮提裙摆",
-      "image": "assets/images/wedding-fitting-mirror-rehearsal-2026-05-09/05_伴娘帮提裙摆.png",
-      "thumb": "assets/thumbs/wedding-fitting-mirror-rehearsal-2026-05-09/05_伴娘帮提裙摆.png",
-      "description": "一条裙摆被几双手同时提起来的时候，婚礼才第一次像集体行动。",
-      "prompt": "Horizontal documentary editorial photograph, bridesmaids helping lift and spread a wedding gown train in a fitting studio, laughter mixed with concentration, layered white fabric filling the room, stylish and realistic social intimacy, no logos, no readable text."
+      "title": "包里露出的随身杯口",
+      "image": "assets/images/niche-coffee-cups-aesthetic-resume-2026-05-09/05_包里露出的随身杯口.png",
+      "thumb": "assets/thumbs/niche-coffee-cups-aesthetic-resume-2026-05-09/05_包里露出的随身杯口.png",
+      "description": "真正像人格外延的小物，通常不是拍给别人看的，而是自己每天都要带出门。",
+      "prompt": "Horizontal documentary editorial photograph, commuter tote bag slightly open with a beautiful niche coffee tumbler and ceramic cup sleeve peeking out, subway station light, stylish urban realism, no logos, no readable text."
     },
     {
-      "id": "wedding-fitting-mirror-rehearsal-2026-05-09_06_头纱落下的安静瞬间",
-      "batch": "wedding-fitting-mirror-rehearsal-2026-05-09",
-      "category": "wedding-fitting-mirror-rehearsal",
+      "id": "niche-coffee-cups-aesthetic-resume-2026-05-09_06_洗杯池边的薄胎白杯",
+      "batch": "niche-coffee-cups-aesthetic-resume-2026-05-09",
+      "category": "niche-coffee-cups-aesthetic-resume",
       "number": "06",
-      "title": "头纱落下的安静瞬间",
-      "image": "assets/images/wedding-fitting-mirror-rehearsal-2026-05-09/06_头纱落下的安静瞬间.png",
-      "thumb": "assets/thumbs/wedding-fitting-mirror-rehearsal-2026-05-09/06_头纱落下的安静瞬间.png",
-      "description": "真正让人突然安静下来的，不是裙子本身，而是头纱轻轻落下来的那一刻。",
-      "prompt": "Horizontal documentary editorial photograph, delicate veil being lowered over a bride-to-be in front of a mirror, softened light, pearl earrings, suspended quiet emotion, realistic bridal studio aesthetic, no logos, no readable text."
+      "title": "洗杯池边的薄胎白杯",
+      "image": "assets/images/niche-coffee-cups-aesthetic-resume-2026-05-09/06_洗杯池边的薄胎白杯.png",
+      "thumb": "assets/thumbs/niche-coffee-cups-aesthetic-resume-2026-05-09/06_洗杯池边的薄胎白杯.png",
+      "description": "杯子被洗干净倒扣着的时候，反而最像一种认真过日子的证据。",
+      "prompt": "Horizontal documentary editorial photograph, thin white handcrafted coffee cup drying upside down beside a sink after use, water droplets, soft kitchen light, minimal but lived-in domestic beauty, no logos, no readable text."
     },
     {
-      "id": "wedding-fitting-mirror-rehearsal-2026-05-09_07_白灯下的侧身犹豫",
-      "batch": "wedding-fitting-mirror-rehearsal-2026-05-09",
-      "category": "wedding-fitting-mirror-rehearsal",
+      "id": "niche-coffee-cups-aesthetic-resume-2026-05-09_07_朋友来访时的三杯并排",
+      "batch": "niche-coffee-cups-aesthetic-resume-2026-05-09",
+      "category": "niche-coffee-cups-aesthetic-resume",
       "number": "07",
-      "title": "白灯下的侧身犹豫",
-      "image": "assets/images/wedding-fitting-mirror-rehearsal-2026-05-09/07_白灯下的侧身犹豫.png",
-      "thumb": "assets/thumbs/wedding-fitting-mirror-rehearsal-2026-05-09/07_白灯下的侧身犹豫.png",
-      "description": "很多关于身材、年龄和值得不值得被看见的犹豫，都会在白灯下同时出现。",
-      "prompt": "Horizontal documentary editorial photograph, bride-to-be turning sideways under bright fitting-room lights, studying the silhouette of a wedding gown with a complicated expression, body image tension, elegant yet grounded realism, no logos, no readable text."
+      "title": "朋友来访时的三杯并排",
+      "image": "assets/images/niche-coffee-cups-aesthetic-resume-2026-05-09/07_朋友来访时的三杯并排.png",
+      "thumb": "assets/thumbs/niche-coffee-cups-aesthetic-resume-2026-05-09/07_朋友来访时的三杯并排.png",
+      "description": "杯子一并排，人与人之间的关系也突然变得可以被看见。",
+      "prompt": "Horizontal documentary editorial photograph, three distinct niche coffee cups lined up on a low table when friends visit, half-finished coffee, dessert crumbs, warm apartment conversation atmosphere, no logos, no readable text."
     },
     {
-      "id": "wedding-fitting-mirror-rehearsal-2026-05-09_08_长镜廊里的试走步",
-      "batch": "wedding-fitting-mirror-rehearsal-2026-05-09",
-      "category": "wedding-fitting-mirror-rehearsal",
+      "id": "niche-coffee-cups-aesthetic-resume-2026-05-09_08_店主擦拭陈列杯架",
+      "batch": "niche-coffee-cups-aesthetic-resume-2026-05-09",
+      "category": "niche-coffee-cups-aesthetic-resume",
       "number": "08",
-      "title": "长镜廊里的试走步",
-      "image": "assets/images/wedding-fitting-mirror-rehearsal-2026-05-09/08_长镜廊里的试走步.png",
-      "thumb": "assets/thumbs/wedding-fitting-mirror-rehearsal-2026-05-09/08_长镜廊里的试走步.png",
-      "description": "婚纱不是站着好看就够了，还要学会穿着它向未来慢慢走过去。",
-      "prompt": "Horizontal documentary editorial photograph, bride-to-be practicing short careful steps in heels down a long mirrored bridal studio corridor, gown hem brushing the floor, motion and nerves, cinematic but realistic, no logos, no readable text."
+      "title": "店主擦拭陈列杯架",
+      "image": "assets/images/niche-coffee-cups-aesthetic-resume-2026-05-09/08_店主擦拭陈列杯架.png",
+      "thumb": "assets/thumbs/niche-coffee-cups-aesthetic-resume-2026-05-09/08_店主擦拭陈列杯架.png",
+      "description": "有些咖啡店最打动人的不是菜单，而是老板怎么对待那排杯子。",
+      "prompt": "Horizontal documentary editorial photograph, cafe owner carefully wiping a display shelf full of beautiful specialty coffee cups, afternoon side light, tactile ceramics, tasteful small-business intimacy, no logos, no readable text."
     },
     {
-      "id": "wedding-fitting-mirror-rehearsal-2026-05-09_09_整排防尘袋待挑选",
-      "batch": "wedding-fitting-mirror-rehearsal-2026-05-09",
-      "category": "wedding-fitting-mirror-rehearsal",
+      "id": "niche-coffee-cups-aesthetic-resume-2026-05-09_09_拍照前调位置的手",
+      "batch": "niche-coffee-cups-aesthetic-resume-2026-05-09",
+      "category": "niche-coffee-cups-aesthetic-resume",
       "number": "09",
-      "title": "整排防尘袋待挑选",
-      "image": "assets/images/wedding-fitting-mirror-rehearsal-2026-05-09/09_整排防尘袋待挑选.png",
-      "thumb": "assets/thumbs/wedding-fitting-mirror-rehearsal-2026-05-09/09_整排防尘袋待挑选.png",
-      "description": "一整排挂着防尘袋的婚纱，像是很多种人生版本安静排队等被选中。",
-      "prompt": "Horizontal documentary editorial photograph, bridal gowns lined up in protective garment bags inside a fitting studio, subtle labels hidden, soft side light, aspirational abundance with decision pressure, realistic boutique styling, no logos, no readable text."
+      "title": "拍照前调位置的手",
+      "image": "assets/images/niche-coffee-cups-aesthetic-resume-2026-05-09/09_拍照前调位置的手.png",
+      "thumb": "assets/thumbs/niche-coffee-cups-aesthetic-resume-2026-05-09/09_拍照前调位置的手.png",
+      "description": "会买 niche cup 的人，很多时候也会认真决定它该从哪个角度被记住。",
+      "prompt": "Horizontal documentary editorial photograph, elegant hands adjusting the angle of a niche coffee cup before taking a photo, phone camera nearby, window shadow, save-and-share lifestyle mood, no logos, no readable text."
     },
     {
-      "id": "wedding-fitting-mirror-rehearsal-2026-05-09_10_试妆台边的珍珠耳环",
-      "batch": "wedding-fitting-mirror-rehearsal-2026-05-09",
-      "category": "wedding-fitting-mirror-rehearsal",
+      "id": "niche-coffee-cups-aesthetic-resume-2026-05-09_10_办公桌角落的午后浓缩杯",
+      "batch": "niche-coffee-cups-aesthetic-resume-2026-05-09",
+      "category": "niche-coffee-cups-aesthetic-resume",
       "number": "10",
-      "title": "试妆台边的珍珠耳环",
-      "image": "assets/images/wedding-fitting-mirror-rehearsal-2026-05-09/10_试妆台边的珍珠耳环.png",
-      "thumb": "assets/thumbs/wedding-fitting-mirror-rehearsal-2026-05-09/10_试妆台边的珍珠耳环.png",
-      "description": "很多人以为自己在选一套婚纱，其实是在排演整张脸和整个人设。",
-      "prompt": "Horizontal documentary editorial photograph, bridal styling table with pearl earrings, hair accessories, lipstick, and a half-finished makeup reflection beside a wedding dress, feminine detail, polished but realistic, no logos, no readable text."
+      "title": "办公桌角落的午后浓缩杯",
+      "image": "assets/images/niche-coffee-cups-aesthetic-resume-2026-05-09/10_办公桌角落的午后浓缩杯.png",
+      "thumb": "assets/thumbs/niche-coffee-cups-aesthetic-resume-2026-05-09/10_办公桌角落的午后浓缩杯.png",
+      "description": "有些人带去工位的不是咖啡，是一种不想把日子过糙的证据。",
+      "prompt": "Horizontal documentary editorial photograph, compact espresso cup on a creative office desk corner in the afternoon, keyboard, notebook, sunlight patch, refined workday ritual, realistic and stylish, no logos, no readable text."
     },
     {
-      "id": "wedding-fitting-mirror-rehearsal-2026-05-09_11_摄影师测试闪光",
-      "batch": "wedding-fitting-mirror-rehearsal-2026-05-09",
-      "category": "wedding-fitting-mirror-rehearsal",
+      "id": "niche-coffee-cups-aesthetic-resume-2026-05-09_11_旅行箱里包好的爱杯",
+      "batch": "niche-coffee-cups-aesthetic-resume-2026-05-09",
+      "category": "niche-coffee-cups-aesthetic-resume",
       "number": "11",
-      "title": "摄影师测试闪光",
-      "image": "assets/images/wedding-fitting-mirror-rehearsal-2026-05-09/11_摄影师测试闪光.png",
-      "thumb": "assets/thumbs/wedding-fitting-mirror-rehearsal-2026-05-09/11_摄影师测试闪光.png",
-      "description": "还没到婚礼当天，镜头已经先开始替这段关系决定该怎么被记住。",
-      "prompt": "Horizontal documentary editorial photograph, wedding photographer testing flash and framing in a bridal studio while bride-to-be stands in gown near textured backdrop, equipment light bouncing off fabric, backstage realism, no logos, no readable text."
+      "title": "旅行箱里包好的爱杯",
+      "image": "assets/images/niche-coffee-cups-aesthetic-resume-2026-05-09/11_旅行箱里包好的爱杯.png",
+      "thumb": "assets/thumbs/niche-coffee-cups-aesthetic-resume-2026-05-09/11_旅行箱里包好的爱杯.png",
+      "description": "会把杯子带去旅行的人，通常不是在带器物，而是在带一个熟悉的自己。",
+      "prompt": "Horizontal documentary editorial photograph, favorite niche coffee cup carefully wrapped in cloth inside an open suitcase before travel, surrounding clothes and notebook, personal ritual and tenderness, no logos, no readable text."
     },
     {
-      "id": "wedding-fitting-mirror-rehearsal-2026-05-09_12_礼服箱被推过酒店走廊",
-      "batch": "wedding-fitting-mirror-rehearsal-2026-05-09",
-      "category": "wedding-fitting-mirror-rehearsal",
+      "id": "niche-coffee-cups-aesthetic-resume-2026-05-09_12_夜里柜灯亮着的最后一格",
+      "batch": "niche-coffee-cups-aesthetic-resume-2026-05-09",
+      "category": "niche-coffee-cups-aesthetic-resume",
       "number": "12",
-      "title": "礼服箱被推过酒店走廊",
-      "image": "assets/images/wedding-fitting-mirror-rehearsal-2026-05-09/12_礼服箱被推过酒店走廊.png",
-      "thumb": "assets/thumbs/wedding-fitting-mirror-rehearsal-2026-05-09/12_礼服箱被推过酒店走廊.png",
-      "description": "婚礼工业真正开动的时候，白色礼服会先像货物一样被准时送到现场。",
-      "prompt": "Horizontal documentary editorial photograph, large bridal garment case and dress bag being pushed through a hotel corridor before a wedding, staff hands, carpeted hall, soft morning light, backstage event logistics, no logos, no readable text."
+      "title": "夜里柜灯亮着的最后一格",
+      "image": "assets/images/niche-coffee-cups-aesthetic-resume-2026-05-09/12_夜里柜灯亮着的最后一格.png",
+      "thumb": "assets/thumbs/niche-coffee-cups-aesthetic-resume-2026-05-09/12_夜里柜灯亮着的最后一格.png",
+      "description": "灯一亮，杯子的陈列就不只是收纳，更像一个人给自己留的微型展厅。",
+      "prompt": "Horizontal documentary editorial photograph, last illuminated shelf at night with one especially beloved niche coffee cup glowing in a cabinet, moody apartment darkness around it, intimate collector scene, no logos, no readable text."
     },
     {
-      "id": "wedding-fitting-mirror-rehearsal-2026-05-09_13_捧花旁边的空等候椅",
-      "batch": "wedding-fitting-mirror-rehearsal-2026-05-09",
-      "category": "wedding-fitting-mirror-rehearsal",
-      "number": "13",
-      "title": "捧花旁边的空等候椅",
-      "image": "assets/images/wedding-fitting-mirror-rehearsal-2026-05-09/13_捧花旁边的空等候椅.png",
-      "thumb": "assets/thumbs/wedding-fitting-mirror-rehearsal-2026-05-09/13_捧花旁边的空等候椅.png",
-      "description": "再热闹的婚礼准备里，也总会有一个人先坐在角落里安静想很久。",
-      "prompt": "Horizontal documentary editorial photograph, bouquet resting on a chair in a bridal waiting area, another empty chair beside it, quiet pause between fittings, polished interior and emotional stillness, realistic editorial mood, no logos, no readable text."
+      "id": "natural-stones-desk-mysticism-2026-05-09_01_窗边托盘第一排",
+      "batch": "natural-stones-desk-mysticism-2026-05-09",
+      "category": "natural-stones-desk-mysticism",
+      "number": "01",
+      "title": "窗边托盘第一排",
+      "image": "assets/images/natural-stones-desk-mysticism-2026-05-09/01_窗边托盘第一排.png",
+      "thumb": "assets/thumbs/natural-stones-desk-mysticism-2026-05-09/01_窗边托盘第一排.png",
+      "description": "一盘石头被认真摆好之后，桌面就会忽然长出一点像仪式的安静。",
+      "prompt": "Horizontal documentary editorial photograph, tray of natural stones and small minerals arranged by size on a desk by the window, soft side light, tactile surfaces, calm collector atmosphere, highly save-worthy Xiaohongshu realism, no logos, no readable text."
     },
     {
-      "id": "wedding-fitting-mirror-rehearsal-2026-05-09_14_试纱结束后的空衣架",
-      "batch": "wedding-fitting-mirror-rehearsal-2026-05-09",
-      "category": "wedding-fitting-mirror-rehearsal",
-      "number": "14",
-      "title": "试纱结束后的空衣架",
-      "image": "assets/images/wedding-fitting-mirror-rehearsal-2026-05-09/14_试纱结束后的空衣架.png",
-      "thumb": "assets/thumbs/wedding-fitting-mirror-rehearsal-2026-05-09/14_试纱结束后的空衣架.png",
-      "description": "人一走，房间里剩下的空衣架会突然暴露这场仪式本来就很短。",
-      "prompt": "Horizontal documentary editorial photograph, bridal fitting room after the appointment, empty hanger, slightly open curtain, shoe marks on carpet, soft evening light, elegant afterglow and emptiness, no logos, no readable text."
+      "id": "natural-stones-desk-mysticism-2026-05-09_02_掌心纹理对照",
+      "batch": "natural-stones-desk-mysticism-2026-05-09",
+      "category": "natural-stones-desk-mysticism",
+      "number": "02",
+      "title": "掌心纹理对照",
+      "image": "assets/images/natural-stones-desk-mysticism-2026-05-09/02_掌心纹理对照.png",
+      "thumb": "assets/thumbs/natural-stones-desk-mysticism-2026-05-09/02_掌心纹理对照.png",
+      "description": "很多人喜欢石头，不是因为懂矿物学，而是因为手心真的会记住那些纹理。",
+      "prompt": "Horizontal documentary editorial photograph, close-up of a palm holding one polished natural stone with clear veins and textures, skin lines echoing mineral patterns, quiet intimate detail, no logos, no readable text."
     },
     {
-      "id": "wedding-fitting-mirror-rehearsal-2026-05-09_15_夜里把婚纱挂回车后座",
-      "batch": "wedding-fitting-mirror-rehearsal-2026-05-09",
-      "category": "wedding-fitting-mirror-rehearsal",
-      "number": "15",
-      "title": "夜里把婚纱挂回车后座",
-      "image": "assets/images/wedding-fitting-mirror-rehearsal-2026-05-09/15_夜里把婚纱挂回车后座.png",
-      "thumb": "assets/thumbs/wedding-fitting-mirror-rehearsal-2026-05-09/15_夜里把婚纱挂回车后座.png",
-      "description": "真正像成年人彩排未来的，是试纱结束后还要把那件白裙小心挂回车里带回现实。",
-      "prompt": "Horizontal documentary editorial photograph, wedding gown carefully hung across the back seat of a car at night after a fitting, city lights outside the window, hands adjusting fabric, dreamy but practical urban realism, no logos, no readable text."
+      "id": "natural-stones-desk-mysticism-2026-05-09_03_抽屉分格里的小标签",
+      "batch": "natural-stones-desk-mysticism-2026-05-09",
+      "category": "natural-stones-desk-mysticism",
+      "number": "03",
+      "title": "抽屉分格里的小标签",
+      "image": "assets/images/natural-stones-desk-mysticism-2026-05-09/03_抽屉分格里的小标签.png",
+      "thumb": "assets/thumbs/natural-stones-desk-mysticism-2026-05-09/03_抽屉分格里的小标签.png",
+      "description": "把石头分格收进抽屉的人，往往也在替自己的情绪做一种温柔分类。",
+      "prompt": "Horizontal documentary editorial photograph, drawer organizer with small natural stones sorted into sections on velvet, tiny handwritten-like labels obscured and unreadable, careful private collection ritual, no logos, no readable text."
+    },
+    {
+      "id": "natural-stones-desk-mysticism-2026-05-09_04_办公桌角落的压纸石",
+      "batch": "natural-stones-desk-mysticism-2026-05-09",
+      "category": "natural-stones-desk-mysticism",
+      "number": "04",
+      "title": "办公桌角落的压纸石",
+      "image": "assets/images/natural-stones-desk-mysticism-2026-05-09/04_办公桌角落的压纸石.png",
+      "thumb": "assets/thumbs/natural-stones-desk-mysticism-2026-05-09/04_办公桌角落的压纸石.png",
+      "description": "有些石头不需要解释功效，只要放在工位上，就会让桌面气质完全变掉。",
+      "prompt": "Horizontal documentary editorial photograph, office desk corner with a beautiful natural stone used as a paperweight beside notebook and laptop, muted daylight, tasteful personality projection, no logos, no readable text."
+    },
+    {
+      "id": "natural-stones-desk-mysticism-2026-05-09_05_绒布上的冷暖混排",
+      "batch": "natural-stones-desk-mysticism-2026-05-09",
+      "category": "natural-stones-desk-mysticism",
+      "number": "05",
+      "title": "绒布上的冷暖混排",
+      "image": "assets/images/natural-stones-desk-mysticism-2026-05-09/05_绒布上的冷暖混排.png",
+      "thumb": "assets/thumbs/natural-stones-desk-mysticism-2026-05-09/05_绒布上的冷暖混排.png",
+      "description": "冷色和暖色石头摆在一起的时候，会像一个人把理性和迷信同时留在桌上。",
+      "prompt": "Horizontal documentary editorial photograph, cool-toned and warm-toned natural stones mixed on dark velvet cloth, subtle shadows, collector styling, meditative but modern, no logos, no readable text."
+    },
+    {
+      "id": "natural-stones-desk-mysticism-2026-05-09_06_出门前挑一颗随身石",
+      "batch": "natural-stones-desk-mysticism-2026-05-09",
+      "category": "natural-stones-desk-mysticism",
+      "number": "06",
+      "title": "出门前挑一颗随身石",
+      "image": "assets/images/natural-stones-desk-mysticism-2026-05-09/06_出门前挑一颗随身石.png",
+      "thumb": "assets/thumbs/natural-stones-desk-mysticism-2026-05-09/06_出门前挑一颗随身石.png",
+      "description": "很多人带石头出门，并不是迷信，而是想给一天带一点具体的安定感。",
+      "prompt": "Horizontal documentary editorial photograph, hand selecting one small natural stone to carry before leaving home, open tray on entry table, keys and bag nearby, everyday ritual realism, no logos, no readable text."
+    },
+    {
+      "id": "natural-stones-desk-mysticism-2026-05-09_07_咖啡杯旁的透光晶体",
+      "batch": "natural-stones-desk-mysticism-2026-05-09",
+      "category": "natural-stones-desk-mysticism",
+      "number": "07",
+      "title": "咖啡杯旁的透光晶体",
+      "image": "assets/images/natural-stones-desk-mysticism-2026-05-09/07_咖啡杯旁的透光晶体.png",
+      "thumb": "assets/thumbs/natural-stones-desk-mysticism-2026-05-09/07_咖啡杯旁的透光晶体.png",
+      "description": "石头真正进入日常的时刻，往往就是它开始和咖啡杯、键盘、书页待在一起。",
+      "prompt": "Horizontal documentary editorial photograph, translucent mineral crystal beside a coffee cup on a reading table, morning routine objects around it, beautiful natural light and texture, no logos, no readable text."
+    },
+    {
+      "id": "natural-stones-desk-mysticism-2026-05-09_08_朋友交换观石的小桌",
+      "batch": "natural-stones-desk-mysticism-2026-05-09",
+      "category": "natural-stones-desk-mysticism",
+      "number": "08",
+      "title": "朋友交换观石的小桌",
+      "image": "assets/images/natural-stones-desk-mysticism-2026-05-09/08_朋友交换观石的小桌.png",
+      "thumb": "assets/thumbs/natural-stones-desk-mysticism-2026-05-09/08_朋友交换观石的小桌.png",
+      "description": "当石头开始被朋友之间轮流传看，它就从装饰物变成了一种小型社交语言。",
+      "prompt": "Horizontal documentary editorial photograph, small table where friends compare and pass around natural stones and minerals, curious hands, tea cups, gentle social atmosphere, realistic lifestyle scene, no logos, no readable text."
+    },
+    {
+      "id": "natural-stones-desk-mysticism-2026-05-09_09_夜灯下的半透明边缘",
+      "batch": "natural-stones-desk-mysticism-2026-05-09",
+      "category": "natural-stones-desk-mysticism",
+      "number": "09",
+      "title": "夜灯下的半透明边缘",
+      "image": "assets/images/natural-stones-desk-mysticism-2026-05-09/09_夜灯下的半透明边缘.png",
+      "thumb": "assets/thumbs/natural-stones-desk-mysticism-2026-05-09/09_夜灯下的半透明边缘.png",
+      "description": "有些石头只有在夜灯下才真正好看，就像很多人的情绪也只在晚上变得可见。",
+      "prompt": "Horizontal documentary editorial photograph, one semi-translucent natural stone glowing softly under a bedside lamp at night, shadowy intimate room, quiet emotional atmosphere, no logos, no readable text."
+    },
+    {
+      "id": "natural-stones-desk-mysticism-2026-05-09_10_笔记本上压着的许愿石",
+      "batch": "natural-stones-desk-mysticism-2026-05-09",
+      "category": "natural-stones-desk-mysticism",
+      "number": "10",
+      "title": "笔记本上压着的许愿石",
+      "image": "assets/images/natural-stones-desk-mysticism-2026-05-09/10_笔记本上压着的许愿石.png",
+      "thumb": "assets/thumbs/natural-stones-desk-mysticism-2026-05-09/10_笔记本上压着的许愿石.png",
+      "description": "把石头压在笔记本上的那一刻，很多人其实是在给愿望找一个物理重量。",
+      "prompt": "Horizontal documentary editorial photograph, small wish stone resting on top of a notebook or journal, pen nearby, sunlight across the page, poetic but realistic desk still life, no logos, no readable text."
+    },
+    {
+      "id": "natural-stones-desk-mysticism-2026-05-09_11_玄关托盘和钥匙并排",
+      "batch": "natural-stones-desk-mysticism-2026-05-09",
+      "category": "natural-stones-desk-mysticism",
+      "number": "11",
+      "title": "玄关托盘和钥匙并排",
+      "image": "assets/images/natural-stones-desk-mysticism-2026-05-09/11_玄关托盘和钥匙并排.png",
+      "thumb": "assets/thumbs/natural-stones-desk-mysticism-2026-05-09/11_玄关托盘和钥匙并排.png",
+      "description": "当石头被放在钥匙旁边，玄学就不再遥远，而是和通勤一样变成日常动作。",
+      "prompt": "Horizontal documentary editorial photograph, entryway tray with keys, earbuds, and one carefully chosen natural stone side by side, urban apartment styling, everyday ritual vibe, no logos, no readable text."
+    },
+    {
+      "id": "natural-stones-desk-mysticism-2026-05-09_12_出差酒店桌上的临时摆阵",
+      "batch": "natural-stones-desk-mysticism-2026-05-09",
+      "category": "natural-stones-desk-mysticism",
+      "number": "12",
+      "title": "出差酒店桌上的临时摆阵",
+      "image": "assets/images/natural-stones-desk-mysticism-2026-05-09/12_出差酒店桌上的临时摆阵.png",
+      "thumb": "assets/thumbs/natural-stones-desk-mysticism-2026-05-09/12_出差酒店桌上的临时摆阵.png",
+      "description": "真正让人上头的不是买石头，而是去哪都想把那点秩序和安静带上。",
+      "prompt": "Horizontal documentary editorial photograph, temporary arrangement of favorite natural stones on a hotel desk during travel, charger, notebook, city night outside the window, portable calm and order, no logos, no readable text."
+    },
+    {
+      "id": "commuter-edc-pocket-personality-2026-05-09_01_玄关地板第一摊",
+      "batch": "commuter-edc-pocket-personality-2026-05-09",
+      "category": "commuter-edc-pocket-personality",
+      "number": "01",
+      "title": "玄关地板第一摊",
+      "image": "assets/images/commuter-edc-pocket-personality-2026-05-09/01_玄关地板第一摊.png",
+      "thumb": "assets/thumbs/commuter-edc-pocket-personality-2026-05-09/01_玄关地板第一摊.png",
+      "description": "很多人的通勤人格，不是在简历里，而是在玄关地板上那一摊每天要带走的小东西里。",
+      "prompt": "Horizontal documentary editorial photograph, commuter everyday carry items neatly spread on an apartment entryway floor before leaving home, keys, earbuds, card holder, pen, lip balm, stylish urban realism, no logos, no readable text."
+    },
+    {
+      "id": "commuter-edc-pocket-personality-2026-05-09_02_包内分层口袋",
+      "batch": "commuter-edc-pocket-personality-2026-05-09",
+      "category": "commuter-edc-pocket-personality",
+      "number": "02",
+      "title": "包内分层口袋",
+      "image": "assets/images/commuter-edc-pocket-personality-2026-05-09/02_包内分层口袋.png",
+      "thumb": "assets/thumbs/commuter-edc-pocket-personality-2026-05-09/02_包内分层口袋.png",
+      "description": "一个人怎么给包里分层，往往比他说自己是什么样的人更诚实。",
+      "prompt": "Horizontal documentary editorial photograph, open commuter bag showing carefully layered everyday carry pockets, earbuds case, notebook, cables, pen, perfume mini, tactile organizational detail, no logos, no readable text."
+    },
+    {
+      "id": "commuter-edc-pocket-personality-2026-05-09_03_工牌钥匙耳机三件套",
+      "batch": "commuter-edc-pocket-personality-2026-05-09",
+      "category": "commuter-edc-pocket-personality",
+      "number": "03",
+      "title": "工牌钥匙耳机三件套",
+      "image": "assets/images/commuter-edc-pocket-personality-2026-05-09/03_工牌钥匙耳机三件套.png",
+      "thumb": "assets/thumbs/commuter-edc-pocket-personality-2026-05-09/03_工牌钥匙耳机三件套.png",
+      "description": "有些人的人格缩影，只需要工牌、钥匙和耳机放在一起就够了。",
+      "prompt": "Horizontal documentary editorial photograph, employee badge, key bundle, and wireless earbuds arranged together on a desk or tray, understated office commuter identity, highly relatable Xiaohongshu-style still life, no logos, no readable text."
+    },
+    {
+      "id": "commuter-edc-pocket-personality-2026-05-09_04_地铁站口的掌心检查",
+      "batch": "commuter-edc-pocket-personality-2026-05-09",
+      "category": "commuter-edc-pocket-personality",
+      "number": "04",
+      "title": "地铁站口的掌心检查",
+      "image": "assets/images/commuter-edc-pocket-personality-2026-05-09/04_地铁站口的掌心检查.png",
+      "thumb": "assets/thumbs/commuter-edc-pocket-personality-2026-05-09/04_地铁站口的掌心检查.png",
+      "description": "走到地铁口才确认东西带齐的那一秒，几乎是所有通勤者共同的肌肉记忆。",
+      "prompt": "Horizontal documentary editorial photograph, commuter checking items in the palm near a subway entrance, transit blur in background, card holder, keys, earbuds, realistic morning rush, no logos, no readable text."
+    },
+    {
+      "id": "commuter-edc-pocket-personality-2026-05-09_05_午休桌边的小刀钢笔",
+      "batch": "commuter-edc-pocket-personality-2026-05-09",
+      "category": "commuter-edc-pocket-personality",
+      "number": "05",
+      "title": "午休桌边的小刀钢笔",
+      "image": "assets/images/commuter-edc-pocket-personality-2026-05-09/05_午休桌边的小刀钢笔.png",
+      "thumb": "assets/thumbs/commuter-edc-pocket-personality-2026-05-09/05_午休桌边的小刀钢笔.png",
+      "description": "EDC 最迷人的地方不是贵，而是每件小东西都像主人的一条微型侧写。",
+      "prompt": "Horizontal documentary editorial photograph, small pocket knife, fountain pen, and card holder on a cafe or lunch table during office break, refined but practical personality objects, no logos, no readable text."
+    },
+    {
+      "id": "commuter-edc-pocket-personality-2026-05-09_06_键盘旁的唇膏打火机",
+      "batch": "commuter-edc-pocket-personality-2026-05-09",
+      "category": "commuter-edc-pocket-personality",
+      "number": "06",
+      "title": "键盘旁的唇膏打火机",
+      "image": "assets/images/commuter-edc-pocket-personality-2026-05-09/06_键盘旁的唇膏打火机.png",
+      "thumb": "assets/thumbs/commuter-edc-pocket-personality-2026-05-09/06_键盘旁的唇膏打火机.png",
+      "description": "真正像生活的人设，不是在大件上，而是在这些不经意放在键盘旁的小物组合里。",
+      "prompt": "Horizontal documentary editorial photograph, lip balm and lighter beside a keyboard on a creative office desk, layered with small daily carry items, subtle attitude and urban realism, no logos, no readable text."
+    },
+    {
+      "id": "commuter-edc-pocket-personality-2026-05-09_07_下雨天包里多带一件",
+      "batch": "commuter-edc-pocket-personality-2026-05-09",
+      "category": "commuter-edc-pocket-personality",
+      "number": "07",
+      "title": "下雨天包里多带一件",
+      "image": "assets/images/commuter-edc-pocket-personality-2026-05-09/07_下雨天包里多带一件.png",
+      "thumb": "assets/thumbs/commuter-edc-pocket-personality-2026-05-09/07_下雨天包里多带一件.png",
+      "description": "通勤包真正能说明人设的时候，往往是天气变了以后它会不会自动多出一件东西。",
+      "prompt": "Horizontal documentary editorial photograph, rainy-day commuter bag contents including compact umbrella and extra tissue beside usual EDC items, wet station atmosphere, practical personality detail, no logos, no readable text."
+    },
+    {
+      "id": "commuter-edc-pocket-personality-2026-05-09_08_回家后倒在桌面的清空仪式",
+      "batch": "commuter-edc-pocket-personality-2026-05-09",
+      "category": "commuter-edc-pocket-personality",
+      "number": "08",
+      "title": "回家后倒在桌面的清空仪式",
+      "image": "assets/images/commuter-edc-pocket-personality-2026-05-09/08_回家后倒在桌面的清空仪式.png",
+      "thumb": "assets/thumbs/commuter-edc-pocket-personality-2026-05-09/08_回家后倒在桌面的清空仪式.png",
+      "description": "把口袋里的东西一件件倒出来，本身就像给这一天做一个简短复盘。",
+      "prompt": "Horizontal documentary editorial photograph, emptying commuter pockets onto a table after returning home at night, scattered keys, cards, earbuds, receipts, urban fatigue and order, no logos, no readable text."
+    },
+    {
+      "id": "commuter-edc-pocket-personality-2026-05-09_09_周末和工作日的双份edc",
+      "batch": "commuter-edc-pocket-personality-2026-05-09",
+      "category": "commuter-edc-pocket-personality",
+      "number": "09",
+      "title": "周末和工作日的双份EDC",
+      "image": "assets/images/commuter-edc-pocket-personality-2026-05-09/09_周末和工作日的双份edc.png",
+      "thumb": "assets/thumbs/commuter-edc-pocket-personality-2026-05-09/09_周末和工作日的双份edc.png",
+      "description": "同一个人工作日和周末带的东西不一样，也像两种不同版本的人格轮流上班。",
+      "prompt": "Horizontal documentary editorial photograph, side-by-side comparison of weekday and weekend everyday carry items on a neutral surface, subtle lifestyle contrast, highly shareable visual arrangement, no logos, no readable text."
+    },
+    {
+      "id": "commuter-edc-pocket-personality-2026-05-09_10_朋友之间交换把玩",
+      "batch": "commuter-edc-pocket-personality-2026-05-09",
+      "category": "commuter-edc-pocket-personality",
+      "number": "10",
+      "title": "朋友之间交换把玩",
+      "image": "assets/images/commuter-edc-pocket-personality-2026-05-09/10_朋友之间交换把玩.png",
+      "thumb": "assets/thumbs/commuter-edc-pocket-personality-2026-05-09/10_朋友之间交换把玩.png",
+      "description": "EDC 一旦被朋友拿起来互相看，立刻就从工具变成了社交货币。",
+      "prompt": "Horizontal documentary editorial photograph, friends at a cafe or office casually passing around each other's EDC items, hands examining small tools and accessories, social curiosity, no logos, no readable text."
+    },
+    {
+      "id": "commuter-edc-pocket-personality-2026-05-09_11_夜班人的深色口袋系",
+      "batch": "commuter-edc-pocket-personality-2026-05-09",
+      "category": "commuter-edc-pocket-personality",
+      "number": "11",
+      "title": "夜班人的深色口袋系",
+      "image": "assets/images/commuter-edc-pocket-personality-2026-05-09/11_夜班人的深色口袋系.png",
+      "thumb": "assets/thumbs/commuter-edc-pocket-personality-2026-05-09/11_夜班人的深色口袋系.png",
+      "description": "夜班人的 EDC 通常更暗、更稳，也更像一种替自己撑住节奏的装备。",
+      "prompt": "Horizontal documentary editorial photograph, dark-toned everyday carry set for a night-shift worker arranged on a black surface, flashlight, badge, earbuds, pen, subdued lighting, moody realistic style, no logos, no readable text."
+    },
+    {
+      "id": "commuter-edc-pocket-personality-2026-05-09_12_旅行前压缩到最小体积",
+      "batch": "commuter-edc-pocket-personality-2026-05-09",
+      "category": "commuter-edc-pocket-personality",
+      "number": "12",
+      "title": "旅行前压缩到最小体积",
+      "image": "assets/images/commuter-edc-pocket-personality-2026-05-09/12_旅行前压缩到最小体积.png",
+      "thumb": "assets/thumbs/commuter-edc-pocket-personality-2026-05-09/12_旅行前压缩到最小体积.png",
+      "description": "真正带感的 EDC 不是东西多，而是你能把日常人格压缩到刚刚好的体积。",
+      "prompt": "Horizontal documentary editorial photograph, minimal everyday carry items compressed into the smallest possible setup before travel, arranged with precision on a bed or desk, efficient stylish order, no logos, no readable text."
     }
   ]
 }

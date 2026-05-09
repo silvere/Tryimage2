@@ -1,0 +1,103 @@
+{
+  "theme": "一地通勤 EDC 摊开，为什么大家越来越爱把自己的人格装进口袋",
+  "batchId": "commuter-edc-pocket-personality-2026-05-09",
+  "createdAt": "2026-05-09",
+  "items": [
+    {
+      "source": "01_玄关地板第一摊.png",
+      "category": "commuter-edc-pocket-personality",
+      "categoryLabel": "通勤EDC人格口袋",
+      "title": "玄关地板第一摊",
+      "description": "很多人的通勤人格，不是在简历里，而是在玄关地板上那一摊每天要带走的小东西里。",
+      "prompt": "Horizontal documentary editorial photograph, commuter everyday carry items neatly spread on an apartment entryway floor before leaving home, keys, earbuds, card holder, pen, lip balm, stylish urban realism, no logos, no readable text."
+    },
+    {
+      "source": "02_包内分层口袋.png",
+      "category": "commuter-edc-pocket-personality",
+      "categoryLabel": "通勤EDC人格口袋",
+      "title": "包内分层口袋",
+      "description": "一个人怎么给包里分层，往往比他说自己是什么样的人更诚实。",
+      "prompt": "Horizontal documentary editorial photograph, open commuter bag showing carefully layered everyday carry pockets, earbuds case, notebook, cables, pen, perfume mini, tactile organizational detail, no logos, no readable text."
+    },
+    {
+      "source": "03_工牌钥匙耳机三件套.png",
+      "category": "commuter-edc-pocket-personality",
+      "categoryLabel": "通勤EDC人格口袋",
+      "title": "工牌钥匙耳机三件套",
+      "description": "有些人的人格缩影，只需要工牌、钥匙和耳机放在一起就够了。",
+      "prompt": "Horizontal documentary editorial photograph, employee badge, key bundle, and wireless earbuds arranged together on a desk or tray, understated office commuter identity, highly relatable Xiaohongshu-style still life, no logos, no readable text."
+    },
+    {
+      "source": "04_地铁站口的掌心检查.png",
+      "category": "commuter-edc-pocket-personality",
+      "categoryLabel": "通勤EDC人格口袋",
+      "title": "地铁站口的掌心检查",
+      "description": "走到地铁口才确认东西带齐的那一秒，几乎是所有通勤者共同的肌肉记忆。",
+      "prompt": "Horizontal documentary editorial photograph, commuter checking items in the palm near a subway entrance, transit blur in background, card holder, keys, earbuds, realistic morning rush, no logos, no readable text."
+    },
+    {
+      "source": "05_午休桌边的小刀钢笔.png",
+      "category": "commuter-edc-pocket-personality",
+      "categoryLabel": "通勤EDC人格口袋",
+      "title": "午休桌边的小刀钢笔",
+      "description": "EDC 最迷人的地方不是贵，而是每件小东西都像主人的一条微型侧写。",
+      "prompt": "Horizontal documentary editorial photograph, small pocket knife, fountain pen, and card holder on a cafe or lunch table during office break, refined but practical personality objects, no logos, no readable text."
+    },
+    {
+      "source": "06_键盘旁的唇膏打火机.png",
+      "category": "commuter-edc-pocket-personality",
+      "categoryLabel": "通勤EDC人格口袋",
+      "title": "键盘旁的唇膏打火机",
+      "description": "真正像生活的人设，不是在大件上，而是在这些不经意放在键盘旁的小物组合里。",
+      "prompt": "Horizontal documentary editorial photograph, lip balm and lighter beside a keyboard on a creative office desk, layered with small daily carry items, subtle attitude and urban realism, no logos, no readable text."
+    },
+    {
+      "source": "07_下雨天包里多带一件.png",
+      "category": "commuter-edc-pocket-personality",
+      "categoryLabel": "通勤EDC人格口袋",
+      "title": "下雨天包里多带一件",
+      "description": "通勤包真正能说明人设的时候，往往是天气变了以后它会不会自动多出一件东西。",
+      "prompt": "Horizontal documentary editorial photograph, rainy-day commuter bag contents including compact umbrella and extra tissue beside usual EDC items, wet station atmosphere, practical personality detail, no logos, no readable text."
+    },
+    {
+      "source": "08_回家后倒在桌面的清空仪式.png",
+      "category": "commuter-edc-pocket-personality",
+      "categoryLabel": "通勤EDC人格口袋",
+      "title": "回家后倒在桌面的清空仪式",
+      "description": "把口袋里的东西一件件倒出来，本身就像给这一天做一个简短复盘。",
+      "prompt": "Horizontal documentary editorial photograph, emptying commuter pockets onto a table after returning home at night, scattered keys, cards, earbuds, receipts, urban fatigue and order, no logos, no readable text."
+    },
+    {
+      "source": "09_周末和工作日的双份EDC.png",
+      "category": "commuter-edc-pocket-personality",
+      "categoryLabel": "通勤EDC人格口袋",
+      "title": "周末和工作日的双份EDC",
+      "description": "同一个人工作日和周末带的东西不一样，也像两种不同版本的人格轮流上班。",
+      "prompt": "Horizontal documentary editorial photograph, side-by-side comparison of weekday and weekend everyday carry items on a neutral surface, subtle lifestyle contrast, highly shareable visual arrangement, no logos, no readable text."
+    },
+    {
+      "source": "10_朋友之间交换把玩.png",
+      "category": "commuter-edc-pocket-personality",
+      "categoryLabel": "通勤EDC人格口袋",
+      "title": "朋友之间交换把玩",
+      "description": "EDC 一旦被朋友拿起来互相看，立刻就从工具变成了社交货币。",
+      "prompt": "Horizontal documentary editorial photograph, friends at a cafe or office casually passing around each other's EDC items, hands examining small tools and accessories, social curiosity, no logos, no readable text."
+    },
+    {
+      "source": "11_夜班人的深色口袋系.png",
+      "category": "commuter-edc-pocket-personality",
+      "categoryLabel": "通勤EDC人格口袋",
+      "title": "夜班人的深色口袋系",
+      "description": "夜班人的 EDC 通常更暗、更稳，也更像一种替自己撑住节奏的装备。",
+      "prompt": "Horizontal documentary editorial photograph, dark-toned everyday carry set for a night-shift worker arranged on a black surface, flashlight, badge, earbuds, pen, subdued lighting, moody realistic style, no logos, no readable text."
+    },
+    {
+      "source": "12_旅行前压缩到最小体积.png",
+      "category": "commuter-edc-pocket-personality",
+      "categoryLabel": "通勤EDC人格口袋",
+      "title": "旅行前压缩到最小体积",
+      "description": "真正带感的 EDC 不是东西多，而是你能把日常人格压缩到刚刚好的体积。",
+      "prompt": "Horizontal documentary editorial photograph, minimal everyday carry items compressed into the smallest possible setup before travel, arranged with precision on a bed or desk, efficient stylish order, no logos, no readable text."
+    }
+  ]
+}
