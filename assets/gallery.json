@@ -1,7 +1,7 @@
 {
   "site": {
     "title": "OpenAI image2 视觉实验",
-    "subtitle": "502 张传播向 AI 海报",
+    "subtitle": "514 张传播向 AI 海报",
     "headline": "OpenAI image2 视觉实验",
     "intro": "每一批图片围绕一个临时主题生成，并按当次最合适的 category 归档；可以是反差创意、真实场景、产品概念、人物叙事或任何新的视觉方向。",
     "coverImage": "assets/contact_sheet_image2.jpg",
@@ -182,6 +182,10 @@
     {
       "id": "commuter-edc-pocket-personality",
       "label": "通勤EDC人格口袋"
+    },
+    {
+      "id": "travel-tea-kit-mobile-self-rescue",
+      "label": "旅行茶器布包"
     }
   ],
   "batches": [
@@ -398,6 +402,12 @@
     {
       "id": "commuter-edc-pocket-personality-2026-05-09",
       "theme": "一地通勤 EDC 摊开，为什么大家越来越爱把自己的人格装进口袋",
+      "createdAt": "2026-05-09",
+      "count": 12
+    },
+    {
+      "id": "travel-tea-kit-mobile-self-rescue-2026-05-09",
+      "theme": "一套旅行茶器布包，为什么越来越像成年人的移动精神自救箱",
       "createdAt": "2026-05-09",
       "count": 12
     }
@@ -5909,6 +5919,138 @@
       "thumb": "assets/thumbs/commuter-edc-pocket-personality-2026-05-09/12_旅行前压缩到最小体积.png",
       "description": "真正带感的 EDC 不是东西多，而是你能把日常人格压缩到刚刚好的体积。",
       "prompt": "Horizontal documentary editorial photograph, minimal everyday carry items compressed into the smallest possible setup before travel, arranged with precision on a bed or desk, efficient stylish order, no logos, no readable text."
+    },
+    {
+      "id": "travel-tea-kit-mobile-self-rescue-2026-05-09_01_出门前摊开的布包分仓",
+      "batch": "travel-tea-kit-mobile-self-rescue-2026-05-09",
+      "category": "travel-tea-kit-mobile-self-rescue",
+      "number": "01",
+      "title": "出门前摊开的布包分仓",
+      "image": "assets/images/travel-tea-kit-mobile-self-rescue-2026-05-09/01_出门前摊开的布包分仓.png",
+      "thumb": "assets/thumbs/travel-tea-kit-mobile-self-rescue-2026-05-09/01_出门前摊开的布包分仓.png",
+      "description": "真正会被带上路的茶器，不是摆拍道具，而是一套帮人稳住情绪的小型秩序。",
+      "prompt": "Horizontal documentary editorial photograph, an opened travel tea kit cloth wrap laid out before departure, neat compartments with small teacups, fairness pitcher, tea canister, linen ties and tea towel on a bed or desk, realistic Xiaohongshu save-worthy composition, tactile fabric and ceramic detail, no logos, no readable text."
+    },
+    {
+      "id": "travel-tea-kit-mobile-self-rescue-2026-05-09_02_高铁小桌板上的一人份热雾",
+      "batch": "travel-tea-kit-mobile-self-rescue-2026-05-09",
+      "category": "travel-tea-kit-mobile-self-rescue",
+      "number": "02",
+      "title": "高铁小桌板上的一人份热雾",
+      "image": "assets/images/travel-tea-kit-mobile-self-rescue-2026-05-09/02_高铁小桌板上的一人份热雾.png",
+      "thumb": "assets/thumbs/travel-tea-kit-mobile-self-rescue-2026-05-09/02_高铁小桌板上的一人份热雾.png",
+      "description": "在高铁上给自己泡一小杯热茶，有时比到达目的地更像真正开始照顾自己。",
+      "prompt": "Horizontal documentary editorial photograph, a compact one-person travel tea set in use on a high-speed rail tray table, subtle steam, small porcelain cup, soft window light, luggage edge and blurred passing landscape, intimate realistic travel ritual, no logos, no readable text."
+    },
+    {
+      "id": "travel-tea-kit-mobile-self-rescue-2026-05-09_03_车窗光里的小茶杯和公道杯",
+      "batch": "travel-tea-kit-mobile-self-rescue-2026-05-09",
+      "category": "travel-tea-kit-mobile-self-rescue",
+      "number": "03",
+      "title": "车窗光里的小茶杯和公道杯",
+      "image": "assets/images/travel-tea-kit-mobile-self-rescue-2026-05-09/03_车窗光里的小茶杯和公道杯.png",
+      "thumb": "assets/thumbs/travel-tea-kit-mobile-self-rescue-2026-05-09/03_车窗光里的小茶杯和公道杯.png",
+      "description": "光一照进来，这些本来很小的器物就忽然像能把一天重新摆顺。",
+      "prompt": "Horizontal documentary editorial photograph, small teacup and fairness pitcher lit by side window light during travel, ceramic glaze catching soft reflections, cloth wrap beneath them, calm cinematic realism, no logos, no readable text."
+    },
+    {
+      "id": "travel-tea-kit-mobile-self-rescue-2026-05-09_04_酒店书桌角落的临时茶席",
+      "batch": "travel-tea-kit-mobile-self-rescue-2026-05-09",
+      "category": "travel-tea-kit-mobile-self-rescue",
+      "number": "04",
+      "title": "酒店书桌角落的临时茶席",
+      "image": "assets/images/travel-tea-kit-mobile-self-rescue-2026-05-09/04_酒店书桌角落的临时茶席.png",
+      "thumb": "assets/thumbs/travel-tea-kit-mobile-self-rescue-2026-05-09/04_酒店书桌角落的临时茶席.png",
+      "description": "出差房间里最先被安顿好的，往往不是电脑线，而是那一套让人重新呼吸的茶器。",
+      "prompt": "Horizontal documentary editorial photograph, improvised tea setup in the corner of a business hotel desk, compact travel tea cloth wrap half-open, notebook and room keycard nearby, warm lamp light, realistic adult travel mood, no logos, no readable text."
+    },
+    {
+      "id": "travel-tea-kit-mobile-self-rescue-2026-05-09_05_收纳绳结和包角磨损",
+      "batch": "travel-tea-kit-mobile-self-rescue-2026-05-09",
+      "category": "travel-tea-kit-mobile-self-rescue",
+      "number": "05",
+      "title": "收纳绳结和包角磨损",
+      "image": "assets/images/travel-tea-kit-mobile-self-rescue-2026-05-09/05_收纳绳结和包角磨损.png",
+      "thumb": "assets/thumbs/travel-tea-kit-mobile-self-rescue-2026-05-09/05_收纳绳结和包角磨损.png",
+      "description": "最让人信服的不是器物新不新，而是它被反复打开又系上的使用痕迹。",
+      "prompt": "Horizontal documentary editorial photograph, close-up of a travel tea kit cloth wrap tie knot and softly worn fabric corners, hand touching the knot, ceramic edge peeking out, tactile craftsmanship and frequent-use evidence, no logos, no readable text."
+    },
+    {
+      "id": "travel-tea-kit-mobile-self-rescue-2026-05-09_06_机场候机区的保温壶和主人杯",
+      "batch": "travel-tea-kit-mobile-self-rescue-2026-05-09",
+      "category": "travel-tea-kit-mobile-self-rescue",
+      "number": "06",
+      "title": "机场候机区的保温壶和主人杯",
+      "image": "assets/images/travel-tea-kit-mobile-self-rescue-2026-05-09/06_机场候机区的保温壶和主人杯.png",
+      "thumb": "assets/thumbs/travel-tea-kit-mobile-self-rescue-2026-05-09/06_机场候机区的保温壶和主人杯.png",
+      "description": "候机时拿出来的这一小套东西，很像成年人给自己留的微型缓冲带。",
+      "prompt": "Horizontal documentary editorial photograph, airport waiting area with a compact thermos and a favorite small tea cup from a travel tea kit, carry-on bag beside seat, calm muted lounge light, refined realistic traveler aesthetic, no logos, no readable text."
+    },
+    {
+      "id": "travel-tea-kit-mobile-self-rescue-2026-05-09_07_朋友在民宿窗边分茶",
+      "batch": "travel-tea-kit-mobile-self-rescue-2026-05-09",
+      "category": "travel-tea-kit-mobile-self-rescue",
+      "number": "07",
+      "title": "朋友在民宿窗边分茶",
+      "image": "assets/images/travel-tea-kit-mobile-self-rescue-2026-05-09/07_朋友在民宿窗边分茶.png",
+      "thumb": "assets/thumbs/travel-tea-kit-mobile-self-rescue-2026-05-09/07_朋友在民宿窗边分茶.png",
+      "description": "旅行里最容易被记住的安静时刻，常常不是风景，而是有人替你慢慢倒出一小杯茶。",
+      "prompt": "Horizontal documentary editorial photograph, two friends sharing tea from a compact travel tea set by the window of a homestay, natural daylight, linen curtain movement, intimate social warmth, authentic save-worthy lifestyle scene, no logos, no readable text."
+    },
+    {
+      "id": "travel-tea-kit-mobile-self-rescue-2026-05-09_08_行李箱上压着的茶巾和小壶",
+      "batch": "travel-tea-kit-mobile-self-rescue-2026-05-09",
+      "category": "travel-tea-kit-mobile-self-rescue",
+      "number": "08",
+      "title": "行李箱上压着的茶巾和小壶",
+      "image": "assets/images/travel-tea-kit-mobile-self-rescue-2026-05-09/08_行李箱上压着的茶巾和小壶.png",
+      "thumb": "assets/thumbs/travel-tea-kit-mobile-self-rescue-2026-05-09/08_行李箱上压着的茶巾和小壶.png",
+      "description": "有些人旅行前最在意的不是穿什么，而是那条茶巾和那只小壶有没有带上。",
+      "prompt": "Horizontal documentary editorial photograph, open suitcase with tea towel, small teapot and compact teaware carefully placed on top of folded clothes, pre-trip ritual feeling, elegant everyday realism, no logos, no readable text."
+    },
+    {
+      "id": "travel-tea-kit-mobile-self-rescue-2026-05-09_09_夜车卧铺边的深色茶器",
+      "batch": "travel-tea-kit-mobile-self-rescue-2026-05-09",
+      "category": "travel-tea-kit-mobile-self-rescue",
+      "number": "09",
+      "title": "夜车卧铺边的深色茶器",
+      "image": "assets/images/travel-tea-kit-mobile-self-rescue-2026-05-09/09_夜车卧铺边的深色茶器.png",
+      "thumb": "assets/thumbs/travel-tea-kit-mobile-self-rescue-2026-05-09/09_夜车卧铺边的深色茶器.png",
+      "description": "深夜里那一口热茶不像讲究，更像长途移动里给自己找回一点边界。",
+      "prompt": "Horizontal documentary editorial photograph, dark-toned compact tea ware beside a sleeper train berth at night, dim reading light, enamel or ceramic cup with steam, moody but realistic long-distance travel atmosphere, no logos, no readable text."
+    },
+    {
+      "id": "travel-tea-kit-mobile-self-rescue-2026-05-09_10_会议间隙回到房间泡的一泡",
+      "batch": "travel-tea-kit-mobile-self-rescue-2026-05-09",
+      "category": "travel-tea-kit-mobile-self-rescue",
+      "number": "10",
+      "title": "会议间隙回到房间泡的一泡",
+      "image": "assets/images/travel-tea-kit-mobile-self-rescue-2026-05-09/10_会议间隙回到房间泡的一泡.png",
+      "thumb": "assets/thumbs/travel-tea-kit-mobile-self-rescue-2026-05-09/10_会议间隙回到房间泡的一泡.png",
+      "description": "很多成年人真正的恢复按钮，不是按摩椅，而是把热水倒进那只熟悉的小壶里。",
+      "prompt": "Horizontal documentary editorial photograph, quick solo tea brewing moment back in a hotel room between meetings, blazer draped on chair, laptop closed, travel tea set in action on side table, mature recovery ritual, no logos, no readable text."
+    },
+    {
+      "id": "travel-tea-kit-mobile-self-rescue-2026-05-09_11_山路停车时拿出来的小托盘",
+      "batch": "travel-tea-kit-mobile-self-rescue-2026-05-09",
+      "category": "travel-tea-kit-mobile-self-rescue",
+      "number": "11",
+      "title": "山路停车时拿出来的小托盘",
+      "image": "assets/images/travel-tea-kit-mobile-self-rescue-2026-05-09/11_山路停车时拿出来的小托盘.png",
+      "thumb": "assets/thumbs/travel-tea-kit-mobile-self-rescue-2026-05-09/11_山路停车时拿出来的小托盘.png",
+      "description": "路边临时停下时摆出来的一只小托盘，会让赶路突然变成一种有呼吸感的移动生活。",
+      "prompt": "Horizontal documentary editorial photograph, small tray from a travel tea kit set up during a roadside mountain stop, car door open, muted outdoor light, compact tea vessels and thermos on a stable surface, poetic but realistic travel lifestyle, no logos, no readable text."
+    },
+    {
+      "id": "travel-tea-kit-mobile-self-rescue-2026-05-09_12_收回布包前最后一只空杯",
+      "batch": "travel-tea-kit-mobile-self-rescue-2026-05-09",
+      "category": "travel-tea-kit-mobile-self-rescue",
+      "number": "12",
+      "title": "收回布包前最后一只空杯",
+      "image": "assets/images/travel-tea-kit-mobile-self-rescue-2026-05-09/12_收回布包前最后一只空杯.png",
+      "thumb": "assets/thumbs/travel-tea-kit-mobile-self-rescue-2026-05-09/12_收回布包前最后一只空杯.png",
+      "description": "把最后一只空杯擦干收好时，人也像终于把这一天重新装回自己手里。",
+      "prompt": "Horizontal documentary editorial photograph, the last empty teacup being wiped dry before packing a travel tea kit back into its cloth wrap, evening hotel light, reflective quiet ending scene, delicate ceramic texture, no logos, no readable text."
     }
   ]
 }

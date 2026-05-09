@@ -1,0 +1,103 @@
+{
+  "theme": "一套旅行茶器布包，为什么越来越像成年人的移动精神自救箱",
+  "batchId": "travel-tea-kit-mobile-self-rescue-2026-05-09",
+  "createdAt": "2026-05-09",
+  "items": [
+    {
+      "source": "01_出门前摊开的布包分仓.png",
+      "category": "travel-tea-kit-mobile-self-rescue",
+      "categoryLabel": "旅行茶器布包",
+      "title": "出门前摊开的布包分仓",
+      "description": "真正会被带上路的茶器，不是摆拍道具，而是一套帮人稳住情绪的小型秩序。",
+      "prompt": "Horizontal documentary editorial photograph, an opened travel tea kit cloth wrap laid out before departure, neat compartments with small teacups, fairness pitcher, tea canister, linen ties and tea towel on a bed or desk, realistic Xiaohongshu save-worthy composition, tactile fabric and ceramic detail, no logos, no readable text."
+    },
+    {
+      "source": "02_高铁小桌板上的一人份热雾.png",
+      "category": "travel-tea-kit-mobile-self-rescue",
+      "categoryLabel": "旅行茶器布包",
+      "title": "高铁小桌板上的一人份热雾",
+      "description": "在高铁上给自己泡一小杯热茶，有时比到达目的地更像真正开始照顾自己。",
+      "prompt": "Horizontal documentary editorial photograph, a compact one-person travel tea set in use on a high-speed rail tray table, subtle steam, small porcelain cup, soft window light, luggage edge and blurred passing landscape, intimate realistic travel ritual, no logos, no readable text."
+    },
+    {
+      "source": "03_车窗光里的小茶杯和公道杯.png",
+      "category": "travel-tea-kit-mobile-self-rescue",
+      "categoryLabel": "旅行茶器布包",
+      "title": "车窗光里的小茶杯和公道杯",
+      "description": "光一照进来，这些本来很小的器物就忽然像能把一天重新摆顺。",
+      "prompt": "Horizontal documentary editorial photograph, small teacup and fairness pitcher lit by side window light during travel, ceramic glaze catching soft reflections, cloth wrap beneath them, calm cinematic realism, no logos, no readable text."
+    },
+    {
+      "source": "04_酒店书桌角落的临时茶席.png",
+      "category": "travel-tea-kit-mobile-self-rescue",
+      "categoryLabel": "旅行茶器布包",
+      "title": "酒店书桌角落的临时茶席",
+      "description": "出差房间里最先被安顿好的，往往不是电脑线，而是那一套让人重新呼吸的茶器。",
+      "prompt": "Horizontal documentary editorial photograph, improvised tea setup in the corner of a business hotel desk, compact travel tea cloth wrap half-open, notebook and room keycard nearby, warm lamp light, realistic adult travel mood, no logos, no readable text."
+    },
+    {
+      "source": "05_收纳绳结和包角磨损.png",
+      "category": "travel-tea-kit-mobile-self-rescue",
+      "categoryLabel": "旅行茶器布包",
+      "title": "收纳绳结和包角磨损",
+      "description": "最让人信服的不是器物新不新，而是它被反复打开又系上的使用痕迹。",
+      "prompt": "Horizontal documentary editorial photograph, close-up of a travel tea kit cloth wrap tie knot and softly worn fabric corners, hand touching the knot, ceramic edge peeking out, tactile craftsmanship and frequent-use evidence, no logos, no readable text."
+    },
+    {
+      "source": "06_机场候机区的保温壶和主人杯.png",
+      "category": "travel-tea-kit-mobile-self-rescue",
+      "categoryLabel": "旅行茶器布包",
+      "title": "机场候机区的保温壶和主人杯",
+      "description": "候机时拿出来的这一小套东西，很像成年人给自己留的微型缓冲带。",
+      "prompt": "Horizontal documentary editorial photograph, airport waiting area with a compact thermos and a favorite small tea cup from a travel tea kit, carry-on bag beside seat, calm muted lounge light, refined realistic traveler aesthetic, no logos, no readable text."
+    },
+    {
+      "source": "07_朋友在民宿窗边分茶.png",
+      "category": "travel-tea-kit-mobile-self-rescue",
+      "categoryLabel": "旅行茶器布包",
+      "title": "朋友在民宿窗边分茶",
+      "description": "旅行里最容易被记住的安静时刻，常常不是风景，而是有人替你慢慢倒出一小杯茶。",
+      "prompt": "Horizontal documentary editorial photograph, two friends sharing tea from a compact travel tea set by the window of a homestay, natural daylight, linen curtain movement, intimate social warmth, authentic save-worthy lifestyle scene, no logos, no readable text."
+    },
+    {
+      "source": "08_行李箱上压着的茶巾和小壶.png",
+      "category": "travel-tea-kit-mobile-self-rescue",
+      "categoryLabel": "旅行茶器布包",
+      "title": "行李箱上压着的茶巾和小壶",
+      "description": "有些人旅行前最在意的不是穿什么，而是那条茶巾和那只小壶有没有带上。",
+      "prompt": "Horizontal documentary editorial photograph, open suitcase with tea towel, small teapot and compact teaware carefully placed on top of folded clothes, pre-trip ritual feeling, elegant everyday realism, no logos, no readable text."
+    },
+    {
+      "source": "09_夜车卧铺边的深色茶器.png",
+      "category": "travel-tea-kit-mobile-self-rescue",
+      "categoryLabel": "旅行茶器布包",
+      "title": "夜车卧铺边的深色茶器",
+      "description": "深夜里那一口热茶不像讲究，更像长途移动里给自己找回一点边界。",
+      "prompt": "Horizontal documentary editorial photograph, dark-toned compact tea ware beside a sleeper train berth at night, dim reading light, enamel or ceramic cup with steam, moody but realistic long-distance travel atmosphere, no logos, no readable text."
+    },
+    {
+      "source": "10_会议间隙回到房间泡的一泡.png",
+      "category": "travel-tea-kit-mobile-self-rescue",
+      "categoryLabel": "旅行茶器布包",
+      "title": "会议间隙回到房间泡的一泡",
+      "description": "很多成年人真正的恢复按钮，不是按摩椅，而是把热水倒进那只熟悉的小壶里。",
+      "prompt": "Horizontal documentary editorial photograph, quick solo tea brewing moment back in a hotel room between meetings, blazer draped on chair, laptop closed, travel tea set in action on side table, mature recovery ritual, no logos, no readable text."
+    },
+    {
+      "source": "11_山路停车时拿出来的小托盘.png",
+      "category": "travel-tea-kit-mobile-self-rescue",
+      "categoryLabel": "旅行茶器布包",
+      "title": "山路停车时拿出来的小托盘",
+      "description": "路边临时停下时摆出来的一只小托盘，会让赶路突然变成一种有呼吸感的移动生活。",
+      "prompt": "Horizontal documentary editorial photograph, small tray from a travel tea kit set up during a roadside mountain stop, car door open, muted outdoor light, compact tea vessels and thermos on a stable surface, poetic but realistic travel lifestyle, no logos, no readable text."
+    },
+    {
+      "source": "12_收回布包前最后一只空杯.png",
+      "category": "travel-tea-kit-mobile-self-rescue",
+      "categoryLabel": "旅行茶器布包",
+      "title": "收回布包前最后一只空杯",
+      "description": "把最后一只空杯擦干收好时，人也像终于把这一天重新装回自己手里。",
+      "prompt": "Horizontal documentary editorial photograph, the last empty teacup being wiped dry before packing a travel tea kit back into its cloth wrap, evening hotel light, reflective quiet ending scene, delicate ceramic texture, no logos, no readable text."
+    }
+  ]
+}
