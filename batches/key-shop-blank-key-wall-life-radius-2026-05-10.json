@@ -1,0 +1,103 @@
+{
+  "theme": "一家钥匙铺的胚钥匙墙和黄铜圆牌，为什么最不起眼的 everyday object 反而最容易暴露一个人的生活半径",
+  "batchId": "key-shop-blank-key-wall-life-radius-2026-05-10",
+  "createdAt": "2026-05-10",
+  "items": [
+    {
+      "source": "01_整面胚钥匙墙和不同形状的金属齿纹.png",
+      "category": "key-shop-blank-key-wall-life-radius",
+      "categoryLabel": "钥匙铺胚钥匙墙",
+      "title": "整面胚钥匙墙和不同形状的金属齿纹",
+      "description": "一整面钥匙胚挂起来，会让最普通的 everyday object 突然有了职业剧照感。",
+      "prompt": "Horizontal documentary editorial photograph, a full wall of blank keys with varied metal tooth shapes in a key shop, industrial everyday beauty, no logos, no readable text."
+    },
+    {
+      "source": "02_黄铜圆牌堆在工作台边等着刻字.png",
+      "category": "key-shop-blank-key-wall-life-radius",
+      "categoryLabel": "钥匙铺胚钥匙墙",
+      "title": "黄铜圆牌堆在工作台边等着刻字",
+      "description": "圆牌还没刻字时最能让人想象背后的门、宠物和生活路线。",
+      "prompt": "Horizontal documentary editorial photograph, brass round tags piled on the edge of a key-cutting workbench awaiting engraving, tactile urban everyday scene, no logos, no readable text."
+    },
+    {
+      "source": "03_钥匙师傅手里捏着刚配好的门禁钥匙.png",
+      "category": "key-shop-blank-key-wall-life-radius",
+      "categoryLabel": "钥匙铺胚钥匙墙",
+      "title": "钥匙师傅手里捏着刚配好的门禁钥匙",
+      "description": "刚配好的那一瞬间，像把一个人的生活半径重新复制了一遍。",
+      "prompt": "Horizontal documentary editorial photograph, locksmith holding a freshly copied access key, close-up on worn hands and metal detail, no logos, no readable text."
+    },
+    {
+      "source": "04_打磨机旁落着细细的金属碎屑.png",
+      "category": "key-shop-blank-key-wall-life-radius",
+      "categoryLabel": "钥匙铺胚钥匙墙",
+      "title": "打磨机旁落着细细的金属碎屑",
+      "description": "碎屑比成品更像真实职业现场，也让这套图有了城市灰尘感。",
+      "prompt": "Horizontal documentary editorial photograph, fine metal shavings beside a key-cutting grinder, gritty realistic workshop detail, no logos, no readable text."
+    },
+    {
+      "source": "05_挂满钥匙圈和门禁扣的小铁网.png",
+      "category": "key-shop-blank-key-wall-life-radius",
+      "categoryLabel": "钥匙铺胚钥匙墙",
+      "title": "挂满钥匙圈和门禁扣的小铁网",
+      "description": "钥匙圈和门禁扣挂满的时候，会让人立刻想到不同租房、办公室和车位生活。",
+      "prompt": "Horizontal documentary editorial photograph, small metal mesh covered with key rings and access fobs in a locksmith shop, dense urban utility aesthetic, no logos, no readable text."
+    },
+    {
+      "source": "06_玻璃柜里分层放着家门车库和信箱钥匙.png",
+      "category": "key-shop-blank-key-wall-life-radius",
+      "categoryLabel": "钥匙铺胚钥匙墙",
+      "title": "玻璃柜里分层放着家门车库和信箱钥匙",
+      "description": "不同用途的钥匙分层摆着，本身就是一个城市角色目录。",
+      "prompt": "Horizontal documentary editorial photograph, layered key display in a glass case showing house, garage, and mailbox keys, categorized everyday objects, no logos, no readable text."
+    },
+    {
+      "source": "07_师傅在老式机器前对准钥匙齿口.png",
+      "category": "key-shop-blank-key-wall-life-radius",
+      "categoryLabel": "钥匙铺胚钥匙墙",
+      "title": "师傅在老式机器前对准钥匙齿口",
+      "description": "老式机器对准齿口的动作，会让整个铺子比想象中更像一种技术手艺。",
+      "prompt": "Horizontal documentary editorial photograph, locksmith aligning a key blank in an old key cutting machine, skilled work-surface realism, no logos, no readable text."
+    },
+    {
+      "source": "08_傍晚灯箱下亮起来的一排黄铜门牌.png",
+      "category": "key-shop-blank-key-wall-life-radius",
+      "categoryLabel": "钥匙铺胚钥匙墙",
+      "title": "傍晚灯箱下亮起来的一排黄铜门牌",
+      "description": "傍晚亮起来的黄铜门牌，很像许多人一天生活半径的集合缩影。",
+      "prompt": "Horizontal documentary editorial photograph, a row of brass door tags glowing under evening shop light, warm urban street mood, no logos, no readable text."
+    },
+    {
+      "source": "09_塑料篮里混放着旧钥匙和待配胚钥匙.png",
+      "category": "key-shop-blank-key-wall-life-radius",
+      "categoryLabel": "钥匙铺胚钥匙墙",
+      "title": "塑料篮里混放着旧钥匙和待配胚钥匙",
+      "description": "旧钥匙和新胚钥匙混在一起，最像城市里不断更换的居住关系。",
+      "prompt": "Horizontal documentary editorial photograph, old used keys mixed with blank key stock in a plastic basket, lived-in city utility atmosphere, no logos, no readable text."
+    },
+    {
+      "source": "10_客户挑选黄铜圆牌时摊开的掌心.png",
+      "category": "key-shop-blank-key-wall-life-radius",
+      "categoryLabel": "钥匙铺胚钥匙墙",
+      "title": "客户挑选黄铜圆牌时摊开的掌心",
+      "description": "摊开的掌心和几块圆牌，会让这组图第一次出现很具体的个人生活感。",
+      "prompt": "Horizontal documentary editorial photograph, customer palm selecting brass round tags on a counter, intimate everyday decision moment, no logos, no readable text."
+    },
+    {
+      "source": "11_工作台角落挂着公寓车位和储物柜钥匙.png",
+      "category": "key-shop-blank-key-wall-life-radius",
+      "categoryLabel": "钥匙铺胚钥匙墙",
+      "title": "工作台角落挂着公寓车位和储物柜钥匙",
+      "description": "公寓、车位、储物柜这些钥匙放在一起，就像一座城市的成年人生存切面。",
+      "prompt": "Horizontal documentary editorial photograph, apartment, parking, and storage keys hanging at the corner of a locksmith workbench, urban adult life slice, no logos, no readable text."
+    },
+    {
+      "source": "12_卷帘门快拉下前师傅整理好最后一排钥匙胚.png",
+      "category": "key-shop-blank-key-wall-life-radius",
+      "categoryLabel": "钥匙铺胚钥匙墙",
+      "title": "卷帘门快拉下前师傅整理好最后一排钥匙胚",
+      "description": "关店前整理最后一排钥匙胚的动作，很适合做这组日常职业图的收尾。",
+      "prompt": "Horizontal documentary editorial photograph, locksmith organizing the final row of key blanks before closing the rolling shutter, reflective end-of-day workshop scene, no logos, no readable text."
+    }
+  ]
+}

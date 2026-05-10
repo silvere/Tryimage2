@@ -4128,3 +4128,283 @@
   - itemCount: 12
   - next: Stage 3 publish pending
 
+## 2026-05-10 第五十轮候选池
+
+调研时间：2026-05-10 20:02 CST
+
+本轮已读 / 已核对：
+
+- `process.md`：第四十七、四十八、四十九轮里未被选中的 `术前拍照镜 / 二奢验货灯 / 机场贵宾厅淋浴门卡 / 调香师试香纸雪堆 / 美甲师色胶抽屉 / Cannes 日本 IP 市场证 / 尼安德特人犀牛牙 / 外骨骼测试绑带 / 母亲节早午餐等位牌 / 早八闹钟 / 高空量子磁力仪 / 婚纱照选片室 / 冷藏冰敷面罩托盘 / 酒店夜班熨烫台 / 修鞋师鞋楦墙 / 切石师掌心石磨盘 / 早餐杯柜` 全部视为丢弃，本轮不直接继承标题或同切口。
+- `assets/gallery.json`：当前核对为 `43` 个 batches、`50` 个 categories、`589` 个 items；最近批次为 `pet-carrier-flying-emotional-threshold-2026-05-10`、`thin-aroma-cups-quiet-aesthetic-threshold-2026-05-10`、`watchmaker-strap-drawer-more-addictive-than-jewelry-2026-05-10`、`letter-opener-brass-paperclips-old-novel-desk-2026-05-10`、`china-15-public-figures-signature-scenes-2026-05-10`、`pour-over-station-order-more-addictive-than-cups-2026-05-10`。
+- 避重复重点：不回到宠物登机、薄胎闻香杯、表带抽屉、旧小说桌面物、公众人物代表场景、手冲台秩序、咖啡杯审美简历、自然石桌面玄学、通勤 EDC 人格口袋、旅行茶器布包、屋顶酒吧、海缆、Labubu、航天舷窗、具身机器人、博物馆隐藏背面，也不回收已删除且反馈差的婚纱试纱路线。
+- 本轮执行边界：只做选题前流程；不生成图片、不创建 batch metadata、不导入图库、不发布。
+
+本轮调研信号（混合当前热点 + this day in history + 经典书气质 + 小红书热帖语法）：
+
+- **520 进入婚姻登记抢号窗口**：Google News RSS 2026-05-10 抓取到 Global Times / Times of India 都在写 `many Chinese cities run out of marriage reservation spots for May 20`。比抽象恋爱讨论更像会停留的封面，是晨排、白衬衫、红本、跟拍闪光灯和登记处门口的队伍秩序。
+- **毕业季开始进入“先把人生拍得像会变好”模式**：5 月中旬临近毕业照与答辩季，学士服、反光板、补妆镜、花束和操场晚霞都天然符合平台的身份投射语法；它既是季节信号，也能承接就业焦虑与体面开场之间的讨论。
+- **身体管理热帖继续偏爱可被拍出来的“改造证据”**：相较医美等待室这类已多轮出现的切口，夏天前更适合转向 `漂色锡纸 / 洗头床 / 镜灯 / 围布 / 发尾高光` 这种发型沙龙现场，既有高视觉完成度，也更像真实会收藏的变美帖。
+- **This day in history / 经典书提醒本轮保留“纸张、器物、排布秩序”**：History Muffinlabs `May 10` 里有中国早期太阳黑子记录，也延续了本周一直可借用的 `1773 Tea Act / 1933 焚书` 这些关于观察、纸页、杯盏与秩序的视觉线索；经典书继续借 `《了不起的盖茨比》` 的体面表演、`《追忆似水年华》` 的器物记忆、`《天才雷普利》` 的身份投射。
+- **Lane B 继续回到 everyday object / profession work surface**：既然咖啡杯、闻香杯、自然石桌面、表带抽屉、EDC 口袋都已经做过或给过近题，本轮小物线改成 `钢笔托盘 / 茶仓抽屉 / 钥匙铺胚钥匙墙` 这种同样可保存、但更新鲜的工作面与日常器物。
+
+候选主题（严格 3+3，按当前吸引力排序）：
+
+### Group A｜热点 / 讨论型 / 小红书点击型
+
+1. 一张 520 婚姻登记排号单，为什么今年最抢手的不是餐厅，而是“能立刻拍出来的红本封面”
+   - 关键词：民政局晨排、红本、白衬衫、跟拍闪光灯、预约号、爱情 KPI、城市仪式。
+   - 为什么这题强：红白对比和门口排队画面天然停留，520 时效性很强，评论区会自己长出“赶热点结婚值不值”“爱情是不是也在排队”的讨论。
+
+2. 一间毕业照补妆教室，为什么学士服真正想被拍下来的不是学历，而是“人生马上会开始变好”
+   - 关键词：学士服、补妆镜、反光板、花束、操场晚霞、毕业季、前程滤镜。
+   - 为什么这题强：季节窗口明确，画面里既有青春体面也有就业焦虑，代入感和评论区投射都会很强。
+
+3. 一排漂色锡纸和洗头床，为什么夏天前大家最先想换的不是衣柜，而是“能被拍出来的头发”
+   - 关键词：漂色锡纸、洗头床、镜灯、围布、发尾高光、沙龙色卡、夏日前准备。
+   - 为什么这题强：沙龙空间本来就很像高热封面，金属反光、湿发、镜灯和颜色变化都很上镜，还天然带价格、伤发、气质升级的争论。
+
+### Group B｜小物 / 收藏 / 职业工作台型
+
+4. 一盘钢笔尖、吸墨纸和黄铜镇尺，为什么越来越多人想把写字这件事过成一套随身 EDC 礼仪
+   - 关键词：钢笔尖、吸墨纸、黄铜镇尺、皮笔袋、旧纸张、办公桌、文具 EDC。
+   - 为什么这题强：日常物件的材质层次非常稳，既有旧小说气质，也有“我也想晒我的桌面配置”的模仿欲。
+
+5. 一只茶仓抽屉里的茶荷、银茶则和白瓷公道杯，为什么真正让人上头的是把器物排成自己的安静秩序
+   - 关键词：茶仓抽屉、茶荷、银茶则、白瓷公道杯、亚麻布、晨光、安静器物。
+   - 为什么这题强：它保留了用户偏爱的茶器审美，但不重复薄胎闻香杯，重点变成抽屉秩序、材质手感和成年人的慢速收藏欲。
+
+6. 一家钥匙铺的胚钥匙墙和黄铜圆牌，为什么最不起眼的 everyday object 反而最容易暴露一个人的生活半径
+   - 关键词：胚钥匙墙、黄铜圆牌、打磨机、钥匙圈、门禁扣、工作台、城市日常。
+   - 为什么这题强：职业通过工具显影，黄铜和钢件的排列天然好看，又足够日常，能轻松扩成 10-15 张不同门、不同钥匙、不同生活角色的系列。
+
+本轮建议：
+
+- 首推：`一张 520 婚姻登记排号单，为什么今年最抢手的不是餐厅，而是“能立刻拍出来的红本封面”`
+- 次推：`一间毕业照补妆教室，为什么学士服真正想被拍下来的不是学历，而是“人生马上会开始变好”`
+- Lane B 首推：`一盘钢笔尖、吸墨纸和黄铜镇尺，为什么越来越多人想把写字这件事过成一套随身 EDC 礼仪`
+
+参考来源：
+
+- 系统时间核对：`date '+%Y-%m-%d %H:%M:%S %Z'` -> `2026-05-10 20:02:20 CST`。
+- Google News RSS，`wedding photography 520 China social media`，2026-05-10 抓取；返回 `Love-filled ‘520’: many Chinese cities run out of marriage reservation spots for May 20 amid ‘marriage boom’`（Global Times）等结果。
+- Google News RSS，`Cannes 2026 Japan IP market`、`airport lounge shower travel fatigue`、`medical aesthetics clinic skincare waiting room`、`EDC pocket carry desk aesthetic`、`coffee cups collection aesthetic home` 等查询，2026-05-10 抓取，用于排除本轮不再沿用的旧切口。
+- History Muffinlabs，`https://history.muffinlabs.com/date/5/10`，2026-05-10 抓取。
+- 经典书气质借用：`《了不起的盖茨比》 / 《追忆似水年华》 / 《天才雷普利》`。
+
+执行状态：
+
+- `process.md` 已追加本轮调研信号、严格 3+3 候选集、去重边界与来源记录。
+- 本轮只做选题，不生成图片、不创建 batch metadata、不导入图库、不发布；仍需用户在聊天中明确确认主题后，才进入任何生成流程。
+
+## 2026-05-10 第五十一轮候选池
+
+调研时间：2026-05-10 21:24 CST
+
+本轮已读 / 已核对：
+
+- `process.md`：上一轮未选中的 `520 婚姻登记排号单 / 毕业照补妆教室 / 漂色锡纸和洗头床 / 钢笔尖与黄铜镇尺 / 茶仓抽屉 / 钥匙铺胚钥匙墙` 按规则视为丢弃，本轮不直接沿用标题或同切口。
+- `assets/gallery.json`：当前核对为 `43` 个 batches、`50` 个 categories、`589` 个 items；最近批次为 `宠物登机软包 / 薄胎闻香杯 / 钟表师表带抽屉 / 拆信刀与黄铜回形针 / 中国15位公众人物代表场景 / 手冲台秩序`。
+- 避重复重点：继续避开已生成的咖啡杯、手冲台、自然石、旅行茶器、闻香杯、表带抽屉、拆信刀桌面、宠物登机、海缆登陆站、屋顶酒吧、Labubu、公众人物代表场景、博物馆背面、具身机器人、Orion 舷窗；也不回收前几轮未选的 Cannes 日本 IP 市场证、尼安德特人犀牛牙、外骨骼绑带、青少年早八闹钟、婚纱照选片室和 520 登记红本。
+- 本轮执行边界：只做选题前流程；不生成图片、不创建 batch metadata、不导入图库、不发布。
+
+本轮调研信号：
+
+- **AI 数据中心进入“自己带电厂”阶段**：2026-05-10 报道显示 ProPWR 将从 Caterpillar 获取最高 2.1GW 发电资产，用于数据中心、油气和工业客户；同时 Utah 对 Box Elder County 大型数据中心项目提出分阶段审批、首期 1.5GW 上限、空气和水冷再审查。相比旧候选 `AI 电表`，更适合从 `临时燃气发电机 / 许可听证会 / 冷却水表` 切入。
+- **数据中心电力争议有更强制度画面**：S&P Global 2026-05-06 报道美国数据中心用电需求继续快速上升，PJM 等电网讨论也指向账单、备用容量、天然气交易和并网排队；这是“AI 的物理账单”，不是大模型架构。
+- **GLP-1 正在把食物从“多吃少吃”改成“每一口值不值”**：FT 近日报导 Wegovy 口服药销售受美国 peptide 热潮推动；Food & Wine 报道蛋白咖啡正在被连锁咖啡品牌常态化；CookUnity、Bakery & Snacks 等行业报道强调 GLP-1 用户不是退出食品，而是在重排份量、蛋白、纤维和小餐频率。
+- **头发产业的热点从发色转向头皮和健康证据**：Vogue 2026-05 报道 haircare 可能成为美容大类增长焦点，背后有头皮健康、脱发污名降低、GLP-1 相关掉发焦虑、成分透明和临床证据；这比上一轮 `漂色锡纸` 更偏 `头皮检测摄像头 / 头发实验室 / 洗护证据链`。
+- **麻疹与污水监测仍是公共卫生高信号**：CDC 2026-04 更新显示 2026 年美国已报告 1,792 例麻疹病例，CDC 同时上线麻疹污水数据页面，强调污水监测可在社区层面辅助预警、提醒医疗机构并触发疫苗门诊。
+- **Cannes 即将开幕，但本轮避开日本 IP 市场**：AP 今日预热 2026 Cannes 片单，重点在 Park Chan-wook 任评审主席、Barbra Streisand / Peter Jackson 荣誉奖、国际作者电影和 AI 增强纪录片争议。若做 Cannes，应从 `片单批注 / 空放映厅 / 媒体场座位表` 切入电影观看秩序，而不是上一轮 Japan IP 交易桌。
+
+候选主题：
+
+1. 一台数据中心门口的临时燃气发电机，为什么 AI 公司开始把电厂带到门口
+   - 母题：AI 基础设施 / 能源政治 / 地方治理。
+   - 小切口：数据中心围栏外的一排移动燃气发电机、临时电缆、冷却水表和居民听证会。
+   - 大问题：AI 算力扩张正在把“云服务”重新变成电力、燃气、水、空气许可、居民账单和地方审批的硬问题。
+   - 可做 10-15 张：移动燃气机组、数据中心围栏、临时电缆沟、冷却塔水表、州长审批文件、居民听证会、空气监测仪、备用柴油机、变电站排队、夜间施工灯、天然气管线、PJM 调度室、居民电费单、消防巡检、被要求分阶段建设的园区沙盘。
+   - 避重复：不是旧候选 `AI 电表背后的新电网`，也不是已有大模型架构；本题抓最新的“behind-the-meter power / 自带发电 / 地方许可”现场。
+
+2. 一只 GLP-1 便当分格盒，为什么食物公司开始计算“每一口值不值”
+   - 母题：饮食消费 / 药物时代 / 食品产业重排。
+   - 小切口：办公室冰箱里一只小份高蛋白便当、蛋白咖啡杯、药盒和营养标签。
+   - 大问题：GLP-1 和 peptide 热潮不是简单让人少吃，而是在重写份量、饱腹感、蛋白密度、零食创新、餐饮菜单和身体观念。
+   - 可做 10-15 张：小份便当格、蛋白冷萃杯、药盒旁早餐、餐厅新菜单、厨房称量勺、营养师桌面、办公室冰箱、超市蛋白货架、品牌研发试吃、食品工厂小包装线、家庭晚餐剩半盘、运动包里的奶昔、医生随访、朋友聚餐分餐、未来“高价值一口”便利店。
+   - 避重复：不同于巧克力价格黏性、咖啡杯或手冲台；本题不是器物审美，而是药物如何改变食品系统和日常吃法。
+
+3. 一台头皮检测摄像头，为什么护发正在变成新一代“状态管理”
+   - 母题：美容健康 / 自我监测 / 身体证据。
+   - 小切口：美发店或皮肤科桌上的头皮检测摄像头、发缝照片、精华小瓶和洗护记录卡。
+   - 大问题：头发焦虑从发型和发色转向头皮健康、脱发风险、成分透明、临床证据和长期管理，美容行业正在把头发包装成可量化的健康项目。
+   - 可做 10-15 张：头皮摄像头、发缝特写、洗头床白灯、精华小瓶冷藏盒、成分实验台、梳子上的落发、医生问诊、药妆店货架、沙龙检测报告空白页、GLP-1 掉发讨论桌、居家洗护日历、浴室排水口、朋友互拍发顶、品牌研发室、三个月后的对比镜。
+   - 避重复：不重复上一轮 `漂色锡纸和洗头床`，也不走轻医美冰敷面罩；本题切到头皮健康、检测和证据链。
+
+4. 一瓶麻疹污水样本，怎样让一座城市在症状出现前先紧张起来
+   - 母题：公共卫生 / 城市监测 / 数据到行动。
+   - 小切口：污水处理厂冷藏箱里的一瓶样本、PCR 实验台和地图上的一个检测点。
+   - 大问题：公共卫生正在从“等病人上门”变成社区级预警系统；污水、实验室、学校、诊所和疫苗门诊如何连成一条城市反应链。
+   - 可做 10-15 张：污水采样棒、冷藏样本箱、PCR 管架、地图检测点、地方卫生局夜班、儿科诊所提醒、学校护士室、疫苗流动站、社区公告栏、旅行病例追踪、假阴性讨论、数据延迟看板、医生电话会、检测解除后的空地图、重新归档的样本瓶。
+   - 避重复：与旧候选 One Health 和饮用水隐形清单不同，本题是麻疹和城市预警；不是病原体机理图，而是公共卫生操作链。
+
+5. 一张 Cannes 媒体场座位表，为什么电影节真正紧张的不是红毯，而是第一批看片的人
+   - 母题：电影文化 / 评价机器 / 全球注意力。
+   - 小切口：开幕前媒体场门口的座位表、片单批注、影评人笔记本和空放映厅。
+   - 大问题：电影节如何把一部电影从首映、媒体评价、奖项赔率、争议片段、发行买片和社媒口碑推上全球注意力链条。
+   - 可做 10-15 张：媒体证件、座位表、空放映厅、片单荧光笔、影评人笔记本、字幕测试屏、评审团走廊、首映后掌声计时、深夜影评截稿、争议纪录片讨论、发行方电话、酒店大堂采访、奖项赔率白板、闭幕前红椅、撤下的电影海报。
+   - 避重复：不做上一轮 Cannes 日本 IP 市场证，也不做红毯礼服；本题聚焦“第一批观看者如何制造电影命运”。
+
+6. 一只蛋白咖啡杯，为什么咖啡店越来越像小型营养补给站
+   - 母题：饮料消费 / 功能食品 / 健康便利化。
+   - 小切口：外卖台上一杯 protein cold foam 咖啡、旁边是健身包、办公室工牌和早餐没吃完的纸袋。
+   - 大问题：咖啡正在从情绪饮料变成蛋白、饱腹、能量管理和工作日效率的入口，连锁品牌把“顺手买一杯”改造成营养补给场景。
+   - 可做 10-15 张：蛋白冷泡杯、吧台粉勺、健身包、地铁通勤、办公室早餐、菜单新品小牌、营养标签、午后加餐、便利店冷柜、学生自习桌、外卖骑手杯架、品牌试饮、朋友讨论热量、夜间加班杯、空杯旁的蛋白粉罐。
+   - 避重复：虽然与咖啡有关，但不重复 `咖啡杯审美简历` 和 `手冲台秩序`；它不是器物收藏，而是功能饮料和健康消费。
+
+本轮建议：
+
+- 首推：`一只 GLP-1 便当分格盒，为什么食物公司开始计算“每一口值不值”`。现实热度和知识纵深都强，能从药物、身体、食品公司、办公室饭盒一路画到便利店货架。
+- 次推：`一台数据中心门口的临时燃气发电机，为什么 AI 公司开始把电厂带到门口`。新闻强、冲突强，视觉上有机器、园区、听证会和地方治理，不落入泛 AI 架构。
+- 第三推：`一台头皮检测摄像头，为什么护发正在变成新一代“状态管理”`。小红书感强，但比漂发/医美更有新产业逻辑。
+- 公共卫生备选：`一瓶麻疹污水样本，怎样让一座城市在症状出现前先紧张起来`。
+- 文化热点备选：`一张 Cannes 媒体场座位表，为什么电影节真正紧张的不是红毯，而是第一批看片的人`。
+- 咖啡健康备选：`一只蛋白咖啡杯，为什么咖啡店越来越像小型营养补给站`。
+
+参考来源：
+
+- 系统时间核对：`date '+%Y-%m-%d %H:%M:%S %Z'` -> `2026-05-10 21:24:08 CST`。
+- Midland Reporter-Telegram，`ProPWR to acquire power generation assets from Caterpillar`，2026-05-10。
+- Business Insider，`Utah's governor has made it harder for Kevin O'Leary to build his data center`，2026-05-10。
+- S&P Global，`Surging US data center power demand tests sustainability targets`，2026-05-06。
+- Financial Times，`Novo Nordisk says US peptide craze boosting Wegovy weight-loss pill sales`，2026-05-06。
+- Food & Wine，`Is Starbucks Turning Protein Coffee Into the New Normal?`，2026-05-06。
+- Vogue，`Is Haircare About to Become a Big Deal?`，2026-05-08。
+- CDC，`Measles Cases and Outbreaks`，2026-04-24；`Wastewater Data for Measles`，2026-04-10。
+- AP News，`The Cannes Film Festival is about to begin. Here are the key films making their debut`，2026-05-10。
+
+执行状态：
+
+- `process.md` 已追加本轮调研信号、6 个候选主题和去重边界。
+- 本轮只做选题，不生成图片、不创建 batch metadata、不导入图库、不发布；等待用户明确选择主题后再进入生图流程。
+
+## 2026-05-10 第五十轮三组小物批次启动
+
+执行时间：2026-05-10 21:46 +0800
+
+用户已明确选择第五十轮中的 `4 / 5 / 6` 三个方向，并要求 **3 个分别生成**。
+
+已选主题：
+
+- `4` 一盘钢笔尖、吸墨纸和黄铜镇尺，为什么越来越多人想把写字这件事过成一套随身 EDC 礼仪
+- `5` 一只茶仓抽屉里的茶荷、银茶则和白瓷公道杯，为什么真正让人上头的是把器物排成自己的安静秩序
+- `6` 一家钥匙铺的胚钥匙墙和黄铜圆牌，为什么最不起眼的 everyday object 反而最容易暴露一个人的生活半径
+
+已创建 batch metadata：
+
+- `fountain-pen-nibs-brass-writing-edc-ritual-2026-05-10` -> `batches/fountain-pen-nibs-brass-writing-edc-ritual-2026-05-10.json`（12 items）
+- `tea-storage-drawer-quiet-order-2026-05-10` -> `batches/tea-storage-drawer-quiet-order-2026-05-10.json`（12 items）
+- `key-shop-blank-key-wall-life-radius-2026-05-10` -> `batches/key-shop-blank-key-wall-life-radius-2026-05-10.json`（12 items）
+
+执行决策：
+
+- 三组分别进入 Tryimage2 三阶段异步流程，不合并为一个 mega-batch。
+- 继续走 Codex/OpenAI 生图路线。
+- 已完成 queue topic 与 generation worker 预检。
+- 已启动 3 个后台生图任务：
+  - `proc_91dc5fd22553` -> `fountain-pen-nibs-brass-writing-edc-ritual-2026-05-10`
+  - `proc_ee6bdbf613e8` -> `tea-storage-drawer-quiet-order-2026-05-10`
+  - `proc_1720f7c2a212` -> `key-shop-blank-key-wall-life-radius-2026-05-10`
+- 生图完成情况：
+  - `fountain-pen-nibs-brass-writing-edc-ritual-2026-05-10`：`12 / 12`，已进入 `workflow/generation/done/` 与 `workflow/publish/pending/`
+  - `tea-storage-drawer-quiet-order-2026-05-10`：`12 / 12`，已进入 `workflow/generation/done/` 与 `workflow/publish/pending/`
+  - `key-shop-blank-key-wall-life-radius-2026-05-10`：`12 / 12`，已进入 `workflow/generation/done/` 与 `workflow/publish/pending/`
+- 三组生图都出现过 `ERROR codex_core::session: failed to record rollout items: thread ... not found`，其中茶仓批次还出现过 `ERROR: Reconnecting... 2/5`；但均属非致命日志，未阻塞图片生成，最终 3 组都完整产出 12 张。
+- 已导入图库：
+  - `assets/images/<batch-id>/` 各 `12` 张
+  - `assets/thumbs/<batch-id>/` 各 `12` 张
+  - `assets/gallery.json` 已新增 `3` 个 batches、`3` 个 categories、`36` 个 items
+- 当前总量相对 `origin/main`：`43 -> 46` batches，`50 -> 53` categories，`589 -> 625` items。
+- 导入时 ImageMagick 缩略图继续失败，仍走 `sips` PNG fallback；contact sheet 未重建，但不影响 gallery 导入。
+
+## Workflow pipeline updates
+
+- 2026-05-10T13:50:58.605Z Stage 1 选题入队：一盘钢笔尖、吸墨纸和黄铜镇尺，为什么越来越多人想把写字这件事过成一套随身 EDC 礼仪
+  - topicId: `2026-05-10-一盘钢笔尖-吸墨纸和黄铜镇尺-为什么越来越多人想把写字这件事过成一套随身-edc-礼仪`
+  - lane: small-object
+  - generation.batchId: fountain-pen-nibs-brass-writing-edc-ritual-2026-05-10
+  - generation.metadataPath: batches/fountain-pen-nibs-brass-writing-edc-ritual-2026-05-10.json
+  - generation.itemCount: 12
+
+
+## Workflow pipeline updates
+
+- 2026-05-10T13:51:00.143Z Stage 1 选题入队：一只茶仓抽屉里的茶荷、银茶则和白瓷公道杯，为什么真正让人上头的是把器物排成自己的安静秩序
+  - topicId: `2026-05-10-一只茶仓抽屉里的茶荷-银茶则和白瓷公道杯-为什么真正让人上头的是把器物排成自己的安静秩序`
+  - lane: small-object
+  - generation.batchId: tea-storage-drawer-quiet-order-2026-05-10
+  - generation.metadataPath: batches/tea-storage-drawer-quiet-order-2026-05-10.json
+  - generation.itemCount: 12
+
+
+## Workflow pipeline updates
+
+- 2026-05-10T13:51:01.579Z Stage 1 选题入队：一家钥匙铺的胚钥匙墙和黄铜圆牌，为什么最不起眼的 everyday object 反而最容易暴露一个人的生活半径
+  - topicId: `2026-05-10-一家钥匙铺的胚钥匙墙和黄铜圆牌-为什么最不起眼的-everyday-object-反而最容易暴露一个人的生活半径`
+  - lane: small-object
+  - generation.batchId: key-shop-blank-key-wall-life-radius-2026-05-10
+  - generation.metadataPath: batches/key-shop-blank-key-wall-life-radius-2026-05-10.json
+  - generation.itemCount: 12
+
+
+## Workflow pipeline updates
+
+- 2026-05-10T13:51:33.244Z Stage 2 开始生图：一盘钢笔尖、吸墨纸和黄铜镇尺，为什么越来越多人想把写字这件事过成一套随身 EDC 礼仪
+  - batchId: `fountain-pen-nibs-brass-writing-edc-ritual-2026-05-10`
+  - metadataPath: `batches/fountain-pen-nibs-brass-writing-edc-ritual-2026-05-10.json`
+  - itemCount: 12
+  - metadataSource: existing-batch-metadata
+
+
+## Workflow pipeline updates
+
+- 2026-05-10T13:51:34.394Z Stage 2 开始生图：一只茶仓抽屉里的茶荷、银茶则和白瓷公道杯，为什么真正让人上头的是把器物排成自己的安静秩序
+  - batchId: `tea-storage-drawer-quiet-order-2026-05-10`
+  - metadataPath: `batches/tea-storage-drawer-quiet-order-2026-05-10.json`
+  - itemCount: 12
+  - metadataSource: existing-batch-metadata
+
+
+## Workflow pipeline updates
+
+- 2026-05-10T13:51:35.612Z Stage 2 开始生图：一家钥匙铺的胚钥匙墙和黄铜圆牌，为什么最不起眼的 everyday object 反而最容易暴露一个人的生活半径
+  - batchId: `key-shop-blank-key-wall-life-radius-2026-05-10`
+  - metadataPath: `batches/key-shop-blank-key-wall-life-radius-2026-05-10.json`
+  - itemCount: 12
+  - metadataSource: existing-batch-metadata
+
+
+## Workflow pipeline updates
+
+- 2026-05-10T14:18:28.460Z Stage 2 生图完成：一盘钢笔尖、吸墨纸和黄铜镇尺，为什么越来越多人想把写字这件事过成一套随身 EDC 礼仪
+  - batchId: `fountain-pen-nibs-brass-writing-edc-ritual-2026-05-10`
+  - outputDir: `tmp/fountain-pen-nibs-brass-writing-edc-ritual-2026-05-10`
+  - itemCount: 12
+  - next: Stage 3 publish pending
+
+
+## Workflow pipeline updates
+
+- 2026-05-10T14:18:49.306Z Stage 2 生图完成：一只茶仓抽屉里的茶荷、银茶则和白瓷公道杯，为什么真正让人上头的是把器物排成自己的安静秩序
+  - batchId: `tea-storage-drawer-quiet-order-2026-05-10`
+  - outputDir: `tmp/tea-storage-drawer-quiet-order-2026-05-10`
+  - itemCount: 12
+  - next: Stage 3 publish pending
+
+
+## Workflow pipeline updates
+
+- 2026-05-10T14:20:09.146Z Stage 2 生图完成：一家钥匙铺的胚钥匙墙和黄铜圆牌，为什么最不起眼的 everyday object 反而最容易暴露一个人的生活半径
+  - batchId: `key-shop-blank-key-wall-life-radius-2026-05-10`
+  - outputDir: `tmp/key-shop-blank-key-wall-life-radius-2026-05-10`
+  - itemCount: 12
+  - next: Stage 3 publish pending
+

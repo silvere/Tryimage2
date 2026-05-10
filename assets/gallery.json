@@ -1,7 +1,7 @@
 {
   "site": {
     "title": "OpenAI image2 视觉实验",
-    "subtitle": "589 张传播向 AI 海报",
+    "subtitle": "625 张传播向 AI 海报",
     "headline": "OpenAI image2 视觉实验",
     "intro": "每一批图片围绕一个临时主题生成，并按当次最合适的 category 归档；可以是反差创意、真实场景、产品概念、人物叙事或任何新的视觉方向。",
     "coverImage": "assets/contact_sheet_image2.jpg",
@@ -210,6 +210,18 @@
     {
       "id": "pour-over-station-order-more-addictive-than-cups",
       "label": "手冲台秩序"
+    },
+    {
+      "id": "fountain-pen-nibs-brass-writing-edc-ritual",
+      "label": "钢笔尖与黄铜镇尺"
+    },
+    {
+      "id": "tea-storage-drawer-quiet-order",
+      "label": "茶仓抽屉秩序"
+    },
+    {
+      "id": "key-shop-blank-key-wall-life-radius",
+      "label": "钥匙铺胚钥匙墙"
     }
   ],
   "batches": [
@@ -468,6 +480,24 @@
     {
       "id": "pour-over-station-order-more-addictive-than-cups-2026-05-10",
       "theme": "一排咖啡滤杯和分享壶，为什么咖啡杯之后真正让人上瘾的是“手冲台秩序”",
+      "createdAt": "2026-05-10",
+      "count": 12
+    },
+    {
+      "id": "fountain-pen-nibs-brass-writing-edc-ritual-2026-05-10",
+      "theme": "一盘钢笔尖、吸墨纸和黄铜镇尺，为什么越来越多人想把写字这件事过成一套随身 EDC 礼仪",
+      "createdAt": "2026-05-10",
+      "count": 12
+    },
+    {
+      "id": "tea-storage-drawer-quiet-order-2026-05-10",
+      "theme": "一只茶仓抽屉里的茶荷、银茶则和白瓷公道杯，为什么真正让人上头的是把器物排成自己的安静秩序",
+      "createdAt": "2026-05-10",
+      "count": 12
+    },
+    {
+      "id": "key-shop-blank-key-wall-life-radius-2026-05-10",
+      "theme": "一家钥匙铺的胚钥匙墙和黄铜圆牌，为什么最不起眼的 everyday object 反而最容易暴露一个人的生活半径",
       "createdAt": "2026-05-10",
       "count": 12
     }
@@ -6936,6 +6966,402 @@
       "thumb": "assets/thumbs/pour-over-station-order-more-addictive-than-cups-2026-05-10/12_收纳抽屉里按顺序排好的滤纸和量豆勺.png",
       "description": "最让人着迷的不是成品咖啡，而是抽屉一拉开就能看到的那种日常自我管理。",
       "prompt": "Horizontal documentary editorial photograph, storage drawer arranged with stacked coffee filters, scoops, cloths and small brewing tools in perfect order, tactile close-up organization aesthetics, no logos, no readable text."
+    },
+    {
+      "id": "fountain-pen-nibs-brass-writing-edc-ritual-2026-05-10_01_皮笔袋旁摊开的钢笔尖和吸墨纸",
+      "batch": "fountain-pen-nibs-brass-writing-edc-ritual-2026-05-10",
+      "category": "fountain-pen-nibs-brass-writing-edc-ritual",
+      "number": "01",
+      "title": "皮笔袋旁摊开的钢笔尖和吸墨纸",
+      "image": "assets/images/fountain-pen-nibs-brass-writing-edc-ritual-2026-05-10/01_皮笔袋旁摊开的钢笔尖和吸墨纸.png",
+      "thumb": "assets/thumbs/fountain-pen-nibs-brass-writing-edc-ritual-2026-05-10/01_皮笔袋旁摊开的钢笔尖和吸墨纸.png",
+      "description": "一摊开就能看出写字不是效率工具，而是一整套被精心挑选过的随身礼仪。",
+      "prompt": "Horizontal documentary editorial photograph, fountain pen nibs, blotting paper, and a leather pen pouch spread on a desk, tactile brass and paper textures, Xiaohongshu-worthy stationary EDC atmosphere, no logos, no readable text."
+    },
+    {
+      "id": "fountain-pen-nibs-brass-writing-edc-ritual-2026-05-10_02_黄铜镇尺压住一页刚写完的信纸",
+      "batch": "fountain-pen-nibs-brass-writing-edc-ritual-2026-05-10",
+      "category": "fountain-pen-nibs-brass-writing-edc-ritual",
+      "number": "02",
+      "title": "黄铜镇尺压住一页刚写完的信纸",
+      "image": "assets/images/fountain-pen-nibs-brass-writing-edc-ritual-2026-05-10/02_黄铜镇尺压住一页刚写完的信纸.png",
+      "thumb": "assets/thumbs/fountain-pen-nibs-brass-writing-edc-ritual-2026-05-10/02_黄铜镇尺压住一页刚写完的信纸.png",
+      "description": "黄铜压在纸页上的重量，会让人立刻相信有人真的认真对待每一次落笔。",
+      "prompt": "Horizontal documentary editorial photograph, a brass paperweight holding down a freshly written letter sheet, elegant analog writing ritual, warm desk light, no logos, no readable text."
+    },
+    {
+      "id": "fountain-pen-nibs-brass-writing-edc-ritual-2026-05-10_03_晨光里排开的三枚不同笔尖",
+      "batch": "fountain-pen-nibs-brass-writing-edc-ritual-2026-05-10",
+      "category": "fountain-pen-nibs-brass-writing-edc-ritual",
+      "number": "03",
+      "title": "晨光里排开的三枚不同笔尖",
+      "image": "assets/images/fountain-pen-nibs-brass-writing-edc-ritual-2026-05-10/03_晨光里排开的三枚不同笔尖.png",
+      "thumb": "assets/thumbs/fountain-pen-nibs-brass-writing-edc-ritual-2026-05-10/03_晨光里排开的三枚不同笔尖.png",
+      "description": "同样是钢笔尖，排开的差别本身就足够构成成年人的器物偏好。",
+      "prompt": "Horizontal documentary editorial photograph, three different fountain pen nibs lined up in morning side light, macro metal detail, collector-like arrangement, no logos, no readable text."
+    },
+    {
+      "id": "fountain-pen-nibs-brass-writing-edc-ritual-2026-05-10_04_吸墨纸边缘留下深浅不同的墨迹",
+      "batch": "fountain-pen-nibs-brass-writing-edc-ritual-2026-05-10",
+      "category": "fountain-pen-nibs-brass-writing-edc-ritual",
+      "number": "04",
+      "title": "吸墨纸边缘留下深浅不同的墨迹",
+      "image": "assets/images/fountain-pen-nibs-brass-writing-edc-ritual-2026-05-10/04_吸墨纸边缘留下深浅不同的墨迹.png",
+      "thumb": "assets/thumbs/fountain-pen-nibs-brass-writing-edc-ritual-2026-05-10/04_吸墨纸边缘留下深浅不同的墨迹.png",
+      "description": "吸墨纸上那点不均匀的墨色，比任何教程都更像真实写字生活。",
+      "prompt": "Horizontal documentary editorial photograph, blotting paper edges stained with varying ink tones, intimate analog stationery realism, close-up texture, no logos, no readable text."
+    },
+    {
+      "id": "fountain-pen-nibs-brass-writing-edc-ritual-2026-05-10_05_办公桌角落的一支钢笔和一块旧镇尺",
+      "batch": "fountain-pen-nibs-brass-writing-edc-ritual-2026-05-10",
+      "category": "fountain-pen-nibs-brass-writing-edc-ritual",
+      "number": "05",
+      "title": "办公桌角落的一支钢笔和一块旧镇尺",
+      "image": "assets/images/fountain-pen-nibs-brass-writing-edc-ritual-2026-05-10/05_办公桌角落的一支钢笔和一块旧镇尺.png",
+      "thumb": "assets/thumbs/fountain-pen-nibs-brass-writing-edc-ritual-2026-05-10/05_办公桌角落的一支钢笔和一块旧镇尺.png",
+      "description": "一支钢笔和一块旧镇尺放在桌角，会让整个工位突然像有了人物设定。",
+      "prompt": "Horizontal documentary editorial photograph, a single fountain pen and an aged brass paperweight at the corner of an office desk, understated literary EDC mood, no logos, no readable text."
+    },
+    {
+      "id": "fountain-pen-nibs-brass-writing-edc-ritual-2026-05-10_06_拆开的墨水瓶旁放着待擦拭的笔尖",
+      "batch": "fountain-pen-nibs-brass-writing-edc-ritual-2026-05-10",
+      "category": "fountain-pen-nibs-brass-writing-edc-ritual",
+      "number": "06",
+      "title": "拆开的墨水瓶旁放着待擦拭的笔尖",
+      "image": "assets/images/fountain-pen-nibs-brass-writing-edc-ritual-2026-05-10/06_拆开的墨水瓶旁放着待擦拭的笔尖.png",
+      "thumb": "assets/thumbs/fountain-pen-nibs-brass-writing-edc-ritual-2026-05-10/06_拆开的墨水瓶旁放着待擦拭的笔尖.png",
+      "description": "真正会上瘾的不是字，而是每次写前写后那种必须照顾器物的手感。",
+      "prompt": "Horizontal documentary editorial photograph, opened ink bottle beside fountain pen nibs ready to be wiped, realistic maintenance ritual, brass and glass textures, no logos, no readable text."
+    },
+    {
+      "id": "fountain-pen-nibs-brass-writing-edc-ritual-2026-05-10_07_旅途中收进笔盒的一套随身写字工具",
+      "batch": "fountain-pen-nibs-brass-writing-edc-ritual-2026-05-10",
+      "category": "fountain-pen-nibs-brass-writing-edc-ritual",
+      "number": "07",
+      "title": "旅途中收进笔盒的一套随身写字工具",
+      "image": "assets/images/fountain-pen-nibs-brass-writing-edc-ritual-2026-05-10/07_旅途中收进笔盒的一套随身写字工具.png",
+      "thumb": "assets/thumbs/fountain-pen-nibs-brass-writing-edc-ritual-2026-05-10/07_旅途中收进笔盒的一套随身写字工具.png",
+      "description": "随身带着这一套的人，想晒的往往不是文具，而是一种生活秩序。",
+      "prompt": "Horizontal documentary editorial photograph, a travel pen case packed with fountain pen, blotting paper, and brass accessories, organized writing EDC kit, no logos, no readable text."
+    },
+    {
+      "id": "fountain-pen-nibs-brass-writing-edc-ritual-2026-05-10_08_旧书页上临时试写的一排墨线",
+      "batch": "fountain-pen-nibs-brass-writing-edc-ritual-2026-05-10",
+      "category": "fountain-pen-nibs-brass-writing-edc-ritual",
+      "number": "08",
+      "title": "旧书页上临时试写的一排墨线",
+      "image": "assets/images/fountain-pen-nibs-brass-writing-edc-ritual-2026-05-10/08_旧书页上临时试写的一排墨线.png",
+      "thumb": "assets/thumbs/fountain-pen-nibs-brass-writing-edc-ritual-2026-05-10/08_旧书页上临时试写的一排墨线.png",
+      "description": "试写的那几条墨线，会让桌面看起来像一场安静但有标准的仪式。",
+      "prompt": "Horizontal documentary editorial photograph, test ink lines on an old book page beside a fountain pen nib, literary stationery setup, warm realism, no logos, no readable text."
+    },
+    {
+      "id": "fountain-pen-nibs-brass-writing-edc-ritual-2026-05-10_09_木托盘里分类放好的笔尖和镇尺",
+      "batch": "fountain-pen-nibs-brass-writing-edc-ritual-2026-05-10",
+      "category": "fountain-pen-nibs-brass-writing-edc-ritual",
+      "number": "09",
+      "title": "木托盘里分类放好的笔尖和镇尺",
+      "image": "assets/images/fountain-pen-nibs-brass-writing-edc-ritual-2026-05-10/09_木托盘里分类放好的笔尖和镇尺.png",
+      "thumb": "assets/thumbs/fountain-pen-nibs-brass-writing-edc-ritual-2026-05-10/09_木托盘里分类放好的笔尖和镇尺.png",
+      "description": "分类摆好的器物最容易让人停下来看，因为秩序本身就有保存欲。",
+      "prompt": "Horizontal documentary editorial photograph, fountain pen nibs and brass paperweights organized by type in a wooden tray, collector order and tactile beauty, no logos, no readable text."
+    },
+    {
+      "id": "fountain-pen-nibs-brass-writing-edc-ritual-2026-05-10_10_夜灯下擦拭笔尖的手和白棉布",
+      "batch": "fountain-pen-nibs-brass-writing-edc-ritual-2026-05-10",
+      "category": "fountain-pen-nibs-brass-writing-edc-ritual",
+      "number": "10",
+      "title": "夜灯下擦拭笔尖的手和白棉布",
+      "image": "assets/images/fountain-pen-nibs-brass-writing-edc-ritual-2026-05-10/10_夜灯下擦拭笔尖的手和白棉布.png",
+      "thumb": "assets/thumbs/fountain-pen-nibs-brass-writing-edc-ritual-2026-05-10/10_夜灯下擦拭笔尖的手和白棉布.png",
+      "description": "擦拭笔尖的动作很像收心，适合做一组图里最有情绪的结尾段。",
+      "prompt": "Horizontal documentary editorial photograph, hands wiping a fountain pen nib with white cotton cloth under a warm night lamp, intimate ritual ending, no logos, no readable text."
+    },
+    {
+      "id": "fountain-pen-nibs-brass-writing-edc-ritual-2026-05-10_11_会议前放在笔记本上的钢笔和吸墨纸",
+      "batch": "fountain-pen-nibs-brass-writing-edc-ritual-2026-05-10",
+      "category": "fountain-pen-nibs-brass-writing-edc-ritual",
+      "number": "11",
+      "title": "会议前放在笔记本上的钢笔和吸墨纸",
+      "image": "assets/images/fountain-pen-nibs-brass-writing-edc-ritual-2026-05-10/11_会议前放在笔记本上的钢笔和吸墨纸.png",
+      "thumb": "assets/thumbs/fountain-pen-nibs-brass-writing-edc-ritual-2026-05-10/11_会议前放在笔记本上的钢笔和吸墨纸.png",
+      "description": "开会前先摆好钢笔和吸墨纸的人，连工作状态都像被重新装帧过。",
+      "prompt": "Horizontal documentary editorial photograph, fountain pen and blotting paper placed on a notebook before a meeting, polished analog work ritual, no logos, no readable text."
+    },
+    {
+      "id": "fountain-pen-nibs-brass-writing-edc-ritual-2026-05-10_12_收纳盒里并排躺着的金银双色笔尖",
+      "batch": "fountain-pen-nibs-brass-writing-edc-ritual-2026-05-10",
+      "category": "fountain-pen-nibs-brass-writing-edc-ritual",
+      "number": "12",
+      "title": "收纳盒里并排躺着的金银双色笔尖",
+      "image": "assets/images/fountain-pen-nibs-brass-writing-edc-ritual-2026-05-10/12_收纳盒里并排躺着的金银双色笔尖.png",
+      "thumb": "assets/thumbs/fountain-pen-nibs-brass-writing-edc-ritual-2026-05-10/12_收纳盒里并排躺着的金银双色笔尖.png",
+      "description": "最后收回盒子里的金属光泽，会让这套写字 EDC 像一种微型收藏。",
+      "prompt": "Horizontal documentary editorial photograph, gold and silver fountain pen nibs resting side by side in a storage box, reflective metal detail, collector ending frame, no logos, no readable text."
+    },
+    {
+      "id": "tea-storage-drawer-quiet-order-2026-05-10_01_拉开茶仓抽屉露出整齐排布的茶荷和茶则",
+      "batch": "tea-storage-drawer-quiet-order-2026-05-10",
+      "category": "tea-storage-drawer-quiet-order",
+      "number": "01",
+      "title": "拉开茶仓抽屉露出整齐排布的茶荷和茶则",
+      "image": "assets/images/tea-storage-drawer-quiet-order-2026-05-10/01_拉开茶仓抽屉露出整齐排布的茶荷和茶则.png",
+      "thumb": "assets/thumbs/tea-storage-drawer-quiet-order-2026-05-10/01_拉开茶仓抽屉露出整齐排布的茶荷和茶则.png",
+      "description": "抽屉一拉开就能看出这不是喝茶道具，而是一套被反复整理过的安静秩序。",
+      "prompt": "Horizontal documentary editorial photograph, a tea storage drawer opening to reveal neatly arranged tea scoops and silver tea tools, calm adult collecting ritual, no logos, no readable text."
+    },
+    {
+      "id": "tea-storage-drawer-quiet-order-2026-05-10_02_白瓷公道杯和亚麻布并排靠在抽屉边",
+      "batch": "tea-storage-drawer-quiet-order-2026-05-10",
+      "category": "tea-storage-drawer-quiet-order",
+      "number": "02",
+      "title": "白瓷公道杯和亚麻布并排靠在抽屉边",
+      "image": "assets/images/tea-storage-drawer-quiet-order-2026-05-10/02_白瓷公道杯和亚麻布并排靠在抽屉边.png",
+      "thumb": "assets/thumbs/tea-storage-drawer-quiet-order-2026-05-10/02_白瓷公道杯和亚麻布并排靠在抽屉边.png",
+      "description": "白瓷和亚麻并排的时候，整个茶仓会有一种近乎过分克制的美。",
+      "prompt": "Horizontal documentary editorial photograph, white porcelain fairness cup beside folded linen at the edge of a tea drawer, restrained tactile elegance, no logos, no readable text."
+    },
+    {
+      "id": "tea-storage-drawer-quiet-order-2026-05-10_03_银茶则在晨光里压出一条冷白反光",
+      "batch": "tea-storage-drawer-quiet-order-2026-05-10",
+      "category": "tea-storage-drawer-quiet-order",
+      "number": "03",
+      "title": "银茶则在晨光里压出一条冷白反光",
+      "image": "assets/images/tea-storage-drawer-quiet-order-2026-05-10/03_银茶则在晨光里压出一条冷白反光.png",
+      "thumb": "assets/thumbs/tea-storage-drawer-quiet-order-2026-05-10/03_银茶则在晨光里压出一条冷白反光.png",
+      "description": "银器那条细细的反光，会让人理解为什么有人愿意为一只茶则反复比较。",
+      "prompt": "Horizontal documentary editorial photograph, a silver tea scoop catching a cool strip of morning light inside a tea drawer, fine metal detail, no logos, no readable text."
+    },
+    {
+      "id": "tea-storage-drawer-quiet-order-2026-05-10_04_木格抽屉里分区放好的茶荷和小茶匙",
+      "batch": "tea-storage-drawer-quiet-order-2026-05-10",
+      "category": "tea-storage-drawer-quiet-order",
+      "number": "04",
+      "title": "木格抽屉里分区放好的茶荷和小茶匙",
+      "image": "assets/images/tea-storage-drawer-quiet-order-2026-05-10/04_木格抽屉里分区放好的茶荷和小茶匙.png",
+      "thumb": "assets/thumbs/tea-storage-drawer-quiet-order-2026-05-10/04_木格抽屉里分区放好的茶荷和小茶匙.png",
+      "description": "分格收纳会把普通器物变成一种可以被模仿的生活样板。",
+      "prompt": "Horizontal documentary editorial photograph, tea scoops and small tea spoons sorted into wooden drawer compartments, orderly collector arrangement, no logos, no readable text."
+    },
+    {
+      "id": "tea-storage-drawer-quiet-order-2026-05-10_05_收席后倒扣晾着的白瓷公道杯",
+      "batch": "tea-storage-drawer-quiet-order-2026-05-10",
+      "category": "tea-storage-drawer-quiet-order",
+      "number": "05",
+      "title": "收席后倒扣晾着的白瓷公道杯",
+      "image": "assets/images/tea-storage-drawer-quiet-order-2026-05-10/05_收席后倒扣晾着的白瓷公道杯.png",
+      "thumb": "assets/thumbs/tea-storage-drawer-quiet-order-2026-05-10/05_收席后倒扣晾着的白瓷公道杯.png",
+      "description": "倒扣晾着的时刻比正式泡茶更像真实生活，也更容易让人保存。",
+      "prompt": "Horizontal documentary editorial photograph, white porcelain fairness cup upside down to dry after tea service, subtle domestic tea ritual, no logos, no readable text."
+    },
+    {
+      "id": "tea-storage-drawer-quiet-order-2026-05-10_06_茶荷边缘留着一点未扫净的茶末",
+      "batch": "tea-storage-drawer-quiet-order-2026-05-10",
+      "category": "tea-storage-drawer-quiet-order",
+      "number": "06",
+      "title": "茶荷边缘留着一点未扫净的茶末",
+      "image": "assets/images/tea-storage-drawer-quiet-order-2026-05-10/06_茶荷边缘留着一点未扫净的茶末.png",
+      "thumb": "assets/thumbs/tea-storage-drawer-quiet-order-2026-05-10/06_茶荷边缘留着一点未扫净的茶末.png",
+      "description": "那一点没有完全扫净的茶末，会让整组画面从摆拍变成真正有人用过。",
+      "prompt": "Horizontal documentary editorial photograph, a tea scoop with a trace of loose tea leaves still on the edge, intimate realism and tactile calm, no logos, no readable text."
+    },
+    {
+      "id": "tea-storage-drawer-quiet-order-2026-05-10_07_深色木抽屉里一字排开的三只白瓷杯",
+      "batch": "tea-storage-drawer-quiet-order-2026-05-10",
+      "category": "tea-storage-drawer-quiet-order",
+      "number": "07",
+      "title": "深色木抽屉里一字排开的三只白瓷杯",
+      "image": "assets/images/tea-storage-drawer-quiet-order-2026-05-10/07_深色木抽屉里一字排开的三只白瓷杯.png",
+      "thumb": "assets/thumbs/tea-storage-drawer-quiet-order-2026-05-10/07_深色木抽屉里一字排开的三只白瓷杯.png",
+      "description": "白瓷在深木里的留白感，会让器物比茶汤本身更像主角。",
+      "prompt": "Horizontal documentary editorial photograph, three white porcelain cups lined up inside a dark wood drawer, minimalist contrast and calm collecting aesthetic, no logos, no readable text."
+    },
+    {
+      "id": "tea-storage-drawer-quiet-order-2026-05-10_08_茶巾下露出半截银茶则和木柄夹子",
+      "batch": "tea-storage-drawer-quiet-order-2026-05-10",
+      "category": "tea-storage-drawer-quiet-order",
+      "number": "08",
+      "title": "茶巾下露出半截银茶则和木柄夹子",
+      "image": "assets/images/tea-storage-drawer-quiet-order-2026-05-10/08_茶巾下露出半截银茶则和木柄夹子.png",
+      "thumb": "assets/thumbs/tea-storage-drawer-quiet-order-2026-05-10/08_茶巾下露出半截银茶则和木柄夹子.png",
+      "description": "半藏半露的工具最有故事感，也最像成年人的私密偏好。",
+      "prompt": "Horizontal documentary editorial photograph, half-hidden silver tea scoop and wooden clip under a tea towel, quiet intimate still-life, no logos, no readable text."
+    },
+    {
+      "id": "tea-storage-drawer-quiet-order-2026-05-10_09_准备待客前先在抽屉里重新摆正器物",
+      "batch": "tea-storage-drawer-quiet-order-2026-05-10",
+      "category": "tea-storage-drawer-quiet-order",
+      "number": "09",
+      "title": "准备待客前先在抽屉里重新摆正器物",
+      "image": "assets/images/tea-storage-drawer-quiet-order-2026-05-10/09_准备待客前先在抽屉里重新摆正器物.png",
+      "thumb": "assets/thumbs/tea-storage-drawer-quiet-order-2026-05-10/09_准备待客前先在抽屉里重新摆正器物.png",
+      "description": "待客前先重新摆正器物的动作，本身就是一种不说出口的仪式。",
+      "prompt": "Horizontal documentary editorial photograph, hands straightening tea tools inside a drawer before guests arrive, anticipatory hosting ritual, no logos, no readable text."
+    },
+    {
+      "id": "tea-storage-drawer-quiet-order-2026-05-10_10_靠窗茶柜里的公道杯映出柔和天光",
+      "batch": "tea-storage-drawer-quiet-order-2026-05-10",
+      "category": "tea-storage-drawer-quiet-order",
+      "number": "10",
+      "title": "靠窗茶柜里的公道杯映出柔和天光",
+      "image": "assets/images/tea-storage-drawer-quiet-order-2026-05-10/10_靠窗茶柜里的公道杯映出柔和天光.png",
+      "thumb": "assets/thumbs/tea-storage-drawer-quiet-order-2026-05-10/10_靠窗茶柜里的公道杯映出柔和天光.png",
+      "description": "只是一点天光映在杯身上，就足够让这只公道杯像一件安静收藏。",
+      "prompt": "Horizontal documentary editorial photograph, porcelain fairness cup near a window reflecting soft daylight from a tea cabinet, serene minimal still life, no logos, no readable text."
+    },
+    {
+      "id": "tea-storage-drawer-quiet-order-2026-05-10_11_抽屉最里层放着备用茶荷和折好的亚麻布",
+      "batch": "tea-storage-drawer-quiet-order-2026-05-10",
+      "category": "tea-storage-drawer-quiet-order",
+      "number": "11",
+      "title": "抽屉最里层放着备用茶荷和折好的亚麻布",
+      "image": "assets/images/tea-storage-drawer-quiet-order-2026-05-10/11_抽屉最里层放着备用茶荷和折好的亚麻布.png",
+      "thumb": "assets/thumbs/tea-storage-drawer-quiet-order-2026-05-10/11_抽屉最里层放着备用茶荷和折好的亚麻布.png",
+      "description": "备用器物折叠整齐的时候，秩序感会比稀有感更让人上头。",
+      "prompt": "Horizontal documentary editorial photograph, spare tea scoops and folded linen stored in the inner layer of a tea drawer, quiet order and tactile beauty, no logos, no readable text."
+    },
+    {
+      "id": "tea-storage-drawer-quiet-order-2026-05-10_12_收回抽屉前最后看一眼排好的茶器",
+      "batch": "tea-storage-drawer-quiet-order-2026-05-10",
+      "category": "tea-storage-drawer-quiet-order",
+      "number": "12",
+      "title": "收回抽屉前最后看一眼排好的茶器",
+      "image": "assets/images/tea-storage-drawer-quiet-order-2026-05-10/12_收回抽屉前最后看一眼排好的茶器.png",
+      "thumb": "assets/thumbs/tea-storage-drawer-quiet-order-2026-05-10/12_收回抽屉前最后看一眼排好的茶器.png",
+      "description": "抽屉推回去前那一眼，很像成年人给自己留的一个小型结尾镜头。",
+      "prompt": "Horizontal documentary editorial photograph, final glance at perfectly arranged tea tools just before closing a storage drawer, reflective closing frame, no logos, no readable text."
+    },
+    {
+      "id": "key-shop-blank-key-wall-life-radius-2026-05-10_01_整面胚钥匙墙和不同形状的金属齿纹",
+      "batch": "key-shop-blank-key-wall-life-radius-2026-05-10",
+      "category": "key-shop-blank-key-wall-life-radius",
+      "number": "01",
+      "title": "整面胚钥匙墙和不同形状的金属齿纹",
+      "image": "assets/images/key-shop-blank-key-wall-life-radius-2026-05-10/01_整面胚钥匙墙和不同形状的金属齿纹.png",
+      "thumb": "assets/thumbs/key-shop-blank-key-wall-life-radius-2026-05-10/01_整面胚钥匙墙和不同形状的金属齿纹.png",
+      "description": "一整面钥匙胚挂起来，会让最普通的 everyday object 突然有了职业剧照感。",
+      "prompt": "Horizontal documentary editorial photograph, a full wall of blank keys with varied metal tooth shapes in a key shop, industrial everyday beauty, no logos, no readable text."
+    },
+    {
+      "id": "key-shop-blank-key-wall-life-radius-2026-05-10_02_黄铜圆牌堆在工作台边等着刻字",
+      "batch": "key-shop-blank-key-wall-life-radius-2026-05-10",
+      "category": "key-shop-blank-key-wall-life-radius",
+      "number": "02",
+      "title": "黄铜圆牌堆在工作台边等着刻字",
+      "image": "assets/images/key-shop-blank-key-wall-life-radius-2026-05-10/02_黄铜圆牌堆在工作台边等着刻字.png",
+      "thumb": "assets/thumbs/key-shop-blank-key-wall-life-radius-2026-05-10/02_黄铜圆牌堆在工作台边等着刻字.png",
+      "description": "圆牌还没刻字时最能让人想象背后的门、宠物和生活路线。",
+      "prompt": "Horizontal documentary editorial photograph, brass round tags piled on the edge of a key-cutting workbench awaiting engraving, tactile urban everyday scene, no logos, no readable text."
+    },
+    {
+      "id": "key-shop-blank-key-wall-life-radius-2026-05-10_03_钥匙师傅手里捏着刚配好的门禁钥匙",
+      "batch": "key-shop-blank-key-wall-life-radius-2026-05-10",
+      "category": "key-shop-blank-key-wall-life-radius",
+      "number": "03",
+      "title": "钥匙师傅手里捏着刚配好的门禁钥匙",
+      "image": "assets/images/key-shop-blank-key-wall-life-radius-2026-05-10/03_钥匙师傅手里捏着刚配好的门禁钥匙.png",
+      "thumb": "assets/thumbs/key-shop-blank-key-wall-life-radius-2026-05-10/03_钥匙师傅手里捏着刚配好的门禁钥匙.png",
+      "description": "刚配好的那一瞬间，像把一个人的生活半径重新复制了一遍。",
+      "prompt": "Horizontal documentary editorial photograph, locksmith holding a freshly copied access key, close-up on worn hands and metal detail, no logos, no readable text."
+    },
+    {
+      "id": "key-shop-blank-key-wall-life-radius-2026-05-10_04_打磨机旁落着细细的金属碎屑",
+      "batch": "key-shop-blank-key-wall-life-radius-2026-05-10",
+      "category": "key-shop-blank-key-wall-life-radius",
+      "number": "04",
+      "title": "打磨机旁落着细细的金属碎屑",
+      "image": "assets/images/key-shop-blank-key-wall-life-radius-2026-05-10/04_打磨机旁落着细细的金属碎屑.png",
+      "thumb": "assets/thumbs/key-shop-blank-key-wall-life-radius-2026-05-10/04_打磨机旁落着细细的金属碎屑.png",
+      "description": "碎屑比成品更像真实职业现场，也让这套图有了城市灰尘感。",
+      "prompt": "Horizontal documentary editorial photograph, fine metal shavings beside a key-cutting grinder, gritty realistic workshop detail, no logos, no readable text."
+    },
+    {
+      "id": "key-shop-blank-key-wall-life-radius-2026-05-10_05_挂满钥匙圈和门禁扣的小铁网",
+      "batch": "key-shop-blank-key-wall-life-radius-2026-05-10",
+      "category": "key-shop-blank-key-wall-life-radius",
+      "number": "05",
+      "title": "挂满钥匙圈和门禁扣的小铁网",
+      "image": "assets/images/key-shop-blank-key-wall-life-radius-2026-05-10/05_挂满钥匙圈和门禁扣的小铁网.png",
+      "thumb": "assets/thumbs/key-shop-blank-key-wall-life-radius-2026-05-10/05_挂满钥匙圈和门禁扣的小铁网.png",
+      "description": "钥匙圈和门禁扣挂满的时候，会让人立刻想到不同租房、办公室和车位生活。",
+      "prompt": "Horizontal documentary editorial photograph, small metal mesh covered with key rings and access fobs in a locksmith shop, dense urban utility aesthetic, no logos, no readable text."
+    },
+    {
+      "id": "key-shop-blank-key-wall-life-radius-2026-05-10_06_玻璃柜里分层放着家门车库和信箱钥匙",
+      "batch": "key-shop-blank-key-wall-life-radius-2026-05-10",
+      "category": "key-shop-blank-key-wall-life-radius",
+      "number": "06",
+      "title": "玻璃柜里分层放着家门车库和信箱钥匙",
+      "image": "assets/images/key-shop-blank-key-wall-life-radius-2026-05-10/06_玻璃柜里分层放着家门车库和信箱钥匙.png",
+      "thumb": "assets/thumbs/key-shop-blank-key-wall-life-radius-2026-05-10/06_玻璃柜里分层放着家门车库和信箱钥匙.png",
+      "description": "不同用途的钥匙分层摆着，本身就是一个城市角色目录。",
+      "prompt": "Horizontal documentary editorial photograph, layered key display in a glass case showing house, garage, and mailbox keys, categorized everyday objects, no logos, no readable text."
+    },
+    {
+      "id": "key-shop-blank-key-wall-life-radius-2026-05-10_07_师傅在老式机器前对准钥匙齿口",
+      "batch": "key-shop-blank-key-wall-life-radius-2026-05-10",
+      "category": "key-shop-blank-key-wall-life-radius",
+      "number": "07",
+      "title": "师傅在老式机器前对准钥匙齿口",
+      "image": "assets/images/key-shop-blank-key-wall-life-radius-2026-05-10/07_师傅在老式机器前对准钥匙齿口.png",
+      "thumb": "assets/thumbs/key-shop-blank-key-wall-life-radius-2026-05-10/07_师傅在老式机器前对准钥匙齿口.png",
+      "description": "老式机器对准齿口的动作，会让整个铺子比想象中更像一种技术手艺。",
+      "prompt": "Horizontal documentary editorial photograph, locksmith aligning a key blank in an old key cutting machine, skilled work-surface realism, no logos, no readable text."
+    },
+    {
+      "id": "key-shop-blank-key-wall-life-radius-2026-05-10_08_傍晚灯箱下亮起来的一排黄铜门牌",
+      "batch": "key-shop-blank-key-wall-life-radius-2026-05-10",
+      "category": "key-shop-blank-key-wall-life-radius",
+      "number": "08",
+      "title": "傍晚灯箱下亮起来的一排黄铜门牌",
+      "image": "assets/images/key-shop-blank-key-wall-life-radius-2026-05-10/08_傍晚灯箱下亮起来的一排黄铜门牌.png",
+      "thumb": "assets/thumbs/key-shop-blank-key-wall-life-radius-2026-05-10/08_傍晚灯箱下亮起来的一排黄铜门牌.png",
+      "description": "傍晚亮起来的黄铜门牌，很像许多人一天生活半径的集合缩影。",
+      "prompt": "Horizontal documentary editorial photograph, a row of brass door tags glowing under evening shop light, warm urban street mood, no logos, no readable text."
+    },
+    {
+      "id": "key-shop-blank-key-wall-life-radius-2026-05-10_09_塑料篮里混放着旧钥匙和待配胚钥匙",
+      "batch": "key-shop-blank-key-wall-life-radius-2026-05-10",
+      "category": "key-shop-blank-key-wall-life-radius",
+      "number": "09",
+      "title": "塑料篮里混放着旧钥匙和待配胚钥匙",
+      "image": "assets/images/key-shop-blank-key-wall-life-radius-2026-05-10/09_塑料篮里混放着旧钥匙和待配胚钥匙.png",
+      "thumb": "assets/thumbs/key-shop-blank-key-wall-life-radius-2026-05-10/09_塑料篮里混放着旧钥匙和待配胚钥匙.png",
+      "description": "旧钥匙和新胚钥匙混在一起，最像城市里不断更换的居住关系。",
+      "prompt": "Horizontal documentary editorial photograph, old used keys mixed with blank key stock in a plastic basket, lived-in city utility atmosphere, no logos, no readable text."
+    },
+    {
+      "id": "key-shop-blank-key-wall-life-radius-2026-05-10_10_客户挑选黄铜圆牌时摊开的掌心",
+      "batch": "key-shop-blank-key-wall-life-radius-2026-05-10",
+      "category": "key-shop-blank-key-wall-life-radius",
+      "number": "10",
+      "title": "客户挑选黄铜圆牌时摊开的掌心",
+      "image": "assets/images/key-shop-blank-key-wall-life-radius-2026-05-10/10_客户挑选黄铜圆牌时摊开的掌心.png",
+      "thumb": "assets/thumbs/key-shop-blank-key-wall-life-radius-2026-05-10/10_客户挑选黄铜圆牌时摊开的掌心.png",
+      "description": "摊开的掌心和几块圆牌，会让这组图第一次出现很具体的个人生活感。",
+      "prompt": "Horizontal documentary editorial photograph, customer palm selecting brass round tags on a counter, intimate everyday decision moment, no logos, no readable text."
+    },
+    {
+      "id": "key-shop-blank-key-wall-life-radius-2026-05-10_11_工作台角落挂着公寓车位和储物柜钥匙",
+      "batch": "key-shop-blank-key-wall-life-radius-2026-05-10",
+      "category": "key-shop-blank-key-wall-life-radius",
+      "number": "11",
+      "title": "工作台角落挂着公寓车位和储物柜钥匙",
+      "image": "assets/images/key-shop-blank-key-wall-life-radius-2026-05-10/11_工作台角落挂着公寓车位和储物柜钥匙.png",
+      "thumb": "assets/thumbs/key-shop-blank-key-wall-life-radius-2026-05-10/11_工作台角落挂着公寓车位和储物柜钥匙.png",
+      "description": "公寓、车位、储物柜这些钥匙放在一起，就像一座城市的成年人生存切面。",
+      "prompt": "Horizontal documentary editorial photograph, apartment, parking, and storage keys hanging at the corner of a locksmith workbench, urban adult life slice, no logos, no readable text."
+    },
+    {
+      "id": "key-shop-blank-key-wall-life-radius-2026-05-10_12_卷帘门快拉下前师傅整理好最后一排钥匙胚",
+      "batch": "key-shop-blank-key-wall-life-radius-2026-05-10",
+      "category": "key-shop-blank-key-wall-life-radius",
+      "number": "12",
+      "title": "卷帘门快拉下前师傅整理好最后一排钥匙胚",
+      "image": "assets/images/key-shop-blank-key-wall-life-radius-2026-05-10/12_卷帘门快拉下前师傅整理好最后一排钥匙胚.png",
+      "thumb": "assets/thumbs/key-shop-blank-key-wall-life-radius-2026-05-10/12_卷帘门快拉下前师傅整理好最后一排钥匙胚.png",
+      "description": "关店前整理最后一排钥匙胚的动作，很适合做这组日常职业图的收尾。",
+      "prompt": "Horizontal documentary editorial photograph, locksmith organizing the final row of key blanks before closing the rolling shutter, reflective end-of-day workshop scene, no logos, no readable text."
     }
   ]
 }
