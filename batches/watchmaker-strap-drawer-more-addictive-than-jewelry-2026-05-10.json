@@ -1,0 +1,103 @@
+{
+  "theme": "一位钟表师的表带抽屉，为什么一格格皮带和弹簧棒比首饰更容易让人上头",
+  "batchId": "watchmaker-strap-drawer-more-addictive-than-jewelry-2026-05-10",
+  "createdAt": "2026-05-10",
+  "items": [
+    {
+      "source": "01_拉开的表带抽屉第一层.png",
+      "category": "watchmaker-strap-drawer",
+      "categoryLabel": "钟表师表带抽屉",
+      "title": "拉开的表带抽屉第一层",
+      "description": "抽屉一拉开，那种皮革、秩序和工具共同形成的职业幻想就已经很完整。",
+      "prompt": "Horizontal documentary editorial photograph, first drawer of a watchmaker's strap cabinet pulled open, neatly sorted leather watch straps in compartments, cool workbench lighting, no logos, no readable text."
+    },
+    {
+      "source": "02_冷白工作灯下的弹簧棒小格.png",
+      "category": "watchmaker-strap-drawer",
+      "categoryLabel": "钟表师表带抽屉",
+      "title": "冷白工作灯下的弹簧棒小格",
+      "description": "弹簧棒被分门别类地放好时，时间这件事会突然变得非常可以被触摸。",
+      "prompt": "Horizontal documentary editorial photograph, tiny compartments of spring bars under a cool white work lamp on a watchmaker's bench, precise metallic detail, no logos, no readable text."
+    },
+    {
+      "source": "03_放大镜旁边摊开的棕色表带.png",
+      "category": "watchmaker-strap-drawer",
+      "categoryLabel": "钟表师表带抽屉",
+      "title": "放大镜旁边摊开的棕色表带",
+      "description": "一条摊开的棕色表带，常常比整只表更能说明佩戴者想过怎样的生活。",
+      "prompt": "Horizontal documentary editorial photograph, brown leather watch strap laid flat beside a loupe on a repair mat, tactile grain detail, professional tabletop realism, no logos, no readable text."
+    },
+    {
+      "source": "04_镊子夹起细小表耳针的一瞬.png",
+      "category": "watchmaker-strap-drawer",
+      "categoryLabel": "钟表师表带抽屉",
+      "title": "镊子夹起细小表耳针的一瞬",
+      "description": "这种几乎要屏住呼吸的细小动作，会让职业的迷人程度瞬间超过珠宝陈列。",
+      "prompt": "Horizontal documentary editorial photograph, tweezers lifting a tiny watch pin at a repair bench, focused macro craftsmanship, realistic hands and tools, no logos, no readable text."
+    },
+    {
+      "source": "05_不同皮纹并排试色的工作垫.png",
+      "category": "watchmaker-strap-drawer",
+      "categoryLabel": "钟表师表带抽屉",
+      "title": "不同皮纹并排试色的工作垫",
+      "description": "当不同皮纹被并排摆开，表带就像比首饰更私人的品味试衣间。",
+      "prompt": "Horizontal documentary editorial photograph, multiple leather strap textures arranged side by side on a work mat for color comparison, rich material contrast, no logos, no readable text."
+    },
+    {
+      "source": "06_抽屉角落压着的旧维修便签和表带头.png",
+      "category": "watchmaker-strap-drawer",
+      "categoryLabel": "钟表师表带抽屉",
+      "title": "抽屉角落压着的旧维修便签和表带头",
+      "description": "旧便签和表带头留在角落里，会让这套秩序显得更像真正被反复使用的职业现场。",
+      "prompt": "Horizontal documentary editorial photograph, worn strap ends and a blank old service note tucked in the corner of a watchmaker drawer, lived-in workshop realism, no logos, no readable text."
+    },
+    {
+      "source": "07_深色鳄鱼纹表带挨着素面小牛皮.png",
+      "category": "watchmaker-strap-drawer",
+      "categoryLabel": "钟表师表带抽屉",
+      "title": "深色鳄鱼纹表带挨着素面小牛皮",
+      "description": "夸张和克制被并排放进同一个抽屉时，人的口味也会突然变得可见。",
+      "prompt": "Horizontal documentary editorial photograph, dark crocodile-pattern strap beside plain calfskin straps inside a drawer organizer, tactile luxury comparison, no logos, no readable text."
+    },
+    {
+      "source": "08_手腕试搭前摆开的两三种表带.png",
+      "category": "watchmaker-strap-drawer",
+      "categoryLabel": "钟表师表带抽屉",
+      "title": "手腕试搭前摆开的两三种表带",
+      "description": "试搭前摊开的两三种表带，比首饰试戴更像一场关于身份的轻微犹豫。",
+      "prompt": "Horizontal documentary editorial photograph, two or three watch straps laid out before wrist fitting on a workshop table, understated style decision moment, no logos, no readable text."
+    },
+    {
+      "source": "09_维修垫边缘的表扣和小螺丝.png",
+      "category": "watchmaker-strap-drawer",
+      "categoryLabel": "钟表师表带抽屉",
+      "title": "维修垫边缘的表扣和小螺丝",
+      "description": "表扣和小螺丝散在维修垫边缘时，时间的质感会变得比佩戴结果更迷人。",
+      "prompt": "Horizontal documentary editorial photograph, watch buckle and tiny screws scattered along the edge of a repair mat, precise metal details under workshop light, no logos, no readable text."
+    },
+    {
+      "source": "10_傍晚收工前关上一半的抽屉.png",
+      "category": "watchmaker-strap-drawer",
+      "categoryLabel": "钟表师表带抽屉",
+      "title": "傍晚收工前关上一半的抽屉",
+      "description": "快收工时半关上的抽屉，会让人很想知道这份安静手艺到底还能留住多久。",
+      "prompt": "Horizontal documentary editorial photograph, half-closed watch strap drawer at dusk in a quiet workshop, soft closing gesture, moody end-of-day craftsmanship, no logos, no readable text."
+    },
+    {
+      "source": "11_客户挑选时桌上留下的空格.png",
+      "category": "watchmaker-strap-drawer",
+      "categoryLabel": "钟表师表带抽屉",
+      "title": "客户挑选时桌上留下的空格",
+      "description": "被拿走几条表带后的空格，才最像“上头”这件事真实发生过的证据。",
+      "prompt": "Horizontal documentary editorial photograph, empty compartments left in a strap drawer after customer selection, subtle absence telling the story, clean realistic workshop scene, no logos, no readable text."
+    },
+    {
+      "source": "12_最后归位的一根深酒红表带.png",
+      "category": "watchmaker-strap-drawer",
+      "categoryLabel": "钟表师表带抽屉",
+      "title": "最后归位的一根深酒红表带",
+      "description": "最后一根深酒红表带被放回去时，整个抽屉像终于把人的时间观也整理好了。",
+      "prompt": "Horizontal documentary editorial photograph, a deep burgundy leather watch strap being placed back into its compartment, careful hand movement, rich color and orderly composition, no logos, no readable text."
+    }
+  ]
+}

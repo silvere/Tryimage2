@@ -1,0 +1,103 @@
+{
+  "theme": "一只宠物登机软包，为什么“带它一起飞”正在变成新的情绪消费门槛",
+  "batchId": "pet-carrier-flying-emotional-threshold-2026-05-10",
+  "createdAt": "2026-05-10",
+  "items": [
+    {
+      "source": "01_出发前门口的宠物登机软包.png",
+      "category": "pet-carrier-flying-emotional-threshold",
+      "categoryLabel": "宠物登机软包",
+      "title": "出发前门口的宠物登机软包",
+      "description": "真正让人停下来点开的，不是宠物本身，而是那只已经被认真打包到像婴儿行李一样的软包。",
+      "prompt": "Horizontal documentary editorial photograph, a pet airline carrier bag packed by the apartment door before departure, folded blanket, collapsible water bowl, passport pouch and leash nearby, realistic Xiaohongshu save-worthy home scene, soft morning light, no logos, no readable text."
+    },
+    {
+      "source": "02_机场地毯上的软包和主人鞋尖.png",
+      "category": "pet-carrier-flying-emotional-threshold",
+      "categoryLabel": "宠物登机软包",
+      "title": "机场地毯上的软包和主人鞋尖",
+      "description": "机场值机前最明显的情绪消费证据，往往是主人脚边那只被小心放平的登机软包。",
+      "prompt": "Horizontal documentary editorial photograph, pet carrier bag resting on airport carpet beside the owner's shoes before check-in, subtle travel tension, soft terminal lighting, realistic modern travel aesthetic, no logos, no readable text."
+    },
+    {
+      "source": "03_值机柜台边的折叠水碗.png",
+      "category": "pet-carrier-flying-emotional-threshold",
+      "categoryLabel": "宠物登机软包",
+      "title": "值机柜台边的折叠水碗",
+      "description": "一只小小折叠水碗，会把“它是家人”这件事画得比任何文案都更直接。",
+      "prompt": "Horizontal documentary editorial photograph, small collapsible pet water bowl beside an airline carrier at a check-in counter edge, realistic travel gear details, muted terminal background, no logos, no readable text."
+    },
+    {
+      "source": "04_安检传送带前抱起软包的一瞬.png",
+      "category": "pet-carrier-flying-emotional-threshold",
+      "categoryLabel": "宠物登机软包",
+      "title": "安检传送带前抱起软包的一瞬",
+      "description": "抱起软包过安检的那几秒，整趟旅程的紧张和偏爱都会被压缩进一个动作里。",
+      "prompt": "Horizontal documentary editorial photograph, a person lifting a soft pet carrier before airport security conveyor belt, candid motion, practical travel clothing, clean realistic terminal scene, no logos, no readable text."
+    },
+    {
+      "source": "05_候机区腿边露出的安抚毯角.png",
+      "category": "pet-carrier-flying-emotional-threshold",
+      "categoryLabel": "宠物登机软包",
+      "title": "候机区腿边露出的安抚毯角",
+      "description": "露出来的一角安抚毯，比任何高价旅行攻略都更像这代人的情绪预算。",
+      "prompt": "Horizontal documentary editorial photograph, pet carrier under an airport seat with a comfort blanket corner visible, owner sitting nearby, calm waiting-gate mood, intimate observational style, no logos, no readable text."
+    },
+    {
+      "source": "06_登机口窗边的软包侧影.png",
+      "category": "pet-carrier-flying-emotional-threshold",
+      "categoryLabel": "宠物登机软包",
+      "title": "登机口窗边的软包侧影",
+      "description": "窗边的那只软包，会让“带它一起飞”突然从幻想变成现实花销。",
+      "prompt": "Horizontal documentary editorial photograph, silhouette of a pet carrier by a large boarding gate window, plane outside softly blurred, realistic travel atmosphere, no logos, no readable text."
+    },
+    {
+      "source": "07_宠物友好酒店床角的临时安顿.png",
+      "category": "pet-carrier-flying-emotional-threshold",
+      "categoryLabel": "宠物登机软包",
+      "title": "宠物友好酒店床角的临时安顿",
+      "description": "到了酒店先摆好的不是行李，而是它的窝和水碗，这种优先级本身就很有讨论度。",
+      "prompt": "Horizontal documentary editorial photograph, pet-friendly hotel room with soft carrier, folded pet bed and water bowl arranged at the bed corner, warm lamp light, refined but realistic travel lifestyle, no logos, no readable text."
+    },
+    {
+      "source": "08_夜路打车时怀里的登机软包.png",
+      "category": "pet-carrier-flying-emotional-threshold",
+      "categoryLabel": "宠物登机软包",
+      "title": "夜路打车时怀里的登机软包",
+      "description": "深夜打车抱着软包的样子，比白天合影更能说明宠物旅行到底有多像带孩子出门。",
+      "prompt": "Horizontal documentary editorial photograph, person holding a pet carrier while waiting for a night taxi on a city curb, street reflections, candid urban travel realism, no logos, no readable text."
+    },
+    {
+      "source": "09_民宿木地板上的旅行水碗和零食袋.png",
+      "category": "pet-carrier-flying-emotional-threshold",
+      "categoryLabel": "宠物登机软包",
+      "title": "民宿木地板上的旅行水碗和零食袋",
+      "description": "真正花钱的不是机票本身，而是这一地为它准备好的细小安心。",
+      "prompt": "Horizontal documentary editorial photograph, travel pet bowl and treat pouch on a homestay wooden floor beside a soft carrier, tactile everyday details, natural window light, no logos, no readable text."
+    },
+    {
+      "source": "10_返程高铁座位下的宠物软包.png",
+      "category": "pet-carrier-flying-emotional-threshold",
+      "categoryLabel": "宠物登机软包",
+      "title": "返程高铁座位下的宠物软包",
+      "description": "返程时塞在座位下的软包，会让旅程看起来更像一场需要复盘的亲密劳动。",
+      "prompt": "Horizontal documentary editorial photograph, soft pet carrier tucked under a high-speed rail seat on the return trip, owner bag and shoes nearby, realistic Chinese travel scene, no logos, no readable text."
+    },
+    {
+      "source": "11_摊开的旅行预算小物桌面.png",
+      "category": "pet-carrier-flying-emotional-threshold",
+      "categoryLabel": "宠物登机软包",
+      "title": "摊开的旅行预算小物桌面",
+      "description": "软包、尿垫、零食、水碗摊开在桌上时，“带它一起飞”这件事的门槛才真正可视化。",
+      "prompt": "Horizontal documentary editorial photograph, tabletop spread of pet travel essentials including soft carrier accessories, pee pads, snacks and collapsible bowl, save-worthy flat lay with tactile realism, no logos, no readable text."
+    },
+    {
+      "source": "12_回家后收进柜子的空软包.png",
+      "category": "pet-carrier-flying-emotional-threshold",
+      "categoryLabel": "宠物登机软包",
+      "title": "回家后收进柜子的空软包",
+      "description": "旅行结束后被收起来的空软包，会让人重新想起这趟路到底是为谁绕的。",
+      "prompt": "Horizontal documentary editorial photograph, empty pet airline carrier being stored back in a home closet after travel, quiet post-trip mood, soft evening light, realistic domestic scene, no logos, no readable text."
+    }
+  ]
+}

@@ -1,7 +1,7 @@
 {
   "site": {
     "title": "OpenAI image2 视觉实验",
-    "subtitle": "514 张传播向 AI 海报",
+    "subtitle": "562 张传播向 AI 海报",
     "headline": "OpenAI image2 视觉实验",
     "intro": "每一批图片围绕一个临时主题生成，并按当次最合适的 category 归档；可以是反差创意、真实场景、产品概念、人物叙事或任何新的视觉方向。",
     "coverImage": "assets/contact_sheet_image2.jpg",
@@ -186,6 +186,22 @@
     {
       "id": "travel-tea-kit-mobile-self-rescue",
       "label": "旅行茶器布包"
+    },
+    {
+      "id": "pet-carrier-flying-emotional-threshold",
+      "label": "宠物登机软包"
+    },
+    {
+      "id": "thin-aroma-cups-quiet-aesthetic-threshold",
+      "label": "薄胎闻香杯"
+    },
+    {
+      "id": "watchmaker-strap-drawer",
+      "label": "钟表师表带抽屉"
+    },
+    {
+      "id": "letter-opener-brass-paperclips-old-novel-desk",
+      "label": "拆信刀与黄铜回形针"
     }
   ],
   "batches": [
@@ -409,6 +425,30 @@
       "id": "travel-tea-kit-mobile-self-rescue-2026-05-09",
       "theme": "一套旅行茶器布包，为什么越来越像成年人的移动精神自救箱",
       "createdAt": "2026-05-09",
+      "count": 12
+    },
+    {
+      "id": "pet-carrier-flying-emotional-threshold-2026-05-10",
+      "theme": "一只宠物登机软包，为什么“带它一起飞”正在变成新的情绪消费门槛",
+      "createdAt": "2026-05-10",
+      "count": 12
+    },
+    {
+      "id": "thin-aroma-cups-quiet-aesthetic-threshold-2026-05-10",
+      "theme": "一排薄胎闻香杯，为什么茶杯越来越像成年人的安静审美门槛",
+      "createdAt": "2026-05-10",
+      "count": 12
+    },
+    {
+      "id": "watchmaker-strap-drawer-more-addictive-than-jewelry-2026-05-10",
+      "theme": "一位钟表师的表带抽屉，为什么一格格皮带和弹簧棒比首饰更容易让人上头",
+      "createdAt": "2026-05-10",
+      "count": 12
+    },
+    {
+      "id": "letter-opener-brass-paperclips-old-novel-desk-2026-05-10",
+      "theme": "一盘拆信刀和黄铜回形针，为什么越来越多人想把办公桌过成一本旧小说",
+      "createdAt": "2026-05-10",
       "count": 12
     }
   ],
@@ -6051,6 +6091,534 @@
       "thumb": "assets/thumbs/travel-tea-kit-mobile-self-rescue-2026-05-09/12_收回布包前最后一只空杯.png",
       "description": "把最后一只空杯擦干收好时，人也像终于把这一天重新装回自己手里。",
       "prompt": "Horizontal documentary editorial photograph, the last empty teacup being wiped dry before packing a travel tea kit back into its cloth wrap, evening hotel light, reflective quiet ending scene, delicate ceramic texture, no logos, no readable text."
+    },
+    {
+      "id": "pet-carrier-flying-emotional-threshold-2026-05-10_01_出发前门口的宠物登机软包",
+      "batch": "pet-carrier-flying-emotional-threshold-2026-05-10",
+      "category": "pet-carrier-flying-emotional-threshold",
+      "number": "01",
+      "title": "出发前门口的宠物登机软包",
+      "image": "assets/images/pet-carrier-flying-emotional-threshold-2026-05-10/01_出发前门口的宠物登机软包.png",
+      "thumb": "assets/thumbs/pet-carrier-flying-emotional-threshold-2026-05-10/01_出发前门口的宠物登机软包.png",
+      "description": "真正让人停下来点开的，不是宠物本身，而是那只已经被认真打包到像婴儿行李一样的软包。",
+      "prompt": "Horizontal documentary editorial photograph, a pet airline carrier bag packed by the apartment door before departure, folded blanket, collapsible water bowl, passport pouch and leash nearby, realistic Xiaohongshu save-worthy home scene, soft morning light, no logos, no readable text."
+    },
+    {
+      "id": "pet-carrier-flying-emotional-threshold-2026-05-10_02_机场地毯上的软包和主人鞋尖",
+      "batch": "pet-carrier-flying-emotional-threshold-2026-05-10",
+      "category": "pet-carrier-flying-emotional-threshold",
+      "number": "02",
+      "title": "机场地毯上的软包和主人鞋尖",
+      "image": "assets/images/pet-carrier-flying-emotional-threshold-2026-05-10/02_机场地毯上的软包和主人鞋尖.png",
+      "thumb": "assets/thumbs/pet-carrier-flying-emotional-threshold-2026-05-10/02_机场地毯上的软包和主人鞋尖.png",
+      "description": "机场值机前最明显的情绪消费证据，往往是主人脚边那只被小心放平的登机软包。",
+      "prompt": "Horizontal documentary editorial photograph, pet carrier bag resting on airport carpet beside the owner's shoes before check-in, subtle travel tension, soft terminal lighting, realistic modern travel aesthetic, no logos, no readable text."
+    },
+    {
+      "id": "pet-carrier-flying-emotional-threshold-2026-05-10_03_值机柜台边的折叠水碗",
+      "batch": "pet-carrier-flying-emotional-threshold-2026-05-10",
+      "category": "pet-carrier-flying-emotional-threshold",
+      "number": "03",
+      "title": "值机柜台边的折叠水碗",
+      "image": "assets/images/pet-carrier-flying-emotional-threshold-2026-05-10/03_值机柜台边的折叠水碗.png",
+      "thumb": "assets/thumbs/pet-carrier-flying-emotional-threshold-2026-05-10/03_值机柜台边的折叠水碗.png",
+      "description": "一只小小折叠水碗，会把“它是家人”这件事画得比任何文案都更直接。",
+      "prompt": "Horizontal documentary editorial photograph, small collapsible pet water bowl beside an airline carrier at a check-in counter edge, realistic travel gear details, muted terminal background, no logos, no readable text."
+    },
+    {
+      "id": "pet-carrier-flying-emotional-threshold-2026-05-10_04_安检传送带前抱起软包的一瞬",
+      "batch": "pet-carrier-flying-emotional-threshold-2026-05-10",
+      "category": "pet-carrier-flying-emotional-threshold",
+      "number": "04",
+      "title": "安检传送带前抱起软包的一瞬",
+      "image": "assets/images/pet-carrier-flying-emotional-threshold-2026-05-10/04_安检传送带前抱起软包的一瞬.png",
+      "thumb": "assets/thumbs/pet-carrier-flying-emotional-threshold-2026-05-10/04_安检传送带前抱起软包的一瞬.png",
+      "description": "抱起软包过安检的那几秒，整趟旅程的紧张和偏爱都会被压缩进一个动作里。",
+      "prompt": "Horizontal documentary editorial photograph, a person lifting a soft pet carrier before airport security conveyor belt, candid motion, practical travel clothing, clean realistic terminal scene, no logos, no readable text."
+    },
+    {
+      "id": "pet-carrier-flying-emotional-threshold-2026-05-10_05_候机区腿边露出的安抚毯角",
+      "batch": "pet-carrier-flying-emotional-threshold-2026-05-10",
+      "category": "pet-carrier-flying-emotional-threshold",
+      "number": "05",
+      "title": "候机区腿边露出的安抚毯角",
+      "image": "assets/images/pet-carrier-flying-emotional-threshold-2026-05-10/05_候机区腿边露出的安抚毯角.png",
+      "thumb": "assets/thumbs/pet-carrier-flying-emotional-threshold-2026-05-10/05_候机区腿边露出的安抚毯角.png",
+      "description": "露出来的一角安抚毯，比任何高价旅行攻略都更像这代人的情绪预算。",
+      "prompt": "Horizontal documentary editorial photograph, pet carrier under an airport seat with a comfort blanket corner visible, owner sitting nearby, calm waiting-gate mood, intimate observational style, no logos, no readable text."
+    },
+    {
+      "id": "pet-carrier-flying-emotional-threshold-2026-05-10_06_登机口窗边的软包侧影",
+      "batch": "pet-carrier-flying-emotional-threshold-2026-05-10",
+      "category": "pet-carrier-flying-emotional-threshold",
+      "number": "06",
+      "title": "登机口窗边的软包侧影",
+      "image": "assets/images/pet-carrier-flying-emotional-threshold-2026-05-10/06_登机口窗边的软包侧影.png",
+      "thumb": "assets/thumbs/pet-carrier-flying-emotional-threshold-2026-05-10/06_登机口窗边的软包侧影.png",
+      "description": "窗边的那只软包，会让“带它一起飞”突然从幻想变成现实花销。",
+      "prompt": "Horizontal documentary editorial photograph, silhouette of a pet carrier by a large boarding gate window, plane outside softly blurred, realistic travel atmosphere, no logos, no readable text."
+    },
+    {
+      "id": "pet-carrier-flying-emotional-threshold-2026-05-10_07_宠物友好酒店床角的临时安顿",
+      "batch": "pet-carrier-flying-emotional-threshold-2026-05-10",
+      "category": "pet-carrier-flying-emotional-threshold",
+      "number": "07",
+      "title": "宠物友好酒店床角的临时安顿",
+      "image": "assets/images/pet-carrier-flying-emotional-threshold-2026-05-10/07_宠物友好酒店床角的临时安顿.png",
+      "thumb": "assets/thumbs/pet-carrier-flying-emotional-threshold-2026-05-10/07_宠物友好酒店床角的临时安顿.png",
+      "description": "到了酒店先摆好的不是行李，而是它的窝和水碗，这种优先级本身就很有讨论度。",
+      "prompt": "Horizontal documentary editorial photograph, pet-friendly hotel room with soft carrier, folded pet bed and water bowl arranged at the bed corner, warm lamp light, refined but realistic travel lifestyle, no logos, no readable text."
+    },
+    {
+      "id": "pet-carrier-flying-emotional-threshold-2026-05-10_08_夜路打车时怀里的登机软包",
+      "batch": "pet-carrier-flying-emotional-threshold-2026-05-10",
+      "category": "pet-carrier-flying-emotional-threshold",
+      "number": "08",
+      "title": "夜路打车时怀里的登机软包",
+      "image": "assets/images/pet-carrier-flying-emotional-threshold-2026-05-10/08_夜路打车时怀里的登机软包.png",
+      "thumb": "assets/thumbs/pet-carrier-flying-emotional-threshold-2026-05-10/08_夜路打车时怀里的登机软包.png",
+      "description": "深夜打车抱着软包的样子，比白天合影更能说明宠物旅行到底有多像带孩子出门。",
+      "prompt": "Horizontal documentary editorial photograph, person holding a pet carrier while waiting for a night taxi on a city curb, street reflections, candid urban travel realism, no logos, no readable text."
+    },
+    {
+      "id": "pet-carrier-flying-emotional-threshold-2026-05-10_09_民宿木地板上的旅行水碗和零食袋",
+      "batch": "pet-carrier-flying-emotional-threshold-2026-05-10",
+      "category": "pet-carrier-flying-emotional-threshold",
+      "number": "09",
+      "title": "民宿木地板上的旅行水碗和零食袋",
+      "image": "assets/images/pet-carrier-flying-emotional-threshold-2026-05-10/09_民宿木地板上的旅行水碗和零食袋.png",
+      "thumb": "assets/thumbs/pet-carrier-flying-emotional-threshold-2026-05-10/09_民宿木地板上的旅行水碗和零食袋.png",
+      "description": "真正花钱的不是机票本身，而是这一地为它准备好的细小安心。",
+      "prompt": "Horizontal documentary editorial photograph, travel pet bowl and treat pouch on a homestay wooden floor beside a soft carrier, tactile everyday details, natural window light, no logos, no readable text."
+    },
+    {
+      "id": "pet-carrier-flying-emotional-threshold-2026-05-10_10_返程高铁座位下的宠物软包",
+      "batch": "pet-carrier-flying-emotional-threshold-2026-05-10",
+      "category": "pet-carrier-flying-emotional-threshold",
+      "number": "10",
+      "title": "返程高铁座位下的宠物软包",
+      "image": "assets/images/pet-carrier-flying-emotional-threshold-2026-05-10/10_返程高铁座位下的宠物软包.png",
+      "thumb": "assets/thumbs/pet-carrier-flying-emotional-threshold-2026-05-10/10_返程高铁座位下的宠物软包.png",
+      "description": "返程时塞在座位下的软包，会让旅程看起来更像一场需要复盘的亲密劳动。",
+      "prompt": "Horizontal documentary editorial photograph, soft pet carrier tucked under a high-speed rail seat on the return trip, owner bag and shoes nearby, realistic Chinese travel scene, no logos, no readable text."
+    },
+    {
+      "id": "pet-carrier-flying-emotional-threshold-2026-05-10_11_摊开的旅行预算小物桌面",
+      "batch": "pet-carrier-flying-emotional-threshold-2026-05-10",
+      "category": "pet-carrier-flying-emotional-threshold",
+      "number": "11",
+      "title": "摊开的旅行预算小物桌面",
+      "image": "assets/images/pet-carrier-flying-emotional-threshold-2026-05-10/11_摊开的旅行预算小物桌面.png",
+      "thumb": "assets/thumbs/pet-carrier-flying-emotional-threshold-2026-05-10/11_摊开的旅行预算小物桌面.png",
+      "description": "软包、尿垫、零食、水碗摊开在桌上时，“带它一起飞”这件事的门槛才真正可视化。",
+      "prompt": "Horizontal documentary editorial photograph, tabletop spread of pet travel essentials including soft carrier accessories, pee pads, snacks and collapsible bowl, save-worthy flat lay with tactile realism, no logos, no readable text."
+    },
+    {
+      "id": "pet-carrier-flying-emotional-threshold-2026-05-10_12_回家后收进柜子的空软包",
+      "batch": "pet-carrier-flying-emotional-threshold-2026-05-10",
+      "category": "pet-carrier-flying-emotional-threshold",
+      "number": "12",
+      "title": "回家后收进柜子的空软包",
+      "image": "assets/images/pet-carrier-flying-emotional-threshold-2026-05-10/12_回家后收进柜子的空软包.png",
+      "thumb": "assets/thumbs/pet-carrier-flying-emotional-threshold-2026-05-10/12_回家后收进柜子的空软包.png",
+      "description": "旅行结束后被收起来的空软包，会让人重新想起这趟路到底是为谁绕的。",
+      "prompt": "Horizontal documentary editorial photograph, empty pet airline carrier being stored back in a home closet after travel, quiet post-trip mood, soft evening light, realistic domestic scene, no logos, no readable text."
+    },
+    {
+      "id": "thin-aroma-cups-quiet-aesthetic-threshold-2026-05-10_01_午后侧光里排开的薄胎闻香杯",
+      "batch": "thin-aroma-cups-quiet-aesthetic-threshold-2026-05-10",
+      "category": "thin-aroma-cups-quiet-aesthetic-threshold",
+      "number": "01",
+      "title": "午后侧光里排开的薄胎闻香杯",
+      "image": "assets/images/thin-aroma-cups-quiet-aesthetic-threshold-2026-05-10/01_午后侧光里排开的薄胎闻香杯.png",
+      "thumb": "assets/thumbs/thin-aroma-cups-quiet-aesthetic-threshold-2026-05-10/01_午后侧光里排开的薄胎闻香杯.png",
+      "description": "一排极轻极薄的白瓷杯，已经足够把“安静审美门槛”画得很完整。",
+      "prompt": "Horizontal documentary editorial photograph, a row of ultra-thin aroma tea cups lined up in soft afternoon side light, translucent porcelain edges glowing, calm Xiaohongshu-worthy minimalism, no logos, no readable text."
+    },
+    {
+      "id": "thin-aroma-cups-quiet-aesthetic-threshold-2026-05-10_02_手指捏起一只透光杯壁",
+      "batch": "thin-aroma-cups-quiet-aesthetic-threshold-2026-05-10",
+      "category": "thin-aroma-cups-quiet-aesthetic-threshold",
+      "number": "02",
+      "title": "手指捏起一只透光杯壁",
+      "image": "assets/images/thin-aroma-cups-quiet-aesthetic-threshold-2026-05-10/02_手指捏起一只透光杯壁.png",
+      "thumb": "assets/thumbs/thin-aroma-cups-quiet-aesthetic-threshold-2026-05-10/02_手指捏起一只透光杯壁.png",
+      "description": "真正让人上头的不是喝什么茶，而是指尖捏起杯壁时那种几乎要透光的轻。",
+      "prompt": "Horizontal documentary editorial photograph, fingers gently lifting a very thin porcelain aroma cup against window light, delicate translucency and tactile realism, no logos, no readable text."
+    },
+    {
+      "id": "thin-aroma-cups-quiet-aesthetic-threshold-2026-05-10_03_木托盘上留出杯口弧线的影子",
+      "batch": "thin-aroma-cups-quiet-aesthetic-threshold-2026-05-10",
+      "category": "thin-aroma-cups-quiet-aesthetic-threshold",
+      "number": "03",
+      "title": "木托盘上留出杯口弧线的影子",
+      "image": "assets/images/thin-aroma-cups-quiet-aesthetic-threshold-2026-05-10/03_木托盘上留出杯口弧线的影子.png",
+      "thumb": "assets/thumbs/thin-aroma-cups-quiet-aesthetic-threshold-2026-05-10/03_木托盘上留出杯口弧线的影子.png",
+      "description": "杯口投下来的弧线影子，会让这组器物比很多复杂摆拍都更像收藏。",
+      "prompt": "Horizontal documentary editorial photograph, thin aroma cups on a walnut tray casting curved shadows, clean composition, refined tabletop atmosphere, no logos, no readable text."
+    },
+    {
+      "id": "thin-aroma-cups-quiet-aesthetic-threshold-2026-05-10_04_空茶席中央的一对高脚闻香杯",
+      "batch": "thin-aroma-cups-quiet-aesthetic-threshold-2026-05-10",
+      "category": "thin-aroma-cups-quiet-aesthetic-threshold",
+      "number": "04",
+      "title": "空茶席中央的一对高脚闻香杯",
+      "image": "assets/images/thin-aroma-cups-quiet-aesthetic-threshold-2026-05-10/04_空茶席中央的一对高脚闻香杯.png",
+      "thumb": "assets/thumbs/thin-aroma-cups-quiet-aesthetic-threshold-2026-05-10/04_空茶席中央的一对高脚闻香杯.png",
+      "description": "没有茶汤也成立的茶杯，才更像一种被认真筛选过的审美趣味。",
+      "prompt": "Horizontal documentary editorial photograph, two elegant high-footed aroma cups centered on an empty tea mat, spacious composition, serene luxury without excess, no logos, no readable text."
+    },
+    {
+      "id": "thin-aroma-cups-quiet-aesthetic-threshold-2026-05-10_05_洗净后倒扣沥水的一排白瓷杯",
+      "batch": "thin-aroma-cups-quiet-aesthetic-threshold-2026-05-10",
+      "category": "thin-aroma-cups-quiet-aesthetic-threshold",
+      "number": "05",
+      "title": "洗净后倒扣沥水的一排白瓷杯",
+      "image": "assets/images/thin-aroma-cups-quiet-aesthetic-threshold-2026-05-10/05_洗净后倒扣沥水的一排白瓷杯.png",
+      "thumb": "assets/thumbs/thin-aroma-cups-quiet-aesthetic-threshold-2026-05-10/05_洗净后倒扣沥水的一排白瓷杯.png",
+      "description": "倒扣晾水的时刻比正式开席更有生活感，也更像真实会被收藏转发的瞬间。",
+      "prompt": "Horizontal documentary editorial photograph, a row of cleaned white porcelain aroma cups upside down to dry, subtle water droplets, realistic domestic tea ritual, no logos, no readable text."
+    },
+    {
+      "id": "thin-aroma-cups-quiet-aesthetic-threshold-2026-05-10_06_茶巾边缘靠着一只细高闻香杯",
+      "batch": "thin-aroma-cups-quiet-aesthetic-threshold-2026-05-10",
+      "category": "thin-aroma-cups-quiet-aesthetic-threshold",
+      "number": "06",
+      "title": "茶巾边缘靠着一只细高闻香杯",
+      "image": "assets/images/thin-aroma-cups-quiet-aesthetic-threshold-2026-05-10/06_茶巾边缘靠着一只细高闻香杯.png",
+      "thumb": "assets/thumbs/thin-aroma-cups-quiet-aesthetic-threshold-2026-05-10/06_茶巾边缘靠着一只细高闻香杯.png",
+      "description": "细高的杯型靠在茶巾边，像把成年人的克制和偏好都缩成了一件小器物。",
+      "prompt": "Horizontal documentary editorial photograph, a slender tall aroma cup resting near the edge of a tea towel, tactile linen and ceramic textures, intimate still-life mood, no logos, no readable text."
+    },
+    {
+      "id": "thin-aroma-cups-quiet-aesthetic-threshold-2026-05-10_07_晨光里透出温度的空杯内壁",
+      "batch": "thin-aroma-cups-quiet-aesthetic-threshold-2026-05-10",
+      "category": "thin-aroma-cups-quiet-aesthetic-threshold",
+      "number": "07",
+      "title": "晨光里透出温度的空杯内壁",
+      "image": "assets/images/thin-aroma-cups-quiet-aesthetic-threshold-2026-05-10/07_晨光里透出温度的空杯内壁.png",
+      "thumb": "assets/thumbs/thin-aroma-cups-quiet-aesthetic-threshold-2026-05-10/07_晨光里透出温度的空杯内壁.png",
+      "description": "空杯内壁在晨光里发亮时，会让人立刻理解为什么有人只为杯型就反复比较。",
+      "prompt": "Horizontal documentary editorial photograph, interior surface of an empty thin porcelain tea cup catching soft morning light, macro detail with realistic ceramic sheen, no logos, no readable text."
+    },
+    {
+      "id": "thin-aroma-cups-quiet-aesthetic-threshold-2026-05-10_08_茶桌角落叠放的杯托和闻香杯",
+      "batch": "thin-aroma-cups-quiet-aesthetic-threshold-2026-05-10",
+      "category": "thin-aroma-cups-quiet-aesthetic-threshold",
+      "number": "08",
+      "title": "茶桌角落叠放的杯托和闻香杯",
+      "image": "assets/images/thin-aroma-cups-quiet-aesthetic-threshold-2026-05-10/08_茶桌角落叠放的杯托和闻香杯.png",
+      "thumb": "assets/thumbs/thin-aroma-cups-quiet-aesthetic-threshold-2026-05-10/08_茶桌角落叠放的杯托和闻香杯.png",
+      "description": "杯托和闻香杯叠在一起的秩序感，本身就很有保存和模仿价值。",
+      "prompt": "Horizontal documentary editorial photograph, stacked cup rests and thin aroma cups at the corner of a tea table, organized tactile arrangement, warm neutral palette, no logos, no readable text."
+    },
+    {
+      "id": "thin-aroma-cups-quiet-aesthetic-threshold-2026-05-10_09_朋友来前先排好的六只白杯",
+      "batch": "thin-aroma-cups-quiet-aesthetic-threshold-2026-05-10",
+      "category": "thin-aroma-cups-quiet-aesthetic-threshold",
+      "number": "09",
+      "title": "朋友来前先排好的六只白杯",
+      "image": "assets/images/thin-aroma-cups-quiet-aesthetic-threshold-2026-05-10/09_朋友来前先排好的六只白杯.png",
+      "thumb": "assets/thumbs/thin-aroma-cups-quiet-aesthetic-threshold-2026-05-10/09_朋友来前先排好的六只白杯.png",
+      "description": "提前排好的六只白杯，会让聚会看起来更像一场被郑重对待的小型仪式。",
+      "prompt": "Horizontal documentary editorial photograph, six thin white aroma cups prepared before friends arrive, quiet anticipation, elegant social tabletop realism, no logos, no readable text."
+    },
+    {
+      "id": "thin-aroma-cups-quiet-aesthetic-threshold-2026-05-10_10_靠窗书桌上的一只单杯和旧书",
+      "batch": "thin-aroma-cups-quiet-aesthetic-threshold-2026-05-10",
+      "category": "thin-aroma-cups-quiet-aesthetic-threshold",
+      "number": "10",
+      "title": "靠窗书桌上的一只单杯和旧书",
+      "image": "assets/images/thin-aroma-cups-quiet-aesthetic-threshold-2026-05-10/10_靠窗书桌上的一只单杯和旧书.png",
+      "thumb": "assets/thumbs/thin-aroma-cups-quiet-aesthetic-threshold-2026-05-10/10_靠窗书桌上的一只单杯和旧书.png",
+      "description": "一只单杯和一本旧书放在一起时，茶器就不只是器物，而像一种自我想象。",
+      "prompt": "Horizontal documentary editorial photograph, a single thin aroma cup on a window-side desk beside an old book, literary still-life atmosphere, soft daylight, no logos, no readable text."
+    },
+    {
+      "id": "thin-aroma-cups-quiet-aesthetic-threshold-2026-05-10_11_深色木桌上留白很大的小白杯",
+      "batch": "thin-aroma-cups-quiet-aesthetic-threshold-2026-05-10",
+      "category": "thin-aroma-cups-quiet-aesthetic-threshold",
+      "number": "11",
+      "title": "深色木桌上留白很大的小白杯",
+      "image": "assets/images/thin-aroma-cups-quiet-aesthetic-threshold-2026-05-10/11_深色木桌上留白很大的小白杯.png",
+      "thumb": "assets/thumbs/thin-aroma-cups-quiet-aesthetic-threshold-2026-05-10/11_深色木桌上留白很大的小白杯.png",
+      "description": "小白杯放在大片深木留白里，会让人立刻停下来，因为安静本身也能制造冲击。",
+      "prompt": "Horizontal documentary editorial photograph, tiny white thin-walled tea cup on a dark wooden table with generous negative space, minimalist dramatic composition, no logos, no readable text."
+    },
+    {
+      "id": "thin-aroma-cups-quiet-aesthetic-threshold-2026-05-10_12_收席前并排擦拭的最后两只闻香杯",
+      "batch": "thin-aroma-cups-quiet-aesthetic-threshold-2026-05-10",
+      "category": "thin-aroma-cups-quiet-aesthetic-threshold",
+      "number": "12",
+      "title": "收席前并排擦拭的最后两只闻香杯",
+      "image": "assets/images/thin-aroma-cups-quiet-aesthetic-threshold-2026-05-10/12_收席前并排擦拭的最后两只闻香杯.png",
+      "thumb": "assets/thumbs/thin-aroma-cups-quiet-aesthetic-threshold-2026-05-10/12_收席前并排擦拭的最后两只闻香杯.png",
+      "description": "最后两只被并排擦干的小杯，会让整组图像有一种成年人收束情绪的结尾感。",
+      "prompt": "Horizontal documentary editorial photograph, final two thin aroma cups being wiped dry before putting away the tea setup, gentle hands, evening calm, realistic ritual ending, no logos, no readable text."
+    },
+    {
+      "id": "watchmaker-strap-drawer-more-addictive-than-jewelry-2026-05-10_01_拉开的表带抽屉第一层",
+      "batch": "watchmaker-strap-drawer-more-addictive-than-jewelry-2026-05-10",
+      "category": "watchmaker-strap-drawer",
+      "number": "01",
+      "title": "拉开的表带抽屉第一层",
+      "image": "assets/images/watchmaker-strap-drawer-more-addictive-than-jewelry-2026-05-10/01_拉开的表带抽屉第一层.png",
+      "thumb": "assets/thumbs/watchmaker-strap-drawer-more-addictive-than-jewelry-2026-05-10/01_拉开的表带抽屉第一层.png",
+      "description": "抽屉一拉开，那种皮革、秩序和工具共同形成的职业幻想就已经很完整。",
+      "prompt": "Horizontal documentary editorial photograph, first drawer of a watchmaker's strap cabinet pulled open, neatly sorted leather watch straps in compartments, cool workbench lighting, no logos, no readable text."
+    },
+    {
+      "id": "watchmaker-strap-drawer-more-addictive-than-jewelry-2026-05-10_02_冷白工作灯下的弹簧棒小格",
+      "batch": "watchmaker-strap-drawer-more-addictive-than-jewelry-2026-05-10",
+      "category": "watchmaker-strap-drawer",
+      "number": "02",
+      "title": "冷白工作灯下的弹簧棒小格",
+      "image": "assets/images/watchmaker-strap-drawer-more-addictive-than-jewelry-2026-05-10/02_冷白工作灯下的弹簧棒小格.png",
+      "thumb": "assets/thumbs/watchmaker-strap-drawer-more-addictive-than-jewelry-2026-05-10/02_冷白工作灯下的弹簧棒小格.png",
+      "description": "弹簧棒被分门别类地放好时，时间这件事会突然变得非常可以被触摸。",
+      "prompt": "Horizontal documentary editorial photograph, tiny compartments of spring bars under a cool white work lamp on a watchmaker's bench, precise metallic detail, no logos, no readable text."
+    },
+    {
+      "id": "watchmaker-strap-drawer-more-addictive-than-jewelry-2026-05-10_03_放大镜旁边摊开的棕色表带",
+      "batch": "watchmaker-strap-drawer-more-addictive-than-jewelry-2026-05-10",
+      "category": "watchmaker-strap-drawer",
+      "number": "03",
+      "title": "放大镜旁边摊开的棕色表带",
+      "image": "assets/images/watchmaker-strap-drawer-more-addictive-than-jewelry-2026-05-10/03_放大镜旁边摊开的棕色表带.png",
+      "thumb": "assets/thumbs/watchmaker-strap-drawer-more-addictive-than-jewelry-2026-05-10/03_放大镜旁边摊开的棕色表带.png",
+      "description": "一条摊开的棕色表带，常常比整只表更能说明佩戴者想过怎样的生活。",
+      "prompt": "Horizontal documentary editorial photograph, brown leather watch strap laid flat beside a loupe on a repair mat, tactile grain detail, professional tabletop realism, no logos, no readable text."
+    },
+    {
+      "id": "watchmaker-strap-drawer-more-addictive-than-jewelry-2026-05-10_04_镊子夹起细小表耳针的一瞬",
+      "batch": "watchmaker-strap-drawer-more-addictive-than-jewelry-2026-05-10",
+      "category": "watchmaker-strap-drawer",
+      "number": "04",
+      "title": "镊子夹起细小表耳针的一瞬",
+      "image": "assets/images/watchmaker-strap-drawer-more-addictive-than-jewelry-2026-05-10/04_镊子夹起细小表耳针的一瞬.png",
+      "thumb": "assets/thumbs/watchmaker-strap-drawer-more-addictive-than-jewelry-2026-05-10/04_镊子夹起细小表耳针的一瞬.png",
+      "description": "这种几乎要屏住呼吸的细小动作，会让职业的迷人程度瞬间超过珠宝陈列。",
+      "prompt": "Horizontal documentary editorial photograph, tweezers lifting a tiny watch pin at a repair bench, focused macro craftsmanship, realistic hands and tools, no logos, no readable text."
+    },
+    {
+      "id": "watchmaker-strap-drawer-more-addictive-than-jewelry-2026-05-10_05_不同皮纹并排试色的工作垫",
+      "batch": "watchmaker-strap-drawer-more-addictive-than-jewelry-2026-05-10",
+      "category": "watchmaker-strap-drawer",
+      "number": "05",
+      "title": "不同皮纹并排试色的工作垫",
+      "image": "assets/images/watchmaker-strap-drawer-more-addictive-than-jewelry-2026-05-10/05_不同皮纹并排试色的工作垫.png",
+      "thumb": "assets/thumbs/watchmaker-strap-drawer-more-addictive-than-jewelry-2026-05-10/05_不同皮纹并排试色的工作垫.png",
+      "description": "当不同皮纹被并排摆开，表带就像比首饰更私人的品味试衣间。",
+      "prompt": "Horizontal documentary editorial photograph, multiple leather strap textures arranged side by side on a work mat for color comparison, rich material contrast, no logos, no readable text."
+    },
+    {
+      "id": "watchmaker-strap-drawer-more-addictive-than-jewelry-2026-05-10_06_抽屉角落压着的旧维修便签和表带头",
+      "batch": "watchmaker-strap-drawer-more-addictive-than-jewelry-2026-05-10",
+      "category": "watchmaker-strap-drawer",
+      "number": "06",
+      "title": "抽屉角落压着的旧维修便签和表带头",
+      "image": "assets/images/watchmaker-strap-drawer-more-addictive-than-jewelry-2026-05-10/06_抽屉角落压着的旧维修便签和表带头.png",
+      "thumb": "assets/thumbs/watchmaker-strap-drawer-more-addictive-than-jewelry-2026-05-10/06_抽屉角落压着的旧维修便签和表带头.png",
+      "description": "旧便签和表带头留在角落里，会让这套秩序显得更像真正被反复使用的职业现场。",
+      "prompt": "Horizontal documentary editorial photograph, worn strap ends and a blank old service note tucked in the corner of a watchmaker drawer, lived-in workshop realism, no logos, no readable text."
+    },
+    {
+      "id": "watchmaker-strap-drawer-more-addictive-than-jewelry-2026-05-10_07_深色鳄鱼纹表带挨着素面小牛皮",
+      "batch": "watchmaker-strap-drawer-more-addictive-than-jewelry-2026-05-10",
+      "category": "watchmaker-strap-drawer",
+      "number": "07",
+      "title": "深色鳄鱼纹表带挨着素面小牛皮",
+      "image": "assets/images/watchmaker-strap-drawer-more-addictive-than-jewelry-2026-05-10/07_深色鳄鱼纹表带挨着素面小牛皮.png",
+      "thumb": "assets/thumbs/watchmaker-strap-drawer-more-addictive-than-jewelry-2026-05-10/07_深色鳄鱼纹表带挨着素面小牛皮.png",
+      "description": "夸张和克制被并排放进同一个抽屉时，人的口味也会突然变得可见。",
+      "prompt": "Horizontal documentary editorial photograph, dark crocodile-pattern strap beside plain calfskin straps inside a drawer organizer, tactile luxury comparison, no logos, no readable text."
+    },
+    {
+      "id": "watchmaker-strap-drawer-more-addictive-than-jewelry-2026-05-10_08_手腕试搭前摆开的两三种表带",
+      "batch": "watchmaker-strap-drawer-more-addictive-than-jewelry-2026-05-10",
+      "category": "watchmaker-strap-drawer",
+      "number": "08",
+      "title": "手腕试搭前摆开的两三种表带",
+      "image": "assets/images/watchmaker-strap-drawer-more-addictive-than-jewelry-2026-05-10/08_手腕试搭前摆开的两三种表带.png",
+      "thumb": "assets/thumbs/watchmaker-strap-drawer-more-addictive-than-jewelry-2026-05-10/08_手腕试搭前摆开的两三种表带.png",
+      "description": "试搭前摊开的两三种表带，比首饰试戴更像一场关于身份的轻微犹豫。",
+      "prompt": "Horizontal documentary editorial photograph, two or three watch straps laid out before wrist fitting on a workshop table, understated style decision moment, no logos, no readable text."
+    },
+    {
+      "id": "watchmaker-strap-drawer-more-addictive-than-jewelry-2026-05-10_09_维修垫边缘的表扣和小螺丝",
+      "batch": "watchmaker-strap-drawer-more-addictive-than-jewelry-2026-05-10",
+      "category": "watchmaker-strap-drawer",
+      "number": "09",
+      "title": "维修垫边缘的表扣和小螺丝",
+      "image": "assets/images/watchmaker-strap-drawer-more-addictive-than-jewelry-2026-05-10/09_维修垫边缘的表扣和小螺丝.png",
+      "thumb": "assets/thumbs/watchmaker-strap-drawer-more-addictive-than-jewelry-2026-05-10/09_维修垫边缘的表扣和小螺丝.png",
+      "description": "表扣和小螺丝散在维修垫边缘时，时间的质感会变得比佩戴结果更迷人。",
+      "prompt": "Horizontal documentary editorial photograph, watch buckle and tiny screws scattered along the edge of a repair mat, precise metal details under workshop light, no logos, no readable text."
+    },
+    {
+      "id": "watchmaker-strap-drawer-more-addictive-than-jewelry-2026-05-10_10_傍晚收工前关上一半的抽屉",
+      "batch": "watchmaker-strap-drawer-more-addictive-than-jewelry-2026-05-10",
+      "category": "watchmaker-strap-drawer",
+      "number": "10",
+      "title": "傍晚收工前关上一半的抽屉",
+      "image": "assets/images/watchmaker-strap-drawer-more-addictive-than-jewelry-2026-05-10/10_傍晚收工前关上一半的抽屉.png",
+      "thumb": "assets/thumbs/watchmaker-strap-drawer-more-addictive-than-jewelry-2026-05-10/10_傍晚收工前关上一半的抽屉.png",
+      "description": "快收工时半关上的抽屉，会让人很想知道这份安静手艺到底还能留住多久。",
+      "prompt": "Horizontal documentary editorial photograph, half-closed watch strap drawer at dusk in a quiet workshop, soft closing gesture, moody end-of-day craftsmanship, no logos, no readable text."
+    },
+    {
+      "id": "watchmaker-strap-drawer-more-addictive-than-jewelry-2026-05-10_11_客户挑选时桌上留下的空格",
+      "batch": "watchmaker-strap-drawer-more-addictive-than-jewelry-2026-05-10",
+      "category": "watchmaker-strap-drawer",
+      "number": "11",
+      "title": "客户挑选时桌上留下的空格",
+      "image": "assets/images/watchmaker-strap-drawer-more-addictive-than-jewelry-2026-05-10/11_客户挑选时桌上留下的空格.png",
+      "thumb": "assets/thumbs/watchmaker-strap-drawer-more-addictive-than-jewelry-2026-05-10/11_客户挑选时桌上留下的空格.png",
+      "description": "被拿走几条表带后的空格，才最像“上头”这件事真实发生过的证据。",
+      "prompt": "Horizontal documentary editorial photograph, empty compartments left in a strap drawer after customer selection, subtle absence telling the story, clean realistic workshop scene, no logos, no readable text."
+    },
+    {
+      "id": "watchmaker-strap-drawer-more-addictive-than-jewelry-2026-05-10_12_最后归位的一根深酒红表带",
+      "batch": "watchmaker-strap-drawer-more-addictive-than-jewelry-2026-05-10",
+      "category": "watchmaker-strap-drawer",
+      "number": "12",
+      "title": "最后归位的一根深酒红表带",
+      "image": "assets/images/watchmaker-strap-drawer-more-addictive-than-jewelry-2026-05-10/12_最后归位的一根深酒红表带.png",
+      "thumb": "assets/thumbs/watchmaker-strap-drawer-more-addictive-than-jewelry-2026-05-10/12_最后归位的一根深酒红表带.png",
+      "description": "最后一根深酒红表带被放回去时，整个抽屉像终于把人的时间观也整理好了。",
+      "prompt": "Horizontal documentary editorial photograph, a deep burgundy leather watch strap being placed back into its compartment, careful hand movement, rich color and orderly composition, no logos, no readable text."
+    },
+    {
+      "id": "letter-opener-brass-paperclips-old-novel-desk-2026-05-10_01_胡桃木托盘里的拆信刀和黄铜回形针",
+      "batch": "letter-opener-brass-paperclips-old-novel-desk-2026-05-10",
+      "category": "letter-opener-brass-paperclips-old-novel-desk",
+      "number": "01",
+      "title": "胡桃木托盘里的拆信刀和黄铜回形针",
+      "image": "assets/images/letter-opener-brass-paperclips-old-novel-desk-2026-05-10/01_胡桃木托盘里的拆信刀和黄铜回形针.png",
+      "thumb": "assets/thumbs/letter-opener-brass-paperclips-old-novel-desk-2026-05-10/01_胡桃木托盘里的拆信刀和黄铜回形针.png",
+      "description": "胡桃木托盘里那把拆信刀和一小堆黄铜回形针，足够让办公桌突然像有了小说气味。",
+      "prompt": "Horizontal documentary editorial photograph, letter opener and brass paper clips arranged in a walnut tray on a desk, warm reading lamp glow, literary tactile still life, no logos, no readable text."
+    },
+    {
+      "id": "letter-opener-brass-paperclips-old-novel-desk-2026-05-10_02_未拆开的厚信封和细长拆信刀",
+      "batch": "letter-opener-brass-paperclips-old-novel-desk-2026-05-10",
+      "category": "letter-opener-brass-paperclips-old-novel-desk",
+      "number": "02",
+      "title": "未拆开的厚信封和细长拆信刀",
+      "image": "assets/images/letter-opener-brass-paperclips-old-novel-desk-2026-05-10/02_未拆开的厚信封和细长拆信刀.png",
+      "thumb": "assets/thumbs/letter-opener-brass-paperclips-old-novel-desk-2026-05-10/02_未拆开的厚信封和细长拆信刀.png",
+      "description": "没有真的拆开信，反而更容易让人把整个桌面想象成一段旧时代剧情。",
+      "prompt": "Horizontal documentary editorial photograph, unopened thick envelope beside a slender letter opener on a writing desk, moody vintage-modern atmosphere, no logos, no readable text."
+    },
+    {
+      "id": "letter-opener-brass-paperclips-old-novel-desk-2026-05-10_03_黄铜回形针散在旧书边缘",
+      "batch": "letter-opener-brass-paperclips-old-novel-desk-2026-05-10",
+      "category": "letter-opener-brass-paperclips-old-novel-desk",
+      "number": "03",
+      "title": "黄铜回形针散在旧书边缘",
+      "image": "assets/images/letter-opener-brass-paperclips-old-novel-desk-2026-05-10/03_黄铜回形针散在旧书边缘.png",
+      "thumb": "assets/thumbs/letter-opener-brass-paperclips-old-novel-desk-2026-05-10/03_黄铜回形针散在旧书边缘.png",
+      "description": "黄铜回形针散在旧书边上时，办公室就不再只是处理任务的地方，而像一个缓慢展开的段落。",
+      "prompt": "Horizontal documentary editorial photograph, brass paper clips scattered near the edge of an old book on a desk, textured paper and warm wood surfaces, no logos, no readable text."
+    },
+    {
+      "id": "letter-opener-brass-paperclips-old-novel-desk-2026-05-10_04_阅读灯下压着蜡封印章的便笺",
+      "batch": "letter-opener-brass-paperclips-old-novel-desk-2026-05-10",
+      "category": "letter-opener-brass-paperclips-old-novel-desk",
+      "number": "04",
+      "title": "阅读灯下压着蜡封印章的便笺",
+      "image": "assets/images/letter-opener-brass-paperclips-old-novel-desk-2026-05-10/04_阅读灯下压着蜡封印章的便笺.png",
+      "thumb": "assets/thumbs/letter-opener-brass-paperclips-old-novel-desk-2026-05-10/04_阅读灯下压着蜡封印章的便笺.png",
+      "description": "一张被压住的便笺和蜡封印章，会让很多人瞬间想把现代办公桌过得更像旧小说。",
+      "prompt": "Horizontal documentary editorial photograph, note paper under a reading lamp with wax seal stamp nearby, warm focused light, literary desk styling, no logos, no readable text."
+    },
+    {
+      "id": "letter-opener-brass-paperclips-old-novel-desk-2026-05-10_05_抽屉里分格收纳的黄铜小物",
+      "batch": "letter-opener-brass-paperclips-old-novel-desk-2026-05-10",
+      "category": "letter-opener-brass-paperclips-old-novel-desk",
+      "number": "05",
+      "title": "抽屉里分格收纳的黄铜小物",
+      "image": "assets/images/letter-opener-brass-paperclips-old-novel-desk-2026-05-10/05_抽屉里分格收纳的黄铜小物.png",
+      "thumb": "assets/thumbs/letter-opener-brass-paperclips-old-novel-desk-2026-05-10/05_抽屉里分格收纳的黄铜小物.png",
+      "description": "黄铜小物被分格收纳好时，克制和讲究都会一起变得可见。",
+      "prompt": "Horizontal documentary editorial photograph, desk drawer compartments filled with brass clips and small stationery objects, organized and tactile, no logos, no readable text."
+    },
+    {
+      "id": "letter-opener-brass-paperclips-old-novel-desk-2026-05-10_06_手指沿着拆信刀边缘停顿",
+      "batch": "letter-opener-brass-paperclips-old-novel-desk-2026-05-10",
+      "category": "letter-opener-brass-paperclips-old-novel-desk",
+      "number": "06",
+      "title": "手指沿着拆信刀边缘停顿",
+      "image": "assets/images/letter-opener-brass-paperclips-old-novel-desk-2026-05-10/06_手指沿着拆信刀边缘停顿.png",
+      "thumb": "assets/thumbs/letter-opener-brass-paperclips-old-novel-desk-2026-05-10/06_手指沿着拆信刀边缘停顿.png",
+      "description": "停在刀柄上的手指，会让这组小物从静物变成真正有人设的桌面。",
+      "prompt": "Horizontal documentary editorial photograph, fingers pausing along the handle of a letter opener on a desk, intimate human gesture, cinematic close-up, no logos, no readable text."
+    },
+    {
+      "id": "letter-opener-brass-paperclips-old-novel-desk-2026-05-10_07_胡桃木桌面上的纸张边缘和回形针",
+      "batch": "letter-opener-brass-paperclips-old-novel-desk-2026-05-10",
+      "category": "letter-opener-brass-paperclips-old-novel-desk",
+      "number": "07",
+      "title": "胡桃木桌面上的纸张边缘和回形针",
+      "image": "assets/images/letter-opener-brass-paperclips-old-novel-desk-2026-05-10/07_胡桃木桌面上的纸张边缘和回形针.png",
+      "thumb": "assets/thumbs/letter-opener-brass-paperclips-old-novel-desk-2026-05-10/07_胡桃木桌面上的纸张边缘和回形针.png",
+      "description": "纸张边缘和回形针的关系处理得足够好，整个桌面就会像一本旧小说的插图。",
+      "prompt": "Horizontal documentary editorial photograph, sheet edges and brass paper clips on a walnut desk, balanced composition with vintage-inspired office mood, no logos, no readable text."
+    },
+    {
+      "id": "letter-opener-brass-paperclips-old-novel-desk-2026-05-10_08_午后窗光里的黄铜夹子反光",
+      "batch": "letter-opener-brass-paperclips-old-novel-desk-2026-05-10",
+      "category": "letter-opener-brass-paperclips-old-novel-desk",
+      "number": "08",
+      "title": "午后窗光里的黄铜夹子反光",
+      "image": "assets/images/letter-opener-brass-paperclips-old-novel-desk-2026-05-10/08_午后窗光里的黄铜夹子反光.png",
+      "thumb": "assets/thumbs/letter-opener-brass-paperclips-old-novel-desk-2026-05-10/08_午后窗光里的黄铜夹子反光.png",
+      "description": "黄铜在午后反光的那一下，会让极普通的办公桌变得非常值得保存转发。",
+      "prompt": "Horizontal documentary editorial photograph, afternoon window light glinting off brass clips on a quiet desk, elegant reflections and soft shadows, no logos, no readable text."
+    },
+    {
+      "id": "letter-opener-brass-paperclips-old-novel-desk-2026-05-10_09_钢笔旁边安静放着的拆信刀",
+      "batch": "letter-opener-brass-paperclips-old-novel-desk-2026-05-10",
+      "category": "letter-opener-brass-paperclips-old-novel-desk",
+      "number": "09",
+      "title": "钢笔旁边安静放着的拆信刀",
+      "image": "assets/images/letter-opener-brass-paperclips-old-novel-desk-2026-05-10/09_钢笔旁边安静放着的拆信刀.png",
+      "thumb": "assets/thumbs/letter-opener-brass-paperclips-old-novel-desk-2026-05-10/09_钢笔旁边安静放着的拆信刀.png",
+      "description": "拆信刀和钢笔放在一起时，工作的节奏会突然像被调慢了半拍。",
+      "prompt": "Horizontal documentary editorial photograph, letter opener resting beside a fountain pen on a desk, restrained literary office still life, warm neutral tones, no logos, no readable text."
+    },
+    {
+      "id": "letter-opener-brass-paperclips-old-novel-desk-2026-05-10_10_夜里收桌前叠好的信纸和夹子",
+      "batch": "letter-opener-brass-paperclips-old-novel-desk-2026-05-10",
+      "category": "letter-opener-brass-paperclips-old-novel-desk",
+      "number": "10",
+      "title": "夜里收桌前叠好的信纸和夹子",
+      "image": "assets/images/letter-opener-brass-paperclips-old-novel-desk-2026-05-10/10_夜里收桌前叠好的信纸和夹子.png",
+      "thumb": "assets/thumbs/letter-opener-brass-paperclips-old-novel-desk-2026-05-10/10_夜里收桌前叠好的信纸和夹子.png",
+      "description": "夜里收桌前把信纸和夹子叠好，是很多人把日常过成小说的重要小动作。",
+      "prompt": "Horizontal documentary editorial photograph, neatly stacked stationery and brass clips before tidying a desk at night, intimate warm lamp lighting, no logos, no readable text."
+    },
+    {
+      "id": "letter-opener-brass-paperclips-old-novel-desk-2026-05-10_11_旧便笺本压着一枚蜡封和回形针",
+      "batch": "letter-opener-brass-paperclips-old-novel-desk-2026-05-10",
+      "category": "letter-opener-brass-paperclips-old-novel-desk",
+      "number": "11",
+      "title": "旧便笺本压着一枚蜡封和回形针",
+      "image": "assets/images/letter-opener-brass-paperclips-old-novel-desk-2026-05-10/11_旧便笺本压着一枚蜡封和回形针.png",
+      "thumb": "assets/thumbs/letter-opener-brass-paperclips-old-novel-desk-2026-05-10/11_旧便笺本压着一枚蜡封和回形针.png",
+      "description": "这些稍微过时的细节叠在一起，才会让现代办公桌看起来像有人在认真经营一种气质。",
+      "prompt": "Horizontal documentary editorial photograph, old memo pad weighted by a wax seal and brass paper clip, layered textures on a writing desk, no logos, no readable text."
+    },
+    {
+      "id": "letter-opener-brass-paperclips-old-novel-desk-2026-05-10_12_关灯前托盘里只剩一把拆信刀",
+      "batch": "letter-opener-brass-paperclips-old-novel-desk-2026-05-10",
+      "category": "letter-opener-brass-paperclips-old-novel-desk",
+      "number": "12",
+      "title": "关灯前托盘里只剩一把拆信刀",
+      "image": "assets/images/letter-opener-brass-paperclips-old-novel-desk-2026-05-10/12_关灯前托盘里只剩一把拆信刀.png",
+      "thumb": "assets/thumbs/letter-opener-brass-paperclips-old-novel-desk-2026-05-10/12_关灯前托盘里只剩一把拆信刀.png",
+      "description": "灯快关掉时托盘里只剩那把拆信刀，会让整组图像有一个非常旧小说式的收尾。",
+      "prompt": "Horizontal documentary editorial photograph, just one letter opener left in a tray before the desk lamp is turned off, quiet end-of-day literary mood, warm shadows, no logos, no readable text."
     }
   ]
 }
