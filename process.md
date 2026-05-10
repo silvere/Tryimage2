@@ -3767,3 +3767,97 @@
 - 导入时 ImageMagick 缩略图继续失败，仍走 `sips` PNG fallback；contact sheet 未重建，但不影响 gallery 导入与 GitHub 上传。
 - GitHub 上传策略：仅提交本次 4 组相关的 `batches/`、`assets/images/`、`assets/thumbs/`、`assets/gallery.json` 与 `process.md`，不夹带其他脚本或工作流文件。
 
+## 2026-05-10 第四十六轮：15 位中国公众人物 / 播客面孔 / 企业家 / 创始人代表场景
+
+调研时间：2026-05-10 10:57 +0800
+
+用户新要求：
+
+- 需要一个新的生图创意方向：找 15 位中国知名公众人物、播客面孔、企业家或创始人。
+- 先搜索其代表性事迹，再各用 1 张图像来展示他们。
+- 用户已明确要求“现在就开始执行”。
+
+本轮执行决策：
+
+- 不做旧的 3+3 候选轮，直接把用户已指定的方向落成一个 15 张人物代表场景 batch。
+- 仍保持 Tryimage2 的系列化表达：不是简单头像拼贴，而是“人物 + 代表性人生场景 / 行业空间 / 情绪环境”的单张叙事图。
+- 依旧优先纪录片 / editorial / 可被小红书点开的封面感，避免纯海报式硬宣传。
+
+已选 15 人：
+
+- 任正非：华为创始人，1987 年创立华为。
+- 马云：阿里巴巴创始人，1999 年联合创立阿里巴巴。
+- 雷军：小米创始人，2010 年创办小米。
+- 王传福：比亚迪董事长，带领比亚迪成长为全球知名新能源汽车品牌。
+- 王兴：美团创始人，2010 年创办美团。
+- 罗振宇：得到创始人，《时间的朋友》跨年演讲主讲人。
+- 梁文道：公共文化评论者，《八分》与《锵锵三人行》代表性面孔。
+- 许知远：作家 / 媒体人，《十三邀》主持人，单向空间创始人之一。
+- 柴静：记者 / 纪录片作者，《穹顶之下》代表性人物。
+- 姚明：篮球运动员，2016 年入选奈史密斯篮球名人堂。
+- 谷爱凌：自由式滑雪运动员，2022 北京冬奥会 2 金 1 银。
+- 苏炳添：短跑运动员，东京奥运会 100 米半决赛跑出 9 秒 83，刷新亚洲纪录。
+- 莫言：作家，2012 年诺贝尔文学奖获得者。
+- 张艺谋：导演，2008 北京奥运会开闭幕式总导演。
+- 李子柒：视频创作者，获吉尼斯认证为订阅量最高的中文 YouTube 频道（个人）。
+
+本轮主要参考来源：
+
+- 华为官网 executives / company info
+- 阿里巴巴官网 history
+- 小米官网 about
+- 比亚迪官网 leadership
+- 美团官网 management
+- 得到 App / 罗辑思维公开资料
+- 梁文道《八分》与《锵锵三人行》公开节目资料
+- 《十三邀》与单向空间公开资料
+- 柴静《穹顶之下》与《看见》公开资料
+- Olympics.com：谷爱凌、苏炳添
+- Basketball Hall of Fame：姚明
+- Nobel Prize：莫言
+- IOC / 奥运公开资料：张艺谋
+- Guinness World Records：李子柒
+
+落地结果：
+
+- 已创建 batch metadata：`batches/china-15-public-figures-signature-scenes-2026-05-10.json`
+- 主题：`15位中国知名公众人物 / 播客面孔 / 企业家 / 创始人的代表性人生场景`
+- itemCount：15
+- 视觉方法：每位人物 1 张，以“代表性空间 / 职业现场 / 时代场景”承载其代表性事迹，不做无信息量的单纯棚拍头像。
+- 已完成 Stage 2 生图：`tmp/china-15-public-figures-signature-scenes-2026-05-10/` 共 15 张 PNG。
+- 已进入：`workflow/generation/done/` 与 `workflow/publish/pending/`。
+- 已导入图库：
+  - `assets/images/china-15-public-figures-signature-scenes-2026-05-10/` 15 张
+  - `assets/thumbs/china-15-public-figures-signature-scenes-2026-05-10/` 15 张
+  - `assets/gallery.json` 新增 1 个 batch、1 个 category、15 个 items
+- 当前总量相对 `origin/main`：`41 -> 42` batches，`48 -> 49` categories，`562 -> 577` items。
+- 缩略图仍经由 `sips` PNG fallback 生成，contact sheet 未重建，但不影响 gallery 导入与 GitHub 上传。
+
+
+## Workflow pipeline updates
+
+- 2026-05-10T02:59:42.991Z Stage 1 选题入队：15位中国知名公众人物 / 播客面孔 / 企业家 / 创始人的代表性人生场景
+  - topicId: `2026-05-10-15位中国知名公众人物-播客面孔-企业家-创始人的代表性人生场景`
+  - lane: hot-topic
+  - generation.batchId: china-15-public-figures-signature-scenes-2026-05-10
+  - generation.metadataPath: batches/china-15-public-figures-signature-scenes-2026-05-10.json
+  - generation.itemCount: 15
+
+
+## Workflow pipeline updates
+
+- 2026-05-10T03:00:09.778Z Stage 2 开始生图：15位中国知名公众人物 / 播客面孔 / 企业家 / 创始人的代表性人生场景
+  - batchId: `china-15-public-figures-signature-scenes-2026-05-10`
+  - metadataPath: `batches/china-15-public-figures-signature-scenes-2026-05-10.json`
+  - itemCount: 15
+  - metadataSource: existing-batch-metadata
+
+
+## Workflow pipeline updates
+
+- 2026-05-10T03:40:41.319Z Stage 2 生图完成：15位中国知名公众人物 / 播客面孔 / 企业家 / 创始人的代表性人生场景
+  - batchId: `china-15-public-figures-signature-scenes-2026-05-10`
+  - outputDir: `tmp/china-15-public-figures-signature-scenes-2026-05-10`
+  - itemCount: 15
+  - next: Stage 3 publish pending
+

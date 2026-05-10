@@ -1,0 +1,127 @@
+{
+  "theme": "15位中国知名公众人物 / 播客面孔 / 企业家 / 创始人的代表性人生场景",
+  "batchId": "china-15-public-figures-signature-scenes-2026-05-10",
+  "createdAt": "2026-05-10",
+  "items": [
+    {
+      "source": "01_任正非与通信蓝图的凌晨办公室.png",
+      "title": "任正非与通信蓝图的凌晨办公室",
+      "description": "用一间还亮着灯的办公室，把华为式硬科技创业的长期主义压缩成一个凌晨瞬间。",
+      "prompt": "Horizontal documentary editorial portrait of Ren Zhengfei in a late-night office, standing beside large telecom network blueprints and hardware prototypes, restrained Chinese tech-industrial atmosphere, soft desk lamp glow, realistic facial likeness, no logos, no readable text.",
+      "category": "china-15-public-figures-signature-scenes",
+      "categoryLabel": "中国15位公众人物代表场景"
+    },
+    {
+      "source": "02_马云在橙色电商浪潮前的演讲舞台.png",
+      "title": "马云在橙色电商浪潮前的演讲舞台",
+      "description": "一张舞台图就能把中国电商最早那股相信中小商家能改命的气势重新点亮。",
+      "prompt": "Horizontal documentary editorial portrait of Jack Ma on a large keynote stage, warm orange lighting, abstract e-commerce parcels and digital marketplace waves behind him, energetic hand gesture, realistic facial likeness, no logos, no readable text.",
+      "category": "china-15-public-figures-signature-scenes",
+      "categoryLabel": "中国15位公众人物代表场景"
+    },
+    {
+      "source": "03_雷军站在新品发布会与手机生态之间.png",
+      "title": "雷军站在新品发布会与手机生态之间",
+      "description": "把消费电子创业神话拍成一张发布会中心位的人物图，最能说明小米式产品人格。",
+      "prompt": "Horizontal documentary editorial portrait of Lei Jun on a modern product launch stage, smartphone and smart-home devices arranged in a clean halo around him, confident founder posture, realistic facial likeness, cinematic tech lighting, no logos, no readable text.",
+      "category": "china-15-public-figures-signature-scenes",
+      "categoryLabel": "中国15位公众人物代表场景"
+    },
+    {
+      "source": "04_王传福与新能源车灯映亮的工厂夜色.png",
+      "title": "王传福与新能源车灯映亮的工厂夜色",
+      "description": "车灯、产线和电池结构感放在一起，能把比亚迪扩张期的工业雄心讲得很直白。",
+      "prompt": "Horizontal documentary editorial portrait of Wang Chuanfu in a nighttime EV factory, bright car headlights, battery pack silhouettes and assembly line depth around him, realistic Chinese industrial mood, realistic facial likeness, no logos, no readable text.",
+      "category": "china-15-public-figures-signature-scenes",
+      "categoryLabel": "中国15位公众人物代表场景"
+    },
+    {
+      "source": "05_王兴与城市夜骑外卖网络的总控视角.png",
+      "title": "王兴与城市夜骑外卖网络的总控视角",
+      "description": "把创始人放进夜色中密密麻麻流动的配送网络里，才能看出平台城市的真正尺度。",
+      "prompt": "Horizontal documentary editorial portrait of Wang Xing overlooking a dense night city logistics map, delivery riders moving through glowing urban streets below, platform economy tension, realistic facial likeness, no logos, no readable text.",
+      "category": "china-15-public-figures-signature-scenes",
+      "categoryLabel": "中国15位公众人物代表场景"
+    },
+    {
+      "source": "06_罗振宇站在跨年演讲倒计时大屏前.png",
+      "title": "罗振宇站在跨年演讲倒计时大屏前",
+      "description": "一个跨年舞台、一块巨型倒计时屏，足够把知识付费时代的动员感浓缩出来。",
+      "prompt": "Horizontal documentary editorial portrait of Luo Zhenyu on a large New Year speech stage, giant countdown screen and auditorium glow behind him, headset mic, blue stage lighting, realistic facial likeness, no logos, no readable text.",
+      "category": "china-15-public-figures-signature-scenes",
+      "categoryLabel": "中国15位公众人物代表场景"
+    },
+    {
+      "source": "07_梁文道在播客录音间与书墙之间.png",
+      "title": "梁文道在播客录音间与书墙之间",
+      "description": "书墙、麦克风和安静侧脸，能把华语公共表达里最耐听的一类声音具象化。",
+      "prompt": "Horizontal documentary editorial portrait of Leung Man-tao inside a warm podcast recording studio, microphone, stacked books and dark wood shelves around him, reflective intellectual mood, realistic facial likeness, no logos, no readable text.",
+      "category": "china-15-public-figures-signature-scenes",
+      "categoryLabel": "中国15位公众人物代表场景"
+    },
+    {
+      "source": "08_许知远在深夜城市街角的对谈时刻.png",
+      "title": "许知远在深夜城市街角的对谈时刻",
+      "description": "把他放回城市夜谈的街角，画面天然就会有十三邀式的漫游感和疏离感。",
+      "prompt": "Horizontal documentary editorial portrait of Xu Zhiyuan on a quiet nighttime city street corner before an interview, soft café window light, coat, recorder in hand, urban intellectual atmosphere, realistic facial likeness, no logos, no readable text.",
+      "category": "china-15-public-figures-signature-scenes",
+      "categoryLabel": "中国15位公众人物代表场景"
+    },
+    {
+      "source": "09_柴静面对灰霾天际线的调查现场.png",
+      "title": "柴静面对灰霾天际线的调查现场",
+      "description": "记者与灰霾城市对视的瞬间，足够把公共议题年代的强烈情绪重新拉回来。",
+      "prompt": "Horizontal documentary editorial portrait of Chai Jing at an investigative reporting location, hazy urban skyline behind her, handheld microphone and documentary camera presence, serious journalistic mood, realistic facial likeness, no logos, no readable text.",
+      "category": "china-15-public-figures-signature-scenes",
+      "categoryLabel": "中国15位公众人物代表场景"
+    },
+    {
+      "source": "10_姚明站在聚光灯篮球馆中央.png",
+      "title": "姚明站在聚光灯篮球馆中央",
+      "description": "不需要太多道具，只要身高、球馆和一束光，姚明的时代记忆就会立刻被唤醒。",
+      "prompt": "Horizontal documentary editorial portrait of Yao Ming standing alone at center court under arena spotlights, towering scale, basketball atmosphere, dignified retired legend presence, realistic facial likeness, no logos, no readable text.",
+      "category": "china-15-public-figures-signature-scenes",
+      "categoryLabel": "中国15位公众人物代表场景"
+    },
+    {
+      "source": "11_谷爱凌在雪场腾空前的静止一秒.png",
+      "title": "谷爱凌在雪场腾空前的静止一秒",
+      "description": "把竞技、时尚感和新时代偶像气质折叠在一张雪场人物图里，会非常好点开。",
+      "prompt": "Horizontal documentary editorial portrait of Eileen Gu on a snowy halfpipe just before takeoff, crisp winter light, red Chinese team ski outfit, youthful champion energy, realistic facial likeness, no logos, no readable text.",
+      "category": "china-15-public-figures-signature-scenes",
+      "categoryLabel": "中国15位公众人物代表场景"
+    },
+    {
+      "source": "12_苏炳添起跑器前的爆发前夜.png",
+      "title": "苏炳添起跑器前的爆发前夜",
+      "description": "亚洲速度神话最适合被拍成起跑前那一秒，所有力量都还压在地面上。",
+      "prompt": "Horizontal documentary editorial portrait of Su Bingtian crouched at starting blocks in a dramatic track stadium, red sprint uniform, explosive pre-race tension, realistic facial likeness, no logos, no readable text.",
+      "category": "china-15-public-figures-signature-scenes",
+      "categoryLabel": "中国15位公众人物代表场景"
+    },
+    {
+      "source": "13_莫言与高粱地边被风掀起的手稿.png",
+      "title": "莫言与高粱地边被风掀起的手稿",
+      "description": "高粱、土地和手稿同时出现时，莫言作品里的乡土史诗感会一下子立起来。",
+      "prompt": "Horizontal documentary editorial portrait of Mo Yan beside a red sorghum field, manuscript pages lifting in the wind, earthy rural Chinese literary atmosphere, mature reflective expression, realistic facial likeness, no logos, no readable text.",
+      "category": "china-15-public-figures-signature-scenes",
+      "categoryLabel": "中国15位公众人物代表场景"
+    },
+    {
+      "source": "14_张艺谋在红色群像调度中的片场背影.png",
+      "title": "张艺谋在红色群像调度中的片场背影",
+      "description": "让一个导演站在巨型红色群像的调度现场里，本身就是最张艺谋的视觉语言。",
+      "prompt": "Horizontal documentary editorial portrait of Zhang Yimou on a vast film set, crimson mass choreography unfolding behind him, director monitor and stage-blocking energy, realistic facial likeness, no logos, no readable text.",
+      "category": "china-15-public-figures-signature-scenes",
+      "categoryLabel": "中国15位公众人物代表场景"
+    },
+    {
+      "source": "15_李子柒在竹林院落灶台前的晨光时刻.png",
+      "title": "李子柒在竹林院落灶台前的晨光时刻",
+      "description": "田园院落和灶台晨光会让她身上那种中国式慢生活想象非常直接地成立。",
+      "prompt": "Horizontal documentary editorial portrait of Li Ziqi in a bamboo courtyard by a rustic stove at morning light, handmade rural Chinese lifestyle details, calm poetic atmosphere, realistic facial likeness, no logos, no readable text.",
+      "category": "china-15-public-figures-signature-scenes",
+      "categoryLabel": "中国15位公众人物代表场景"
+    }
+  ]
+}
