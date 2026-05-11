@@ -1,7 +1,7 @@
 {
   "site": {
     "title": "OpenAI image2 视觉实验",
-    "subtitle": "661 张传播向 AI 海报",
+    "subtitle": "646 张传播向 AI 海报",
     "headline": "OpenAI image2 视觉实验",
     "intro": "每一批图片围绕一个临时主题生成，并按当次最合适的 category 归档；可以是反差创意、真实场景、产品概念、人物叙事或任何新的视觉方向。",
     "coverImage": "assets/contact_sheet_image2.jpg",
@@ -154,10 +154,6 @@
     {
       "id": "chocolate-price-stickiness",
       "label": "巧克力价格黏性"
-    },
-    {
-      "id": "mbti-office-culture",
-      "label": "MBTI办公室"
     },
     {
       "id": "subsea-cable-landing-station",
@@ -408,12 +404,6 @@
     {
       "id": "chocolate-price-stickiness-2026-05-07",
       "theme": "一块巧克力为什么还没便宜",
-      "createdAt": "2026-05-07",
-      "count": 15
-    },
-    {
-      "id": "mbti-office-culture-2026-05-07",
-      "theme": "一张 MBTI 表，怎样把 16 种人塞进同一间办公室",
       "createdAt": "2026-05-07",
       "count": 15
     },
@@ -4983,171 +4973,6 @@
       "thumb": "assets/thumbs/chocolate-price-stickiness-2026-05-07/15_气候温室.png",
       "description": "未来可可温室代表对气候风险的长期适应。",
       "prompt": "Horizontal documentary editorial photograph, experimental cacao greenhouse for climate adaptation, young cacao trees under shade cloth and irrigation sensors, researcher checking seedlings, humid controlled environment, no readable labels, no logos, realistic future agriculture resilience, clean natural light."
-    },
-    {
-      "id": "mbti-office-culture-2026-05-07_01_深夜测试结果",
-      "batch": "mbti-office-culture-2026-05-07",
-      "category": "mbti-office-culture",
-      "number": "01",
-      "title": "深夜测试结果",
-      "image": "assets/images/mbti-office-culture-2026-05-07/01_深夜测试结果.png",
-      "thumb": "assets/thumbs/mbti-office-culture-2026-05-07/01_深夜测试结果.png",
-      "description": "很多人的人格叙事，都是从深夜那次测试结果开始的。",
-      "prompt": "Horizontal documentary editorial photograph, young office worker alone at night in a small apartment, laptop showing an abstract colorful personality quiz result with no readable text, phone beside keyboard, rain on window, mixed curiosity and self-recognition, realistic 2026 urban life, no logos, no readable text, cinematic but grounded."
-    },
-    {
-      "id": "mbti-office-culture-2026-05-07_02_入职自我介绍",
-      "batch": "mbti-office-culture-2026-05-07",
-      "category": "mbti-office-culture",
-      "number": "02",
-      "title": "入职自我介绍",
-      "image": "assets/images/mbti-office-culture-2026-05-07/02_入职自我介绍.png",
-      "thumb": "assets/thumbs/mbti-office-culture-2026-05-07/02_入职自我介绍.png",
-      "description": "人格标签开始进入团队，往往是在最轻松的一次自我介绍里。",
-      "prompt": "Horizontal documentary editorial photograph, first-day orientation in a modern office meeting room, a new employee standing to introduce themselves while others watch with different body language and energy, blank whiteboard, office casual clothing, subtle personality contrast, no readable text, no logos, realistic workplace mood."
-    },
-    {
-      "id": "mbti-office-culture-2026-05-07_03_会议座位分布",
-      "batch": "mbti-office-culture-2026-05-07",
-      "category": "mbti-office-culture",
-      "number": "03",
-      "title": "会议座位分布",
-      "image": "assets/images/mbti-office-culture-2026-05-07/03_会议座位分布.png",
-      "thumb": "assets/thumbs/mbti-office-culture-2026-05-07/03_会议座位分布.png",
-      "description": "同一张会议桌上，谁坐中间、谁靠门、谁贴墙，像一张无声的人格地图。",
-      "prompt": "Horizontal documentary editorial photograph, conference room just before a team meeting, seats naturally clustering by different social styles, one chair at the center, one near the door, one tucked into the corner, colored sticky dots on a blank wall suggesting personality mapping, no readable text, no logos, realistic office sociology atmosphere."
-    },
-    {
-      "id": "mbti-office-culture-2026-05-07_04_被打断的人",
-      "batch": "mbti-office-culture-2026-05-07",
-      "category": "mbti-office-culture",
-      "number": "04",
-      "title": "被打断的人",
-      "image": "assets/images/mbti-office-culture-2026-05-07/04_被打断的人.png",
-      "thumb": "assets/thumbs/mbti-office-culture-2026-05-07/04_被打断的人.png",
-      "description": "人格差异最明显的时候，不是在测试里，而是在有人刚开口就被打断的那一秒。",
-      "prompt": "Horizontal documentary editorial photograph, high-pressure brainstorm meeting in a glass conference room, one employee trying to speak while another cuts in, others reacting with different temperaments, blank presentation screen, realistic tension, no readable text, no logos, emotionally sharp workplace scene."
-    },
-    {
-      "id": "mbti-office-culture-2026-05-07_05_群聊已读未回",
-      "batch": "mbti-office-culture-2026-05-07",
-      "category": "mbti-office-culture",
-      "number": "05",
-      "title": "群聊已读未回",
-      "image": "assets/images/mbti-office-culture-2026-05-07/05_群聊已读未回.png",
-      "thumb": "assets/thumbs/mbti-office-culture-2026-05-07/05_群聊已读未回.png",
-      "description": "同一个工作群里，有人秒回，有人打长文，有人看完就沉默。",
-      "prompt": "Horizontal documentary editorial photograph, open-plan office desks at dusk, one employee typing a long reply on phone, another ignoring a notification, another deleting a draft before send, abstract chat bubbles on screens with no readable text, realistic office messaging culture, no logos."
-    },
-    {
-      "id": "mbti-office-culture-2026-05-07_06_工位装饰差异",
-      "batch": "mbti-office-culture-2026-05-07",
-      "category": "mbti-office-culture",
-      "number": "06",
-      "title": "工位装饰差异",
-      "image": "assets/images/mbti-office-culture-2026-05-07/06_工位装饰差异.png",
-      "thumb": "assets/thumbs/mbti-office-culture-2026-05-07/06_工位装饰差异.png",
-      "description": "有人把工位变成小型世界，有人只留下一台电脑和一杯水。",
-      "prompt": "Horizontal documentary editorial photograph, split-like view across neighboring office desks, one densely personalized with plants, figurines and warm lamps, one extremely minimal and clean, one meticulously organized with color-coded objects, no readable text, no logos, realistic material detail, modern Chinese workplace."
-    },
-    {
-      "id": "mbti-office-culture-2026-05-07_07_午休独处角落",
-      "batch": "mbti-office-culture-2026-05-07",
-      "category": "mbti-office-culture",
-      "number": "07",
-      "title": "午休独处角落",
-      "image": "assets/images/mbti-office-culture-2026-05-07/07_午休独处角落.png",
-      "thumb": "assets/thumbs/mbti-office-culture-2026-05-07/07_午休独处角落.png",
-      "description": "午休时躲去哪里，往往比开会发言更能说明一个人的耗能方式。",
-      "prompt": "Horizontal documentary editorial photograph, office lunch break, one employee sitting alone in a quiet stairwell corner with headphones, distant cafeteria crowd visible through glass, soft noon light, realistic introversion and decompression mood, no readable text, no logos."
-    },
-    {
-      "id": "mbti-office-culture-2026-05-07_08_临时开会通知",
-      "batch": "mbti-office-culture-2026-05-07",
-      "category": "mbti-office-culture",
-      "number": "08",
-      "title": "临时开会通知",
-      "image": "assets/images/mbti-office-culture-2026-05-07/08_临时开会通知.png",
-      "thumb": "assets/thumbs/mbti-office-culture-2026-05-07/08_临时开会通知.png",
-      "description": "一条临时开会通知，能把不同人格的应激方式同时照出来。",
-      "prompt": "Horizontal documentary editorial photograph, modern office floor reacting to a sudden meeting alert, one person immediately standing, one visibly annoyed, one calmly reorganizing notes, one frozen mid-task, screens showing abstract notification blocks with no readable text, no logos, realistic contemporary work culture."
-    },
-    {
-      "id": "mbti-office-culture-2026-05-07_09_团建破冰局",
-      "batch": "mbti-office-culture-2026-05-07",
-      "category": "mbti-office-culture",
-      "number": "09",
-      "title": "团建破冰局",
-      "image": "assets/images/mbti-office-culture-2026-05-07/09_团建破冰局.png",
-      "thumb": "assets/thumbs/mbti-office-culture-2026-05-07/09_团建破冰局.png",
-      "description": "团队最相信人格分类的时候，往往正站在一场有点尴尬的破冰游戏里。",
-      "prompt": "Horizontal documentary editorial photograph, corporate team-building workshop in a hotel meeting room, awkward icebreaker game in progress, some people enthusiastic, some guarded, some amused, colored cards and props with no readable text, realistic social discomfort, no logos."
-    },
-    {
-      "id": "mbti-office-culture-2026-05-07_10_面试官的小本子",
-      "batch": "mbti-office-culture-2026-05-07",
-      "category": "mbti-office-culture",
-      "number": "10",
-      "title": "面试官的小本子",
-      "image": "assets/images/mbti-office-culture-2026-05-07/10_面试官的小本子.png",
-      "thumb": "assets/thumbs/mbti-office-culture-2026-05-07/10_面试官的小本子.png",
-      "description": "人格标签一旦进了招聘场景，就不再只是自我理解，而成了筛人的暗规则。",
-      "prompt": "Horizontal documentary editorial photograph, job interview scene in a glass office, candidate speaking across the table while interviewer writes private shorthand in a small notebook, neutral body language under formal politeness, blank résumé papers, no readable text, no logos, realistic hiring power dynamic."
-    },
-    {
-      "id": "mbti-office-culture-2026-05-07_11_恋爱型人格配对",
-      "batch": "mbti-office-culture-2026-05-07",
-      "category": "mbti-office-culture",
-      "number": "11",
-      "title": "恋爱型人格配对",
-      "image": "assets/images/mbti-office-culture-2026-05-07/11_恋爱型人格配对.png",
-      "thumb": "assets/thumbs/mbti-office-culture-2026-05-07/11_恋爱型人格配对.png",
-      "description": "MBTI 离开办公室后，最常进入的下一个场景就是恋爱判断。",
-      "prompt": "Horizontal documentary editorial photograph, young adults in a cozy bookstore café comparing abstract personality cards during a date-like conversation, playful but evaluative mood, phones and notebooks on table, no readable text, no logos, realistic urban relationship culture."
-    },
-    {
-      "id": "mbti-office-culture-2026-05-07_12_冲突复盘白板",
-      "batch": "mbti-office-culture-2026-05-07",
-      "category": "mbti-office-culture",
-      "number": "12",
-      "title": "冲突复盘白板",
-      "image": "assets/images/mbti-office-culture-2026-05-07/12_冲突复盘白板.png",
-      "thumb": "assets/thumbs/mbti-office-culture-2026-05-07/12_冲突复盘白板.png",
-      "description": "很多团队把结构性冲突，最后解释成了几种人格之间的误会。",
-      "prompt": "Horizontal documentary editorial photograph, post-conflict team retrospective around a blank whiteboard covered with abstract arrows and colored notes, tired employees reflecting after disagreement, realistic startup office atmosphere, no readable text, no logos, emotionally nuanced."
-    },
-    {
-      "id": "mbti-office-culture-2026-05-07_13_夜里最后走的人",
-      "batch": "mbti-office-culture-2026-05-07",
-      "category": "mbti-office-culture",
-      "number": "13",
-      "title": "夜里最后走的人",
-      "image": "assets/images/mbti-office-culture-2026-05-07/13_夜里最后走的人.png",
-      "thumb": "assets/thumbs/mbti-office-culture-2026-05-07/13_夜里最后走的人.png",
-      "description": "人格神话最容易忽略的是，很多行为差异其实也来自谁总是留到最晚。",
-      "prompt": "Horizontal documentary editorial photograph, almost empty office late at night, one last employee under a pool of desk light, dark city skyline outside, rows of vacant workstations behind, no readable text, no logos, realistic fatigue and solitude."
-    },
-    {
-      "id": "mbti-office-culture-2026-05-07_14_人格博主直播间",
-      "batch": "mbti-office-culture-2026-05-07",
-      "category": "mbti-office-culture",
-      "number": "14",
-      "title": "人格博主直播间",
-      "image": "assets/images/mbti-office-culture-2026-05-07/14_人格博主直播间.png",
-      "thumb": "assets/thumbs/mbti-office-culture-2026-05-07/14_人格博主直播间.png",
-      "description": "当人格变成内容产业，它就开始出售一种被快速理解的幻觉。",
-      "prompt": "Horizontal documentary editorial photograph, influencer livestream setup about personality typing, ring light, pastel set, host gesturing toward abstract type diagrams on a screen with no readable text, comments flowing as colored shapes, realistic social media content economy, no logos."
-    },
-    {
-      "id": "mbti-office-culture-2026-05-07_15_撕掉人格便利贴",
-      "batch": "mbti-office-culture-2026-05-07",
-      "category": "mbti-office-culture",
-      "number": "15",
-      "title": "撕掉人格便利贴",
-      "image": "assets/images/mbti-office-culture-2026-05-07/15_撕掉人格便利贴.png",
-      "thumb": "assets/thumbs/mbti-office-culture-2026-05-07/15_撕掉人格便利贴.png",
-      "description": "真正困难的时刻，不是知道自己像哪一型，而是决定不再只按那一型活。",
-      "prompt": "Horizontal documentary editorial photograph, close emotional office scene where a worker removes colored personality sticky notes from a desk divider, morning light entering after a long night, quiet sense of reclaiming complexity, no readable text, no logos, realistic and slightly hopeful."
     },
     {
       "id": "subsea-cable-landing-station-2026-05-08_01_海边登陆站外景",
