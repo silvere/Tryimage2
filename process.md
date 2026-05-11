@@ -4408,3 +4408,256 @@
   - itemCount: 12
   - next: Stage 3 publish pending
 
+## 2026-05-11 第五十二轮候选池
+
+调研时间：2026-05-11 03:27 CST
+
+本轮已读 / 已核对：
+
+- `process.md`：上一轮未选中的 `GLP-1 便当分格盒 / 数据中心临时燃气发电机 / 头皮检测摄像头 / 麻疹污水样本 / Cannes 媒体场座位表 / 蛋白咖啡杯` 按规则视为丢弃，本轮不直接沿用标题或同切口。
+- `assets/gallery.json`：当前核对为 `46` 个 batches、`53` 个 categories、`625` 个 items；最近批次为 `手冲台秩序 / 钢笔尖与黄铜镇尺 / 茶仓抽屉秩序 / 钥匙铺胚钥匙墙`。
+- 避重复重点：继续避开咖啡杯、手冲台、茶器、钢笔黄铜桌面、钥匙铺、自然石、通勤 EDC、旅行茶器、宠物登机、薄胎闻香杯、钟表表带、拆信刀桌面、Labubu、屋顶酒吧、海缆登陆站、巧克力价格黏性、MBTI 办公室、博物馆背面、具身机器人、Orion 舷窗；本轮不再回收上一轮 GLP-1/数据中心/头皮/麻疹/Cannes/蛋白咖啡。
+- 本轮执行边界：只做选题前流程；不生成图片、不创建 batch metadata、不导入图库、不发布。
+
+本轮调研信号：
+
+- **深海 eDNA 把“没被看见的巨物”变成新科学叙事**：2026-05-04 至 05-09 多家科技/大众媒体报道 Curtin University / WA Museum / Minderoo OceanOmics 团队用环境 DNA 在西澳 Ningaloo 附近深海峡谷检测到巨乌贼、深潜鲸类、faceless cusk eel 等；这不是海怪猎奇，而是“水样如何变成生态证据”的知识切口。
+- **城市气候适应从口号落到排水、泵房、公园和热暴露**：MBTA 2026-05-01 发布系统级气候韧性路线图，New Yorker 近期讨论 sponge city / cloudburst plan / bluebelt / sponge park；相比旧的地铁泵房候选，本轮可切到“一个会蓄水的公园”和城市如何从排水思维转向蓄水思维。
+- **成人大脑学习机制有新的可视化锚点**：MIT 2026-05-06 相关报道显示成人皮层可能保留大量 silent synapses，可在新学习中被激活；同时 MIT 2026-01 spatial computing 研究把任务规则、脑波、前额叶空间组织联系起来。适合从“一个人学新技能时，大脑备用连接被点亮”切入认知热点。
+- **AI 购物进入“机器先看懂网页，再决定商品是否出现”阶段**：Adobe 2026-04 报道 AI 来源零售流量同比大增，Search Engine Land 2026-03 报道 Google AI Overview 已出现在 14% shopping queries；这比泛 AI agent 更适合从一个商品页的机器可读性、结构化数据和答案页货架切入。
+- **社交平台旅行内容从目的地攻略转向 micro-escape 和本地高审美体验**：Vogue Business 2026-05-07 TikTok Trend Tracker 提到 #Travel 增长由 micro-escape、pack with me、airport fit、city guides、holiday montages 推动；可切到“周末微逃离行李格”，但图库已有宠物登机、旅行茶器和 EDC，需谨慎避免变成纯物件摆拍。
+- **深海采矿和生物多样性风险继续升温**：Natural History Museum / Phys.org 2026-05-05 讨论多年深海采矿研究对海底生物的威胁，和巨乌贼 eDNA 共同指向“看不见的深海生命如何进入公共决策”。
+
+候选主题：
+
+1. 一瓶深海 eDNA 水样，怎样把一只没被看见的巨乌贼带回科学现场
+   - 母题：深海科学 / 生物多样性 / 证据如何出现。
+   - 小切口：科研船实验台上一只透明采样瓶，瓶中只有深海水和过滤膜，却能指向巨乌贼、鲸类和未记录物种。
+   - 大问题：当人类看不见深海生命时，环境 DNA、机器人、数据库和保护政策如何把“缺席的动物”转化为可讨论的生态证据。
+   - 可做 10-15 张：Ningaloo 深海峡谷剖面、科研船夜间甲板、采水 Rosette、过滤膜、冷冻样本盒、DNA 条形码、巨乌贼缺席的剪影、faceless cusk eel、深潜鲸声学记录、ROV 灯下海参、样本数据库、博物馆标本抽屉、海洋保护会议、深海采矿风险地图、回到海面的空水瓶。
+   - 避重复：图库没有深海 eDNA / 海洋生物多样性批次；区别于已有博物馆背面和生命科学机理图，本题是“看不见但可被检测”的现场证据链。
+
+2. 一座海绵公园的雨水口，为什么城市开始学会不把水赶走
+   - 母题：城市生活 / 气候适应 / 基础设施审美。
+   - 小切口：暴雨后公园低洼草地、透水铺装、雨水花园和地下蓄水池，而不是宏大灾难海报。
+   - 大问题：极端降雨时代，城市如何从更大管道和更高堤坝，转向吸收、滞留、慢排、再利用和社区公共空间的混合系统。
+   - 可做 10-15 张：雨水口漩涡、透水砖近景、下沉草坪蓄水、雨水花园、地下蓄水舱、泵房仪表、儿童雨后绕行、清淤工人、设计师模型、社区听证会、蓝绿廊道地图、老旧合流管道、暴雨前沙袋、雨后第一束阳光、城市鸟瞰水脉。
+   - 避重复：不重复旧候选的地铁站泵房，也不同于不可能建筑；这是现实城市公园和排水系统，视觉上有雨、水、植物、地下结构和居民行动。
+
+3. 一次新技能练习里，被点亮的沉默突触
+   - 母题：认知科学 / 学习 / 成人可塑性。
+   - 小切口：一个成年人练习新动作、新语言或新乐器时，脑内原本沉默的连接被激活。
+   - 大问题：学习并不是把旧记忆挤掉，而是在稳定记忆旁边调动备用连接；这能连接终身学习、技能焦虑、AI 代劳后的“自己有没有长出来”。
+   - 可做 10-15 张：深夜练琴手指、显微树突突起、沉默突触点亮、NMDA/AMPA 抽象模块、旧记忆档案柜、新经验贴纸、错误练习回路、睡眠巩固、成人课堂、运动技能慢动作、脑波规则网格、前额叶任务空间、复习间隔日历、关闭 AI 后手写一遍、长期技能曲线。
+   - 避重复：不同于已有大模型方法论和集体记忆统计图像；本题以神经科学具体机制做认知热点，不是泛 AI 教育。
+
+4. 一个 AI 购物答案页，为什么商品货架开始先给机器看
+   - 母题：零售 / AI 搜索 / 电商基础设施。
+   - 小切口：消费者看见的是一个 AI 推荐结果，背后是商品页结构化数据、库存、价格、评价、退货政策和机器可读性评分。
+   - 大问题：当购物入口从搜索框和首页变成 AI 助手，品牌竞争会从“谁排在货架上”变成“谁先被机器正确理解和推荐”。
+   - 可做 10-15 张：AI 购物对话框、商品页骨架、结构化数据标签、库存 API、价格比较表、用户评价摘要、退货政策卡片、机器爬虫过闸、品牌内容团队、商家后台、A/B 测试屏、AI 可读性热力图、被漏读的商品、成交后的包裹、未来无首页商店。
+   - 避重复：不重复 GraphRAG 或 AI 架构图；它落在电商工作流和网页货架，视觉上是办公室、电商后台、包裹与购物界面。
+
+5. 一个周末 micro-escape 行李格，为什么旅行开始从远方变成短暂换气
+   - 母题：社交平台旅行 / 城市情绪 / 微度假消费。
+   - 小切口：一只周末小包、机场 fit、城郊民宿钥匙、地铁到海边的一小时路线。
+   - 大问题：在预算、时间和情绪压力下，年轻人的旅行内容从大目的地攻略变成可展示、可复制、可快速回血的本地高审美短逃离。
+   - 可做 10-15 张：周五晚小行李格、pack with me、机场 fit 镜面、城郊火车窗、民宿门牌、海边便利店、城市屋顶小泳池、胶片相机桌面、两小时 city guide、假日蒙太奇、周日返程站台、未读工作消息、朋友拼车、账单分摊、回到办公桌的沙粒。
+   - 避重复：需要避开宠物登机、旅行茶器和通勤 EDC 的物件摆拍；若做，应强调“短暂换气的路线和情绪叙事”，不是单纯行李美学。
+
+本轮建议：
+
+- 首推：`一瓶深海 eDNA 水样，怎样把一只没被看见的巨乌贼带回科学现场`。新闻新、知识纵深强、视觉差异大，能用“透明水样 vs 深海巨物”的反差形成封面停留。
+- 次推：`一座海绵公园的雨水口，为什么城市开始学会不把水赶走`。现实城市感强，适合做雨水、地下结构、居民行动和气候适应的系列，不落入泛环保。
+- 第三推：`一次新技能练习里，被点亮的沉默突触`。认知热点和知识感强，但抽象度较高，需要靠“练习现场 + 显微机制”双线画法稳住。
+- 商业科技备选：`一个 AI 购物答案页，为什么商品货架开始先给机器看`。
+- 社交消费备选：`一个周末 micro-escape 行李格，为什么旅行开始从远方变成短暂换气`。
+
+参考来源：
+
+- 系统时间核对：`date '+%Y-%m-%d %H:%M:%S %Z'` -> `2026-05-11 03:27:29 CST`。
+- EurekAlert / Curtin University，`Giant squid among rare and elusive marine life detected off Western Australia’s coast`，2026-05-04。
+- Phys.org / Curtin University，`Giant squid among rare and elusive marine life detected off Western Australia's coast`，2026-05-05。
+- Minderoo OceanOmics，`OceanOmics` 项目介绍，说明 eDNA 用于海洋生物多样性监测。
+- Natural History Museum / Phys.org，`Decades of deep sea mining research show threat to seafloor creatures`，2026-05-05。
+- MIT / ScienceDaily，`MIT scientists discover millions of “silent synapses” in the adult brain`，2026-05-06。
+- MIT News，`To flexibly organize thought, the brain makes use of space`，2026-01-20。
+- MBTA / Metro Magazine / Chelsea Record，`MBTA Unveils First Systemwide Resilience Roadmap`，2026-05-01 至 2026-05-07。
+- New Yorker，`Can Sponge Cities Save Us from the Coming Floods?`，2026-04。
+- Adobe / eCommerceNews，`Adobe says AI retail traffic surges as readability lags`，2026-04-23。
+- Search Engine Land，`Google AI Overviews now appear on 14% of shopping queries`，2026-03-18。
+- Vogue Business，`The Vogue Business TikTok Trend Tracker`，2026-05-07。
+
+执行状态：
+
+- `process.md` 已追加本轮调研信号、5 个候选主题和去重边界。
+- 本轮只做选题，不生成图片、不创建 batch metadata、不导入图库、不发布；等待用户明确选择主题后再进入生图流程。
+
+## 2026-05-11 第五十三轮候选池（严格 3+3）
+
+调研时间：2026-05-11 08:02 +0800
+
+本轮已读 / 已核对：
+
+- `process.md`：上一轮未选中的 `深海 eDNA 水样 / 海绵公园雨水口 / 沉默突触 / AI 购物答案页 / micro-escape 行李格` 按规则视为丢弃，本轮不复用同标题或同切口。
+- `assets/gallery.json`：当前核对为 `46` 个 batches、`53` 个 categories、`625` 个 items；最近批次为 `手冲台秩序 / 钢笔尖与黄铜镇尺 / 茶仓抽屉秩序 / 钥匙铺胚钥匙墙`。
+- 重点避重复：继续避开已生成或刚被否决的屋顶酒吧、宠物登机、咖啡杯审美简历、自然石桌面玄学、通勤 EDC、旅行茶器、薄胎闻香杯、钟表表带、拆信刀桌面、手冲台、钢笔桌面、茶仓抽屉、钥匙铺、GLP-1 便当、数据中心临时发电机、头皮检测、麻疹污水、Cannes 座位表、micro-escape 行李格等方向。
+- 本轮执行边界：只做 topic-selection；不生成图片、不创建 batch metadata JSON、不导入 `assets/gallery.json`、不发布。
+
+本轮调研信号：
+
+- **时尚展览热度仍高，但“红毯后场”比红毯本身更有图像抓力**：AP Lifestyle 首页仍在推 2026 Met Gala / fashion-art 相关内容；比单纯礼服合影更适合做 `白手套 / 防尘袋 / 运输箱 / 入柜前最后整理` 这种后台时刻。
+- **季节性平台热点已切到 520 前夜的高密度情绪劳动**：系统日期为 2026-05-11，距离 5 月 20 日只有 9 天；比婚姻登记和婚纱照更新鲜的切口是 `花店冷库 / 包花台 / 夜里赶单的人`。
+- **XiaoHongShu 高热母题继续偏向“状态管理”和“仪式化消费”**：医美恢复包、后护理、镜前复原、低调但高压的自我维护，仍比抽象行业分析更像会被停留和评论的封面。
+- **May 11 的“this day in history” 给了两条可借用的审美线索**：Wikipedia `May 11` 页面显示这是 Salvador Dalí（1904）与 Valentino Garavani（1932，条目如此显示）的生日，同时 868 年《金刚经》木刻本是已知最早有日期的印刷书；可分别借给本轮的 `戏剧化时装感` 与 `书籍物质性 / 装帧工作台`。
+- **经典书卷气仍可作为辅助气味，而不是主讲知识点**：AP Entertainment 同页出现 `Hamlet` 在 TikTok 时代仍然流行的报道，说明“旧书、戏剧、装帧、票据、布脊”这类古典物件仍有平台想象力，但要先保证封面好看。
+
+候选主题（严格 3+3）：
+
+### Group A｜热话题 / 讨论型 / XiaoHongShu clickable
+
+1. 一只礼服运输箱刚刚打开，为什么真正迷人的不是红毯，而是红毯前那 15 分钟
+   - 关键词：白手套、防尘袋、礼服标签、镜前蒸汽、挂衣轨、后台走廊、闪片、时装展
+   - 为什么能打：Met Gala / fashion-art 余温还在，后台比正面更有偷窥感、阶层感和评论欲，封面天然停留。
+
+2. 520 前夜的花店冷库和包花台，为什么浪漫内容总是靠一群人通宵把它赶出来
+   - 关键词：玫瑰桶、冷库白雾、牛皮纸、剪刺手套、凌晨路边、订单堆、丝带、散落花头
+   - 为什么能打：季节节点明确、劳动与爱情反差强，既有好看花面，又有“浪漫背后的赶工”讨论度。
+
+3. 一只轻医美术后三天的冰袋口罩包，为什么很多人的状态管理已经像一份不能公开的日程表
+   - 关键词：冰袋、口罩、恢复镜、针孔贴、酒店洗手台、预约卡、遮阳帽、无菌袋
+   - 为什么能打：医美恢复期比术前等待室更私密也更真实，XHS 感强、争议强、身份投射也强。
+
+### Group B｜小物 / 收藏 / 职业 / 材料（显式覆盖咖啡杯 / 自然石 / 工具工作台偏好）
+
+4. 一抽屉地质标本薄片和石英断面，为什么自然石真正让人上头的是“被切开之后”
+   - 关键词：矿物抽屉、石英断面、偏光光泽、标签针、亚克力盒、灰蓝绒布、薄片、收藏癖
+   - 为什么能打：保留自然石方向，但从“桌面玄学”切到“切面与收纳秩序”，更像会被收藏保存的细节系热帖。
+
+5. 一排老咖啡馆的厚壁浓缩杯和杯托裂纹，为什么真正有记忆点的不是豆子，而是杯子的使用痕迹
+   - 关键词：浓缩杯、杯托裂纹、咖啡渍、吧台不锈钢、叠杯、手柄朝向、早班店员、奶泡残痕
+   - 为什么能打：避开已做过的“咖啡杯审美简历”，改抓更真实的使用痕迹与老店质感，保存欲和模仿欲都高。
+
+6. 一张旧书装帧师的工作台，为什么布脊、压痕板和烫金边比很多电子阅读截图更容易让人心动
+   - 关键词：布脊、压痕板、骨刀、胶刷、麻线、裁纸刀、旧纸边、装帧台灯
+   - 为什么能打：《金刚经》印刷史 + 经典书卷气给了它文化底色，但入口是极好看的工具和材质，不会像知识卡片。
+
+本轮排序建议：
+
+- 首推：`一只礼服运输箱刚刚打开，为什么真正迷人的不是红毯，而是红毯前那 15 分钟`
+- 次推：`520 前夜的花店冷库和包花台，为什么浪漫内容总是靠一群人通宵把它赶出来`
+- 第三推：`一只轻医美术后三天的冰袋口罩包，为什么很多人的状态管理已经像一份不能公开的日程表`
+- Lane B 首位：`一抽屉地质标本薄片和石英断面，为什么自然石真正让人上头的是“被切开之后”`
+- Lane B 次位：`一排老咖啡馆的厚壁浓缩杯和杯托裂纹，为什么真正有记忆点的不是豆子，而是杯子的使用痕迹`
+- Lane B 第三位：`一张旧书装帧师的工作台，为什么布脊、压痕板和烫金边比很多电子阅读截图更容易让人心动`
+
+参考来源：
+
+- 系统时间核对：`date '+%Y-%m-%d %H:%M %z %A'` -> `2026-05-11 08:02 +0800 Monday`。
+- AP News Lifestyle hub（抓取时间 2026-05-11 08:xx +0800）：页面标题 `Lifestyle: Latest Lifestyle News Stories | AP News`，可见 `Met gala guests deliver works of art on the human form` 等时尚条目。
+- AP News Entertainment hub（抓取时间 2026-05-11 08:xx +0800）：页面可见 `From Taylor Swift to the Oscars, 400-year-old 'Hamlet' flourishes in the age of TikTok` 等文化条目。
+- Wikipedia `May 11`（抓取时间 2026-05-11 08:xx +0800）：可见 `868 – A copy of the Diamond Sutra is published...`、`1904 – Salvador Dalí...`、`1932 – Valentino Garavani...`。
+
+执行状态：
+
+- `process.md` 已更新本轮 research notes 与严格 3+3 候选集。
+- 本轮只做选题，不生成图片、不创建 batch metadata JSON、不导入图库、不发布；必须等待用户在聊天里明确确认主题后，才可进入任何生成流程。
+
+## Workflow pipeline updates
+
+- 2026-05-11T00:42:41.444Z Stage 1 选题入队：520 前夜的花店冷库和包花台，为什么浪漫内容总是靠一群人通宵把它赶出来
+  - topicId: `2026-05-11-520-前夜的花店冷库和包花台-为什么浪漫内容总是靠一群人通宵把它赶出来`
+  - lane: hot-topic
+  - generation.batchId: flower-shop-cold-room-wrap-bench-520-nightshift-2026-05-11
+  - generation.metadataPath: batches/flower-shop-cold-room-wrap-bench-520-nightshift-2026-05-11.json
+  - generation.itemCount: 12
+
+
+## Workflow pipeline updates
+
+- 2026-05-11T00:42:42.865Z Stage 1 选题入队：一张旧书装帧师的工作台，为什么布脊、压痕板和烫金边比很多电子阅读截图更容易让人心动
+  - topicId: `2026-05-11-一张旧书装帧师的工作台-为什么布脊-压痕板和烫金边比很多电子阅读截图更容易让人心动`
+  - lane: small-object
+  - generation.batchId: old-bookbinder-worktable-cloth-spine-gilded-edge-2026-05-11
+  - generation.metadataPath: batches/old-bookbinder-worktable-cloth-spine-gilded-edge-2026-05-11.json
+  - generation.itemCount: 12
+
+
+## Workflow pipeline updates
+
+- 2026-05-11T00:42:44.365Z Stage 1 选题入队：一排老咖啡馆的厚壁浓缩杯和杯托裂纹，为什么真正有记忆点的不是豆子，而是杯子的使用痕迹
+  - topicId: `2026-05-11-一排老咖啡馆的厚壁浓缩杯和杯托裂纹-为什么真正有记忆点的不是豆子-而是杯子的使用痕迹`
+  - lane: small-object
+  - generation.batchId: old-cafe-espresso-cups-wear-marks-2026-05-11
+  - generation.metadataPath: batches/old-cafe-espresso-cups-wear-marks-2026-05-11.json
+  - generation.itemCount: 12
+
+
+## Workflow pipeline updates
+
+- 2026-05-11T00:43:19.110Z Stage 2 开始生图：520 前夜的花店冷库和包花台，为什么浪漫内容总是靠一群人通宵把它赶出来
+  - batchId: `flower-shop-cold-room-wrap-bench-520-nightshift-2026-05-11`
+  - metadataPath: `batches/flower-shop-cold-room-wrap-bench-520-nightshift-2026-05-11.json`
+  - itemCount: 12
+  - metadataSource: existing-batch-metadata
+
+
+## Workflow pipeline updates
+
+- 2026-05-11T00:43:20.292Z Stage 2 开始生图：一张旧书装帧师的工作台，为什么布脊、压痕板和烫金边比很多电子阅读截图更容易让人心动
+  - batchId: `old-bookbinder-worktable-cloth-spine-gilded-edge-2026-05-11`
+  - metadataPath: `batches/old-bookbinder-worktable-cloth-spine-gilded-edge-2026-05-11.json`
+  - itemCount: 12
+  - metadataSource: existing-batch-metadata
+
+
+## Workflow pipeline updates
+
+- 2026-05-11T00:43:21.542Z Stage 2 开始生图：一排老咖啡馆的厚壁浓缩杯和杯托裂纹，为什么真正有记忆点的不是豆子，而是杯子的使用痕迹
+  - batchId: `old-cafe-espresso-cups-wear-marks-2026-05-11`
+  - metadataPath: `batches/old-cafe-espresso-cups-wear-marks-2026-05-11.json`
+  - itemCount: 12
+  - metadataSource: existing-batch-metadata
+
+
+## Workflow pipeline updates
+
+- 2026-05-11T00:59:21.122Z Stage 2 生图完成：一张旧书装帧师的工作台，为什么布脊、压痕板和烫金边比很多电子阅读截图更容易让人心动
+  - batchId: `old-bookbinder-worktable-cloth-spine-gilded-edge-2026-05-11`
+  - outputDir: `tmp/old-bookbinder-worktable-cloth-spine-gilded-edge-2026-05-11`
+  - itemCount: 12
+  - next: Stage 3 publish pending
+
+
+## Workflow pipeline updates
+
+- 2026-05-11T01:01:27.009Z Stage 2 生图完成：一排老咖啡馆的厚壁浓缩杯和杯托裂纹，为什么真正有记忆点的不是豆子，而是杯子的使用痕迹
+  - batchId: `old-cafe-espresso-cups-wear-marks-2026-05-11`
+  - outputDir: `tmp/old-cafe-espresso-cups-wear-marks-2026-05-11`
+  - itemCount: 12
+  - next: Stage 3 publish pending
+
+
+## Workflow pipeline updates
+
+- 2026-05-11T01:03:31.941Z Stage 2 生图完成：520 前夜的花店冷库和包花台，为什么浪漫内容总是靠一群人通宵把它赶出来
+  - batchId: `flower-shop-cold-room-wrap-bench-520-nightshift-2026-05-11`
+  - outputDir: `tmp/flower-shop-cold-room-wrap-bench-520-nightshift-2026-05-11`
+  - itemCount: 12
+  - next: Stage 3 publish pending
+
+## 2026-05-11 三个已选主题导入结果
+
+- 路由结论：本轮三组图片均走 **Codex/OpenAI** 生图路径，不走 Hermes/FAL。
+- 已完成图库导入：
+  - `node scripts/import-gallery-batch.mjs --metadata batches/flower-shop-cold-room-wrap-bench-520-nightshift-2026-05-11.json --images tmp/flower-shop-cold-room-wrap-bench-520-nightshift-2026-05-11`
+  - `node scripts/import-gallery-batch.mjs --metadata batches/old-bookbinder-worktable-cloth-spine-gilded-edge-2026-05-11.json --images tmp/old-bookbinder-worktable-cloth-spine-gilded-edge-2026-05-11`
+  - `node scripts/import-gallery-batch.mjs --metadata batches/old-cafe-espresso-cups-wear-marks-2026-05-11.json --images tmp/old-cafe-espresso-cups-wear-marks-2026-05-11`
+- 导入批次：
+  - `flower-shop-cold-room-wrap-bench-520-nightshift-2026-05-11`：12 张
+  - `old-bookbinder-worktable-cloth-spine-gilded-edge-2026-05-11`：12 张
+  - `old-cafe-espresso-cups-wear-marks-2026-05-11`：12 张
+- `assets/gallery.json` 已新增以上 3 个 batch、对应 3 个 category、共 36 个 items；图库总量现为 `49` 个 batches、`56` 个 categories、`661` 个 items。
+- `assets/thumbs/<batch-id>/` 三组缩略图均已生成，各 12 张；本轮缩略图走的是 `sips` PNG fallback，不是 ImageMagick webp。
+- `ImageMagick montage failed; contact sheet was not rebuilt.` 在本轮不是阻塞问题；导入本身已成功。
+

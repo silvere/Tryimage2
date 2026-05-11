@@ -1,7 +1,7 @@
 {
   "site": {
     "title": "OpenAI image2 视觉实验",
-    "subtitle": "625 张传播向 AI 海报",
+    "subtitle": "661 张传播向 AI 海报",
     "headline": "OpenAI image2 视觉实验",
     "intro": "每一批图片围绕一个临时主题生成，并按当次最合适的 category 归档；可以是反差创意、真实场景、产品概念、人物叙事或任何新的视觉方向。",
     "coverImage": "assets/contact_sheet_image2.jpg",
@@ -222,6 +222,18 @@
     {
       "id": "key-shop-blank-key-wall-life-radius",
       "label": "钥匙铺胚钥匙墙"
+    },
+    {
+      "id": "520-flower-shop-nightshift",
+      "label": "520花店冷库夜班"
+    },
+    {
+      "id": "old-bookbinder-worktable",
+      "label": "旧书装帧工作台"
+    },
+    {
+      "id": "old-cafe-espresso-cups",
+      "label": "老咖啡馆浓缩杯"
     }
   ],
   "batches": [
@@ -499,6 +511,24 @@
       "id": "key-shop-blank-key-wall-life-radius-2026-05-10",
       "theme": "一家钥匙铺的胚钥匙墙和黄铜圆牌，为什么最不起眼的 everyday object 反而最容易暴露一个人的生活半径",
       "createdAt": "2026-05-10",
+      "count": 12
+    },
+    {
+      "id": "flower-shop-cold-room-wrap-bench-520-nightshift-2026-05-11",
+      "theme": "520 前夜的花店冷库和包花台，为什么浪漫内容总是靠一群人通宵把它赶出来",
+      "createdAt": "2026-05-11",
+      "count": 12
+    },
+    {
+      "id": "old-bookbinder-worktable-cloth-spine-gilded-edge-2026-05-11",
+      "theme": "一张旧书装帧师的工作台，为什么布脊、压痕板和烫金边比很多电子阅读截图更容易让人心动",
+      "createdAt": "2026-05-11",
+      "count": 12
+    },
+    {
+      "id": "old-cafe-espresso-cups-wear-marks-2026-05-11",
+      "theme": "一排老咖啡馆的厚壁浓缩杯和杯托裂纹，为什么真正有记忆点的不是豆子，而是杯子的使用痕迹",
+      "createdAt": "2026-05-11",
       "count": 12
     }
   ],
@@ -7362,6 +7392,402 @@
       "thumb": "assets/thumbs/key-shop-blank-key-wall-life-radius-2026-05-10/12_卷帘门快拉下前师傅整理好最后一排钥匙胚.png",
       "description": "关店前整理最后一排钥匙胚的动作，很适合做这组日常职业图的收尾。",
       "prompt": "Horizontal documentary editorial photograph, locksmith organizing the final row of key blanks before closing the rolling shutter, reflective end-of-day workshop scene, no logos, no readable text."
+    },
+    {
+      "id": "flower-shop-cold-room-wrap-bench-520-nightshift-2026-05-11_01_冷库白雾里一桶桶玫瑰刚被推出来",
+      "batch": "flower-shop-cold-room-wrap-bench-520-nightshift-2026-05-11",
+      "category": "520-flower-shop-nightshift",
+      "number": "01",
+      "title": "冷库白雾里一桶桶玫瑰刚被推出来",
+      "image": "assets/images/flower-shop-cold-room-wrap-bench-520-nightshift-2026-05-11/01_冷库白雾里一桶桶玫瑰刚被推出来.png",
+      "thumb": "assets/thumbs/flower-shop-cold-room-wrap-bench-520-nightshift-2026-05-11/01_冷库白雾里一桶桶玫瑰刚被推出来.png",
+      "description": "浪漫真正开始之前，先是冷库门打开时那股带着白雾的赶工气味。",
+      "prompt": "Horizontal documentary editorial photograph, realistic textures, cinematic but natural light, Xiaohongshu-clickable composition, no logos, no readable text, no brand labels. Florist cold room just opened before 520, rows of rose buckets rolling out through white refrigeration mist, workers in aprons and gloves, fluorescent backroom atmosphere."
+    },
+    {
+      "id": "flower-shop-cold-room-wrap-bench-520-nightshift-2026-05-11_02_剪刺手套边堆着刚拆开的深红玫瑰",
+      "batch": "flower-shop-cold-room-wrap-bench-520-nightshift-2026-05-11",
+      "category": "520-flower-shop-nightshift",
+      "number": "02",
+      "title": "剪刺手套边堆着刚拆开的深红玫瑰",
+      "image": "assets/images/flower-shop-cold-room-wrap-bench-520-nightshift-2026-05-11/02_剪刺手套边堆着刚拆开的深红玫瑰.png",
+      "thumb": "assets/thumbs/flower-shop-cold-room-wrap-bench-520-nightshift-2026-05-11/02_剪刺手套边堆着刚拆开的深红玫瑰.png",
+      "description": "真正把爱情赶出来的人，第一步往往是先把手扎痛。",
+      "prompt": "Horizontal documentary editorial photograph, realistic textures, cinematic but natural light, Xiaohongshu-clickable composition, no logos, no readable text, no brand labels. Close-up of florist thorn-cutting gloves beside freshly opened deep red roses, stems, stray leaves and wrapping scraps on a wet workbench."
+    },
+    {
+      "id": "flower-shop-cold-room-wrap-bench-520-nightshift-2026-05-11_03_牛皮纸和丝带在包花台上铺成一场小型战役",
+      "batch": "flower-shop-cold-room-wrap-bench-520-nightshift-2026-05-11",
+      "category": "520-flower-shop-nightshift",
+      "number": "03",
+      "title": "牛皮纸和丝带在包花台上铺成一场小型战役",
+      "image": "assets/images/flower-shop-cold-room-wrap-bench-520-nightshift-2026-05-11/03_牛皮纸和丝带在包花台上铺成一场小型战役.png",
+      "thumb": "assets/thumbs/flower-shop-cold-room-wrap-bench-520-nightshift-2026-05-11/03_牛皮纸和丝带在包花台上铺成一场小型战役.png",
+      "description": "包花台摊开的不是文艺道具，而是一整晚的时间压力。",
+      "prompt": "Horizontal documentary editorial photograph, realistic textures, cinematic but natural light, Xiaohongshu-clickable composition, no logos, no readable text, no brand labels. Busy florist wrapping bench covered with kraft paper, ribbons, scissors, tape, flower heads and order slips without readable text, organized chaos."
+    },
+    {
+      "id": "flower-shop-cold-room-wrap-bench-520-nightshift-2026-05-11_04_凌晨路边等外卖骑手取花束的那几分钟",
+      "batch": "flower-shop-cold-room-wrap-bench-520-nightshift-2026-05-11",
+      "category": "520-flower-shop-nightshift",
+      "number": "04",
+      "title": "凌晨路边等外卖骑手取花束的那几分钟",
+      "image": "assets/images/flower-shop-cold-room-wrap-bench-520-nightshift-2026-05-11/04_凌晨路边等外卖骑手取花束的那几分钟.png",
+      "thumb": "assets/thumbs/flower-shop-cold-room-wrap-bench-520-nightshift-2026-05-11/04_凌晨路边等外卖骑手取花束的那几分钟.png",
+      "description": "最有都市情绪的一幕，往往不是送达，而是等人接走之前的路边空档。",
+      "prompt": "Horizontal documentary editorial photograph, realistic textures, cinematic but natural light, Xiaohongshu-clickable composition, no logos, no readable text, no brand labels. Predawn curbside outside a flower shop, finished bouquets waiting near the door for delivery riders, damp pavement, sodium streetlight, quiet city fatigue."
+    },
+    {
+      "id": "flower-shop-cold-room-wrap-bench-520-nightshift-2026-05-11_05_订单堆和手机支架把包花台挤得只剩半只手",
+      "batch": "flower-shop-cold-room-wrap-bench-520-nightshift-2026-05-11",
+      "category": "520-flower-shop-nightshift",
+      "number": "05",
+      "title": "订单堆和手机支架把包花台挤得只剩半只手",
+      "image": "assets/images/flower-shop-cold-room-wrap-bench-520-nightshift-2026-05-11/05_订单堆和手机支架把包花台挤得只剩半只手.png",
+      "thumb": "assets/thumbs/flower-shop-cold-room-wrap-bench-520-nightshift-2026-05-11/05_订单堆和手机支架把包花台挤得只剩半只手.png",
+      "description": "浪漫内容的背后，常常是一张挤满订单和催单信息的工作台。",
+      "prompt": "Horizontal documentary editorial photograph, realistic textures, cinematic but natural light, Xiaohongshu-clickable composition, no logos, no readable text, no brand labels. Florist bench crowded with stacked paper orders, a phone stand, tape guns, bouquet sleeves, only half a hand-sized space left to work, pressure of fulfillment night."
+    },
+    {
+      "id": "flower-shop-cold-room-wrap-bench-520-nightshift-2026-05-11_06_一束快包好的香槟玫瑰被临时拆开重来",
+      "batch": "flower-shop-cold-room-wrap-bench-520-nightshift-2026-05-11",
+      "category": "520-flower-shop-nightshift",
+      "number": "06",
+      "title": "一束快包好的香槟玫瑰被临时拆开重来",
+      "image": "assets/images/flower-shop-cold-room-wrap-bench-520-nightshift-2026-05-11/06_一束快包好的香槟玫瑰被临时拆开重来.png",
+      "thumb": "assets/thumbs/flower-shop-cold-room-wrap-bench-520-nightshift-2026-05-11/06_一束快包好的香槟玫瑰被临时拆开重来.png",
+      "description": "夜里最崩溃的不是没开始，而是已经快好了又得推翻。",
+      "prompt": "Horizontal documentary editorial photograph, realistic textures, cinematic but natural light, Xiaohongshu-clickable composition, no logos, no readable text, no brand labels. Half-finished champagne rose bouquet being reopened and rebuilt on the wrapping table, florist hands mid-motion, petals and ribbon loosened, tension visible."
+    },
+    {
+      "id": "flower-shop-cold-room-wrap-bench-520-nightshift-2026-05-11_07_散落花头和地上的叶片像赶工后的雪",
+      "batch": "flower-shop-cold-room-wrap-bench-520-nightshift-2026-05-11",
+      "category": "520-flower-shop-nightshift",
+      "number": "07",
+      "title": "散落花头和地上的叶片像赶工后的雪",
+      "image": "assets/images/flower-shop-cold-room-wrap-bench-520-nightshift-2026-05-11/07_散落花头和地上的叶片像赶工后的雪.png",
+      "thumb": "assets/thumbs/flower-shop-cold-room-wrap-bench-520-nightshift-2026-05-11/07_散落花头和地上的叶片像赶工后的雪.png",
+      "description": "最能说明劳动密度的，不是人脸，而是地上那层被踩乱的花叶。",
+      "prompt": "Horizontal documentary editorial photograph, realistic textures, cinematic but natural light, Xiaohongshu-clickable composition, no logos, no readable text, no brand labels. Floor beneath florist tables covered with fallen petals, trimmed leaves and crushed stems after hours of rush work, poetic but unsentimental realism."
+    },
+    {
+      "id": "flower-shop-cold-room-wrap-bench-520-nightshift-2026-05-11_08_玻璃门后的冷库里只剩最后一排补货玫瑰",
+      "batch": "flower-shop-cold-room-wrap-bench-520-nightshift-2026-05-11",
+      "category": "520-flower-shop-nightshift",
+      "number": "08",
+      "title": "玻璃门后的冷库里只剩最后一排补货玫瑰",
+      "image": "assets/images/flower-shop-cold-room-wrap-bench-520-nightshift-2026-05-11/08_玻璃门后的冷库里只剩最后一排补货玫瑰.png",
+      "thumb": "assets/thumbs/flower-shop-cold-room-wrap-bench-520-nightshift-2026-05-11/08_玻璃门后的冷库里只剩最后一排补货玫瑰.png",
+      "description": "库存快见底的时候，节日的甜也会突然露出一点硬度。",
+      "prompt": "Horizontal documentary editorial photograph, realistic textures, cinematic but natural light, Xiaohongshu-clickable composition, no logos, no readable text, no brand labels. Through the glass door of a florist cold room, only the last row of restock roses remains, blue-white refrigeration light, sparse inventory tension."
+    },
+    {
+      "id": "flower-shop-cold-room-wrap-bench-520-nightshift-2026-05-11_09_店员把丝带最后一圈拉紧时已经快天亮了",
+      "batch": "flower-shop-cold-room-wrap-bench-520-nightshift-2026-05-11",
+      "category": "520-flower-shop-nightshift",
+      "number": "09",
+      "title": "店员把丝带最后一圈拉紧时已经快天亮了",
+      "image": "assets/images/flower-shop-cold-room-wrap-bench-520-nightshift-2026-05-11/09_店员把丝带最后一圈拉紧时已经快天亮了.png",
+      "thumb": "assets/thumbs/flower-shop-cold-room-wrap-bench-520-nightshift-2026-05-11/09_店员把丝带最后一圈拉紧时已经快天亮了.png",
+      "description": "有些花束真正完成的时候，白天已经在门外排队。",
+      "prompt": "Horizontal documentary editorial photograph, realistic textures, cinematic but natural light, Xiaohongshu-clickable composition, no logos, no readable text, no brand labels. Florist tightening the final ribbon around a bouquet at dawn, cool early light meeting warm indoor light, tired precision, intimate hands."
+    },
+    {
+      "id": "flower-shop-cold-room-wrap-bench-520-nightshift-2026-05-11_10_后门水池边排着刚换下来的刺枝和湿围裙",
+      "batch": "flower-shop-cold-room-wrap-bench-520-nightshift-2026-05-11",
+      "category": "520-flower-shop-nightshift",
+      "number": "10",
+      "title": "后门水池边排着刚换下来的刺枝和湿围裙",
+      "image": "assets/images/flower-shop-cold-room-wrap-bench-520-nightshift-2026-05-11/10_后门水池边排着刚换下来的刺枝和湿围裙.png",
+      "thumb": "assets/thumbs/flower-shop-cold-room-wrap-bench-520-nightshift-2026-05-11/10_后门水池边排着刚换下来的刺枝和湿围裙.png",
+      "description": "节日经济最真实的后台，不是在橱窗里，而是在后门的水池边。",
+      "prompt": "Horizontal documentary editorial photograph, realistic textures, cinematic but natural light, Xiaohongshu-clickable composition, no logos, no readable text, no brand labels. Back sink area of a flower shop with thorny cut stems, wet aprons, buckets and cleaning cloths lined up, utilitarian backstage realism."
+    },
+    {
+      "id": "flower-shop-cold-room-wrap-bench-520-nightshift-2026-05-11_11_清晨第一束被摆上前台时店里还没来得及收拾",
+      "batch": "flower-shop-cold-room-wrap-bench-520-nightshift-2026-05-11",
+      "category": "520-flower-shop-nightshift",
+      "number": "11",
+      "title": "清晨第一束被摆上前台时店里还没来得及收拾",
+      "image": "assets/images/flower-shop-cold-room-wrap-bench-520-nightshift-2026-05-11/11_清晨第一束被摆上前台时店里还没来得及收拾.png",
+      "thumb": "assets/thumbs/flower-shop-cold-room-wrap-bench-520-nightshift-2026-05-11/11_清晨第一束被摆上前台时店里还没来得及收拾.png",
+      "description": "前台那束看似轻松漂亮的花，后面往往还拖着一整个没收尾的夜班。",
+      "prompt": "Horizontal documentary editorial photograph, realistic textures, cinematic but natural light, Xiaohongshu-clickable composition, no logos, no readable text, no brand labels. First finished bouquet placed at the shop front in early morning while the back workspace remains messy and active, contrast of polished romance and unfinished labor."
+    },
+    {
+      "id": "flower-shop-cold-room-wrap-bench-520-nightshift-2026-05-11_12_卷帘门半开时包花台边的人还在继续打结",
+      "batch": "flower-shop-cold-room-wrap-bench-520-nightshift-2026-05-11",
+      "category": "520-flower-shop-nightshift",
+      "number": "12",
+      "title": "卷帘门半开时包花台边的人还在继续打结",
+      "image": "assets/images/flower-shop-cold-room-wrap-bench-520-nightshift-2026-05-11/12_卷帘门半开时包花台边的人还在继续打结.png",
+      "thumb": "assets/thumbs/flower-shop-cold-room-wrap-bench-520-nightshift-2026-05-11/12_卷帘门半开时包花台边的人还在继续打结.png",
+      "description": "门要开了，夜班却还没有真正结束，这才是节日流量最像现实的一刻。",
+      "prompt": "Horizontal documentary editorial photograph, realistic textures, cinematic but natural light, Xiaohongshu-clickable composition, no logos, no readable text, no brand labels. Shop shutter half-open at opening time while workers are still tying bouquet knots at the wrapping bench, transitional moment between night shift and business hours."
+    },
+    {
+      "id": "old-bookbinder-worktable-cloth-spine-gilded-edge-2026-05-11_01_晨光照到布脊卷和骨刀的一角",
+      "batch": "old-bookbinder-worktable-cloth-spine-gilded-edge-2026-05-11",
+      "category": "old-bookbinder-worktable",
+      "number": "01",
+      "title": "晨光照到布脊卷和骨刀的一角",
+      "image": "assets/images/old-bookbinder-worktable-cloth-spine-gilded-edge-2026-05-11/01_晨光照到布脊卷和骨刀的一角.png",
+      "thumb": "assets/thumbs/old-bookbinder-worktable-cloth-spine-gilded-edge-2026-05-11/01_晨光照到布脊卷和骨刀的一角.png",
+      "description": "真正让人心动的往往不是书名，而是工作台上这些安静得近乎神圣的工具。",
+      "prompt": "Horizontal documentary editorial photograph, realistic textures, cinematic but natural light, Xiaohongshu-clickable composition, no logos, no readable text, no brand labels. Vintage bookbinder worktable in morning light, cloth spine rolls, bone folder, awl and linen thread arranged with tactile beauty, quiet craft intimacy."
+    },
+    {
+      "id": "old-bookbinder-worktable-cloth-spine-gilded-edge-2026-05-11_02_压痕板上压着一册还没上壳的旧书芯",
+      "batch": "old-bookbinder-worktable-cloth-spine-gilded-edge-2026-05-11",
+      "category": "old-bookbinder-worktable",
+      "number": "02",
+      "title": "压痕板上压着一册还没上壳的旧书芯",
+      "image": "assets/images/old-bookbinder-worktable-cloth-spine-gilded-edge-2026-05-11/02_压痕板上压着一册还没上壳的旧书芯.png",
+      "thumb": "assets/thumbs/old-bookbinder-worktable-cloth-spine-gilded-edge-2026-05-11/02_压痕板上压着一册还没上壳的旧书芯.png",
+      "description": "一本书最迷人的时刻，常常发生在它还没变成完整成品之前。",
+      "prompt": "Horizontal documentary editorial photograph, realistic textures, cinematic but natural light, Xiaohongshu-clickable composition, no logos, no readable text, no brand labels. Uncased text block resting on a scoring board, raw signatures visible, bookbinding in-progress, artisanal paper textures and controlled composition."
+    },
+    {
+      "id": "old-bookbinder-worktable-cloth-spine-gilded-edge-2026-05-11_03_麻线和针在牛皮纸上排成一种手工秩序",
+      "batch": "old-bookbinder-worktable-cloth-spine-gilded-edge-2026-05-11",
+      "category": "old-bookbinder-worktable",
+      "number": "03",
+      "title": "麻线和针在牛皮纸上排成一种手工秩序",
+      "image": "assets/images/old-bookbinder-worktable-cloth-spine-gilded-edge-2026-05-11/03_麻线和针在牛皮纸上排成一种手工秩序.png",
+      "thumb": "assets/thumbs/old-bookbinder-worktable-cloth-spine-gilded-edge-2026-05-11/03_麻线和针在牛皮纸上排成一种手工秩序.png",
+      "description": "这种会被保存的安静感，常常来自材料自己形成的秩序。",
+      "prompt": "Horizontal documentary editorial photograph, realistic textures, cinematic but natural light, Xiaohongshu-clickable composition, no logos, no readable text, no brand labels. Linen thread, bookbinding needles and kraft paper laid out in meticulous order on a craft table, subtle shadows, tactile handmade discipline."
+    },
+    {
+      "id": "old-bookbinder-worktable-cloth-spine-gilded-edge-2026-05-11_04_胶刷边缘残着已经半干的米色书胶",
+      "batch": "old-bookbinder-worktable-cloth-spine-gilded-edge-2026-05-11",
+      "category": "old-bookbinder-worktable",
+      "number": "04",
+      "title": "胶刷边缘残着已经半干的米色书胶",
+      "image": "assets/images/old-bookbinder-worktable-cloth-spine-gilded-edge-2026-05-11/04_胶刷边缘残着已经半干的米色书胶.png",
+      "thumb": "assets/thumbs/old-bookbinder-worktable-cloth-spine-gilded-edge-2026-05-11/04_胶刷边缘残着已经半干的米色书胶.png",
+      "description": "比电子阅读更能制造依恋感的，是这些带着使用痕迹的手工细节。",
+      "prompt": "Horizontal documentary editorial photograph, realistic textures, cinematic but natural light, Xiaohongshu-clickable composition, no logos, no readable text, no brand labels. Close-up of a glue brush with half-dried beige book glue along the bristles, cutting mat, rag and paper edges nearby, workshop realism."
+    },
+    {
+      "id": "old-bookbinder-worktable-cloth-spine-gilded-edge-2026-05-11_05_裁纸刀旁堆着修边后留下的细纸屑",
+      "batch": "old-bookbinder-worktable-cloth-spine-gilded-edge-2026-05-11",
+      "category": "old-bookbinder-worktable",
+      "number": "05",
+      "title": "裁纸刀旁堆着修边后留下的细纸屑",
+      "image": "assets/images/old-bookbinder-worktable-cloth-spine-gilded-edge-2026-05-11/05_裁纸刀旁堆着修边后留下的细纸屑.png",
+      "thumb": "assets/thumbs/old-bookbinder-worktable-cloth-spine-gilded-edge-2026-05-11/05_裁纸刀旁堆着修边后留下的细纸屑.png",
+      "description": "真正说明一本书被认真对待过的，往往就是这些没人展示的小碎屑。",
+      "prompt": "Horizontal documentary editorial photograph, realistic textures, cinematic but natural light, Xiaohongshu-clickable composition, no logos, no readable text, no brand labels. Paper trimming knife beside a drift of fine paper shavings after edge trimming, muted workshop palette, sensual material detail."
+    },
+    {
+      "id": "old-bookbinder-worktable-cloth-spine-gilded-edge-2026-05-11_06_一条深绿布脊正被手掌慢慢压平",
+      "batch": "old-bookbinder-worktable-cloth-spine-gilded-edge-2026-05-11",
+      "category": "old-bookbinder-worktable",
+      "number": "06",
+      "title": "一条深绿布脊正被手掌慢慢压平",
+      "image": "assets/images/old-bookbinder-worktable-cloth-spine-gilded-edge-2026-05-11/06_一条深绿布脊正被手掌慢慢压平.png",
+      "thumb": "assets/thumbs/old-bookbinder-worktable-cloth-spine-gilded-edge-2026-05-11/06_一条深绿布脊正被手掌慢慢压平.png",
+      "description": "布脊被压平的那一下，会让一本书突然从内容变成器物。",
+      "prompt": "Horizontal documentary editorial photograph, realistic textures, cinematic but natural light, Xiaohongshu-clickable composition, no logos, no readable text, no brand labels. Hand pressing a deep green cloth spine flat onto a handmade cover board, precise craftsmanship, shallow depth of field, luxurious materiality."
+    },
+    {
+      "id": "old-bookbinder-worktable-cloth-spine-gilded-edge-2026-05-11_07_烫金边在台灯下闪一下又立刻暗回去",
+      "batch": "old-bookbinder-worktable-cloth-spine-gilded-edge-2026-05-11",
+      "category": "old-bookbinder-worktable",
+      "number": "07",
+      "title": "烫金边在台灯下闪一下又立刻暗回去",
+      "image": "assets/images/old-bookbinder-worktable-cloth-spine-gilded-edge-2026-05-11/07_烫金边在台灯下闪一下又立刻暗回去.png",
+      "thumb": "assets/thumbs/old-bookbinder-worktable-cloth-spine-gilded-edge-2026-05-11/07_烫金边在台灯下闪一下又立刻暗回去.png",
+      "description": "这种若有若无的亮，比很多高饱和数字界面更容易留下记忆。",
+      "prompt": "Horizontal documentary editorial photograph, realistic textures, cinematic but natural light, Xiaohongshu-clickable composition, no logos, no readable text, no brand labels. Gilded page edge catching a brief flash under a desk lamp on a bookbinder table, restrained glow, elegant old-world intimacy."
+    },
+    {
+      "id": "old-bookbinder-worktable-cloth-spine-gilded-edge-2026-05-11_08_压书机旁排着几本等待定型的半成品",
+      "batch": "old-bookbinder-worktable-cloth-spine-gilded-edge-2026-05-11",
+      "category": "old-bookbinder-worktable",
+      "number": "08",
+      "title": "压书机旁排着几本等待定型的半成品",
+      "image": "assets/images/old-bookbinder-worktable-cloth-spine-gilded-edge-2026-05-11/08_压书机旁排着几本等待定型的半成品.png",
+      "thumb": "assets/thumbs/old-bookbinder-worktable-cloth-spine-gilded-edge-2026-05-11/08_压书机旁排着几本等待定型的半成品.png",
+      "description": "一排半成品比整齐成书更有故事感，因为工序还没有完全结束。",
+      "prompt": "Horizontal documentary editorial photograph, realistic textures, cinematic but natural light, Xiaohongshu-clickable composition, no logos, no readable text, no brand labels. Several half-finished handmade books lined up beside a small pressing machine, workshop patience, muted historical craft mood."
+    },
+    {
+      "id": "old-bookbinder-worktable-cloth-spine-gilded-edge-2026-05-11_09_旧纸边和封壳布纹在同一张桌面上相遇",
+      "batch": "old-bookbinder-worktable-cloth-spine-gilded-edge-2026-05-11",
+      "category": "old-bookbinder-worktable",
+      "number": "09",
+      "title": "旧纸边和封壳布纹在同一张桌面上相遇",
+      "image": "assets/images/old-bookbinder-worktable-cloth-spine-gilded-edge-2026-05-11/09_旧纸边和封壳布纹在同一张桌面上相遇.png",
+      "thumb": "assets/thumbs/old-bookbinder-worktable-cloth-spine-gilded-edge-2026-05-11/09_旧纸边和封壳布纹在同一张桌面上相遇.png",
+      "description": "纸边和布纹碰到一起时，旧书的物质性感就会突然变得非常具体。",
+      "prompt": "Horizontal documentary editorial photograph, realistic textures, cinematic but natural light, Xiaohongshu-clickable composition, no logos, no readable text, no brand labels. Deckled paper edges meeting textured cover cloth on the same bookbinding table, macro tactile composition, elegant still-life documentary style."
+    },
+    {
+      "id": "old-bookbinder-worktable-cloth-spine-gilded-edge-2026-05-11_10_一本修好的旧书被麻线临时捆住等待晾干",
+      "batch": "old-bookbinder-worktable-cloth-spine-gilded-edge-2026-05-11",
+      "category": "old-bookbinder-worktable",
+      "number": "10",
+      "title": "一本修好的旧书被麻线临时捆住等待晾干",
+      "image": "assets/images/old-bookbinder-worktable-cloth-spine-gilded-edge-2026-05-11/10_一本修好的旧书被麻线临时捆住等待晾干.png",
+      "thumb": "assets/thumbs/old-bookbinder-worktable-cloth-spine-gilded-edge-2026-05-11/10_一本修好的旧书被麻线临时捆住等待晾干.png",
+      "description": "一本书被系住晾干的时刻，比放上书架更像真正的修复完成。",
+      "prompt": "Horizontal documentary editorial photograph, realistic textures, cinematic but natural light, Xiaohongshu-clickable composition, no logos, no readable text, no brand labels. Repaired old book tied gently with linen cord and left to dry on a worktable, paper repair evidence, intimate restoration scene."
+    },
+    {
+      "id": "old-bookbinder-worktable-cloth-spine-gilded-edge-2026-05-11_11_靠窗那盏装帧台灯只照亮了工作区中央",
+      "batch": "old-bookbinder-worktable-cloth-spine-gilded-edge-2026-05-11",
+      "category": "old-bookbinder-worktable",
+      "number": "11",
+      "title": "靠窗那盏装帧台灯只照亮了工作区中央",
+      "image": "assets/images/old-bookbinder-worktable-cloth-spine-gilded-edge-2026-05-11/11_靠窗那盏装帧台灯只照亮了工作区中央.png",
+      "thumb": "assets/thumbs/old-bookbinder-worktable-cloth-spine-gilded-edge-2026-05-11/11_靠窗那盏装帧台灯只照亮了工作区中央.png",
+      "description": "越是克制的光，越容易把这种工艺拍成让人想反复看的平台热图。",
+      "prompt": "Horizontal documentary editorial photograph, realistic textures, cinematic but natural light, Xiaohongshu-clickable composition, no logos, no readable text, no brand labels. Single task lamp near a window illuminating only the center of a bookbinding station, surrounding shadows, contemplative craft atmosphere."
+    },
+    {
+      "id": "old-bookbinder-worktable-cloth-spine-gilded-edge-2026-05-11_12_收工前最后一把骨刀被安静放回抽屉",
+      "batch": "old-bookbinder-worktable-cloth-spine-gilded-edge-2026-05-11",
+      "category": "old-bookbinder-worktable",
+      "number": "12",
+      "title": "收工前最后一把骨刀被安静放回抽屉",
+      "image": "assets/images/old-bookbinder-worktable-cloth-spine-gilded-edge-2026-05-11/12_收工前最后一把骨刀被安静放回抽屉.png",
+      "thumb": "assets/thumbs/old-bookbinder-worktable-cloth-spine-gilded-edge-2026-05-11/12_收工前最后一把骨刀被安静放回抽屉.png",
+      "description": "工作台最打动人的结尾，不是完成了多少书，而是工具被放回去时那种收束感。",
+      "prompt": "Horizontal documentary editorial photograph, realistic textures, cinematic but natural light, Xiaohongshu-clickable composition, no logos, no readable text, no brand labels. End-of-day bookbinder returning the final bone folder to a drawer, quiet closure, old craft ritual, warm neutral palette."
+    },
+    {
+      "id": "old-cafe-espresso-cups-wear-marks-2026-05-11_01_晨班前吧台上已经排好第一排厚壁浓缩杯",
+      "batch": "old-cafe-espresso-cups-wear-marks-2026-05-11",
+      "category": "old-cafe-espresso-cups",
+      "number": "01",
+      "title": "晨班前吧台上已经排好第一排厚壁浓缩杯",
+      "image": "assets/images/old-cafe-espresso-cups-wear-marks-2026-05-11/01_晨班前吧台上已经排好第一排厚壁浓缩杯.png",
+      "thumb": "assets/thumbs/old-cafe-espresso-cups-wear-marks-2026-05-11/01_晨班前吧台上已经排好第一排厚壁浓缩杯.png",
+      "description": "老店的记忆点往往从开门前这排杯子就已经开始了。",
+      "prompt": "Horizontal documentary editorial photograph, realistic textures, cinematic but natural light, Xiaohongshu-clickable composition, no logos, no readable text, no brand labels. Old cafe bar before opening, first row of thick-walled espresso cups already lined up on stainless steel, early shift realism, warm aged atmosphere."
+    },
+    {
+      "id": "old-cafe-espresso-cups-wear-marks-2026-05-11_02_一只杯托边缘的细裂纹被咖啡渍慢慢描出来",
+      "batch": "old-cafe-espresso-cups-wear-marks-2026-05-11",
+      "category": "old-cafe-espresso-cups",
+      "number": "02",
+      "title": "一只杯托边缘的细裂纹被咖啡渍慢慢描出来",
+      "image": "assets/images/old-cafe-espresso-cups-wear-marks-2026-05-11/02_一只杯托边缘的细裂纹被咖啡渍慢慢描出来.png",
+      "thumb": "assets/thumbs/old-cafe-espresso-cups-wear-marks-2026-05-11/02_一只杯托边缘的细裂纹被咖啡渍慢慢描出来.png",
+      "description": "真正有故事感的不是新品，而是这些被使用留下的轻微伤痕。",
+      "prompt": "Horizontal documentary editorial photograph, realistic textures, cinematic but natural light, Xiaohongshu-clickable composition, no logos, no readable text, no brand labels. Close-up of a saucer hairline crack darkened by years of coffee stains, tactile porcelain surface, old cafe memory embedded in wear."
+    },
+    {
+      "id": "old-cafe-espresso-cups-wear-marks-2026-05-11_03_叠杯之间留下的奶泡残痕比拉花更像老店签名",
+      "batch": "old-cafe-espresso-cups-wear-marks-2026-05-11",
+      "category": "old-cafe-espresso-cups",
+      "number": "03",
+      "title": "叠杯之间留下的奶泡残痕比拉花更像老店签名",
+      "image": "assets/images/old-cafe-espresso-cups-wear-marks-2026-05-11/03_叠杯之间留下的奶泡残痕比拉花更像老店签名.png",
+      "thumb": "assets/thumbs/old-cafe-espresso-cups-wear-marks-2026-05-11/03_叠杯之间留下的奶泡残痕比拉花更像老店签名.png",
+      "description": "有些咖啡馆真正可识别的气味和形象，都藏在收杯之后。",
+      "prompt": "Horizontal documentary editorial photograph, realistic textures, cinematic but natural light, Xiaohongshu-clickable composition, no logos, no readable text, no brand labels. Stacked espresso cups with dried milk foam traces between them, well-used porcelain, intimate evidence of rush-hour service, old-world cafe mood."
+    },
+    {
+      "id": "old-cafe-espresso-cups-wear-marks-2026-05-11_04_吧台不锈钢反光里倒着一只刚喝完的空杯",
+      "batch": "old-cafe-espresso-cups-wear-marks-2026-05-11",
+      "category": "old-cafe-espresso-cups",
+      "number": "04",
+      "title": "吧台不锈钢反光里倒着一只刚喝完的空杯",
+      "image": "assets/images/old-cafe-espresso-cups-wear-marks-2026-05-11/04_吧台不锈钢反光里倒着一只刚喝完的空杯.png",
+      "thumb": "assets/thumbs/old-cafe-espresso-cups-wear-marks-2026-05-11/04_吧台不锈钢反光里倒着一只刚喝完的空杯.png",
+      "description": "空杯的反光会让一间老店比满桌摆拍更像真实记忆。",
+      "prompt": "Horizontal documentary editorial photograph, realistic textures, cinematic but natural light, Xiaohongshu-clickable composition, no logos, no readable text, no brand labels. Just-finished espresso cup lying on its side reflected in brushed stainless steel bar top, understated cinematic realism, lived-in cafe scene."
+    },
+    {
+      "id": "old-cafe-espresso-cups-wear-marks-2026-05-11_05_杯耳朝向被早班店员排得几乎完全一致",
+      "batch": "old-cafe-espresso-cups-wear-marks-2026-05-11",
+      "category": "old-cafe-espresso-cups",
+      "number": "05",
+      "title": "杯耳朝向被早班店员排得几乎完全一致",
+      "image": "assets/images/old-cafe-espresso-cups-wear-marks-2026-05-11/05_杯耳朝向被早班店员排得几乎完全一致.png",
+      "thumb": "assets/thumbs/old-cafe-espresso-cups-wear-marks-2026-05-11/05_杯耳朝向被早班店员排得几乎完全一致.png",
+      "description": "真正上头的不是豆单，而是这种日复一日训练出来的秩序感。",
+      "prompt": "Horizontal documentary editorial photograph, realistic textures, cinematic but natural light, Xiaohongshu-clickable composition, no logos, no readable text, no brand labels. Thick espresso cups arranged with handles facing almost identically by an experienced morning barista, ritualistic precision, old cafe order."
+    },
+    {
+      "id": "old-cafe-espresso-cups-wear-marks-2026-05-11_06_一只常用白杯的杯口已经有了细小磨痕",
+      "batch": "old-cafe-espresso-cups-wear-marks-2026-05-11",
+      "category": "old-cafe-espresso-cups",
+      "number": "06",
+      "title": "一只常用白杯的杯口已经有了细小磨痕",
+      "image": "assets/images/old-cafe-espresso-cups-wear-marks-2026-05-11/06_一只常用白杯的杯口已经有了细小磨痕.png",
+      "thumb": "assets/thumbs/old-cafe-espresso-cups-wear-marks-2026-05-11/06_一只常用白杯的杯口已经有了细小磨痕.png",
+      "description": "杯口那一点点磨痕，比任何品牌故事都更能说明它被爱用过。",
+      "prompt": "Horizontal documentary editorial photograph, realistic textures, cinematic but natural light, Xiaohongshu-clickable composition, no logos, no readable text, no brand labels. Macro view of a beloved plain white espresso cup rim with subtle wear marks from years of service, tactile porcelain realism, intimate nostalgia."
+    },
+    {
+      "id": "old-cafe-espresso-cups-wear-marks-2026-05-11_07_深棕咖啡渍在旧杯托底部留下时间的圆环",
+      "batch": "old-cafe-espresso-cups-wear-marks-2026-05-11",
+      "category": "old-cafe-espresso-cups",
+      "number": "07",
+      "title": "深棕咖啡渍在旧杯托底部留下时间的圆环",
+      "image": "assets/images/old-cafe-espresso-cups-wear-marks-2026-05-11/07_深棕咖啡渍在旧杯托底部留下时间的圆环.png",
+      "thumb": "assets/thumbs/old-cafe-espresso-cups-wear-marks-2026-05-11/07_深棕咖啡渍在旧杯托底部留下时间的圆环.png",
+      "description": "这些圆环不像瑕疵，更像一间店慢慢积出来的表情。",
+      "prompt": "Horizontal documentary editorial photograph, realistic textures, cinematic but natural light, Xiaohongshu-clickable composition, no logos, no readable text, no brand labels. Deep brown espresso rings staining an old saucer bottom, tabletop patina, soft window light, memory held in circular marks."
+    },
+    {
+      "id": "old-cafe-espresso-cups-wear-marks-2026-05-11_08_洗杯池边一排倒扣沥水的厚壁小杯",
+      "batch": "old-cafe-espresso-cups-wear-marks-2026-05-11",
+      "category": "old-cafe-espresso-cups",
+      "number": "08",
+      "title": "洗杯池边一排倒扣沥水的厚壁小杯",
+      "image": "assets/images/old-cafe-espresso-cups-wear-marks-2026-05-11/08_洗杯池边一排倒扣沥水的厚壁小杯.png",
+      "thumb": "assets/thumbs/old-cafe-espresso-cups-wear-marks-2026-05-11/08_洗杯池边一排倒扣沥水的厚壁小杯.png",
+      "description": "倒扣沥水的时刻会让咖啡馆突然从消费空间变回劳动空间。",
+      "prompt": "Horizontal documentary editorial photograph, realistic textures, cinematic but natural light, Xiaohongshu-clickable composition, no logos, no readable text, no brand labels. Row of thick espresso cups upside down to dry beside a cafe sink, damp utility realism, polished wear and labor visible together."
+    },
+    {
+      "id": "old-cafe-espresso-cups-wear-marks-2026-05-11_09_吧台角落留下了一只没人收走的单杯和半圈口红印",
+      "batch": "old-cafe-espresso-cups-wear-marks-2026-05-11",
+      "category": "old-cafe-espresso-cups",
+      "number": "09",
+      "title": "吧台角落留下了一只没人收走的单杯和半圈口红印",
+      "image": "assets/images/old-cafe-espresso-cups-wear-marks-2026-05-11/09_吧台角落留下了一只没人收走的单杯和半圈口红印.png",
+      "thumb": "assets/thumbs/old-cafe-espresso-cups-wear-marks-2026-05-11/09_吧台角落留下了一只没人收走的单杯和半圈口红印.png",
+      "description": "人走之后留下的杯子，往往比人本身更容易变成店的记忆片段。",
+      "prompt": "Horizontal documentary editorial photograph, realistic textures, cinematic but natural light, Xiaohongshu-clickable composition, no logos, no readable text, no brand labels. Single espresso cup left in the corner of an old cafe bar with a faint lipstick trace, cinematic loneliness, intimate social residue."
+    },
+    {
+      "id": "old-cafe-espresso-cups-wear-marks-2026-05-11_10_午后光线里几只旧杯把木桌压得格外安静",
+      "batch": "old-cafe-espresso-cups-wear-marks-2026-05-11",
+      "category": "old-cafe-espresso-cups",
+      "number": "10",
+      "title": "午后光线里几只旧杯把木桌压得格外安静",
+      "image": "assets/images/old-cafe-espresso-cups-wear-marks-2026-05-11/10_午后光线里几只旧杯把木桌压得格外安静.png",
+      "thumb": "assets/thumbs/old-cafe-espresso-cups-wear-marks-2026-05-11/10_午后光线里几只旧杯把木桌压得格外安静.png",
+      "description": "旧杯和午后光线一起时，会让老店的节奏慢得非常有保存欲。",
+      "prompt": "Horizontal documentary editorial photograph, realistic textures, cinematic but natural light, Xiaohongshu-clickable composition, no logos, no readable text, no brand labels. Several worn espresso cups in afternoon light on a dark wooden cafe table, quiet gravity, nostalgic stillness, authentic old-cafe palette."
+    },
+    {
+      "id": "old-cafe-espresso-cups-wear-marks-2026-05-11_11_店员手里那块擦杯布已经吸满了咖啡和蒸汽的味道",
+      "batch": "old-cafe-espresso-cups-wear-marks-2026-05-11",
+      "category": "old-cafe-espresso-cups",
+      "number": "11",
+      "title": "店员手里那块擦杯布已经吸满了咖啡和蒸汽的味道",
+      "image": "assets/images/old-cafe-espresso-cups-wear-marks-2026-05-11/11_店员手里那块擦杯布已经吸满了咖啡和蒸汽的味道.png",
+      "thumb": "assets/thumbs/old-cafe-espresso-cups-wear-marks-2026-05-11/11_店员手里那块擦杯布已经吸满了咖啡和蒸汽的味道.png",
+      "description": "如果要把老咖啡馆的气味拍出来，擦杯布可能比咖啡豆更接近答案。",
+      "prompt": "Horizontal documentary editorial photograph, realistic textures, cinematic but natural light, Xiaohongshu-clickable composition, no logos, no readable text, no brand labels. Barista polishing thick espresso cups with a cloth heavy from coffee and steam, tactile hand motion, quiet service intimacy."
+    },
+    {
+      "id": "old-cafe-espresso-cups-wear-marks-2026-05-11_12_打烊后最后两只浓缩杯被并排留在机身旁",
+      "batch": "old-cafe-espresso-cups-wear-marks-2026-05-11",
+      "category": "old-cafe-espresso-cups",
+      "number": "12",
+      "title": "打烊后最后两只浓缩杯被并排留在机身旁",
+      "image": "assets/images/old-cafe-espresso-cups-wear-marks-2026-05-11/12_打烊后最后两只浓缩杯被并排留在机身旁.png",
+      "thumb": "assets/thumbs/old-cafe-espresso-cups-wear-marks-2026-05-11/12_打烊后最后两只浓缩杯被并排留在机身旁.png",
+      "description": "收店时并排留下的两只小杯，会让整组图像有一种非常像结尾的温度。",
+      "prompt": "Horizontal documentary editorial photograph, realistic textures, cinematic but natural light, Xiaohongshu-clickable composition, no logos, no readable text, no brand labels. Closing-time old cafe scene, final two espresso cups left side by side beside the espresso machine, end-of-day warmth, used but cared-for atmosphere."
     }
   ]
 }

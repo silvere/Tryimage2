@@ -1,0 +1,103 @@
+{
+  "theme": "一张旧书装帧师的工作台，为什么布脊、压痕板和烫金边比很多电子阅读截图更容易让人心动",
+  "batchId": "old-bookbinder-worktable-cloth-spine-gilded-edge-2026-05-11",
+  "createdAt": "2026-05-11",
+  "items": [
+    {
+      "source": "01_晨光照到布脊卷和骨刀的一角.png",
+      "category": "old-bookbinder-worktable",
+      "categoryLabel": "旧书装帧工作台",
+      "title": "晨光照到布脊卷和骨刀的一角",
+      "description": "真正让人心动的往往不是书名，而是工作台上这些安静得近乎神圣的工具。",
+      "prompt": "Horizontal documentary editorial photograph, realistic textures, cinematic but natural light, Xiaohongshu-clickable composition, no logos, no readable text, no brand labels. Vintage bookbinder worktable in morning light, cloth spine rolls, bone folder, awl and linen thread arranged with tactile beauty, quiet craft intimacy."
+    },
+    {
+      "source": "02_压痕板上压着一册还没上壳的旧书芯.png",
+      "category": "old-bookbinder-worktable",
+      "categoryLabel": "旧书装帧工作台",
+      "title": "压痕板上压着一册还没上壳的旧书芯",
+      "description": "一本书最迷人的时刻，常常发生在它还没变成完整成品之前。",
+      "prompt": "Horizontal documentary editorial photograph, realistic textures, cinematic but natural light, Xiaohongshu-clickable composition, no logos, no readable text, no brand labels. Uncased text block resting on a scoring board, raw signatures visible, bookbinding in-progress, artisanal paper textures and controlled composition."
+    },
+    {
+      "source": "03_麻线和针在牛皮纸上排成一种手工秩序.png",
+      "category": "old-bookbinder-worktable",
+      "categoryLabel": "旧书装帧工作台",
+      "title": "麻线和针在牛皮纸上排成一种手工秩序",
+      "description": "这种会被保存的安静感，常常来自材料自己形成的秩序。",
+      "prompt": "Horizontal documentary editorial photograph, realistic textures, cinematic but natural light, Xiaohongshu-clickable composition, no logos, no readable text, no brand labels. Linen thread, bookbinding needles and kraft paper laid out in meticulous order on a craft table, subtle shadows, tactile handmade discipline."
+    },
+    {
+      "source": "04_胶刷边缘残着已经半干的米色书胶.png",
+      "category": "old-bookbinder-worktable",
+      "categoryLabel": "旧书装帧工作台",
+      "title": "胶刷边缘残着已经半干的米色书胶",
+      "description": "比电子阅读更能制造依恋感的，是这些带着使用痕迹的手工细节。",
+      "prompt": "Horizontal documentary editorial photograph, realistic textures, cinematic but natural light, Xiaohongshu-clickable composition, no logos, no readable text, no brand labels. Close-up of a glue brush with half-dried beige book glue along the bristles, cutting mat, rag and paper edges nearby, workshop realism."
+    },
+    {
+      "source": "05_裁纸刀旁堆着修边后留下的细纸屑.png",
+      "category": "old-bookbinder-worktable",
+      "categoryLabel": "旧书装帧工作台",
+      "title": "裁纸刀旁堆着修边后留下的细纸屑",
+      "description": "真正说明一本书被认真对待过的，往往就是这些没人展示的小碎屑。",
+      "prompt": "Horizontal documentary editorial photograph, realistic textures, cinematic but natural light, Xiaohongshu-clickable composition, no logos, no readable text, no brand labels. Paper trimming knife beside a drift of fine paper shavings after edge trimming, muted workshop palette, sensual material detail."
+    },
+    {
+      "source": "06_一条深绿布脊正被手掌慢慢压平.png",
+      "category": "old-bookbinder-worktable",
+      "categoryLabel": "旧书装帧工作台",
+      "title": "一条深绿布脊正被手掌慢慢压平",
+      "description": "布脊被压平的那一下，会让一本书突然从内容变成器物。",
+      "prompt": "Horizontal documentary editorial photograph, realistic textures, cinematic but natural light, Xiaohongshu-clickable composition, no logos, no readable text, no brand labels. Hand pressing a deep green cloth spine flat onto a handmade cover board, precise craftsmanship, shallow depth of field, luxurious materiality."
+    },
+    {
+      "source": "07_烫金边在台灯下闪一下又立刻暗回去.png",
+      "category": "old-bookbinder-worktable",
+      "categoryLabel": "旧书装帧工作台",
+      "title": "烫金边在台灯下闪一下又立刻暗回去",
+      "description": "这种若有若无的亮，比很多高饱和数字界面更容易留下记忆。",
+      "prompt": "Horizontal documentary editorial photograph, realistic textures, cinematic but natural light, Xiaohongshu-clickable composition, no logos, no readable text, no brand labels. Gilded page edge catching a brief flash under a desk lamp on a bookbinder table, restrained glow, elegant old-world intimacy."
+    },
+    {
+      "source": "08_压书机旁排着几本等待定型的半成品.png",
+      "category": "old-bookbinder-worktable",
+      "categoryLabel": "旧书装帧工作台",
+      "title": "压书机旁排着几本等待定型的半成品",
+      "description": "一排半成品比整齐成书更有故事感，因为工序还没有完全结束。",
+      "prompt": "Horizontal documentary editorial photograph, realistic textures, cinematic but natural light, Xiaohongshu-clickable composition, no logos, no readable text, no brand labels. Several half-finished handmade books lined up beside a small pressing machine, workshop patience, muted historical craft mood."
+    },
+    {
+      "source": "09_旧纸边和封壳布纹在同一张桌面上相遇.png",
+      "category": "old-bookbinder-worktable",
+      "categoryLabel": "旧书装帧工作台",
+      "title": "旧纸边和封壳布纹在同一张桌面上相遇",
+      "description": "纸边和布纹碰到一起时，旧书的物质性感就会突然变得非常具体。",
+      "prompt": "Horizontal documentary editorial photograph, realistic textures, cinematic but natural light, Xiaohongshu-clickable composition, no logos, no readable text, no brand labels. Deckled paper edges meeting textured cover cloth on the same bookbinding table, macro tactile composition, elegant still-life documentary style."
+    },
+    {
+      "source": "10_一本修好的旧书被麻线临时捆住等待晾干.png",
+      "category": "old-bookbinder-worktable",
+      "categoryLabel": "旧书装帧工作台",
+      "title": "一本修好的旧书被麻线临时捆住等待晾干",
+      "description": "一本书被系住晾干的时刻，比放上书架更像真正的修复完成。",
+      "prompt": "Horizontal documentary editorial photograph, realistic textures, cinematic but natural light, Xiaohongshu-clickable composition, no logos, no readable text, no brand labels. Repaired old book tied gently with linen cord and left to dry on a worktable, paper repair evidence, intimate restoration scene."
+    },
+    {
+      "source": "11_靠窗那盏装帧台灯只照亮了工作区中央.png",
+      "category": "old-bookbinder-worktable",
+      "categoryLabel": "旧书装帧工作台",
+      "title": "靠窗那盏装帧台灯只照亮了工作区中央",
+      "description": "越是克制的光，越容易把这种工艺拍成让人想反复看的平台热图。",
+      "prompt": "Horizontal documentary editorial photograph, realistic textures, cinematic but natural light, Xiaohongshu-clickable composition, no logos, no readable text, no brand labels. Single task lamp near a window illuminating only the center of a bookbinding station, surrounding shadows, contemplative craft atmosphere."
+    },
+    {
+      "source": "12_收工前最后一把骨刀被安静放回抽屉.png",
+      "category": "old-bookbinder-worktable",
+      "categoryLabel": "旧书装帧工作台",
+      "title": "收工前最后一把骨刀被安静放回抽屉",
+      "description": "工作台最打动人的结尾，不是完成了多少书，而是工具被放回去时那种收束感。",
+      "prompt": "Horizontal documentary editorial photograph, realistic textures, cinematic but natural light, Xiaohongshu-clickable composition, no logos, no readable text, no brand labels. End-of-day bookbinder returning the final bone folder to a drawer, quiet closure, old craft ritual, warm neutral palette."
+    }
+  ]
+}
