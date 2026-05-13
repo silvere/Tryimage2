@@ -244,16 +244,16 @@
       "label": "宠物康养会所"
     },
     {
-      "id": "mobile-moba-rank-climb",
-      "label": "手游MOBA上分进化史"
-    },
-    {
       "id": "returned-company-laptop-in-parcel-locker",
       "label": "快递柜里待退回的公司电脑"
     },
     {
       "id": "stunning-aquariums",
       "label": "那些精美绝伦的水族箱"
+    },
+    {
+      "id": "training-infographic",
+      "label": "电竞训练信息图"
     }
   ],
   "batches": [
@@ -564,12 +564,6 @@
       "count": 15
     },
     {
-      "id": "honor-of-kings-beginner-to-high-rank-2026-05-11",
-      "theme": "一个王者荣耀玩家，怎样从新手教程一路打到高玩段位",
-      "createdAt": "2026-05-11",
-      "count": 15
-    },
-    {
       "id": "returned-company-laptop-in-parcel-locker-2026-05-13",
       "theme": "快递柜里待退回的公司电脑",
       "createdAt": "2026-05-13",
@@ -580,6 +574,12 @@
       "theme": "那些精美绝伦的水族箱",
       "createdAt": "2026-05-13",
       "count": 12
+    },
+    {
+      "id": "honor-of-kings-training-infographics-2026-05-13",
+      "theme": "王者荣耀：从新手到高玩训练信息图",
+      "createdAt": "2026-05-13",
+      "count": 15
     }
   ],
   "items": [
@@ -8060,171 +8060,6 @@
       "prompt": "Realistic morning documentary space photograph of an empty prepared room in a premium pet wellness club after cleaning and linen organization, fresh folded towels, sanitized floor, soft daylight, understated luxury, operational backstage calm, editorial hospitality-meets-care aesthetic, no logos, no readable text, no brand labels."
     },
     {
-      "id": "honor-of-kings-beginner-to-high-rank-2026-05-11_01_新手教程里第一次把技能轮盘拖歪了",
-      "batch": "honor-of-kings-beginner-to-high-rank-2026-05-11",
-      "category": "mobile-moba-rank-climb",
-      "number": "01",
-      "title": "新手教程里第一次把技能轮盘拖歪了",
-      "image": "assets/images/honor-of-kings-beginner-to-high-rank-2026-05-11/01_新手教程里第一次把技能轮盘拖歪了.png",
-      "thumb": "assets/thumbs/honor-of-kings-beginner-to-high-rank-2026-05-11/01_新手教程里第一次把技能轮盘拖歪了.png",
-      "description": "很多人第一次入坑，不是因为想赢，而是先被那套技能轮盘和峡谷光效勾住了。",
-      "prompt": "Horizontal documentary editorial photograph, realistic Chinese bedroom gaming scene, beginner holding a smartphone with a generic Chinese mobile MOBA tutorial on screen, thumb awkwardly dragging the skill wheel off target, blue tutorial glow on face, no logos, no readable text, no copyrighted hero designs, cinematic but grounded."
-    },
-    {
-      "id": "honor-of-kings-beginner-to-high-rank-2026-05-11_02_宿舍上铺的人开始偷偷练补兵和走位",
-      "batch": "honor-of-kings-beginner-to-high-rank-2026-05-11",
-      "category": "mobile-moba-rank-climb",
-      "number": "02",
-      "title": "宿舍上铺的人开始偷偷练补兵和走位",
-      "image": "assets/images/honor-of-kings-beginner-to-high-rank-2026-05-11/02_宿舍上铺的人开始偷偷练补兵和走位.png",
-      "thumb": "assets/thumbs/honor-of-kings-beginner-to-high-rank-2026-05-11/02_宿舍上铺的人开始偷偷练补兵和走位.png",
-      "description": "从乱按技能到开始在意补兵，才算真正迈进了新手和玩家之间的门槛。",
-      "prompt": "Horizontal documentary editorial photograph, cramped Chinese dorm at night, one college student on an upper bunk secretly practicing last-hits and movement on a smartphone MOBA, roommate shadows and charging cables nearby, focused thumb control, no logos, no readable text, no copyrighted hero designs."
-    },
-    {
-      "id": "honor-of-kings-beginner-to-high-rank-2026-05-11_03_第一次和朋友五排时大家都在抢自己想玩的路",
-      "batch": "honor-of-kings-beginner-to-high-rank-2026-05-11",
-      "category": "mobile-moba-rank-climb",
-      "number": "03",
-      "title": "第一次和朋友五排时大家都在抢自己想玩的路",
-      "image": "assets/images/honor-of-kings-beginner-to-high-rank-2026-05-11/03_第一次和朋友五排时大家都在抢自己想玩的路.png",
-      "thumb": "assets/thumbs/honor-of-kings-beginner-to-high-rank-2026-05-11/03_第一次和朋友五排时大家都在抢自己想玩的路.png",
-      "description": "真正的入门教育，往往不是教程，而是朋友那句“你别抢中，我来带你”。",
-      "prompt": "Horizontal documentary editorial photograph, five Chinese friends crowding around a late-night snack table for their first mobile MOBA five-stack, animated gestures, everyone arguing over lanes while phones glow on the table, cola cans and skewers, no logos, no readable text, lively social tension."
-    },
-    {
-      "id": "honor-of-kings-beginner-to-high-rank-2026-05-11_04_青铜白银局里草丛总会突然冲出一个人",
-      "batch": "honor-of-kings-beginner-to-high-rank-2026-05-11",
-      "category": "mobile-moba-rank-climb",
-      "number": "04",
-      "title": "青铜白银局里草丛总会突然冲出一个人",
-      "image": "assets/images/honor-of-kings-beginner-to-high-rank-2026-05-11/04_青铜白银局里草丛总会突然冲出一个人.png",
-      "thumb": "assets/thumbs/honor-of-kings-beginner-to-high-rank-2026-05-11/04_青铜白银局里草丛总会突然冲出一个人.png",
-      "description": "低段位最真实的记忆，不是操作细节，而是每次路过草丛都像拆盲盒。",
-      "prompt": "Horizontal documentary editorial photograph, close-up of a beginner smartphone gamer jolting in surprise during a low-rank Chinese mobile MOBA match, screen casting green bush ambush light on hands and face, messy desk, intense but humorous energy, no logos, no readable text, no copyrighted hero designs."
-    },
-    {
-      "id": "honor-of-kings-beginner-to-high-rank-2026-05-11_05_会看小地图之后才发现整局根本不是单挑",
-      "batch": "honor-of-kings-beginner-to-high-rank-2026-05-11",
-      "category": "mobile-moba-rank-climb",
-      "number": "05",
-      "title": "会看小地图之后才发现整局根本不是单挑",
-      "image": "assets/images/honor-of-kings-beginner-to-high-rank-2026-05-11/05_会看小地图之后才发现整局根本不是单挑.png",
-      "thumb": "assets/thumbs/honor-of-kings-beginner-to-high-rank-2026-05-11/05_会看小地图之后才发现整局根本不是单挑.png",
-      "description": "从只盯自己那条线，到开始盯全图，才是玩家意识第一次真正升级。",
-      "prompt": "Horizontal documentary editorial photograph, young Chinese gamer leaning over phone and finally studying the minimap in a mobile MOBA match, reflected map lights in glasses, strategic pause, notebooks and earbuds beside the phone, no logos, no readable text, documentary realism."
-    },
-    {
-      "id": "honor-of-kings-beginner-to-high-rank-2026-05-11_06_黄金铂金局的人已经开始背出装和打野路线",
-      "batch": "honor-of-kings-beginner-to-high-rank-2026-05-11",
-      "category": "mobile-moba-rank-climb",
-      "number": "06",
-      "title": "黄金铂金局的人已经开始背出装和打野路线",
-      "image": "assets/images/honor-of-kings-beginner-to-high-rank-2026-05-11/06_黄金铂金局的人已经开始背出装和打野路线.png",
-      "thumb": "assets/thumbs/honor-of-kings-beginner-to-high-rank-2026-05-11/06_黄金铂金局的人已经开始背出装和打野路线.png",
-      "description": "一旦开始记野区刷新和出装顺序，上分这件事就从好玩变成了半认真。",
-      "prompt": "Horizontal documentary editorial photograph, Chinese mobile MOBA player in a café studying item builds and jungle routes on a phone and scribbled notes, serious mid-rank improvement vibe, coffee cup, route arrows on paper without readable text, no logos, no copyrighted hero designs."
-    },
-    {
-      "id": "honor-of-kings-beginner-to-high-rank-2026-05-11_07_钻石局第一次进入禁用和选人环节时空气都不一样了",
-      "batch": "honor-of-kings-beginner-to-high-rank-2026-05-11",
-      "category": "mobile-moba-rank-climb",
-      "number": "07",
-      "title": "钻石局第一次进入禁用和选人环节时空气都不一样了",
-      "image": "assets/images/honor-of-kings-beginner-to-high-rank-2026-05-11/07_钻石局第一次进入禁用和选人环节时空气都不一样了.png",
-      "thumb": "assets/thumbs/honor-of-kings-beginner-to-high-rank-2026-05-11/07_钻石局第一次进入禁用和选人环节时空气都不一样了.png",
-      "description": "很多人真正感到自己进阶了，就是第一次发现选人阶段也会让人手心出汗。",
-      "prompt": "Horizontal documentary editorial photograph, tense Chinese living room gaming scene during a mobile MOBA draft and ban phase, player staring at phone before locking in, teammates hovering behind, draft countdown light, no logos, no readable text, no copyrighted hero designs, high-pressure atmosphere."
-    },
-    {
-      "id": "honor-of-kings-beginner-to-high-rank-2026-05-11_08_星耀局的辅助开始提前进草探视野和卡节奏",
-      "batch": "honor-of-kings-beginner-to-high-rank-2026-05-11",
-      "category": "mobile-moba-rank-climb",
-      "number": "08",
-      "title": "星耀局的辅助开始提前进草探视野和卡节奏",
-      "image": "assets/images/honor-of-kings-beginner-to-high-rank-2026-05-11/08_星耀局的辅助开始提前进草探视野和卡节奏.png",
-      "thumb": "assets/thumbs/honor-of-kings-beginner-to-high-rank-2026-05-11/08_星耀局的辅助开始提前进草探视野和卡节奏.png",
-      "description": "到这个阶段，赢不赢已经不只看手速，而是看谁愿意为团队先走进那片黑的地方。",
-      "prompt": "Horizontal documentary editorial photograph, high-rank Chinese mobile MOBA support player calmly scouting vision in a dark bush on phone, green-blue tactical glow, quiet confidence, headset on, room lights dimmed, no logos, no readable text, no copyrighted hero designs."
-    },
-    {
-      "id": "honor-of-kings-beginner-to-high-rank-2026-05-11_09_一波暴君主宰团之前所有人的呼吸都慢下来了",
-      "batch": "honor-of-kings-beginner-to-high-rank-2026-05-11",
-      "category": "mobile-moba-rank-climb",
-      "number": "09",
-      "title": "一波暴君主宰团之前所有人的呼吸都慢下来了",
-      "image": "assets/images/honor-of-kings-beginner-to-high-rank-2026-05-11/09_一波暴君主宰团之前所有人的呼吸都慢下来了.png",
-      "thumb": "assets/thumbs/honor-of-kings-beginner-to-high-rank-2026-05-11/09_一波暴君主宰团之前所有人的呼吸都慢下来了.png",
-      "description": "高段位最迷人的地方，是一场团战开始前每个人都知道下一秒会决定什么。",
-      "prompt": "Horizontal documentary editorial photograph, esports-like Chinese team room before a decisive mobile MOBA objective fight, five players frozen in concentration with phones in hand, stormy monster-pit light reflected on faces, no logos, no readable text, no copyrighted hero designs."
-    },
-    {
-      "id": "honor-of-kings-beginner-to-high-rank-2026-05-11_10_连败夜里手机发烫到像一块握不住的小铁片",
-      "batch": "honor-of-kings-beginner-to-high-rank-2026-05-11",
-      "category": "mobile-moba-rank-climb",
-      "number": "10",
-      "title": "连败夜里手机发烫到像一块握不住的小铁片",
-      "image": "assets/images/honor-of-kings-beginner-to-high-rank-2026-05-11/10_连败夜里手机发烫到像一块握不住的小铁片.png",
-      "thumb": "assets/thumbs/honor-of-kings-beginner-to-high-rank-2026-05-11/10_连败夜里手机发烫到像一块握不住的小铁片.png",
-      "description": "从新手到高玩之间，少不了那些凌晨两点还在嘴硬说“再来一把”的夜晚。",
-      "prompt": "Horizontal documentary editorial photograph, solitary Chinese gamer on a losing streak at 2 a.m., overheated smartphone in both hands, rank-climb frustration, humid room, desk fan, tired eyes, red-orange screen glow, no logos, no readable text, emotionally raw realism."
-    },
-    {
-      "id": "honor-of-kings-beginner-to-high-rank-2026-05-11_11_复盘时暂停在那次被反蹲的河道拐角",
-      "batch": "honor-of-kings-beginner-to-high-rank-2026-05-11",
-      "category": "mobile-moba-rank-climb",
-      "number": "11",
-      "title": "复盘时暂停在那次被反蹲的河道拐角",
-      "image": "assets/images/honor-of-kings-beginner-to-high-rank-2026-05-11/11_复盘时暂停在那次被反蹲的河道拐角.png",
-      "thumb": "assets/thumbs/honor-of-kings-beginner-to-high-rank-2026-05-11/11_复盘时暂停在那次被反蹲的河道拐角.png",
-      "description": "真正开始变强的人，已经不只会生气，而是会把每次失误停下来重新看一遍。",
-      "prompt": "Horizontal documentary editorial photograph, serious Chinese gamer reviewing a mobile MOBA replay on tablet and phone, paused on a river ambush moment, tactical self-analysis mood, scribbled arrows, no logos, no readable text, no copyrighted hero designs."
-    },
-    {
-      "id": "honor-of-kings-beginner-to-high-rank-2026-05-11_12_高玩的手指开始像乐手一样分工明确地跳动",
-      "batch": "honor-of-kings-beginner-to-high-rank-2026-05-11",
-      "category": "mobile-moba-rank-climb",
-      "number": "12",
-      "title": "高玩的手指开始像乐手一样分工明确地跳动",
-      "image": "assets/images/honor-of-kings-beginner-to-high-rank-2026-05-11/12_高玩的手指开始像乐手一样分工明确地跳动.png",
-      "thumb": "assets/thumbs/honor-of-kings-beginner-to-high-rank-2026-05-11/12_高玩的手指开始像乐手一样分工明确地跳动.png",
-      "description": "到了高玩阶段，别人看到的是眼花缭乱，你自己感受到的反而是一种很稳的节奏。",
-      "prompt": "Horizontal documentary editorial photograph, extreme close-up of expert Chinese mobile MOBA hands using multi-finger controls with musician-like precision, clean nail detail, smooth motion blur, premium phone, intense concentration, no logos, no readable text, no copyrighted hero designs."
-    },
-    {
-      "id": "honor-of-kings-beginner-to-high-rank-2026-05-11_13_最强王者之后排位已经变成一种习惯性的自我证明",
-      "batch": "honor-of-kings-beginner-to-high-rank-2026-05-11",
-      "category": "mobile-moba-rank-climb",
-      "number": "13",
-      "title": "最强王者之后排位已经变成一种习惯性的自我证明",
-      "image": "assets/images/honor-of-kings-beginner-to-high-rank-2026-05-11/13_最强王者之后排位已经变成一种习惯性的自我证明.png",
-      "thumb": "assets/thumbs/honor-of-kings-beginner-to-high-rank-2026-05-11/13_最强王者之后排位已经变成一种习惯性的自我证明.png",
-      "description": "打到这里的人往往已经不太需要向别人解释，只会在每个赛季默默继续往上刷。",
-      "prompt": "Horizontal documentary editorial photograph, elite Chinese mobile MOBA player alone in a dark apartment, high-rank emblem glow reflected on the window after reaching top rank, calm discipline instead of celebration, no logos, no readable text, no copyrighted hero designs."
-    },
-    {
-      "id": "honor-of-kings-beginner-to-high-rank-2026-05-11_14_巅峰对局里每一次拉扯都像是在和另一个自己下棋",
-      "batch": "honor-of-kings-beginner-to-high-rank-2026-05-11",
-      "category": "mobile-moba-rank-climb",
-      "number": "14",
-      "title": "巅峰对局里每一次拉扯都像是在和另一个自己下棋",
-      "image": "assets/images/honor-of-kings-beginner-to-high-rank-2026-05-11/14_巅峰对局里每一次拉扯都像是在和另一个自己下棋.png",
-      "thumb": "assets/thumbs/honor-of-kings-beginner-to-high-rank-2026-05-11/14_巅峰对局里每一次拉扯都像是在和另一个自己下棋.png",
-      "description": "真正的高端局不吵闹，它更像一场高速又安静的博弈。",
-      "prompt": "Horizontal documentary editorial photograph, ultra-high-level Chinese mobile MOBA duel atmosphere, two expert players in separate dark spaces connected by mirrored phone glows, tactical mind game feeling, restrained esports drama, no logos, no readable text, no copyrighted hero designs."
-    },
-    {
-      "id": "honor-of-kings-beginner-to-high-rank-2026-05-11_15_天快亮时战绩页的冷光照着一张终于稳下来的脸",
-      "batch": "honor-of-kings-beginner-to-high-rank-2026-05-11",
-      "category": "mobile-moba-rank-climb",
-      "number": "15",
-      "title": "天快亮时战绩页的冷光照着一张终于稳下来的脸",
-      "image": "assets/images/honor-of-kings-beginner-to-high-rank-2026-05-11/15_天快亮时战绩页的冷光照着一张终于稳下来的脸.png",
-      "thumb": "assets/thumbs/honor-of-kings-beginner-to-high-rank-2026-05-11/15_天快亮时战绩页的冷光照着一张终于稳下来的脸.png",
-      "description": "从新手到高玩，最后留下来的不是一页漂亮战绩，而是那种终于知道自己为什么会赢的感觉。",
-      "prompt": "Horizontal documentary editorial photograph, dawn light entering a Chinese room while a veteran mobile MOBA player looks at a post-match results screen with quiet relief, cold blue stats glow on face, exhausted but satisfied, no logos, no readable text, no copyrighted hero designs."
-    },
-    {
       "id": "returned-company-laptop-in-parcel-locker-2026-05-13_01_快递柜里那台待退回的公司电脑",
       "batch": "returned-company-laptop-in-parcel-locker-2026-05-13",
       "category": "returned-company-laptop-in-parcel-locker",
@@ -8487,6 +8322,171 @@
       "thumb": "assets/thumbs/stunning-aquariums-2026-05-13/12_展会级浅景长缸里的白沙岔流与老木根系.png",
       "description": "一只浅景长缸把老木根系、细沙岔流和低矮附生植物组织得极有空间感，像河漫滩被截取进玻璃中。它不像传统草坪缸那样靠满植取胜，而是通过枯水季河道逻辑、木石接壤细节和留白管理打动老玩家。",
       "prompt": "Editorial exhibition-quality aquascape photograph of a shallow long aquarium, weathered driftwood roots spreading across the layout, branching white sand channels, sparse epiphytes and small grasses, natural floodplain composition, immaculate maintenance with believable detritus-free sand edges, realistic freshwater aquascaping, no logos, no readable text."
+    },
+    {
+      "id": "honor-of-kings-training-infographics-2026-05-13_01_王者荣耀成长路线总览",
+      "batch": "honor-of-kings-training-infographics-2026-05-13",
+      "category": "training-infographic",
+      "number": "01",
+      "title": "王者荣耀成长路线总览",
+      "image": "assets/images/honor-of-kings-training-infographics-2026-05-13/01_王者荣耀成长路线总览.png",
+      "thumb": "assets/thumbs/honor-of-kings-training-infographics-2026-05-13/01_王者荣耀成长路线总览.png",
+      "description": "从新手到高玩的阶段地图与能力升级路径。",
+      "prompt": "Chinese esports training infographic, high information density, modular layout, readable Chinese labels, infographic not photo, visual guide not cinematic. Theme: 王者荣耀成长路线总览. Build a dark technical gaming training board with cyan, blue-purple, gold accents. Main structure: a large center progression roadmap from 新手 -> 入门 -> 稳定上分 -> 团队理解 -> 高玩决策, connected by arrows. Surrounding modules: 1) 核心能力树 with branches 操作, 意识, 资源, 团战, 英雄池; 2) rank milestone table with 青铜到王者阶段目标; 3) common bottleneck diagnosis panel listing each stage mistakes and fixes; 4) weekly growth loop flowchart 练习->实战->复盘->修正; 5) KPI card block with 补刀/死亡/参团/经济转化/视野关注; 6) beginner to advanced checklist column. Include data cards, arrows, comparison matrix of 低分段习惯 vs 高分段习惯, icons, mini charts, clean grids, dense modules, clear spacing for text, collectible training poster style. No photorealism, no realistic people, no messy background."
+    },
+    {
+      "id": "honor-of-kings-training-infographics-2026-05-13_02_底层设置与基础动作",
+      "batch": "honor-of-kings-training-infographics-2026-05-13",
+      "category": "training-infographic",
+      "number": "02",
+      "title": "底层设置与基础动作",
+      "image": "assets/images/honor-of-kings-training-infographics-2026-05-13/02_底层设置与基础动作.png",
+      "thumb": "assets/thumbs/honor-of-kings-training-infographics-2026-05-13/02_底层设置与基础动作.png",
+      "description": "先把操作设置、镜头习惯和基础手法打牢。",
+      "prompt": "Chinese esports training infographic, high information density, modular layout, readable labels, no photo realism. Theme: 王者荣耀底层设置与基础动作. Visual structure: top banner + left settings configuration panels + center hand-action flow diagrams + right checklists + bottom drills table. Include modules: 1) recommended 操作设置 dashboard: 镜头灵敏度, 锁敌方式, 优先攻击目标, 技能轮盘灵敏度, 补刀推塔键, 头像锁定; 2) 基础动作 sequence charts: 拉视野, 走A, 探草, 技能后摇处理, 追击与撤退; 3) common errors vs correct inputs matrix; 4) finger training checklist for 1v1 basic mechanics; 5) mini heatmap-style joystick and skill-button diagram; 6) 训练流程 arrows from 设置校准->训练营重复->匹配实战->复盘调整. Style: dark esports technical board, cyan/indigo/gold, dense modules, tables, arrows, checklists, labeled diagrams, readable Chinese text blocks. No cinematic scene, no character portrait focus."
+    },
+    {
+      "id": "honor-of-kings-training-infographics-2026-05-13_03_五路定位与成长起点",
+      "batch": "honor-of-kings-training-infographics-2026-05-13",
+      "category": "training-infographic",
+      "number": "03",
+      "title": "五路定位与成长起点",
+      "image": "assets/images/honor-of-kings-training-infographics-2026-05-13/03_五路定位与成长起点.png",
+      "thumb": "assets/thumbs/honor-of-kings-training-infographics-2026-05-13/03_五路定位与成长起点.png",
+      "description": "判断自己适合哪条路，并找到第一批主练英雄。",
+      "prompt": "Chinese esports training infographic, high information density, modular layout, readable Chinese labels, no photorealism. Theme: 王者荣耀五路定位与成长起点. Design a dense training poster with five vertical role columns: 对抗路, 打野, 中路, 发育路, 游走. Each column contains: 核心职责, 关键能力, 新手门槛, 容错率, 带节奏方式, 推荐起手英雄. Center module: role selection decision tree based on 操作偏好, 大局观, 承压能力, 指挥欲. Side modules: 1) position comparison matrix with 发育需求/游走频率/开团责任/资源优先级; 2) common beginner traps for each lane; 3) growth start plan from 选路->定3英雄->打20局->复盘数据. Bottom section: quick checklist for identifying main role and secondary role. Style: dark technical gaming board, cyan-blue-purple with gold highlights, icons for each lane, arrows between responsibilities and map zones, clean data cards, collectible infographic feel, no realistic battle scene."
+    },
+    {
+      "id": "honor-of-kings-training-infographics-2026-05-13_04_对线基本功训练图",
+      "batch": "honor-of-kings-training-infographics-2026-05-13",
+      "category": "training-infographic",
+      "number": "04",
+      "title": "对线基本功训练图",
+      "image": "assets/images/honor-of-kings-training-infographics-2026-05-13/04_对线基本功训练图.png",
+      "thumb": "assets/thumbs/honor-of-kings-training-infographics-2026-05-13/04_对线基本功训练图.png",
+      "description": "补刀、换血、卡线、压制与防抓的对线基础全解。",
+      "prompt": "Chinese esports training infographic, high information density, modular layout, readable labels, no photo realism. Theme: 王者荣耀对线基本功. Core layout: center lane diagram showing兵线交汇与站位区域, with arrows for 前压、回拉、探草、叫人. Modules required: 1) 补刀与漏刀 correction table; 2) 换血时机 flowchart based on 技能CD、兵线数量、敌方打野位置; 3) 卡线/控线/推线 comparison board; 4) 防Gank warning checklist with mini-map cues; 5) tower pressure and retreat thresholds; 6) lane matchup matrix for 手长 vs 手短, 先手 vs 反手; 7) training drills panel for 10-minute lane exercises. Use dark esports board, cyan and violet lines, gold emphasis for key timers, dense labeled boxes, arrows, checklists, tabular sections, small diagrams. No cinematic characters, no realism, no clutter."
+    },
+    {
+      "id": "honor-of-kings-training-infographics-2026-05-13_05_资源运营核心方法",
+      "batch": "honor-of-kings-training-infographics-2026-05-13",
+      "category": "training-infographic",
+      "number": "05",
+      "title": "资源运营核心方法",
+      "image": "assets/images/honor-of-kings-training-infographics-2026-05-13/05_资源运营核心方法.png",
+      "thumb": "assets/thumbs/honor-of-kings-training-infographics-2026-05-13/05_资源运营核心方法.png",
+      "description": "把兵线、野区、塔皮、龙和节奏点转成可执行决策。",
+      "prompt": "Chinese esports training infographic, high information density, modular layout, readable Chinese labels, infographic poster style, no photorealism. Theme: 王者荣耀资源运营. Main structure: center resource conversion flowchart 从兵线/野怪/防御塔/暴君主宰/人头 -> 经济优势 -> 视野与地图压力 -> 胜势扩大. Include modules: 1) resource priority table by role and game phase; 2) timing board for early, mid, late objective decisions; 3) sacrifice vs trade matrix showing 失一路塔换龙, 放野区换推中, etc.; 4) economy efficiency checklist; 5) map quadrant diagram marking safe and dangerous resource areas; 6) common low-rank mistakes panel; 7) shot-calling mini script cards for 开龙、反野、转线、逼塔. Style: dark technical gaming training board with cyan, blue-purple, gold highlights, dense data cards, arrows, matrices, checklists, readable labels. No realistic human scene."
+    },
+    {
+      "id": "honor-of-kings-training-infographics-2026-05-13_06_地图意识与信息读取",
+      "batch": "honor-of-kings-training-infographics-2026-05-13",
+      "category": "training-infographic",
+      "number": "06",
+      "title": "地图意识与信息读取",
+      "image": "assets/images/honor-of-kings-training-infographics-2026-05-13/06_地图意识与信息读取.png",
+      "thumb": "assets/thumbs/honor-of-kings-training-infographics-2026-05-13/06_地图意识与信息读取.png",
+      "description": "学会看小地图、记敌方位置、预判风险和机会。",
+      "prompt": "Chinese esports training infographic, high information density, modular layout, readable labels, no photo realism. Theme: 王者荣耀地图意识. Visual center: stylized MOBA minimap board with highlighted river, jungle entrances, grass zones, towers, objective pits. Around it place modules: 1) 信息来源 panel: 兵线位置, 敌方露头, 野区刷新, 技能交出, 召唤师技能; 2) minimap scanning loop flowchart every few seconds; 3) danger prediction arrows for missing enemy paths; 4) support and jungle path overlay diagrams; 5) vision-equivalent checklist for草丛探测 and facecheck avoidance; 6) map awareness scoring table for self-review; 7) common scenarios cards like 敌中单消失, 发育路压线, 龙坑失守. Style: dark esports technical poster, cyan-blue-purple palette with gold alert markers, dense modules, readable Chinese text, arrows, matrices, checklists, clean infographic organization, not a screenshot, not realistic."
+    },
+    {
+      "id": "honor-of-kings-training-infographics-2026-05-13_07_团战进场与站位",
+      "batch": "honor-of-kings-training-infographics-2026-05-13",
+      "category": "training-infographic",
+      "number": "07",
+      "title": "团战进场与站位",
+      "image": "assets/images/honor-of-kings-training-infographics-2026-05-13/07_团战进场与站位.png",
+      "thumb": "assets/thumbs/honor-of-kings-training-infographics-2026-05-13/07_团战进场与站位.png",
+      "description": "不同角色在团战里何时进、站哪、先打谁。",
+      "prompt": "Chinese esports training infographic, high information density, modular layout, readable Chinese labels, no photo realism. Theme: 王者荣耀团战进场与站位. Centerpiece: top-down teamfight formation diagram with front line, flank, backline, peel zones, engage arrows, retreat arrows. Required modules: 1) role-based positioning cards for 坦边, 刺客, 法师, 射手, 辅助; 2) engage timing decision tree based on 关键控制/CD/人数差/地形; 3) target priority matrix by enemy comp; 4) common mispositioning errors panel; 5) skill layering flowchart 开团->控制衔接->集火->收割; 6) terrain examples near 龙坑、狭口、防御塔; 7) checklist for 团前准备 and 团后追击 or撤退. Style: dark technical gaming training board, cyan and violet structure lines, gold markers for key threat zones, dense modules, arrows, diagrams, data cards, highly readable labels, no cinematic art, no realism."
+    },
+    {
+      "id": "honor-of-kings-training-infographics-2026-05-13_08_节奏运营全局图",
+      "batch": "honor-of-kings-training-infographics-2026-05-13",
+      "category": "training-infographic",
+      "number": "08",
+      "title": "节奏运营全局图",
+      "image": "assets/images/honor-of-kings-training-infographics-2026-05-13/08_节奏运营全局图.png",
+      "thumb": "assets/thumbs/honor-of-kings-training-infographics-2026-05-13/08_节奏运营全局图.png",
+      "description": "前中后期该做什么，如何把小优势滚成胜势。",
+      "prompt": "Chinese esports training infographic, high information density, modular layout, readable labels, no photorealism. Theme: 王者荣耀节奏运营. Create a timeline-based strategic poster from 0-4 min, 4-10 min, 10-16 min, 16+ min. For each phase include objectives, lane rotations, jungle pressure, tower focus, vision control, and fight conditions. Center timeline with arrows linking snowball patterns. Side modules: 1) tempo gain vs tempo loss comparison matrix; 2) reset timing and recall management board; 3) lane swap and objective rotation flowchart; 4) lead conversion checklist from 击杀优势 to 反野/拿龙/逼塔; 5) anti-throw warning panel for high ground and overchase. Style: dark esports technical training board, cyan-blue-purple base with gold emphasis, dense modular cards, tables, arrows, flowcharts, readable Chinese labels, no realistic people or cinematic framing."
+    },
+    {
+      "id": "honor-of-kings-training-infographics-2026-05-13_09_英雄池搭建方法",
+      "batch": "honor-of-kings-training-infographics-2026-05-13",
+      "category": "training-infographic",
+      "number": "09",
+      "title": "英雄池搭建方法",
+      "image": "assets/images/honor-of-kings-training-infographics-2026-05-13/09_英雄池搭建方法.png",
+      "thumb": "assets/thumbs/honor-of-kings-training-infographics-2026-05-13/09_英雄池搭建方法.png",
+      "description": "建立主力、备选、版本英雄三层英雄池。",
+      "prompt": "Chinese esports training infographic, high information density, modular layout, readable Chinese labels, infographic training poster, no photo realism. Theme: 王者荣耀英雄池搭建. Main structure: three-layer hero pool pyramid 主力英雄 / 备选英雄 / 版本功能英雄. Required modules: 1) hero classification matrix by role,难度,容错率,开团能力,单带能力,后期价值; 2) learning order flowchart from one-trick familiarity to matchup coverage; 3) 3+2+2 building method card; 4) ban risk and counter risk table; 5) practice volume checklist per hero with 局数, 胜率, 常见失误, 核心连招; 6) role transfer arrows showing how one hero skillset supports another; 7) novice recommendations and advanced expansion paths. Style: dark technical gaming board, cyan, blue-purple, gold accents, dense modules, data cards, checklists, tables, arrows, readable labels, no realistic portraits."
+    },
+    {
+      "id": "honor-of-kings-training-infographics-2026-05-13_10_阵容体系速查板",
+      "batch": "honor-of-kings-training-infographics-2026-05-13",
+      "category": "training-infographic",
+      "number": "10",
+      "title": "阵容体系速查板",
+      "image": "assets/images/honor-of-kings-training-infographics-2026-05-13/10_阵容体系速查板.png",
+      "thumb": "assets/thumbs/honor-of-kings-training-infographics-2026-05-13/10_阵容体系速查板.png",
+      "description": "识别阵容强点、胜利条件和怕什么样的对手。",
+      "prompt": "Chinese esports training infographic, high information density, modular layout, readable labels, no photorealism. Theme: 王者荣耀阵容体系. Design a matrix-rich poster. Center module: major team comp archetypes board such as 先手开团, 反打拉扯, 四保一, poke消耗, 单带分推, 双核发育. For each archetype show 核心条件, 关键英雄特征, 强势时间点, 克制关系. Side modules: 1) comp matchup matrix; 2) damage type and control coverage checklist; 3) engage chain diagram; 4) front-to-back vs dive comp comparison table; 5) win condition extraction flowchart from draft to game plan; 6) common draft traps panel. Style: dark technical esports training board, cyan/indigo/gold, dense grids, arrows, icons, readable Chinese text, modular card layout, no realistic action scene."
+    },
+    {
+      "id": "honor-of-kings-training-infographics-2026-05-13_11_ban-pick逻辑训练图",
+      "batch": "honor-of-kings-training-infographics-2026-05-13",
+      "category": "training-infographic",
+      "number": "11",
+      "title": "Ban Pick逻辑训练图",
+      "image": "assets/images/honor-of-kings-training-infographics-2026-05-13/11_ban-pick逻辑训练图.png",
+      "thumb": "assets/thumbs/honor-of-kings-training-infographics-2026-05-13/11_ban-pick逻辑训练图.png",
+      "description": "学会禁用关键点、构建组合并针对对手核心思路。",
+      "prompt": "Chinese esports training infographic, high information density, modular layout, readable Chinese labels, no photo realism. Theme: 王者荣耀Ban Pick逻辑. Core structure: draft phase flowchart from first ban to last pick, with arrows and branch decisions. Required modules: 1) priority factors board: 版本强度, 熟练度, 阵容搭配, 克制关系, 先后手差异; 2) ban categories table: 版本超模, 绝活位, 体系核心, 克制点; 3) first-pick and counter-pick decision tree; 4) role order recommendation chart; 5) synergy and anti-synergy matrix; 6) emergency recovery panel for draft被针对时如何补强前排/控制/输出; 7) concise checklist before locking hero. Style: dark technical gaming training board with cyan, blue-purple, gold accents, dense card modules, readable labels, arrows, matrices, checklists, no realistic portraits, no cinematic atmosphere."
+    },
+    {
+      "id": "honor-of-kings-training-infographics-2026-05-13_12_每日训练计划模板",
+      "batch": "honor-of-kings-training-infographics-2026-05-13",
+      "category": "training-infographic",
+      "number": "12",
+      "title": "每日训练计划模板",
+      "image": "assets/images/honor-of-kings-training-infographics-2026-05-13/12_每日训练计划模板.png",
+      "thumb": "assets/thumbs/honor-of-kings-training-infographics-2026-05-13/12_每日训练计划模板.png",
+      "description": "把练习、排位、复盘拆成能执行的日常流程。",
+      "prompt": "Chinese esports training infographic, high information density, modular layout, readable labels, no photorealism. Theme: 王者荣耀每日训练计划. Structure it like a practical training board. Modules: 1) daily schedule timeline from 热手->专项训练->排位实战->复盘记录; 2) 30分钟, 60分钟, 120分钟 versions comparison table; 3) pre-game warm-up checklist; 4) skill drill tracker for 补刀, 连招, 小地图频率, 走位; 5) ranked session rules card including 连败停手, 限定英雄池, 目标局数; 6) post-game review form template; 7) weekly accumulation progress boxes. Style: dark esports technical poster, cyan and violet with gold highlights, modular panels, arrows, checkboxes, mini tables, readable Chinese labels, information-dense collectible guide, no realistic scenes."
+    },
+    {
+      "id": "honor-of-kings-training-infographics-2026-05-13_13_复盘方法与错误定位",
+      "batch": "honor-of-kings-training-infographics-2026-05-13",
+      "category": "training-infographic",
+      "number": "13",
+      "title": "复盘方法与错误定位",
+      "image": "assets/images/honor-of-kings-training-infographics-2026-05-13/13_复盘方法与错误定位.png",
+      "thumb": "assets/thumbs/honor-of-kings-training-infographics-2026-05-13/13_复盘方法与错误定位.png",
+      "description": "复盘不是看输赢，而是定位错误和下次修正点。",
+      "prompt": "Chinese esports training infographic, high information density, modular layout, readable Chinese labels, no photo realism. Theme: 王者荣耀复盘方法. Main layout: center review workflow 选局 -> 看时间轴 -> 标注失误 -> 找根因 -> 制定下次训练点. Required modules: 1) mistake taxonomy table for 操作失误, 决策失误, 站位失误, 资源失误, 沟通失误; 2) replay timestamp checklist; 3) question prompts panel: 为什么死, 为什么没拿龙, 为什么没转线; 4) data card examples for KDA, 经济曲线, 参团率, 死亡位置; 5) root-cause fishbone style diagram; 6) correction action board mapping one problem to one drill; 7) sample复盘记录模板. Style: dark technical gaming board, cyan-blue-purple with gold alerts, dense text modules, arrows, tables, labels, no cinematic art, no realism."
+    },
+    {
+      "id": "honor-of-kings-training-infographics-2026-05-13_14_版本适应与更新阅读",
+      "batch": "honor-of-kings-training-infographics-2026-05-13",
+      "category": "training-infographic",
+      "number": "14",
+      "title": "版本适应与更新阅读",
+      "image": "assets/images/honor-of-kings-training-infographics-2026-05-13/14_版本适应与更新阅读.png",
+      "thumb": "assets/thumbs/honor-of-kings-training-infographics-2026-05-13/14_版本适应与更新阅读.png",
+      "description": "快速读懂版本改动，并调整英雄池与打法重点。",
+      "prompt": "Chinese esports training infographic, high information density, modular layout, readable labels, no photo realism. Theme: 王者荣耀版本适应. Build a patch-analysis poster. Modules required: 1) patch note parsing flowchart from 数值改动 -> 对线影响 -> 团战影响 -> 出装变化 -> 英雄优先级变化; 2) buff/nerf impact matrix; 3) role-specific adaptation cards; 4) hero pool adjustment checklist with 保留/观察/替换 categories; 5) item and jungle objective influence board; 6) quick testing plan for new patch in training mode and ranked; 7) historical comparison panel showing how to judge fake强势 and real强势. Style: dark esports technical training board, cyan, indigo, gold accents, dense modules, tables, arrows, readable Chinese labels, no realistic characters or splash-art focus."
+    },
+    {
+      "id": "honor-of-kings-training-infographics-2026-05-13_15_心态与排位管理",
+      "batch": "honor-of-kings-training-infographics-2026-05-13",
+      "category": "training-infographic",
+      "number": "15",
+      "title": "心态与排位管理",
+      "image": "assets/images/honor-of-kings-training-infographics-2026-05-13/15_心态与排位管理.png",
+      "thumb": "assets/thumbs/honor-of-kings-training-infographics-2026-05-13/15_心态与排位管理.png",
+      "description": "控制情绪、管理节奏，避免把状态问题打成实力问题。",
+      "prompt": "Chinese esports training infographic, high information density, modular layout, readable Chinese labels, infographic poster only, no photorealism. Theme: 王者荣耀心态与排位管理. Main structure: center mental-state decision board with green/yellow/red states and action arrows. Required modules: 1) tilt trigger checklist; 2) pre-queue readiness panel for 睡眠, 注意力, 网络, 目标; 3) ranked session rules table: 连胜加场, 连败停手, 时间段选择, 双排策略; 4) emotional recovery flowchart after losing streak; 5) focus control card with 可控项 vs 不可控项 matrix; 6) communication guidelines panel for team chat and ping discipline; 7) long-term ladder management tracker with weekly goals and review notes. Style: dark technical gaming board, cyan-blue-purple palette with gold emphasis, dense modular cards, checklists, arrows, matrices, clean readable labels, no realistic faces, no cinematic scene."
     }
   ]
 }

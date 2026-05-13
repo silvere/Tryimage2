@@ -1,0 +1,127 @@
+{
+  "theme": "王者荣耀：从新手到高玩训练信息图",
+  "batchId": "honor-of-kings-training-infographics-2026-05-13",
+  "createdAt": "2026-05-13",
+  "items": [
+    {
+      "source": "01_王者荣耀成长路线总览.png",
+      "category": "training-infographic",
+      "categoryLabel": "电竞训练信息图",
+      "title": "王者荣耀成长路线总览",
+      "description": "从新手到高玩的阶段地图与能力升级路径。",
+      "prompt": "Chinese esports training infographic, high information density, modular layout, readable Chinese labels, infographic not photo, visual guide not cinematic. Theme: 王者荣耀成长路线总览. Build a dark technical gaming training board with cyan, blue-purple, gold accents. Main structure: a large center progression roadmap from 新手 -> 入门 -> 稳定上分 -> 团队理解 -> 高玩决策, connected by arrows. Surrounding modules: 1) 核心能力树 with branches 操作, 意识, 资源, 团战, 英雄池; 2) rank milestone table with 青铜到王者阶段目标; 3) common bottleneck diagnosis panel listing each stage mistakes and fixes; 4) weekly growth loop flowchart 练习->实战->复盘->修正; 5) KPI card block with 补刀/死亡/参团/经济转化/视野关注; 6) beginner to advanced checklist column. Include data cards, arrows, comparison matrix of 低分段习惯 vs 高分段习惯, icons, mini charts, clean grids, dense modules, clear spacing for text, collectible training poster style. No photorealism, no realistic people, no messy background."
+    },
+    {
+      "source": "02_底层设置与基础动作.png",
+      "category": "training-infographic",
+      "categoryLabel": "电竞训练信息图",
+      "title": "底层设置与基础动作",
+      "description": "先把操作设置、镜头习惯和基础手法打牢。",
+      "prompt": "Chinese esports training infographic, high information density, modular layout, readable labels, no photo realism. Theme: 王者荣耀底层设置与基础动作. Visual structure: top banner + left settings configuration panels + center hand-action flow diagrams + right checklists + bottom drills table. Include modules: 1) recommended 操作设置 dashboard: 镜头灵敏度, 锁敌方式, 优先攻击目标, 技能轮盘灵敏度, 补刀推塔键, 头像锁定; 2) 基础动作 sequence charts: 拉视野, 走A, 探草, 技能后摇处理, 追击与撤退; 3) common errors vs correct inputs matrix; 4) finger training checklist for 1v1 basic mechanics; 5) mini heatmap-style joystick and skill-button diagram; 6) 训练流程 arrows from 设置校准->训练营重复->匹配实战->复盘调整. Style: dark esports technical board, cyan/indigo/gold, dense modules, tables, arrows, checklists, labeled diagrams, readable Chinese text blocks. No cinematic scene, no character portrait focus."
+    },
+    {
+      "source": "03_五路定位与成长起点.png",
+      "category": "training-infographic",
+      "categoryLabel": "电竞训练信息图",
+      "title": "五路定位与成长起点",
+      "description": "判断自己适合哪条路，并找到第一批主练英雄。",
+      "prompt": "Chinese esports training infographic, high information density, modular layout, readable Chinese labels, no photorealism. Theme: 王者荣耀五路定位与成长起点. Design a dense training poster with five vertical role columns: 对抗路, 打野, 中路, 发育路, 游走. Each column contains: 核心职责, 关键能力, 新手门槛, 容错率, 带节奏方式, 推荐起手英雄. Center module: role selection decision tree based on 操作偏好, 大局观, 承压能力, 指挥欲. Side modules: 1) position comparison matrix with 发育需求/游走频率/开团责任/资源优先级; 2) common beginner traps for each lane; 3) growth start plan from 选路->定3英雄->打20局->复盘数据. Bottom section: quick checklist for identifying main role and secondary role. Style: dark technical gaming board, cyan-blue-purple with gold highlights, icons for each lane, arrows between responsibilities and map zones, clean data cards, collectible infographic feel, no realistic battle scene."
+    },
+    {
+      "source": "04_对线基本功训练图.png",
+      "category": "training-infographic",
+      "categoryLabel": "电竞训练信息图",
+      "title": "对线基本功训练图",
+      "description": "补刀、换血、卡线、压制与防抓的对线基础全解。",
+      "prompt": "Chinese esports training infographic, high information density, modular layout, readable labels, no photo realism. Theme: 王者荣耀对线基本功. Core layout: center lane diagram showing兵线交汇与站位区域, with arrows for 前压、回拉、探草、叫人. Modules required: 1) 补刀与漏刀 correction table; 2) 换血时机 flowchart based on 技能CD、兵线数量、敌方打野位置; 3) 卡线/控线/推线 comparison board; 4) 防Gank warning checklist with mini-map cues; 5) tower pressure and retreat thresholds; 6) lane matchup matrix for 手长 vs 手短, 先手 vs 反手; 7) training drills panel for 10-minute lane exercises. Use dark esports board, cyan and violet lines, gold emphasis for key timers, dense labeled boxes, arrows, checklists, tabular sections, small diagrams. No cinematic characters, no realism, no clutter."
+    },
+    {
+      "source": "05_资源运营核心方法.png",
+      "category": "training-infographic",
+      "categoryLabel": "电竞训练信息图",
+      "title": "资源运营核心方法",
+      "description": "把兵线、野区、塔皮、龙和节奏点转成可执行决策。",
+      "prompt": "Chinese esports training infographic, high information density, modular layout, readable Chinese labels, infographic poster style, no photorealism. Theme: 王者荣耀资源运营. Main structure: center resource conversion flowchart 从兵线/野怪/防御塔/暴君主宰/人头 -> 经济优势 -> 视野与地图压力 -> 胜势扩大. Include modules: 1) resource priority table by role and game phase; 2) timing board for early, mid, late objective decisions; 3) sacrifice vs trade matrix showing 失一路塔换龙, 放野区换推中, etc.; 4) economy efficiency checklist; 5) map quadrant diagram marking safe and dangerous resource areas; 6) common low-rank mistakes panel; 7) shot-calling mini script cards for 开龙、反野、转线、逼塔. Style: dark technical gaming training board with cyan, blue-purple, gold highlights, dense data cards, arrows, matrices, checklists, readable labels. No realistic human scene."
+    },
+    {
+      "source": "06_地图意识与信息读取.png",
+      "category": "training-infographic",
+      "categoryLabel": "电竞训练信息图",
+      "title": "地图意识与信息读取",
+      "description": "学会看小地图、记敌方位置、预判风险和机会。",
+      "prompt": "Chinese esports training infographic, high information density, modular layout, readable labels, no photo realism. Theme: 王者荣耀地图意识. Visual center: stylized MOBA minimap board with highlighted river, jungle entrances, grass zones, towers, objective pits. Around it place modules: 1) 信息来源 panel: 兵线位置, 敌方露头, 野区刷新, 技能交出, 召唤师技能; 2) minimap scanning loop flowchart every few seconds; 3) danger prediction arrows for missing enemy paths; 4) support and jungle path overlay diagrams; 5) vision-equivalent checklist for草丛探测 and facecheck avoidance; 6) map awareness scoring table for self-review; 7) common scenarios cards like 敌中单消失, 发育路压线, 龙坑失守. Style: dark esports technical poster, cyan-blue-purple palette with gold alert markers, dense modules, readable Chinese text, arrows, matrices, checklists, clean infographic organization, not a screenshot, not realistic."
+    },
+    {
+      "source": "07_团战进场与站位.png",
+      "category": "training-infographic",
+      "categoryLabel": "电竞训练信息图",
+      "title": "团战进场与站位",
+      "description": "不同角色在团战里何时进、站哪、先打谁。",
+      "prompt": "Chinese esports training infographic, high information density, modular layout, readable Chinese labels, no photo realism. Theme: 王者荣耀团战进场与站位. Centerpiece: top-down teamfight formation diagram with front line, flank, backline, peel zones, engage arrows, retreat arrows. Required modules: 1) role-based positioning cards for 坦边, 刺客, 法师, 射手, 辅助; 2) engage timing decision tree based on 关键控制/CD/人数差/地形; 3) target priority matrix by enemy comp; 4) common mispositioning errors panel; 5) skill layering flowchart 开团->控制衔接->集火->收割; 6) terrain examples near 龙坑、狭口、防御塔; 7) checklist for 团前准备 and 团后追击 or撤退. Style: dark technical gaming training board, cyan and violet structure lines, gold markers for key threat zones, dense modules, arrows, diagrams, data cards, highly readable labels, no cinematic art, no realism."
+    },
+    {
+      "source": "08_节奏运营全局图.png",
+      "category": "training-infographic",
+      "categoryLabel": "电竞训练信息图",
+      "title": "节奏运营全局图",
+      "description": "前中后期该做什么，如何把小优势滚成胜势。",
+      "prompt": "Chinese esports training infographic, high information density, modular layout, readable labels, no photorealism. Theme: 王者荣耀节奏运营. Create a timeline-based strategic poster from 0-4 min, 4-10 min, 10-16 min, 16+ min. For each phase include objectives, lane rotations, jungle pressure, tower focus, vision control, and fight conditions. Center timeline with arrows linking snowball patterns. Side modules: 1) tempo gain vs tempo loss comparison matrix; 2) reset timing and recall management board; 3) lane swap and objective rotation flowchart; 4) lead conversion checklist from 击杀优势 to 反野/拿龙/逼塔; 5) anti-throw warning panel for high ground and overchase. Style: dark esports technical training board, cyan-blue-purple base with gold emphasis, dense modular cards, tables, arrows, flowcharts, readable Chinese labels, no realistic people or cinematic framing."
+    },
+    {
+      "source": "09_英雄池搭建方法.png",
+      "category": "training-infographic",
+      "categoryLabel": "电竞训练信息图",
+      "title": "英雄池搭建方法",
+      "description": "建立主力、备选、版本英雄三层英雄池。",
+      "prompt": "Chinese esports training infographic, high information density, modular layout, readable Chinese labels, infographic training poster, no photo realism. Theme: 王者荣耀英雄池搭建. Main structure: three-layer hero pool pyramid 主力英雄 / 备选英雄 / 版本功能英雄. Required modules: 1) hero classification matrix by role,难度,容错率,开团能力,单带能力,后期价值; 2) learning order flowchart from one-trick familiarity to matchup coverage; 3) 3+2+2 building method card; 4) ban risk and counter risk table; 5) practice volume checklist per hero with 局数, 胜率, 常见失误, 核心连招; 6) role transfer arrows showing how one hero skillset supports another; 7) novice recommendations and advanced expansion paths. Style: dark technical gaming board, cyan, blue-purple, gold accents, dense modules, data cards, checklists, tables, arrows, readable labels, no realistic portraits."
+    },
+    {
+      "source": "10_阵容体系速查板.png",
+      "category": "training-infographic",
+      "categoryLabel": "电竞训练信息图",
+      "title": "阵容体系速查板",
+      "description": "识别阵容强点、胜利条件和怕什么样的对手。",
+      "prompt": "Chinese esports training infographic, high information density, modular layout, readable labels, no photorealism. Theme: 王者荣耀阵容体系. Design a matrix-rich poster. Center module: major team comp archetypes board such as 先手开团, 反打拉扯, 四保一, poke消耗, 单带分推, 双核发育. For each archetype show 核心条件, 关键英雄特征, 强势时间点, 克制关系. Side modules: 1) comp matchup matrix; 2) damage type and control coverage checklist; 3) engage chain diagram; 4) front-to-back vs dive comp comparison table; 5) win condition extraction flowchart from draft to game plan; 6) common draft traps panel. Style: dark technical esports training board, cyan/indigo/gold, dense grids, arrows, icons, readable Chinese text, modular card layout, no realistic action scene."
+    },
+    {
+      "source": "11_Ban Pick逻辑训练图.png",
+      "category": "training-infographic",
+      "categoryLabel": "电竞训练信息图",
+      "title": "Ban Pick逻辑训练图",
+      "description": "学会禁用关键点、构建组合并针对对手核心思路。",
+      "prompt": "Chinese esports training infographic, high information density, modular layout, readable Chinese labels, no photo realism. Theme: 王者荣耀Ban Pick逻辑. Core structure: draft phase flowchart from first ban to last pick, with arrows and branch decisions. Required modules: 1) priority factors board: 版本强度, 熟练度, 阵容搭配, 克制关系, 先后手差异; 2) ban categories table: 版本超模, 绝活位, 体系核心, 克制点; 3) first-pick and counter-pick decision tree; 4) role order recommendation chart; 5) synergy and anti-synergy matrix; 6) emergency recovery panel for draft被针对时如何补强前排/控制/输出; 7) concise checklist before locking hero. Style: dark technical gaming training board with cyan, blue-purple, gold accents, dense card modules, readable labels, arrows, matrices, checklists, no realistic portraits, no cinematic atmosphere."
+    },
+    {
+      "source": "12_每日训练计划模板.png",
+      "category": "training-infographic",
+      "categoryLabel": "电竞训练信息图",
+      "title": "每日训练计划模板",
+      "description": "把练习、排位、复盘拆成能执行的日常流程。",
+      "prompt": "Chinese esports training infographic, high information density, modular layout, readable labels, no photorealism. Theme: 王者荣耀每日训练计划. Structure it like a practical training board. Modules: 1) daily schedule timeline from 热手->专项训练->排位实战->复盘记录; 2) 30分钟, 60分钟, 120分钟 versions comparison table; 3) pre-game warm-up checklist; 4) skill drill tracker for 补刀, 连招, 小地图频率, 走位; 5) ranked session rules card including 连败停手, 限定英雄池, 目标局数; 6) post-game review form template; 7) weekly accumulation progress boxes. Style: dark esports technical poster, cyan and violet with gold highlights, modular panels, arrows, checkboxes, mini tables, readable Chinese labels, information-dense collectible guide, no realistic scenes."
+    },
+    {
+      "source": "13_复盘方法与错误定位.png",
+      "category": "training-infographic",
+      "categoryLabel": "电竞训练信息图",
+      "title": "复盘方法与错误定位",
+      "description": "复盘不是看输赢，而是定位错误和下次修正点。",
+      "prompt": "Chinese esports training infographic, high information density, modular layout, readable Chinese labels, no photo realism. Theme: 王者荣耀复盘方法. Main layout: center review workflow 选局 -> 看时间轴 -> 标注失误 -> 找根因 -> 制定下次训练点. Required modules: 1) mistake taxonomy table for 操作失误, 决策失误, 站位失误, 资源失误, 沟通失误; 2) replay timestamp checklist; 3) question prompts panel: 为什么死, 为什么没拿龙, 为什么没转线; 4) data card examples for KDA, 经济曲线, 参团率, 死亡位置; 5) root-cause fishbone style diagram; 6) correction action board mapping one problem to one drill; 7) sample复盘记录模板. Style: dark technical gaming board, cyan-blue-purple with gold alerts, dense text modules, arrows, tables, labels, no cinematic art, no realism."
+    },
+    {
+      "source": "14_版本适应与更新阅读.png",
+      "category": "training-infographic",
+      "categoryLabel": "电竞训练信息图",
+      "title": "版本适应与更新阅读",
+      "description": "快速读懂版本改动，并调整英雄池与打法重点。",
+      "prompt": "Chinese esports training infographic, high information density, modular layout, readable labels, no photo realism. Theme: 王者荣耀版本适应. Build a patch-analysis poster. Modules required: 1) patch note parsing flowchart from 数值改动 -> 对线影响 -> 团战影响 -> 出装变化 -> 英雄优先级变化; 2) buff/nerf impact matrix; 3) role-specific adaptation cards; 4) hero pool adjustment checklist with 保留/观察/替换 categories; 5) item and jungle objective influence board; 6) quick testing plan for new patch in training mode and ranked; 7) historical comparison panel showing how to judge fake强势 and real强势. Style: dark esports technical training board, cyan, indigo, gold accents, dense modules, tables, arrows, readable Chinese labels, no realistic characters or splash-art focus."
+    },
+    {
+      "source": "15_心态与排位管理.png",
+      "category": "training-infographic",
+      "categoryLabel": "电竞训练信息图",
+      "title": "心态与排位管理",
+      "description": "控制情绪、管理节奏，避免把状态问题打成实力问题。",
+      "prompt": "Chinese esports training infographic, high information density, modular layout, readable Chinese labels, infographic poster only, no photorealism. Theme: 王者荣耀心态与排位管理. Main structure: center mental-state decision board with green/yellow/red states and action arrows. Required modules: 1) tilt trigger checklist; 2) pre-queue readiness panel for 睡眠, 注意力, 网络, 目标; 3) ranked session rules table: 连胜加场, 连败停手, 时间段选择, 双排策略; 4) emotional recovery flowchart after losing streak; 5) focus control card with 可控项 vs 不可控项 matrix; 6) communication guidelines panel for team chat and ping discipline; 7) long-term ladder management tracker with weekly goals and review notes. Style: dark technical gaming board, cyan-blue-purple palette with gold emphasis, dense modular cards, checklists, arrows, matrices, clean readable labels, no realistic faces, no cinematic scene."
+    }
+  ]
+}
