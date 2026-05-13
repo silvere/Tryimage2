@@ -100,9 +100,28 @@ function parseArgs(values) {
 
 function resolveSource(source, dir, metadata) {
   if (!source) fail("Each item needs source or image");
-  if (isAbsolute(source)) return source;
-  if (dir) return resolve(dir, source);
-  return resolve(dirname(metadata), source);
+  const raw = String(source).trim();
+  if (dir) {
+    if (!isSafeBatchItemSource(raw)) {
+      fail(`Unsafe batch item source: ${raw}`);
+    }
+    const resolved = resolve(dir, raw);
+    const relativePath = relative(dir, resolved);
+    if (relativePath.startsWith('..') || isAbsolute(relativePath)) {
+      fail(`Batch item source escaped image directory: ${raw}`);
+    }
+    return resolved;
+  }
+  if (isAbsolute(raw)) return raw;
+  return resolve(dirname(metadata), raw);
+}
+
+function isSafeBatchItemSource(source) {
+  const raw = String(source || '').trim();
+  if (!raw || isAbsolute(raw)) return false;
+  if (raw.includes('/') || raw.includes('\\')) return false;
+  if (raw.includes('..')) return false;
+  return true;
 }
 
 function slug(value) {

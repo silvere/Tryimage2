@@ -1,7 +1,7 @@
 {
   "site": {
     "title": "OpenAI image2 视觉实验",
-    "subtitle": "720 张传播向 AI 海报",
+    "subtitle": "735 张传播向 AI 海报",
     "headline": "OpenAI image2 视觉实验",
     "intro": "每一批图片围绕一个临时主题生成，并按当次最合适的 category 归档；可以是反差创意、真实场景、产品概念、人物叙事或任何新的视觉方向。",
     "coverImage": "assets/contact_sheet_image2.jpg",
@@ -254,6 +254,10 @@
     {
       "id": "training-infographic",
       "label": "电竞训练信息图"
+    },
+    {
+      "id": "tattoo-art",
+      "label": "纹身艺术"
     }
   ],
   "batches": [
@@ -578,6 +582,12 @@
     {
       "id": "honor-of-kings-training-infographics-2026-05-13",
       "theme": "王者荣耀：从新手到高玩训练信息图",
+      "createdAt": "2026-05-13",
+      "count": 15
+    },
+    {
+      "id": "stunning-tattoo-art-2026-05-13",
+      "theme": "让人惊叹的纹身艺术",
       "createdAt": "2026-05-13",
       "count": 15
     }
@@ -8487,6 +8497,171 @@
       "thumb": "assets/thumbs/honor-of-kings-training-infographics-2026-05-13/15_心态与排位管理.png",
       "description": "控制情绪、管理节奏，避免把状态问题打成实力问题。",
       "prompt": "Chinese esports training infographic, high information density, modular layout, readable Chinese labels, infographic poster only, no photorealism. Theme: 王者荣耀心态与排位管理. Main structure: center mental-state decision board with green/yellow/red states and action arrows. Required modules: 1) tilt trigger checklist; 2) pre-queue readiness panel for 睡眠, 注意力, 网络, 目标; 3) ranked session rules table: 连胜加场, 连败停手, 时间段选择, 双排策略; 4) emotional recovery flowchart after losing streak; 5) focus control card with 可控项 vs 不可控项 matrix; 6) communication guidelines panel for team chat and ping discipline; 7) long-term ladder management tracker with weekly goals and review notes. Style: dark technical gaming board, cyan-blue-purple palette with gold emphasis, dense modular cards, checklists, arrows, matrices, clean readable labels, no realistic faces, no cinematic scene."
+    },
+    {
+      "id": "stunning-tattoo-art-2026-05-13_01_猩红锦鲤背部巨构",
+      "batch": "stunning-tattoo-art-2026-05-13",
+      "category": "tattoo-art",
+      "number": "01",
+      "title": "猩红锦鲤背部巨构",
+      "image": "assets/images/stunning-tattoo-art-2026-05-13/01_猩红锦鲤背部巨构.png",
+      "thumb": "assets/thumbs/stunning-tattoo-art-2026-05-13/01_猩红锦鲤背部巨构.png",
+      "description": "整幅后背作为画布，双锦鲤在黑水与朱砂云雾间盘旋，对称却不呆板，呈现压迫感与华丽感兼具的封面级纹身构图。",
+      "prompt": "一张高审美纹身艺术专题封面图，展示成年模特的完整背部纹身：两条猩红与墨黑交织的锦鲤从下背游向肩胛，周围有翻涌黑浪、朱砂色云雾、细密水花与金属感鱼鳞高光，日式与现代插画融合风格，构图完整、层次分明、线条锋利、饱和而克制，皮肤质感真实，棚拍级定向光，背景极简深灰，无衣物干扰，无文字无logo，重点突出令人惊叹的整背纹身艺术。"
+    },
+    {
+      "id": "stunning-tattoo-art-2026-05-13_02_星轨灵蛇胸骨纹身",
+      "batch": "stunning-tattoo-art-2026-05-13",
+      "category": "tattoo-art",
+      "number": "02",
+      "title": "星轨灵蛇胸骨纹身",
+      "image": "assets/images/stunning-tattoo-art-2026-05-13/02_星轨灵蛇胸骨纹身.png",
+      "thumb": "assets/thumbs/stunning-tattoo-art-2026-05-13/02_星轨灵蛇胸骨纹身.png",
+      "description": "一条纤长灵蛇沿胸骨垂直盘绕，结合月相、星轨与宝石装饰，带有神秘仪式感与高级时装气质。",
+      "prompt": "高端纹身艺术专题图，聚焦成年女性上半身胸骨与锁骨区域，一条细长黑银色灵蛇沿胸骨蜿蜒而下，蛇身嵌入月相、星点、细链般装饰和冷光宝石图腾，风格为暗黑精致主义与微写实黑灰纹身结合，画面具有时尚杂志封面感，光线柔和却富有立体阴影，皮肤洁净真实，背景极简黑色，无文字无logo，强调惊艳、神秘、精美的胸前纹身构图。"
+    },
+    {
+      "id": "stunning-tattoo-art-2026-05-13_03_青瓷仙鹤大腿画卷",
+      "batch": "stunning-tattoo-art-2026-05-13",
+      "category": "tattoo-art",
+      "number": "03",
+      "title": "青瓷仙鹤大腿画卷",
+      "image": "assets/images/stunning-tattoo-art-2026-05-13/03_青瓷仙鹤大腿画卷.png",
+      "thumb": "assets/thumbs/stunning-tattoo-art-2026-05-13/03_青瓷仙鹤大腿画卷.png",
+      "description": "在大腿外侧展开的青瓷纹样与白鹤画卷，将东方器物美学转化为流动的身体装饰，优雅而醒目。",
+      "prompt": "一幅令人惊叹的纹身艺术图，聚焦成年模特大腿外侧的大型纹身：一只展翅白鹤穿过青瓷裂纹、青蓝花枝、轻雾与水纹，整体像一幅绘在皮肤上的东方瓷器画卷，颜色以青蓝、米白、淡墨为主，带有细腻釉面光感和精致笔触，腿部姿态优雅，摄影构图像时尚封面，背景简洁温润，无文字无logo，突出高审美、具体而强视觉的大腿纹身艺术。"
+    },
+    {
+      "id": "stunning-tattoo-art-2026-05-13_04_巴洛克飞蛾肩胛华饰",
+      "batch": "stunning-tattoo-art-2026-05-13",
+      "category": "tattoo-art",
+      "number": "04",
+      "title": "巴洛克飞蛾肩胛华饰",
+      "image": "assets/images/stunning-tattoo-art-2026-05-13/04_巴洛克飞蛾肩胛华饰.png",
+      "thumb": "assets/thumbs/stunning-tattoo-art-2026-05-13/04_巴洛克飞蛾肩胛华饰.png",
+      "description": "巨大的飞蛾停驻肩胛，翅面融入珠宝、烛泪与金属雕花，像一件暗夜礼服的核心装饰。",
+      "prompt": "高级纹身艺术摄影，成年模特裸露肩颈与肩胛区域，一只超精致的巴洛克风飞蛾纹身横跨肩胛骨，翅膀由黑灰、旧金、酒红构成，内部带有宝石切面、烛泪、金属卷草纹和微微破损的丝绒质感，暗黑华丽，极具戏剧性，近距离可见细腻针感线条与晕染，背景深色纯净，光线聚焦肩部轮廓，无文字无logo，封面级视觉冲击。"
+    },
+    {
+      "id": "stunning-tattoo-art-2026-05-13_05_机械莲臂环全袖",
+      "batch": "stunning-tattoo-art-2026-05-13",
+      "category": "tattoo-art",
+      "number": "05",
+      "title": "机械莲臂环全袖",
+      "image": "assets/images/stunning-tattoo-art-2026-05-13/05_机械莲臂环全袖.png",
+      "thumb": "assets/thumbs/stunning-tattoo-art-2026-05-13/05_机械莲臂环全袖.png",
+      "description": "整条手臂被机械结构与盛放莲花贯穿，冷硬工业与禅意植物在同一张皮肤上形成强烈反差。",
+      "prompt": "封面感纹身艺术图，展示成年模特从肩部到手腕的完整手臂全袖纹身：层层盛开的莲花与精密机械齿轮、铆钉、骨架结构融合，黑灰为主并点缀冷银色反光，纹理复杂，具有生物机械与东方花卉结合的惊艳效果，手臂姿态自然有力量，摄影细节清晰，背景极简中性，无文字无logo，强调精美、具体、令人震撼的全袖纹身构图。"
+    },
+    {
+      "id": "stunning-tattoo-art-2026-05-13_06_幽蓝水母肋侧幻光",
+      "batch": "stunning-tattoo-art-2026-05-13",
+      "category": "tattoo-art",
+      "number": "06",
+      "title": "幽蓝水母肋侧幻光",
+      "image": "assets/images/stunning-tattoo-art-2026-05-13/06_幽蓝水母肋侧幻光.png",
+      "thumb": "assets/thumbs/stunning-tattoo-art-2026-05-13/06_幽蓝水母肋侧幻光.png",
+      "description": "透明水母沿肋骨向下漂浮，触须与海流顺着身体曲线延展，像一场静谧又危险的深海梦境。",
+      "prompt": "高审美纹身艺术专题图，聚焦成年模特侧身肋骨区域的大型纹身：一只半透明发光水母从胸侧漂向腰际，长长触须顺着肋线和腹部曲线延伸，伴有微小气泡、深海颗粒、冷蓝紫晕光，风格为微写实梦幻海洋纹身，颜色克制高级，皮肤与光影自然，背景深海般暗色但简洁，无文字无logo，突出肋侧纹身的流动感和惊叹感。"
+    },
+    {
+      "id": "stunning-tattoo-art-2026-05-13_07_残月狼影颈侧铭刻",
+      "batch": "stunning-tattoo-art-2026-05-13",
+      "category": "tattoo-art",
+      "number": "07",
+      "title": "残月狼影颈侧铭刻",
+      "image": "assets/images/stunning-tattoo-art-2026-05-13/07_残月狼影颈侧铭刻.png",
+      "thumb": "assets/thumbs/stunning-tattoo-art-2026-05-13/07_残月狼影颈侧铭刻.png",
+      "description": "颈侧的小面积却高张力构图，以狼首、残月与寒林轮廓打造危险而克制的气场。",
+      "prompt": "一张时尚封面风的纹身艺术照片，成年模特颈侧与下颌线区域有一枚精致而锋利的纹身：一只半写实狼首从阴影中显现，背后是残月、寒枝和极简雪雾，黑灰细节丰富，沿颈部弧线自然贴合，气质冷峻克制，特写摄影突出皮肤质感和针线层次，背景纯暗色，无文字无logo，展现小面积却极具震撼力的颈侧纹身。"
+    },
+    {
+      "id": "stunning-tattoo-art-2026-05-13_08_鎏金苍龙脊柱长卷",
+      "batch": "stunning-tattoo-art-2026-05-13",
+      "category": "tattoo-art",
+      "number": "08",
+      "title": "鎏金苍龙脊柱长卷",
+      "image": "assets/images/stunning-tattoo-art-2026-05-13/08_鎏金苍龙脊柱长卷.png",
+      "thumb": "assets/thumbs/stunning-tattoo-art-2026-05-13/08_鎏金苍龙脊柱长卷.png",
+      "description": "一条纤长东方龙顺着脊柱垂落，金墨交叠，像一卷被打开的古老神话。",
+      "prompt": "高级纹身艺术封面图，聚焦成年模特背部中央脊柱位置，一条细长东方苍龙自后颈沿脊柱一路盘旋至腰部，龙须飘逸，鳞片以黑墨和低饱和金色描绘，周围点缀云气、碎光与极细火星，构图纵向修长、非常适合身体线条，整体华丽但不俗艳，摄影用柔亮侧光突出背肌与纹身细节，背景纯净深色，无文字无logo。"
+    },
+    {
+      "id": "stunning-tattoo-art-2026-05-13_09_黑玫瑰匕首小腿锋影",
+      "batch": "stunning-tattoo-art-2026-05-13",
+      "category": "tattoo-art",
+      "number": "09",
+      "title": "黑玫瑰匕首小腿锋影",
+      "image": "assets/images/stunning-tattoo-art-2026-05-13/09_黑玫瑰匕首小腿锋影.png",
+      "thumb": "assets/thumbs/stunning-tattoo-art-2026-05-13/09_黑玫瑰匕首小腿锋影.png",
+      "description": "小腿后侧的纵向构图，以古典匕首刺穿黑玫瑰，兼具危险、优雅与雕塑般的线条美。",
+      "prompt": "纹身艺术专题摄影，展示成年模特小腿后侧的纵向纹身：一把复古雕花匕首贯穿盛放的黑玫瑰，周围有丝带般烟雾、细碎荆棘和冷调露珠，黑灰写实中带一点酒红点缀，线条锐利，阴影深邃，适合封面展示，腿部姿态自然修长，背景极简浅灰或深灰，无文字无logo，突出小腿区域的强视觉纹身设计。"
+    },
+    {
+      "id": "stunning-tattoo-art-2026-05-13_10_焰羽凤凰腰胯流线",
+      "batch": "stunning-tattoo-art-2026-05-13",
+      "category": "tattoo-art",
+      "number": "10",
+      "title": "焰羽凤凰腰胯流线",
+      "image": "assets/images/stunning-tattoo-art-2026-05-13/10_焰羽凤凰腰胯流线.png",
+      "thumb": "assets/thumbs/stunning-tattoo-art-2026-05-13/10_焰羽凤凰腰胯流线.png",
+      "description": "凤凰从腰侧掠向胯部，长尾羽化作火焰与丝带，强调身体曲线与速度感，极富舞台张力。",
+      "prompt": "高端纹身艺术图像，成年模特腰侧到胯部区域有一枚大型凤凰纹身：凤凰侧身腾起，羽毛由朱红、铜金、深黑渐变组成，长尾沿腰线和胯线流动成火焰与丝绸般轨迹，构图性感但高级，强调曲线与动势，皮肤质感真实，摄影光线像时尚杂志大片，背景极简纯色，无文字无logo，呈现令人惊叹的腰胯纹身艺术。"
+    },
+    {
+      "id": "stunning-tattoo-art-2026-05-13_11_黑曜猛虎半胸咆哮",
+      "batch": "stunning-tattoo-art-2026-05-13",
+      "category": "tattoo-art",
+      "number": "11",
+      "title": "黑曜猛虎半胸咆哮",
+      "image": "assets/images/stunning-tattoo-art-2026-05-13/11_黑曜猛虎半胸咆哮.png",
+      "thumb": "assets/thumbs/stunning-tattoo-art-2026-05-13/11_黑曜猛虎半胸咆哮.png",
+      "description": "半胸到肩前的猛虎构图，以黑曜石般的光泽和裂纹质感塑造力量感，具有雕刻般冲击力。",
+      "prompt": "一张封面级纹身艺术摄影，聚焦成年男性半胸与肩前区域的大型纹身：一只咆哮的猛虎从胸肌延伸到肩膀，毛发并非普通写实，而是像黑曜石碎片与烟墨裂纹构成，眼神锐利，周围有低调风暴纹和飞散墨屑，黑灰主调中带少量冷银高光，肌肉与纹身结合紧密，背景深色极简，无文字无logo，突出惊艳、强烈、精美的半胸虎纹身。"
+    },
+    {
+      "id": "stunning-tattoo-art-2026-05-13_12_珠链蝶翼手背华纹",
+      "batch": "stunning-tattoo-art-2026-05-13",
+      "category": "tattoo-art",
+      "number": "12",
+      "title": "珠链蝶翼手背华纹",
+      "image": "assets/images/stunning-tattoo-art-2026-05-13/12_珠链蝶翼手背华纹.png",
+      "thumb": "assets/thumbs/stunning-tattoo-art-2026-05-13/12_珠链蝶翼手背华纹.png",
+      "description": "手背上的蝴蝶与珠链式装饰细密铺陈，像佩戴了一件不存在的高级首饰，精巧又夺目。",
+      "prompt": "高级时尚感纹身艺术图片，展示成年模特手背到手指关节的精美纹身：一只微写实蝴蝶落在手背中央，翅膀布满细腻纹路与珍珠、细链、宝石切面般装饰，向手指延伸出蕾丝般几何花纹，整体像一件奢华手部珠宝，黑灰与少量香槟金色点缀，超清特写，背景简洁柔暗，无文字无logo，强调惊叹感和精工般细节。"
+    },
+    {
+      "id": "stunning-tattoo-art-2026-05-13_13_狐面绯雾前臂叙事",
+      "batch": "stunning-tattoo-art-2026-05-13",
+      "category": "tattoo-art",
+      "number": "13",
+      "title": "狐面绯雾前臂叙事",
+      "image": "assets/images/stunning-tattoo-art-2026-05-13/13_狐面绯雾前臂叙事.png",
+      "thumb": "assets/thumbs/stunning-tattoo-art-2026-05-13/13_狐面绯雾前臂叙事.png",
+      "description": "前臂上的狐面与红雾、纸扇碎片交织，介于神秘面具与都市幻想之间，叙事性极强。",
+      "prompt": "纹身艺术专题图，聚焦成年模特前臂内侧到外侧的纹身设计：一张半侧狐面具漂浮在绯红雾气中，周围有破碎纸扇弧线、细枝、火星与流动墨迹，风格融合东方幻想与现代插画纹身，主色黑灰配深红，层次丰富，前臂转动展示纹身包裹感，摄影清晰、背景极简、无文字无logo，营造具体而强视觉的前臂纹身场景。"
+    },
+    {
+      "id": "stunning-tattoo-art-2026-05-13_14_星鹿花冠脚踝秘境",
+      "batch": "stunning-tattoo-art-2026-05-13",
+      "category": "tattoo-art",
+      "number": "14",
+      "title": "星鹿花冠脚踝秘境",
+      "image": "assets/images/stunning-tattoo-art-2026-05-13/14_星鹿花冠脚踝秘境.png",
+      "thumb": "assets/thumbs/stunning-tattoo-art-2026-05-13/14_星鹿花冠脚踝秘境.png",
+      "description": "脚踝与足背的小型精致纹身，以鹿角、花冠和星座线连接出一片隐秘森林，轻盈却极富记忆点。",
+      "prompt": "一张高审美纹身艺术特写，成年模特脚踝延伸至足背的位置有一枚精巧纹身：一只纤细的鹿首由星座线、细碎花冠、月光颗粒和微型森林轮廓组成，鹿角沿脚踝优雅展开，黑灰细线搭配极淡银蓝光感，风格空灵神秘，画面干净克制，背景柔暗纯净，无文字无logo，突出小面积纹身的精致与惊艳。"
+    },
+    {
+      "id": "stunning-tattoo-art-2026-05-13_15_乌鸦哥特花窗整背",
+      "batch": "stunning-tattoo-art-2026-05-13",
+      "category": "tattoo-art",
+      "number": "15",
+      "title": "乌鸦哥特花窗整背",
+      "image": "assets/images/stunning-tattoo-art-2026-05-13/15_乌鸦哥特花窗整背.png",
+      "thumb": "assets/thumbs/stunning-tattoo-art-2026-05-13/15_乌鸦哥特花窗整背.png",
+      "description": "整背化为一扇破碎的哥特花窗，乌鸦穿过彩色光影与尖拱结构，营造宗教建筑般的庄严与危险。",
+      "prompt": "压轴级纹身艺术封面图，展示成年模特完整背部的大型纹身：一只振翅乌鸦穿过破碎的哥特式花窗，花窗由深蓝、暗红、琥珀金等低饱和彩色玻璃质感组成，周围有尖拱、铁饰、裂纹和微尘光束，整体神秘庄严，黑灰主骨架加少量彩色点亮，背部构图完整震撼，摄影质感高级、背景极简深色、无文字无logo，呈现令人惊叹的整背纹身艺术。"
     }
   ]
 }
