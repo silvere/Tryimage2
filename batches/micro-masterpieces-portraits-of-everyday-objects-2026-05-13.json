@@ -1,0 +1,87 @@
+{
+  "theme": "微观杰作：日常物品的肖像",
+  "batchId": "micro-masterpieces-portraits-of-everyday-objects-2026-05-13",
+  "createdAt": "2026-05-13",
+  "items": [
+    {
+      "source": "01_一把带岁月锈痕的黄铜老钥匙像肖像一样被端正凝视.png",
+      "category": "micro-masterpieces-everyday-objects",
+      "categoryLabel": "微观杰作：日常物品",
+      "title": "一把带岁月锈痕的黄铜老钥匙像肖像一样被端正凝视",
+      "description": "最普通的钥匙，在极近距离里忽然有了遗物和肖像的气质。",
+      "prompt": "Hyperrealistic macro photography of a single ornate slightly rusted vintage brass key, intricate head and teeth details, tiny scratches and patina visible, infused with the mood of a Dutch Golden Age still life painting, rich dark palette, dramatic chiaroscuro side lighting, brilliant metallic highlights, a faint sharp glint on the edge, tight close-up, diagonal composition on a dark weathered wooden surface, completely black background, museum-like object portrait, no logos, no readable text."
+    },
+    {
+      "source": "02_透明塑料勺里那一滴红色液体像一颗被悬停的宝石.png",
+      "category": "micro-masterpieces-everyday-objects",
+      "categoryLabel": "微观杰作：日常物品",
+      "title": "透明塑料勺里那一滴红色液体像一颗被悬停的宝石",
+      "description": "廉价日用品在高洁净光线里，突然像未来展柜里的样本。",
+      "prompt": "Minimalist high-key macro photograph of a modern transparent plastic spoon holding one perfect spherical drop of ruby-red liquid like cherry syrup, the drop refracting light and subtle spoon textures, futuristic impeccably clean aesthetic, bright diffuse studio lighting, strong backlight emphasizing translucency, no harsh shadows, ethereal glow, extreme close-up, perfectly centered composition, razor-sharp focus on spoon bowl and liquid drop, handle fading softly into a seamless pure white background, visually striking object portrait, no logos, no readable text."
+    },
+    {
+      "source": "03_抽屉角落里那枚旧珠母扣把灰尘都变成了叙事背景.png",
+      "category": "micro-masterpieces-everyday-objects",
+      "categoryLabel": "微观杰作：日常物品",
+      "title": "抽屉角落里那枚旧珠母扣把灰尘都变成了叙事背景",
+      "description": "一颗被遗落的纽扣，像把一段没说完的生活缝在了木头缝里。",
+      "prompt": "Moody cinematic photorealistic macro image of an old pearlescent four-hole button resting among dust and lint in the corner of a wooden drawer, one frayed thread still attached and loosely coiling, slightly melancholic nostalgic atmosphere, very shallow depth of field, low-angle natural light as if from a slightly opened drawer, visible dust particles in the air, iridescent surface catching light, long soft shadows, ground-level macro perspective, button slightly off-center, richly textured wood grain and dust environment, no logos, no readable text."
+    },
+    {
+      "source": "04_建筑师铅笔的石墨尖端在黑白高反差里像一座微型纪念碑.png",
+      "category": "micro-masterpieces-everyday-objects",
+      "categoryLabel": "微观杰作：日常物品",
+      "title": "建筑师铅笔的石墨尖端在黑白高反差里像一座微型纪念碑",
+      "description": "削尖的铅笔头近到极致后，像一件冷硬而克制的现代雕塑。",
+      "prompt": "Extreme macro black-and-white high-contrast photograph of the freshly sharpened graphite tip of a well-used architect's pencil, delicate curled wood shavings resting at its base, reflective graphite with microscopic imperfections and facets, graphic abstract composition emphasizing geometric forms and sharp lines, harsh direct side lighting creating crisp contrast, pencil tip filling the frame as a monumental architectural form, flowing organic shavings softly contrasting the sharp angles, gallery-quality object study, no logos, no readable text."
+    },
+    {
+      "source": "05_一枚被岁月撞凹的银顶针安静躺在原麻布上.png",
+      "category": "micro-masterpieces-everyday-objects",
+      "categoryLabel": "微观杰作：日常物品",
+      "title": "一枚被岁月撞凹的银顶针安静躺在原麻布上",
+      "description": "旧顶针和亚麻布的触感，让手工劳动有了像肖像一样的尊严。",
+      "prompt": "Warm tactile close-up digital painting of a silver thimble visibly dented and worn from years of use resting on raw unbleached linen fabric, emotional depth reminiscent of a Rembrandt portrait, expressive brushstrokes, rich textured aged metal and coarse fabric, soft warm directional afternoon window light highlighting every dent and scratch, intimate angled perspective, thimble placed at the intersection of woven fabric lines, soft-focus linen background, timeless handmade atmosphere, no logos, no readable text."
+    },
+    {
+      "source": "06_一枚旧回形针在白纸纤维之间像一道被放大的工业弧线.png",
+      "category": "micro-masterpieces-everyday-objects",
+      "categoryLabel": "微观杰作：日常物品",
+      "title": "一枚旧回形针在白纸纤维之间像一道被放大的工业弧线",
+      "description": "文具最轻微的弯曲，在微距里也能变成一件冷静的金属雕塑。",
+      "prompt": "Hyperrealistic macro photograph of a slightly worn silver paperclip resting on textured white paper fibers, the simple bent wire enlarged into an elegant industrial curve, cool minimalist museum-object styling, crisp studio side lighting, subtle metallic highlights, shallow depth of field, quiet monochrome palette with delicate fiber detail, centered composition, no logos, no readable text."
+    },
+    {
+      "source": "07_半截蜡笔断面和指纹压痕像一块柔软又倔强的地层.png",
+      "category": "micro-masterpieces-everyday-objects",
+      "categoryLabel": "微观杰作：日常物品",
+      "title": "半截蜡笔断面和指纹压痕像一块柔软又倔强的地层",
+      "description": "儿童留下的用力痕迹，把一小段蜡笔变成了带体温的遗迹。",
+      "prompt": "Photorealistic macro close-up of a broken wax crayon stub with visible fingerprint dents and rough fractured pigment layers, tactile colorful surface like a tiny geological cross-section, soft directional daylight, intimate shallow depth of field, rich saturated yet slightly dusty tones, art-object composition on neutral paper background, no logos, no readable text."
+    },
+    {
+      "source": "08_旧拉链齿在布料边缘整齐排开像一排微型机械城墙.png",
+      "category": "micro-masterpieces-everyday-objects",
+      "categoryLabel": "微观杰作：日常物品",
+      "title": "旧拉链齿在布料边缘整齐排开像一排微型机械城墙",
+      "description": "衣物边角最不起眼的结构，一旦放大就像一条带秩序的城市防线。",
+      "prompt": "Extreme macro editorial photograph of aged zipper teeth aligned along the edge of dark fabric, tiny metal elements resembling a miniature mechanical city wall, dramatic raking light emphasizing rhythm, textile weave and scratches, moody industrial beauty, shallow depth of field with repeating pattern, cinematic close framing, no logos, no readable text."
+    },
+    {
+      "source": "09_被磨圆边角的橡皮擦上留着铅灰和手掌温度.png",
+      "category": "micro-masterpieces-everyday-objects",
+      "categoryLabel": "微观杰作：日常物品",
+      "title": "被磨圆边角的橡皮擦上留着铅灰和手掌温度",
+      "description": "一块快用完的橡皮，比很多新文具更像真实生活的证词。",
+      "prompt": "Intimate macro still life of a heavily used eraser with rounded corners, graphite smudges and crumbs clinging to its surface, soft natural window light, warm human-scale atmosphere, visible paper dust and subtle skin-oil sheen, muted academic color palette, close composition treating the eraser as a portrait subject, no logos, no readable text."
+    },
+    {
+      "source": "10_一枚旧纽扣针别在粗呢布面上像一颗安静而锋利的小行星.png",
+      "category": "micro-masterpieces-everyday-objects",
+      "categoryLabel": "微观杰作：日常物品",
+      "title": "一枚旧纽扣针别在粗呢布面上像一颗安静而锋利的小行星",
+      "description": "金属针尖和粗糙织物靠得很近时，会有一种低声但危险的美。",
+      "prompt": "Moody macro portrait of a vintage straight pin fastened across coarse wool fabric, tiny metallic head and sharp point rendered with jewel-like precision, tactile textile landscape, low dramatic side lighting, dark muted background, extremely shallow depth of field, editorial still-life atmosphere, no logos, no readable text."
+    }
+  ]
+}

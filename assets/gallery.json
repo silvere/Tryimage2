@@ -1,7 +1,7 @@
 {
   "site": {
     "title": "OpenAI image2 视觉实验",
-    "subtitle": "646 张传播向 AI 海报",
+    "subtitle": "666 张传播向 AI 海报",
     "headline": "OpenAI image2 视觉实验",
     "intro": "每一批图片围绕一个临时主题生成，并按当次最合适的 category 归档；可以是反差创意、真实场景、产品概念、人物叙事或任何新的视觉方向。",
     "coverImage": "assets/contact_sheet_image2.jpg",
@@ -230,6 +230,14 @@
     {
       "id": "old-cafe-espresso-cups",
       "label": "老咖啡馆浓缩杯"
+    },
+    {
+      "id": "micro-masterpieces-everyday-objects",
+      "label": "微观杰作：日常物品"
+    },
+    {
+      "id": "stones-story-art-of-nature",
+      "label": "石头的故事：自然艺术"
     }
   ],
   "batches": [
@@ -520,6 +528,18 @@
       "theme": "一排老咖啡馆的厚壁浓缩杯和杯托裂纹，为什么真正有记忆点的不是豆子，而是杯子的使用痕迹",
       "createdAt": "2026-05-11",
       "count": 12
+    },
+    {
+      "id": "micro-masterpieces-portraits-of-everyday-objects-2026-05-13",
+      "theme": "微观杰作：日常物品的肖像",
+      "createdAt": "2026-05-13",
+      "count": 10
+    },
+    {
+      "id": "a-stones-story-art-of-nature-2026-05-13",
+      "theme": "石头的故事：自然艺术",
+      "createdAt": "2026-05-13",
+      "count": 10
     }
   ],
   "items": [
@@ -7613,6 +7633,226 @@
       "thumb": "assets/thumbs/old-cafe-espresso-cups-wear-marks-2026-05-11/12_打烊后最后两只浓缩杯被并排留在机身旁.png",
       "description": "收店时并排留下的两只小杯，会让整组图像有一种非常像结尾的温度。",
       "prompt": "Horizontal documentary editorial photograph, realistic textures, cinematic but natural light, Xiaohongshu-clickable composition, no logos, no readable text, no brand labels. Closing-time old cafe scene, final two espresso cups left side by side beside the espresso machine, end-of-day warmth, used but cared-for atmosphere."
+    },
+    {
+      "id": "micro-masterpieces-portraits-of-everyday-objects-2026-05-13_01_一把带岁月锈痕的黄铜老钥匙像肖像一样被端正凝视",
+      "batch": "micro-masterpieces-portraits-of-everyday-objects-2026-05-13",
+      "category": "micro-masterpieces-everyday-objects",
+      "number": "01",
+      "title": "一把带岁月锈痕的黄铜老钥匙像肖像一样被端正凝视",
+      "image": "assets/images/micro-masterpieces-portraits-of-everyday-objects-2026-05-13/01_一把带岁月锈痕的黄铜老钥匙像肖像一样被端正凝视.png",
+      "thumb": "assets/thumbs/micro-masterpieces-portraits-of-everyday-objects-2026-05-13/01_一把带岁月锈痕的黄铜老钥匙像肖像一样被端正凝视.png",
+      "description": "最普通的钥匙，在极近距离里忽然有了遗物和肖像的气质。",
+      "prompt": "Hyperrealistic macro photography of a single ornate slightly rusted vintage brass key, intricate head and teeth details, tiny scratches and patina visible, infused with the mood of a Dutch Golden Age still life painting, rich dark palette, dramatic chiaroscuro side lighting, brilliant metallic highlights, a faint sharp glint on the edge, tight close-up, diagonal composition on a dark weathered wooden surface, completely black background, museum-like object portrait, no logos, no readable text."
+    },
+    {
+      "id": "micro-masterpieces-portraits-of-everyday-objects-2026-05-13_02_透明塑料勺里那一滴红色液体像一颗被悬停的宝石",
+      "batch": "micro-masterpieces-portraits-of-everyday-objects-2026-05-13",
+      "category": "micro-masterpieces-everyday-objects",
+      "number": "02",
+      "title": "透明塑料勺里那一滴红色液体像一颗被悬停的宝石",
+      "image": "assets/images/micro-masterpieces-portraits-of-everyday-objects-2026-05-13/02_透明塑料勺里那一滴红色液体像一颗被悬停的宝石.png",
+      "thumb": "assets/thumbs/micro-masterpieces-portraits-of-everyday-objects-2026-05-13/02_透明塑料勺里那一滴红色液体像一颗被悬停的宝石.png",
+      "description": "廉价日用品在高洁净光线里，突然像未来展柜里的样本。",
+      "prompt": "Minimalist high-key macro photograph of a modern transparent plastic spoon holding one perfect spherical drop of ruby-red liquid like cherry syrup, the drop refracting light and subtle spoon textures, futuristic impeccably clean aesthetic, bright diffuse studio lighting, strong backlight emphasizing translucency, no harsh shadows, ethereal glow, extreme close-up, perfectly centered composition, razor-sharp focus on spoon bowl and liquid drop, handle fading softly into a seamless pure white background, visually striking object portrait, no logos, no readable text."
+    },
+    {
+      "id": "micro-masterpieces-portraits-of-everyday-objects-2026-05-13_03_抽屉角落里那枚旧珠母扣把灰尘都变成了叙事背景",
+      "batch": "micro-masterpieces-portraits-of-everyday-objects-2026-05-13",
+      "category": "micro-masterpieces-everyday-objects",
+      "number": "03",
+      "title": "抽屉角落里那枚旧珠母扣把灰尘都变成了叙事背景",
+      "image": "assets/images/micro-masterpieces-portraits-of-everyday-objects-2026-05-13/03_抽屉角落里那枚旧珠母扣把灰尘都变成了叙事背景.png",
+      "thumb": "assets/thumbs/micro-masterpieces-portraits-of-everyday-objects-2026-05-13/03_抽屉角落里那枚旧珠母扣把灰尘都变成了叙事背景.png",
+      "description": "一颗被遗落的纽扣，像把一段没说完的生活缝在了木头缝里。",
+      "prompt": "Moody cinematic photorealistic macro image of an old pearlescent four-hole button resting among dust and lint in the corner of a wooden drawer, one frayed thread still attached and loosely coiling, slightly melancholic nostalgic atmosphere, very shallow depth of field, low-angle natural light as if from a slightly opened drawer, visible dust particles in the air, iridescent surface catching light, long soft shadows, ground-level macro perspective, button slightly off-center, richly textured wood grain and dust environment, no logos, no readable text."
+    },
+    {
+      "id": "micro-masterpieces-portraits-of-everyday-objects-2026-05-13_04_建筑师铅笔的石墨尖端在黑白高反差里像一座微型纪念碑",
+      "batch": "micro-masterpieces-portraits-of-everyday-objects-2026-05-13",
+      "category": "micro-masterpieces-everyday-objects",
+      "number": "04",
+      "title": "建筑师铅笔的石墨尖端在黑白高反差里像一座微型纪念碑",
+      "image": "assets/images/micro-masterpieces-portraits-of-everyday-objects-2026-05-13/04_建筑师铅笔的石墨尖端在黑白高反差里像一座微型纪念碑.png",
+      "thumb": "assets/thumbs/micro-masterpieces-portraits-of-everyday-objects-2026-05-13/04_建筑师铅笔的石墨尖端在黑白高反差里像一座微型纪念碑.png",
+      "description": "削尖的铅笔头近到极致后，像一件冷硬而克制的现代雕塑。",
+      "prompt": "Extreme macro black-and-white high-contrast photograph of the freshly sharpened graphite tip of a well-used architect's pencil, delicate curled wood shavings resting at its base, reflective graphite with microscopic imperfections and facets, graphic abstract composition emphasizing geometric forms and sharp lines, harsh direct side lighting creating crisp contrast, pencil tip filling the frame as a monumental architectural form, flowing organic shavings softly contrasting the sharp angles, gallery-quality object study, no logos, no readable text."
+    },
+    {
+      "id": "micro-masterpieces-portraits-of-everyday-objects-2026-05-13_05_一枚被岁月撞凹的银顶针安静躺在原麻布上",
+      "batch": "micro-masterpieces-portraits-of-everyday-objects-2026-05-13",
+      "category": "micro-masterpieces-everyday-objects",
+      "number": "05",
+      "title": "一枚被岁月撞凹的银顶针安静躺在原麻布上",
+      "image": "assets/images/micro-masterpieces-portraits-of-everyday-objects-2026-05-13/05_一枚被岁月撞凹的银顶针安静躺在原麻布上.png",
+      "thumb": "assets/thumbs/micro-masterpieces-portraits-of-everyday-objects-2026-05-13/05_一枚被岁月撞凹的银顶针安静躺在原麻布上.png",
+      "description": "旧顶针和亚麻布的触感，让手工劳动有了像肖像一样的尊严。",
+      "prompt": "Warm tactile close-up digital painting of a silver thimble visibly dented and worn from years of use resting on raw unbleached linen fabric, emotional depth reminiscent of a Rembrandt portrait, expressive brushstrokes, rich textured aged metal and coarse fabric, soft warm directional afternoon window light highlighting every dent and scratch, intimate angled perspective, thimble placed at the intersection of woven fabric lines, soft-focus linen background, timeless handmade atmosphere, no logos, no readable text."
+    },
+    {
+      "id": "micro-masterpieces-portraits-of-everyday-objects-2026-05-13_06_一枚旧回形针在白纸纤维之间像一道被放大的工业弧线",
+      "batch": "micro-masterpieces-portraits-of-everyday-objects-2026-05-13",
+      "category": "micro-masterpieces-everyday-objects",
+      "number": "06",
+      "title": "一枚旧回形针在白纸纤维之间像一道被放大的工业弧线",
+      "image": "assets/images/micro-masterpieces-portraits-of-everyday-objects-2026-05-13/06_一枚旧回形针在白纸纤维之间像一道被放大的工业弧线.png",
+      "thumb": "assets/thumbs/micro-masterpieces-portraits-of-everyday-objects-2026-05-13/06_一枚旧回形针在白纸纤维之间像一道被放大的工业弧线.png",
+      "description": "文具最轻微的弯曲，在微距里也能变成一件冷静的金属雕塑。",
+      "prompt": "Hyperrealistic macro photograph of a slightly worn silver paperclip resting on textured white paper fibers, the simple bent wire enlarged into an elegant industrial curve, cool minimalist museum-object styling, crisp studio side lighting, subtle metallic highlights, shallow depth of field, quiet monochrome palette with delicate fiber detail, centered composition, no logos, no readable text."
+    },
+    {
+      "id": "micro-masterpieces-portraits-of-everyday-objects-2026-05-13_07_半截蜡笔断面和指纹压痕像一块柔软又倔强的地层",
+      "batch": "micro-masterpieces-portraits-of-everyday-objects-2026-05-13",
+      "category": "micro-masterpieces-everyday-objects",
+      "number": "07",
+      "title": "半截蜡笔断面和指纹压痕像一块柔软又倔强的地层",
+      "image": "assets/images/micro-masterpieces-portraits-of-everyday-objects-2026-05-13/07_半截蜡笔断面和指纹压痕像一块柔软又倔强的地层.png",
+      "thumb": "assets/thumbs/micro-masterpieces-portraits-of-everyday-objects-2026-05-13/07_半截蜡笔断面和指纹压痕像一块柔软又倔强的地层.png",
+      "description": "儿童留下的用力痕迹，把一小段蜡笔变成了带体温的遗迹。",
+      "prompt": "Photorealistic macro close-up of a broken wax crayon stub with visible fingerprint dents and rough fractured pigment layers, tactile colorful surface like a tiny geological cross-section, soft directional daylight, intimate shallow depth of field, rich saturated yet slightly dusty tones, art-object composition on neutral paper background, no logos, no readable text."
+    },
+    {
+      "id": "micro-masterpieces-portraits-of-everyday-objects-2026-05-13_08_旧拉链齿在布料边缘整齐排开像一排微型机械城墙",
+      "batch": "micro-masterpieces-portraits-of-everyday-objects-2026-05-13",
+      "category": "micro-masterpieces-everyday-objects",
+      "number": "08",
+      "title": "旧拉链齿在布料边缘整齐排开像一排微型机械城墙",
+      "image": "assets/images/micro-masterpieces-portraits-of-everyday-objects-2026-05-13/08_旧拉链齿在布料边缘整齐排开像一排微型机械城墙.png",
+      "thumb": "assets/thumbs/micro-masterpieces-portraits-of-everyday-objects-2026-05-13/08_旧拉链齿在布料边缘整齐排开像一排微型机械城墙.png",
+      "description": "衣物边角最不起眼的结构，一旦放大就像一条带秩序的城市防线。",
+      "prompt": "Extreme macro editorial photograph of aged zipper teeth aligned along the edge of dark fabric, tiny metal elements resembling a miniature mechanical city wall, dramatic raking light emphasizing rhythm, textile weave and scratches, moody industrial beauty, shallow depth of field with repeating pattern, cinematic close framing, no logos, no readable text."
+    },
+    {
+      "id": "micro-masterpieces-portraits-of-everyday-objects-2026-05-13_09_被磨圆边角的橡皮擦上留着铅灰和手掌温度",
+      "batch": "micro-masterpieces-portraits-of-everyday-objects-2026-05-13",
+      "category": "micro-masterpieces-everyday-objects",
+      "number": "09",
+      "title": "被磨圆边角的橡皮擦上留着铅灰和手掌温度",
+      "image": "assets/images/micro-masterpieces-portraits-of-everyday-objects-2026-05-13/09_被磨圆边角的橡皮擦上留着铅灰和手掌温度.png",
+      "thumb": "assets/thumbs/micro-masterpieces-portraits-of-everyday-objects-2026-05-13/09_被磨圆边角的橡皮擦上留着铅灰和手掌温度.png",
+      "description": "一块快用完的橡皮，比很多新文具更像真实生活的证词。",
+      "prompt": "Intimate macro still life of a heavily used eraser with rounded corners, graphite smudges and crumbs clinging to its surface, soft natural window light, warm human-scale atmosphere, visible paper dust and subtle skin-oil sheen, muted academic color palette, close composition treating the eraser as a portrait subject, no logos, no readable text."
+    },
+    {
+      "id": "micro-masterpieces-portraits-of-everyday-objects-2026-05-13_10_一枚旧纽扣针别在粗呢布面上像一颗安静而锋利的小行星",
+      "batch": "micro-masterpieces-portraits-of-everyday-objects-2026-05-13",
+      "category": "micro-masterpieces-everyday-objects",
+      "number": "10",
+      "title": "一枚旧纽扣针别在粗呢布面上像一颗安静而锋利的小行星",
+      "image": "assets/images/micro-masterpieces-portraits-of-everyday-objects-2026-05-13/10_一枚旧纽扣针别在粗呢布面上像一颗安静而锋利的小行星.png",
+      "thumb": "assets/thumbs/micro-masterpieces-portraits-of-everyday-objects-2026-05-13/10_一枚旧纽扣针别在粗呢布面上像一颗安静而锋利的小行星.png",
+      "description": "金属针尖和粗糙织物靠得很近时，会有一种低声但危险的美。",
+      "prompt": "Moody macro portrait of a vintage straight pin fastened across coarse wool fabric, tiny metallic head and sharp point rendered with jewel-like precision, tactile textile landscape, low dramatic side lighting, dark muted background, extremely shallow depth of field, editorial still-life atmosphere, no logos, no readable text."
+    },
+    {
+      "id": "a-stones-story-art-of-nature-2026-05-13_01_覆满苔藓和地衣的花岗岩像森林里一位沉默的老者",
+      "batch": "a-stones-story-art-of-nature-2026-05-13",
+      "category": "stones-story-art-of-nature",
+      "number": "01",
+      "title": "覆满苔藓和地衣的花岗岩像森林里一位沉默的老者",
+      "image": "assets/images/a-stones-story-art-of-nature-2026-05-13/01_覆满苔藓和地衣的花岗岩像森林里一位沉默的老者.png",
+      "thumb": "assets/thumbs/a-stones-story-art-of-nature-2026-05-13/01_覆满苔藓和地衣的花岗岩像森林里一位沉默的老者.png",
+      "description": "石头不是静物，它像一段比人类更慢也更久的时间。",
+      "prompt": "Hyper-realistic macro nature photograph of a majestic weather-beaten granite monolith covered in vibrant green moss and ancient lichens, set on the misty floor of an old-growth pine forest at early morning, soft diffused golden light filtering through the dense canopy, ethereal god rays illuminating crystalline stone textures and delicate moss details, serene ancient reverent mood, intimate yet grand natural portrait, no logos, no readable text."
+    },
+    {
+      "id": "a-stones-story-art-of-nature-2026-05-13_02_新断面的黑曜石在熔岩红光里像一块刚冷却的危险玻璃",
+      "batch": "a-stones-story-art-of-nature-2026-05-13",
+      "category": "stones-story-art-of-nature",
+      "number": "02",
+      "title": "新断面的黑曜石在熔岩红光里像一块刚冷却的危险玻璃",
+      "image": "assets/images/a-stones-story-art-of-nature-2026-05-13/02_新断面的黑曜石在熔岩红光里像一块刚冷却的危险玻璃.png",
+      "thumb": "assets/thumbs/a-stones-story-art-of-nature-2026-05-13/02_新断面的黑曜石在熔岩红光里像一块刚冷却的危险玻璃.png",
+      "description": "锋利的黑曜石把自然的暴烈和精密同时摆在了眼前。",
+      "prompt": "Epic fantasy concept art matte painting of a raw freshly fractured obsidian rock with sharp conchoidal fractures and a glassy reflective surface, resting on volcanic ash near a flowing river of molten lava, primordial volcanic landscape under a stormy twilight sky, fiery orange and red lava glow casting dramatic high-contrast shadows and highlighting sharp edges and vitreous luster, powerful dangerous creation-energy atmosphere, no logos, no readable text."
+    },
+    {
+      "id": "a-stones-story-art-of-nature-2026-05-13_03_被风雕成波浪曲线的砂岩在金色时刻像一片凝固的海",
+      "batch": "a-stones-story-art-of-nature-2026-05-13",
+      "category": "stones-story-art-of-nature",
+      "number": "03",
+      "title": "被风雕成波浪曲线的砂岩在金色时刻像一片凝固的海",
+      "image": "assets/images/a-stones-story-art-of-nature-2026-05-13/03_被风雕成波浪曲线的砂岩在金色时刻像一片凝固的海.png",
+      "thumb": "assets/thumbs/a-stones-story-art-of-nature-2026-05-13/03_被风雕成波浪曲线的砂岩在金色时刻像一片凝固的海.png",
+      "description": "一整片沙漠的风，最后都像被收进了这块石头的褶皱里。",
+      "prompt": "Breathtaking wide-angle landscape photograph of a massive undulating sandstone formation sculpted by wind into smooth flowing curves like a petrified wave, set in a vast remote desert at golden hour, low warm sun casting long soft shadows, rich terracotta orange and deep red layers emphasized, serene timeless monumental beauty, cinematic composition, no logos, no readable text."
+    },
+    {
+      "id": "a-stones-story-art-of-nature-2026-05-13_04_裂开的紫水晶晶洞像一座在地下发光的秘密小教堂",
+      "batch": "a-stones-story-art-of-nature-2026-05-13",
+      "category": "stones-story-art-of-nature",
+      "number": "04",
+      "title": "裂开的紫水晶晶洞像一座在地下发光的秘密小教堂",
+      "image": "assets/images/a-stones-story-art-of-nature-2026-05-13/04_裂开的紫水晶晶洞像一座在地下发光的秘密小教堂.png",
+      "thumb": "assets/thumbs/a-stones-story-art-of-nature-2026-05-13/04_裂开的紫水晶晶洞像一座在地下发光的秘密小教堂.png",
+      "description": "当晶体自己发光时，石头突然像会做梦的建筑。",
+      "prompt": "High-fantasy digital painting of the interior of a giant split-open amethyst geode forming a mystical crystal-lined cave, a small clear pool on the floor reflecting dazzling crystalline structures, hidden underground cavern setting, countless amethyst crystals emitting a soft pulsating bioluminescent glow in deep purple violet and lilac, ethereal enchanting atmosphere focused on magical interplay of light crystal and reflection, no logos, no readable text."
+    },
+    {
+      "id": "a-stones-story-art-of-nature-2026-05-13_05_一片蓝纹玛瑙被日光反照得像手里托着一小块流动的河",
+      "batch": "a-stones-story-art-of-nature-2026-05-13",
+      "category": "stones-story-art-of-nature",
+      "number": "05",
+      "title": "一片蓝纹玛瑙被日光反照得像手里托着一小块流动的河",
+      "image": "assets/images/a-stones-story-art-of-nature-2026-05-13/05_一片蓝纹玛瑙被日光反照得像手里托着一小块流动的河.png",
+      "thumb": "assets/thumbs/a-stones-story-art-of-nature-2026-05-13/05_一片蓝纹玛瑙被日光反照得像手里托着一小块流动的河.png",
+      "description": "玛瑙里的纹路像把水流和云层都封进了矿物内部。",
+      "prompt": "Dreamlike shallow-depth-of-field macro photograph of a polished slice of blue lace agate held delicately, revealing intricate translucent bands of soft blue white and subtle lavender, background of a gently flowing crystal-clear stream with smooth dark river stones beneath the surface, bright natural daylight backlighting the agate so it glows from within and reveals delicate internal patterns, calm clarity and natural elegance, no logos, no readable text."
+    },
+    {
+      "id": "a-stones-story-art-of-nature-2026-05-13_06_海边被海浪磨圆的鹅卵石在退潮水痕里像一群被时间驯服的骨头",
+      "batch": "a-stones-story-art-of-nature-2026-05-13",
+      "category": "stones-story-art-of-nature",
+      "number": "06",
+      "title": "海边被海浪磨圆的鹅卵石在退潮水痕里像一群被时间驯服的骨头",
+      "image": "assets/images/a-stones-story-art-of-nature-2026-05-13/06_海边被海浪磨圆的鹅卵石在退潮水痕里像一群被时间驯服的骨头.png",
+      "thumb": "assets/thumbs/a-stones-story-art-of-nature-2026-05-13/06_海边被海浪磨圆的鹅卵石在退潮水痕里像一群被时间驯服的骨头.png",
+      "description": "圆润不是温和，而是无数次冲刷之后留下的耐心。",
+      "prompt": "Poetic macro coastal photograph of smooth sea-worn pebbles clustered on wet sand at low tide, reflective water traces and soft overcast light revealing polished surfaces, muted blue-gray palette, intimate natural texture study, calm contemplative mood, close framing that makes the pebbles feel ancient and bodily, no logos, no readable text."
+    },
+    {
+      "id": "a-stones-story-art-of-nature-2026-05-13_07_一块剖开的孔雀石横截面像把绿色风暴冻在了矿物内部",
+      "batch": "a-stones-story-art-of-nature-2026-05-13",
+      "category": "stones-story-art-of-nature",
+      "number": "07",
+      "title": "一块剖开的孔雀石横截面像把绿色风暴冻在了矿物内部",
+      "image": "assets/images/a-stones-story-art-of-nature-2026-05-13/07_一块剖开的孔雀石横截面像把绿色风暴冻在了矿物内部.png",
+      "thumb": "assets/thumbs/a-stones-story-art-of-nature-2026-05-13/07_一块剖开的孔雀石横截面像把绿色风暴冻在了矿物内部.png",
+      "description": "矿石内部的旋纹，比很多抽象画都更有控制不住的力量。",
+      "prompt": "Striking macro studio photograph of a cut malachite stone cross-section, vivid swirling bands of deep emerald and black-green frozen inside polished mineral layers, glossy surface catching controlled highlights, dark museum backdrop, ultra-detailed texture, dramatic elegant composition, no logos, no readable text."
+    },
+    {
+      "id": "a-stones-story-art-of-nature-2026-05-13_08_峡谷岩壁上的铁锈色纹层在夕光里像一页被烧过的地质档案",
+      "batch": "a-stones-story-art-of-nature-2026-05-13",
+      "category": "stones-story-art-of-nature",
+      "number": "08",
+      "title": "峡谷岩壁上的铁锈色纹层在夕光里像一页被烧过的地质档案",
+      "image": "assets/images/a-stones-story-art-of-nature-2026-05-13/08_峡谷岩壁上的铁锈色纹层在夕光里像一页被烧过的地质档案.png",
+      "thumb": "assets/thumbs/a-stones-story-art-of-nature-2026-05-13/08_峡谷岩壁上的铁锈色纹层在夕光里像一页被烧过的地质档案.png",
+      "description": "岩层不是背景，它本身就像大地留下的手写记录。",
+      "prompt": "Cinematic landscape-detail photograph of stratified canyon rock wall with rust, ochre, and dark mineral bands glowing in late sunset light, tactile geological layers like a burned archive page, shallow telephoto compression, dramatic natural texture emphasis, warm dry atmosphere, no logos, no readable text."
+    },
+    {
+      "id": "a-stones-story-art-of-nature-2026-05-13_09_月光下的白色石英脉从黑色山体里像一道冷光伤口一样裂开",
+      "batch": "a-stones-story-art-of-nature-2026-05-13",
+      "category": "stones-story-art-of-nature",
+      "number": "09",
+      "title": "月光下的白色石英脉从黑色山体里像一道冷光伤口一样裂开",
+      "image": "assets/images/a-stones-story-art-of-nature-2026-05-13/09_月光下的白色石英脉从黑色山体里像一道冷光伤口一样裂开.png",
+      "thumb": "assets/thumbs/a-stones-story-art-of-nature-2026-05-13/09_月光下的白色石英脉从黑色山体里像一道冷光伤口一样裂开.png",
+      "description": "石英的明亮像一种伤口，也像地壳深处迟来的回答。",
+      "prompt": "Atmospheric night landscape image of a bright white quartz vein cutting through dark mountain rock under pale moonlight, stark contrast between luminous mineral and matte black stone, mysterious alpine stillness, cool blue-gray tones, highly textured surfaces, elegant dramatic framing, no logos, no readable text."
+    },
+    {
+      "id": "a-stones-story-art-of-nature-2026-05-13_10_一枚带化石纹理的石灰岩在掌心里像托着一小块失语的海洋",
+      "batch": "a-stones-story-art-of-nature-2026-05-13",
+      "category": "stones-story-art-of-nature",
+      "number": "10",
+      "title": "一枚带化石纹理的石灰岩在掌心里像托着一小块失语的海洋",
+      "image": "assets/images/a-stones-story-art-of-nature-2026-05-13/10_一枚带化石纹理的石灰岩在掌心里像托着一小块失语的海洋.png",
+      "thumb": "assets/thumbs/a-stones-story-art-of-nature-2026-05-13/10_一枚带化石纹理的石灰岩在掌心里像托着一小块失语的海洋.png",
+      "description": "掌心里的化石纹路，让远古海洋第一次有了可以触碰的重量。",
+      "prompt": "Naturalistic close-up photograph of a hand holding a pale limestone stone etched with delicate fossil textures and shell impressions, soft daylight revealing chalky surface and tiny embedded histories, intimate human-scale composition, calm museum-meets-field-study mood, shallow depth of field, no logos, no readable text."
     }
   ]
 }
