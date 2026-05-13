@@ -1,7 +1,7 @@
 {
   "site": {
     "title": "OpenAI image2 视觉实验",
-    "subtitle": "681 张传播向 AI 海报",
+    "subtitle": "696 张传播向 AI 海报",
     "headline": "OpenAI image2 视觉实验",
     "intro": "每一批图片围绕一个临时主题生成，并按当次最合适的 category 归档；可以是反差创意、真实场景、产品概念、人物叙事或任何新的视觉方向。",
     "coverImage": "assets/contact_sheet_image2.jpg",
@@ -242,6 +242,10 @@
     {
       "id": "pet-wellness-club",
       "label": "宠物康养会所"
+    },
+    {
+      "id": "mobile-moba-rank-climb",
+      "label": "手游MOBA上分进化史"
     }
   ],
   "batches": [
@@ -549,6 +553,12 @@
       "id": "pet-wellness-club-2026-05-13",
       "theme": "宠物康养会所",
       "createdAt": "2026-05-13",
+      "count": 15
+    },
+    {
+      "id": "honor-of-kings-beginner-to-high-rank-2026-05-11",
+      "theme": "一个王者荣耀玩家，怎样从新手教程一路打到高玩段位",
+      "createdAt": "2026-05-11",
       "count": 15
     }
   ],
@@ -8028,6 +8038,171 @@
       "thumb": "assets/thumbs/pet-wellness-club-2026-05-13/15_晨间消毒与布草整理后的空房间.png",
       "description": "最后一张不出现主角宠物，而是通过清晨整理完毕的房间强调会所的运营细节：折好的布草、消毒后的地面、安静待用的护理空间，让整个系列落回真实服务业的后台秩序。",
       "prompt": "Realistic morning documentary space photograph of an empty prepared room in a premium pet wellness club after cleaning and linen organization, fresh folded towels, sanitized floor, soft daylight, understated luxury, operational backstage calm, editorial hospitality-meets-care aesthetic, no logos, no readable text, no brand labels."
+    },
+    {
+      "id": "honor-of-kings-beginner-to-high-rank-2026-05-11_01_新手教程里第一次把技能轮盘拖歪了",
+      "batch": "honor-of-kings-beginner-to-high-rank-2026-05-11",
+      "category": "mobile-moba-rank-climb",
+      "number": "01",
+      "title": "新手教程里第一次把技能轮盘拖歪了",
+      "image": "assets/images/honor-of-kings-beginner-to-high-rank-2026-05-11/01_新手教程里第一次把技能轮盘拖歪了.png",
+      "thumb": "assets/thumbs/honor-of-kings-beginner-to-high-rank-2026-05-11/01_新手教程里第一次把技能轮盘拖歪了.png",
+      "description": "很多人第一次入坑，不是因为想赢，而是先被那套技能轮盘和峡谷光效勾住了。",
+      "prompt": "Horizontal documentary editorial photograph, realistic Chinese bedroom gaming scene, beginner holding a smartphone with a generic Chinese mobile MOBA tutorial on screen, thumb awkwardly dragging the skill wheel off target, blue tutorial glow on face, no logos, no readable text, no copyrighted hero designs, cinematic but grounded."
+    },
+    {
+      "id": "honor-of-kings-beginner-to-high-rank-2026-05-11_02_宿舍上铺的人开始偷偷练补兵和走位",
+      "batch": "honor-of-kings-beginner-to-high-rank-2026-05-11",
+      "category": "mobile-moba-rank-climb",
+      "number": "02",
+      "title": "宿舍上铺的人开始偷偷练补兵和走位",
+      "image": "assets/images/honor-of-kings-beginner-to-high-rank-2026-05-11/02_宿舍上铺的人开始偷偷练补兵和走位.png",
+      "thumb": "assets/thumbs/honor-of-kings-beginner-to-high-rank-2026-05-11/02_宿舍上铺的人开始偷偷练补兵和走位.png",
+      "description": "从乱按技能到开始在意补兵，才算真正迈进了新手和玩家之间的门槛。",
+      "prompt": "Horizontal documentary editorial photograph, cramped Chinese dorm at night, one college student on an upper bunk secretly practicing last-hits and movement on a smartphone MOBA, roommate shadows and charging cables nearby, focused thumb control, no logos, no readable text, no copyrighted hero designs."
+    },
+    {
+      "id": "honor-of-kings-beginner-to-high-rank-2026-05-11_03_第一次和朋友五排时大家都在抢自己想玩的路",
+      "batch": "honor-of-kings-beginner-to-high-rank-2026-05-11",
+      "category": "mobile-moba-rank-climb",
+      "number": "03",
+      "title": "第一次和朋友五排时大家都在抢自己想玩的路",
+      "image": "assets/images/honor-of-kings-beginner-to-high-rank-2026-05-11/03_第一次和朋友五排时大家都在抢自己想玩的路.png",
+      "thumb": "assets/thumbs/honor-of-kings-beginner-to-high-rank-2026-05-11/03_第一次和朋友五排时大家都在抢自己想玩的路.png",
+      "description": "真正的入门教育，往往不是教程，而是朋友那句“你别抢中，我来带你”。",
+      "prompt": "Horizontal documentary editorial photograph, five Chinese friends crowding around a late-night snack table for their first mobile MOBA five-stack, animated gestures, everyone arguing over lanes while phones glow on the table, cola cans and skewers, no logos, no readable text, lively social tension."
+    },
+    {
+      "id": "honor-of-kings-beginner-to-high-rank-2026-05-11_04_青铜白银局里草丛总会突然冲出一个人",
+      "batch": "honor-of-kings-beginner-to-high-rank-2026-05-11",
+      "category": "mobile-moba-rank-climb",
+      "number": "04",
+      "title": "青铜白银局里草丛总会突然冲出一个人",
+      "image": "assets/images/honor-of-kings-beginner-to-high-rank-2026-05-11/04_青铜白银局里草丛总会突然冲出一个人.png",
+      "thumb": "assets/thumbs/honor-of-kings-beginner-to-high-rank-2026-05-11/04_青铜白银局里草丛总会突然冲出一个人.png",
+      "description": "低段位最真实的记忆，不是操作细节，而是每次路过草丛都像拆盲盒。",
+      "prompt": "Horizontal documentary editorial photograph, close-up of a beginner smartphone gamer jolting in surprise during a low-rank Chinese mobile MOBA match, screen casting green bush ambush light on hands and face, messy desk, intense but humorous energy, no logos, no readable text, no copyrighted hero designs."
+    },
+    {
+      "id": "honor-of-kings-beginner-to-high-rank-2026-05-11_05_会看小地图之后才发现整局根本不是单挑",
+      "batch": "honor-of-kings-beginner-to-high-rank-2026-05-11",
+      "category": "mobile-moba-rank-climb",
+      "number": "05",
+      "title": "会看小地图之后才发现整局根本不是单挑",
+      "image": "assets/images/honor-of-kings-beginner-to-high-rank-2026-05-11/05_会看小地图之后才发现整局根本不是单挑.png",
+      "thumb": "assets/thumbs/honor-of-kings-beginner-to-high-rank-2026-05-11/05_会看小地图之后才发现整局根本不是单挑.png",
+      "description": "从只盯自己那条线，到开始盯全图，才是玩家意识第一次真正升级。",
+      "prompt": "Horizontal documentary editorial photograph, young Chinese gamer leaning over phone and finally studying the minimap in a mobile MOBA match, reflected map lights in glasses, strategic pause, notebooks and earbuds beside the phone, no logos, no readable text, documentary realism."
+    },
+    {
+      "id": "honor-of-kings-beginner-to-high-rank-2026-05-11_06_黄金铂金局的人已经开始背出装和打野路线",
+      "batch": "honor-of-kings-beginner-to-high-rank-2026-05-11",
+      "category": "mobile-moba-rank-climb",
+      "number": "06",
+      "title": "黄金铂金局的人已经开始背出装和打野路线",
+      "image": "assets/images/honor-of-kings-beginner-to-high-rank-2026-05-11/06_黄金铂金局的人已经开始背出装和打野路线.png",
+      "thumb": "assets/thumbs/honor-of-kings-beginner-to-high-rank-2026-05-11/06_黄金铂金局的人已经开始背出装和打野路线.png",
+      "description": "一旦开始记野区刷新和出装顺序，上分这件事就从好玩变成了半认真。",
+      "prompt": "Horizontal documentary editorial photograph, Chinese mobile MOBA player in a café studying item builds and jungle routes on a phone and scribbled notes, serious mid-rank improvement vibe, coffee cup, route arrows on paper without readable text, no logos, no copyrighted hero designs."
+    },
+    {
+      "id": "honor-of-kings-beginner-to-high-rank-2026-05-11_07_钻石局第一次进入禁用和选人环节时空气都不一样了",
+      "batch": "honor-of-kings-beginner-to-high-rank-2026-05-11",
+      "category": "mobile-moba-rank-climb",
+      "number": "07",
+      "title": "钻石局第一次进入禁用和选人环节时空气都不一样了",
+      "image": "assets/images/honor-of-kings-beginner-to-high-rank-2026-05-11/07_钻石局第一次进入禁用和选人环节时空气都不一样了.png",
+      "thumb": "assets/thumbs/honor-of-kings-beginner-to-high-rank-2026-05-11/07_钻石局第一次进入禁用和选人环节时空气都不一样了.png",
+      "description": "很多人真正感到自己进阶了，就是第一次发现选人阶段也会让人手心出汗。",
+      "prompt": "Horizontal documentary editorial photograph, tense Chinese living room gaming scene during a mobile MOBA draft and ban phase, player staring at phone before locking in, teammates hovering behind, draft countdown light, no logos, no readable text, no copyrighted hero designs, high-pressure atmosphere."
+    },
+    {
+      "id": "honor-of-kings-beginner-to-high-rank-2026-05-11_08_星耀局的辅助开始提前进草探视野和卡节奏",
+      "batch": "honor-of-kings-beginner-to-high-rank-2026-05-11",
+      "category": "mobile-moba-rank-climb",
+      "number": "08",
+      "title": "星耀局的辅助开始提前进草探视野和卡节奏",
+      "image": "assets/images/honor-of-kings-beginner-to-high-rank-2026-05-11/08_星耀局的辅助开始提前进草探视野和卡节奏.png",
+      "thumb": "assets/thumbs/honor-of-kings-beginner-to-high-rank-2026-05-11/08_星耀局的辅助开始提前进草探视野和卡节奏.png",
+      "description": "到这个阶段，赢不赢已经不只看手速，而是看谁愿意为团队先走进那片黑的地方。",
+      "prompt": "Horizontal documentary editorial photograph, high-rank Chinese mobile MOBA support player calmly scouting vision in a dark bush on phone, green-blue tactical glow, quiet confidence, headset on, room lights dimmed, no logos, no readable text, no copyrighted hero designs."
+    },
+    {
+      "id": "honor-of-kings-beginner-to-high-rank-2026-05-11_09_一波暴君主宰团之前所有人的呼吸都慢下来了",
+      "batch": "honor-of-kings-beginner-to-high-rank-2026-05-11",
+      "category": "mobile-moba-rank-climb",
+      "number": "09",
+      "title": "一波暴君主宰团之前所有人的呼吸都慢下来了",
+      "image": "assets/images/honor-of-kings-beginner-to-high-rank-2026-05-11/09_一波暴君主宰团之前所有人的呼吸都慢下来了.png",
+      "thumb": "assets/thumbs/honor-of-kings-beginner-to-high-rank-2026-05-11/09_一波暴君主宰团之前所有人的呼吸都慢下来了.png",
+      "description": "高段位最迷人的地方，是一场团战开始前每个人都知道下一秒会决定什么。",
+      "prompt": "Horizontal documentary editorial photograph, esports-like Chinese team room before a decisive mobile MOBA objective fight, five players frozen in concentration with phones in hand, stormy monster-pit light reflected on faces, no logos, no readable text, no copyrighted hero designs."
+    },
+    {
+      "id": "honor-of-kings-beginner-to-high-rank-2026-05-11_10_连败夜里手机发烫到像一块握不住的小铁片",
+      "batch": "honor-of-kings-beginner-to-high-rank-2026-05-11",
+      "category": "mobile-moba-rank-climb",
+      "number": "10",
+      "title": "连败夜里手机发烫到像一块握不住的小铁片",
+      "image": "assets/images/honor-of-kings-beginner-to-high-rank-2026-05-11/10_连败夜里手机发烫到像一块握不住的小铁片.png",
+      "thumb": "assets/thumbs/honor-of-kings-beginner-to-high-rank-2026-05-11/10_连败夜里手机发烫到像一块握不住的小铁片.png",
+      "description": "从新手到高玩之间，少不了那些凌晨两点还在嘴硬说“再来一把”的夜晚。",
+      "prompt": "Horizontal documentary editorial photograph, solitary Chinese gamer on a losing streak at 2 a.m., overheated smartphone in both hands, rank-climb frustration, humid room, desk fan, tired eyes, red-orange screen glow, no logos, no readable text, emotionally raw realism."
+    },
+    {
+      "id": "honor-of-kings-beginner-to-high-rank-2026-05-11_11_复盘时暂停在那次被反蹲的河道拐角",
+      "batch": "honor-of-kings-beginner-to-high-rank-2026-05-11",
+      "category": "mobile-moba-rank-climb",
+      "number": "11",
+      "title": "复盘时暂停在那次被反蹲的河道拐角",
+      "image": "assets/images/honor-of-kings-beginner-to-high-rank-2026-05-11/11_复盘时暂停在那次被反蹲的河道拐角.png",
+      "thumb": "assets/thumbs/honor-of-kings-beginner-to-high-rank-2026-05-11/11_复盘时暂停在那次被反蹲的河道拐角.png",
+      "description": "真正开始变强的人，已经不只会生气，而是会把每次失误停下来重新看一遍。",
+      "prompt": "Horizontal documentary editorial photograph, serious Chinese gamer reviewing a mobile MOBA replay on tablet and phone, paused on a river ambush moment, tactical self-analysis mood, scribbled arrows, no logos, no readable text, no copyrighted hero designs."
+    },
+    {
+      "id": "honor-of-kings-beginner-to-high-rank-2026-05-11_12_高玩的手指开始像乐手一样分工明确地跳动",
+      "batch": "honor-of-kings-beginner-to-high-rank-2026-05-11",
+      "category": "mobile-moba-rank-climb",
+      "number": "12",
+      "title": "高玩的手指开始像乐手一样分工明确地跳动",
+      "image": "assets/images/honor-of-kings-beginner-to-high-rank-2026-05-11/12_高玩的手指开始像乐手一样分工明确地跳动.png",
+      "thumb": "assets/thumbs/honor-of-kings-beginner-to-high-rank-2026-05-11/12_高玩的手指开始像乐手一样分工明确地跳动.png",
+      "description": "到了高玩阶段，别人看到的是眼花缭乱，你自己感受到的反而是一种很稳的节奏。",
+      "prompt": "Horizontal documentary editorial photograph, extreme close-up of expert Chinese mobile MOBA hands using multi-finger controls with musician-like precision, clean nail detail, smooth motion blur, premium phone, intense concentration, no logos, no readable text, no copyrighted hero designs."
+    },
+    {
+      "id": "honor-of-kings-beginner-to-high-rank-2026-05-11_13_最强王者之后排位已经变成一种习惯性的自我证明",
+      "batch": "honor-of-kings-beginner-to-high-rank-2026-05-11",
+      "category": "mobile-moba-rank-climb",
+      "number": "13",
+      "title": "最强王者之后排位已经变成一种习惯性的自我证明",
+      "image": "assets/images/honor-of-kings-beginner-to-high-rank-2026-05-11/13_最强王者之后排位已经变成一种习惯性的自我证明.png",
+      "thumb": "assets/thumbs/honor-of-kings-beginner-to-high-rank-2026-05-11/13_最强王者之后排位已经变成一种习惯性的自我证明.png",
+      "description": "打到这里的人往往已经不太需要向别人解释，只会在每个赛季默默继续往上刷。",
+      "prompt": "Horizontal documentary editorial photograph, elite Chinese mobile MOBA player alone in a dark apartment, high-rank emblem glow reflected on the window after reaching top rank, calm discipline instead of celebration, no logos, no readable text, no copyrighted hero designs."
+    },
+    {
+      "id": "honor-of-kings-beginner-to-high-rank-2026-05-11_14_巅峰对局里每一次拉扯都像是在和另一个自己下棋",
+      "batch": "honor-of-kings-beginner-to-high-rank-2026-05-11",
+      "category": "mobile-moba-rank-climb",
+      "number": "14",
+      "title": "巅峰对局里每一次拉扯都像是在和另一个自己下棋",
+      "image": "assets/images/honor-of-kings-beginner-to-high-rank-2026-05-11/14_巅峰对局里每一次拉扯都像是在和另一个自己下棋.png",
+      "thumb": "assets/thumbs/honor-of-kings-beginner-to-high-rank-2026-05-11/14_巅峰对局里每一次拉扯都像是在和另一个自己下棋.png",
+      "description": "真正的高端局不吵闹，它更像一场高速又安静的博弈。",
+      "prompt": "Horizontal documentary editorial photograph, ultra-high-level Chinese mobile MOBA duel atmosphere, two expert players in separate dark spaces connected by mirrored phone glows, tactical mind game feeling, restrained esports drama, no logos, no readable text, no copyrighted hero designs."
+    },
+    {
+      "id": "honor-of-kings-beginner-to-high-rank-2026-05-11_15_天快亮时战绩页的冷光照着一张终于稳下来的脸",
+      "batch": "honor-of-kings-beginner-to-high-rank-2026-05-11",
+      "category": "mobile-moba-rank-climb",
+      "number": "15",
+      "title": "天快亮时战绩页的冷光照着一张终于稳下来的脸",
+      "image": "assets/images/honor-of-kings-beginner-to-high-rank-2026-05-11/15_天快亮时战绩页的冷光照着一张终于稳下来的脸.png",
+      "thumb": "assets/thumbs/honor-of-kings-beginner-to-high-rank-2026-05-11/15_天快亮时战绩页的冷光照着一张终于稳下来的脸.png",
+      "description": "从新手到高玩，最后留下来的不是一页漂亮战绩，而是那种终于知道自己为什么会赢的感觉。",
+      "prompt": "Horizontal documentary editorial photograph, dawn light entering a Chinese room while a veteran mobile MOBA player looks at a post-match results screen with quiet relief, cold blue stats glow on face, exhausted but satisfied, no logos, no readable text, no copyrighted hero designs."
     }
   ]
 }
