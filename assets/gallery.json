@@ -1,7 +1,7 @@
 {
   "site": {
     "title": "OpenAI image2 视觉实验",
-    "subtitle": "666 张传播向 AI 海报",
+    "subtitle": "681 张传播向 AI 海报",
     "headline": "OpenAI image2 视觉实验",
     "intro": "每一批图片围绕一个临时主题生成，并按当次最合适的 category 归档；可以是反差创意、真实场景、产品概念、人物叙事或任何新的视觉方向。",
     "coverImage": "assets/contact_sheet_image2.jpg",
@@ -238,6 +238,10 @@
     {
       "id": "stones-story-art-of-nature",
       "label": "石头的故事：自然艺术"
+    },
+    {
+      "id": "pet-wellness-club",
+      "label": "宠物康养会所"
     }
   ],
   "batches": [
@@ -540,6 +544,12 @@
       "theme": "石头的故事：自然艺术",
       "createdAt": "2026-05-13",
       "count": 10
+    },
+    {
+      "id": "pet-wellness-club-2026-05-13",
+      "theme": "宠物康养会所",
+      "createdAt": "2026-05-13",
+      "count": 15
     }
   ],
   "items": [
@@ -7853,6 +7863,171 @@
       "thumb": "assets/thumbs/a-stones-story-art-of-nature-2026-05-13/10_一枚带化石纹理的石灰岩在掌心里像托着一小块失语的海洋.png",
       "description": "掌心里的化石纹路，让远古海洋第一次有了可以触碰的重量。",
       "prompt": "Naturalistic close-up photograph of a hand holding a pale limestone stone etched with delicate fossil textures and shell impressions, soft daylight revealing chalky surface and tiny embedded histories, intimate human-scale composition, calm museum-meets-field-study mood, shallow depth of field, no logos, no readable text."
+    },
+    {
+      "id": "pet-wellness-club-2026-05-13_01_恒温康复泳池边的水中步态训练",
+      "batch": "pet-wellness-club-2026-05-13",
+      "category": "pet-wellness-club",
+      "number": "01",
+      "title": "恒温康复泳池边的水中步态训练",
+      "image": "assets/images/pet-wellness-club-2026-05-13/01_恒温康复泳池边的水中步态训练.png",
+      "thumb": "assets/thumbs/pet-wellness-club-2026-05-13/01_恒温康复泳池边的水中步态训练.png",
+      "description": "透明水线、缓坡入池和扶持动作共同构成这家宠物康养会所最专业的一面，一只术后恢复中的中型犬正在治疗师辅助下进行低冲击水疗训练，空间气质更像精品康复中心而非普通宠物消费场所。",
+      "prompt": "Ultra realistic documentary interior photography of a premium pet wellness club hydrotherapy pool, a recovering medium dog doing assisted gait training in a temperature-controlled rehabilitation pool with a therapist in neutral uniform, anti-slip deck, stainless handrails, soft daylight, calm editorial composition, believable clinical-luxury atmosphere, family-oriented service mood, no logos, no readable text, no brand labels."
+    },
+    {
+      "id": "pet-wellness-club-2026-05-13_02_理疗床旁的术后关节评估时刻",
+      "batch": "pet-wellness-club-2026-05-13",
+      "category": "pet-wellness-club",
+      "number": "02",
+      "title": "理疗床旁的术后关节评估时刻",
+      "image": "assets/images/pet-wellness-club-2026-05-13/02_理疗床旁的术后关节评估时刻.png",
+      "thumb": "assets/thumbs/pet-wellness-club-2026-05-13/02_理疗床旁的术后关节评估时刻.png",
+      "description": "镜头贴近理疗床一侧，重点落在治疗师手部和犬只放松但警觉的姿态上，呈现术后恢复期里那种被精细照护的信任感，高端服务的价值不靠装饰，而靠动作和秩序本身。",
+      "prompt": "Realistic editorial close-range photograph inside a high-end pet wellness club, physical therapy bed with a post-surgery dog receiving gentle joint assessment from a therapist, focus on hands, fur texture, clean linens, soft neutral tones, shallow depth of field, documentary healthcare feeling, sophisticated emotional consumption atmosphere, no logos, no readable text, no brand labels."
+    },
+    {
+      "id": "pet-wellness-club-2026-05-13_03_烘毛区里安静运转的低噪护理舱",
+      "batch": "pet-wellness-club-2026-05-13",
+      "category": "pet-wellness-club",
+      "number": "03",
+      "title": "烘毛区里安静运转的低噪护理舱",
+      "image": "assets/images/pet-wellness-club-2026-05-13/03_烘毛区里安静运转的低噪护理舱.png",
+      "thumb": "assets/thumbs/pet-wellness-club-2026-05-13/03_烘毛区里安静运转的低噪护理舱.png",
+      "description": "这里不是热闹洗护间，而是注重情绪稳定和体感舒适的康养烘毛区，一只刚完成水疗的犬只在半开放护理舱中安静休息，柔和灯光与整洁设备共同传达出被家庭化升级过的服务体验。",
+      "prompt": "Documentary interior photograph of a premium pet wellness club drying zone, low-noise semi-open drying pod with a freshly bathed dog resting calmly inside, warm indirect lighting, brushed metal details, folded towels, minimal clutter, realistic grooming-care environment, upscale but believable service design, no logos, no readable text, no brand labels."
+    },
+    {
+      "id": "pet-wellness-club-2026-05-13_04_寄养房走廊尽头的独立安睡房",
+      "batch": "pet-wellness-club-2026-05-13",
+      "category": "pet-wellness-club",
+      "number": "04",
+      "title": "寄养房走廊尽头的独立安睡房",
+      "image": "assets/images/pet-wellness-club-2026-05-13/04_寄养房走廊尽头的独立安睡房.png",
+      "thumb": "assets/thumbs/pet-wellness-club-2026-05-13/04_寄养房走廊尽头的独立安睡房.png",
+      "description": "采用空间摄影视角拍出寄养房的安静秩序：独立玻璃隔间、柔软寝具、可视但不过度暴露的私密感，强调这是为宠物家庭提供安心托付的康养寄住系统，不是高密度笼养。",
+      "prompt": "Wide realistic editorial space photography of a luxury pet wellness boarding corridor, private rest suites for dogs with soft bedding, indirect lighting, quiet hallway perspective, residential hospitality feeling rather than kennel density, premium care architecture, believable documentary interior, no logos, no readable text, no brand labels."
+    },
+    {
+      "id": "pet-wellness-club-2026-05-13_05_窗边情绪陪伴角里的午后安抚",
+      "batch": "pet-wellness-club-2026-05-13",
+      "category": "pet-wellness-club",
+      "number": "05",
+      "title": "窗边情绪陪伴角里的午后安抚",
+      "image": "assets/images/pet-wellness-club-2026-05-13/05_窗边情绪陪伴角里的午后安抚.png",
+      "thumb": "assets/thumbs/pet-wellness-club-2026-05-13/05_窗边情绪陪伴角里的午后安抚.png",
+      "description": "一处靠窗的低饱和陪伴角，布艺坐垫、安抚玩具和陪伴师席地而坐，画面重点不是卖萌，而是宠物在陌生环境中慢慢卸下紧张的那几分钟，带有当代情绪疗愈消费的真实质感。",
+      "prompt": "Soft natural light documentary photograph of an emotional comfort corner in a premium pet wellness club, caregiver sitting on the floor beside an anxious dog near a large window, muted textiles, calming toys, intimate but unsentimental mood, realistic editorial storytelling, family-like service atmosphere, no logos, no readable text, no brand labels."
+    },
+    {
+      "id": "pet-wellness-club-2026-05-13_06_营养餐准备台上分装好的定制鲜食",
+      "batch": "pet-wellness-club-2026-05-13",
+      "category": "pet-wellness-club",
+      "number": "06",
+      "title": "营养餐准备台上分装好的定制鲜食",
+      "image": "assets/images/pet-wellness-club-2026-05-13/06_营养餐准备台上分装好的定制鲜食.png",
+      "thumb": "assets/thumbs/pet-wellness-club-2026-05-13/06_营养餐准备台上分装好的定制鲜食.png",
+      "description": "不把鲜食拍成广告静物，而是拍成后台操作现场：不锈钢操作台、电子秤、分装盒和不同年龄犬猫的定制餐份，体现会所将营养管理纳入康复和寄养整体服务的一部分。",
+      "prompt": "Realistic documentary kitchen-style photograph inside a pet wellness club nutrition station, stainless prep counter with portioned fresh meals for pets, scale, storage containers, gloved hands arranging bowls, hygienic premium service environment, editorial backstage realism, no logos, no readable text, no brand labels."
+    },
+    {
+      "id": "pet-wellness-club-2026-05-13_07_老年犬护理时被轻轻托起的后肢",
+      "batch": "pet-wellness-club-2026-05-13",
+      "category": "pet-wellness-club",
+      "number": "07",
+      "title": "老年犬护理时被轻轻托起的后肢",
+      "image": "assets/images/pet-wellness-club-2026-05-13/07_老年犬护理时被轻轻托起的后肢.png",
+      "thumb": "assets/thumbs/pet-wellness-club-2026-05-13/07_老年犬护理时被轻轻托起的后肢.png",
+      "description": "镜头从低位捕捉一只老年犬在护理带辅助下缓慢站起，关照的重点是衰老、行动迟缓与被耐心对待的现实，这种画面最能体现宠物家庭化时代里高端照护的社会情绪。",
+      "prompt": "Low-angle ultra realistic documentary photograph of senior dog care in a pet wellness club, elderly dog being gently supported by a rear-lift harness while standing, caregiver kneeling nearby, soft flooring, warm restrained interior, truthful aging and care details, editorial compassion without sentimentality, no logos, no readable text, no brand labels."
+    },
+    {
+      "id": "pet-wellness-club-2026-05-13_08_术后恢复室里被持续观察的小型犬",
+      "batch": "pet-wellness-club-2026-05-13",
+      "category": "pet-wellness-club",
+      "number": "08",
+      "title": "术后恢复室里被持续观察的小型犬",
+      "image": "assets/images/pet-wellness-club-2026-05-13/08_术后恢复室里被持续观察的小型犬.png",
+      "thumb": "assets/thumbs/pet-wellness-club-2026-05-13/08_术后恢复室里被持续观察的小型犬.png",
+      "description": "恢复室采用洁净但不冰冷的视觉语言，一只小型犬裹着薄毯安静躺卧，旁边留有监测与护理用品的痕迹，真实表现康养会所在医疗后衔接护理中的关键价值。",
+      "prompt": "Realistic editorial recovery-room photograph in a high-end pet wellness club, small dog resting after surgery on a clean cushioned surface with light blanket, subtle monitoring accessories nearby, quiet ambient light, premium aftercare atmosphere, documentary medical-hospitality crossover, no logos, no readable text, no brand labels."
+    },
+    {
+      "id": "pet-wellness-club-2026-05-13_09_拉伸垫上进行宠物瑜伽辅助的清晨课程",
+      "batch": "pet-wellness-club-2026-05-13",
+      "category": "pet-wellness-club",
+      "number": "09",
+      "title": "拉伸垫上进行宠物瑜伽辅助的清晨课程",
+      "image": "assets/images/pet-wellness-club-2026-05-13/09_拉伸垫上进行宠物瑜伽辅助的清晨课程.png",
+      "thumb": "assets/thumbs/pet-wellness-club-2026-05-13/09_拉伸垫上进行宠物瑜伽辅助的清晨课程.png",
+      "description": "这不是夸张的趣味摆拍，而是一堂更接近日常康复拉伸的课程：治疗师在地垫上引导犬只完成温和延展，空间克制、光线通透，呈现新中产式情绪消费和功能护理的融合。",
+      "prompt": "Morning natural light editorial photograph of assisted pet yoga stretching in a premium pet wellness club, therapist guiding a dog through gentle mobility work on a clean mat, airy studio corner, realistic posture, wellness-lifestyle atmosphere grounded in rehabilitation logic, documentary interior style, no logos, no readable text, no brand labels."
+    },
+    {
+      "id": "pet-wellness-club-2026-05-13_10_香波护理间里被温水包围的细致清洗",
+      "batch": "pet-wellness-club-2026-05-13",
+      "category": "pet-wellness-club",
+      "number": "10",
+      "title": "香波护理间里被温水包围的细致清洗",
+      "image": "assets/images/pet-wellness-club-2026-05-13/10_香波护理间里被温水包围的细致清洗.png",
+      "thumb": "assets/thumbs/pet-wellness-club-2026-05-13/10_香波护理间里被温水包围的细致清洗.png",
+      "description": "护理间强调肤感和情绪稳定，一只长毛犬站在专业洗护台中接受低刺激香波清洗，墙面与器具都干净克制，画面更像高端身体护理空间，而不是喧闹美容店。",
+      "prompt": "High realism documentary grooming-care photograph, premium pet wellness club shampoo room with a long-haired dog being gently washed in warm water on a professional care tub, subtle steam, neutral tiles, caregiver hands working carefully, spa-like but believable atmosphere, no logos, no readable text, no brand labels."
+    },
+    {
+      "id": "pet-wellness-club-2026-05-13_11_夜间值守时走廊里留下的一盏暖灯",
+      "batch": "pet-wellness-club-2026-05-13",
+      "category": "pet-wellness-club",
+      "number": "11",
+      "title": "夜间值守时走廊里留下的一盏暖灯",
+      "image": "assets/images/pet-wellness-club-2026-05-13/11_夜间值守时走廊里留下的一盏暖灯.png",
+      "thumb": "assets/thumbs/pet-wellness-club-2026-05-13/11_夜间值守时走廊里留下的一盏暖灯.png",
+      "description": "夜班不是营业热闹，而是一种让主人放心的持续在场：深夜走廊只留一盏暖灯，值守人员轻声巡房，寄养与恢复中的宠物各自安睡，服务的高级感来自这份不被打扰的守护。",
+      "prompt": "Cinematic but realistic night documentary photograph inside a luxury pet wellness club, dim corridor with one warm lamp on during overnight staff rounds, quiet boarding and recovery rooms, subtle reflections, calm late-night care atmosphere, editorial storytelling, no logos, no readable text, no brand labels."
+    },
+    {
+      "id": "pet-wellness-club-2026-05-13_12_接送前台边等待回家的黄昏时刻",
+      "batch": "pet-wellness-club-2026-05-13",
+      "category": "pet-wellness-club",
+      "number": "12",
+      "title": "接送前台边等待回家的黄昏时刻",
+      "image": "assets/images/pet-wellness-club-2026-05-13/12_接送前台边等待回家的黄昏时刻.png",
+      "thumb": "assets/thumbs/pet-wellness-club-2026-05-13/12_接送前台边等待回家的黄昏时刻.png",
+      "description": "前台不是普通收银台，而是接送、交接和日常信任关系发生的地方，一只护理完成的犬只卧在前台边，工作人员整理牵引与随身物品，像精品服务业里的温柔收尾。",
+      "prompt": "Golden hour realistic editorial interior photograph of a pet wellness club reception for pickup and drop-off, calm dog waiting near the front desk, staff preparing leash and belongings, refined hospitality design, believable urban premium service scene, documentary style, no logos, no readable text, no brand labels."
+    },
+    {
+      "id": "pet-wellness-club-2026-05-13_13_水下跑台训练区里逐步恢复的步频",
+      "batch": "pet-wellness-club-2026-05-13",
+      "category": "pet-wellness-club",
+      "number": "13",
+      "title": "水下跑台训练区里逐步恢复的步频",
+      "image": "assets/images/pet-wellness-club-2026-05-13/13_水下跑台训练区里逐步恢复的步频.png",
+      "thumb": "assets/thumbs/pet-wellness-club-2026-05-13/13_水下跑台训练区里逐步恢复的步频.png",
+      "description": "相比泳池，水下跑台更强调康复节律与数据化训练，一只恢复中的犬只在透明舱体内进行低负荷步行，侧面构图把步态和设备关系交代得非常清楚，充满专业可信度。",
+      "prompt": "Side-view ultra realistic documentary photograph of an underwater treadmill session in a premium pet rehabilitation club, recovering dog walking slowly inside a clear water treadmill chamber, therapist supervising nearby, crisp reflections, controlled lighting, authentic rehab technology atmosphere, no logos, no readable text, no brand labels."
+    },
+    {
+      "id": "pet-wellness-club-2026-05-13_14_家属咨询区里翻看护理记录的片刻",
+      "batch": "pet-wellness-club-2026-05-13",
+      "category": "pet-wellness-club",
+      "number": "14",
+      "title": "家属咨询区里翻看护理记录的片刻",
+      "image": "assets/images/pet-wellness-club-2026-05-13/14_家属咨询区里翻看护理记录的片刻.png",
+      "thumb": "assets/thumbs/pet-wellness-club-2026-05-13/14_家属咨询区里翻看护理记录的片刻.png",
+      "description": "高级服务不只发生在宠物身上，也发生在人与机构之间的解释与安抚，一位主人在咨询区与顾问并肩查看护理记录和恢复建议，空间像精品医疗会客室，体现宠物家庭化后的决策仪式感。",
+      "prompt": "Documentary editorial photograph of a consultation lounge inside a high-end pet wellness club, pet owner and care consultant seated side by side reviewing care notes without readable text, calm hospitality seating, muted colors, trust-building service mood, realistic contemporary urban interior, no logos, no readable text, no brand labels."
+    },
+    {
+      "id": "pet-wellness-club-2026-05-13_15_晨间消毒与布草整理后的空房间",
+      "batch": "pet-wellness-club-2026-05-13",
+      "category": "pet-wellness-club",
+      "number": "15",
+      "title": "晨间消毒与布草整理后的空房间",
+      "image": "assets/images/pet-wellness-club-2026-05-13/15_晨间消毒与布草整理后的空房间.png",
+      "thumb": "assets/thumbs/pet-wellness-club-2026-05-13/15_晨间消毒与布草整理后的空房间.png",
+      "description": "最后一张不出现主角宠物，而是通过清晨整理完毕的房间强调会所的运营细节：折好的布草、消毒后的地面、安静待用的护理空间，让整个系列落回真实服务业的后台秩序。",
+      "prompt": "Realistic morning documentary space photograph of an empty prepared room in a premium pet wellness club after cleaning and linen organization, fresh folded towels, sanitized floor, soft daylight, understated luxury, operational backstage calm, editorial hospitality-meets-care aesthetic, no logos, no readable text, no brand labels."
     }
   ]
 }
