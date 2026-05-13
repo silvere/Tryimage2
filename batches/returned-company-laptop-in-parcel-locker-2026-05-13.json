@@ -1,0 +1,103 @@
+{
+  "theme": "快递柜里待退回的公司电脑",
+  "batchId": "returned-company-laptop-in-parcel-locker-2026-05-13",
+  "createdAt": "2026-05-13",
+  "items": [
+    {
+      "source": "01_快递柜里那台待退回的公司电脑.png",
+      "category": "returned-company-laptop-in-parcel-locker",
+      "categoryLabel": "快递柜里待退回的公司电脑",
+      "title": "快递柜里那台待退回的公司电脑",
+      "description": "一台合上的银灰色办公电脑躺在快递柜隔间里，旁边只剩缓冲纸和胶带痕迹。离职后的劳动关系被压缩成一个标准尺寸的柜门空间，冷静、规整，也带着现实的挤压感。",
+      "prompt": "Documentary editorial photograph of a closed silver work laptop placed inside an open parcel locker compartment, realistic urban shipping locker environment, neutral fluorescent lighting, muted gray and blue tones, careful top-front composition with strong negative space, packaging paper and tape residue nearby, realistic contemporary China office-exit mood, restrained and unsensational, no people or only partial hands, no logos, no readable text."
+    },
+    {
+      "source": "02_贴好回寄面单的电脑包放在地上.png",
+      "category": "returned-company-laptop-in-parcel-locker",
+      "categoryLabel": "快递柜里待退回的公司电脑",
+      "title": "贴好回寄面单的电脑包放在地上",
+      "description": "拉链半闭的黑色电脑包靠着墙角，表面贴着一张被刻意虚化成不可读的回寄面单。它像一件等待处理的行政物件，不再属于个人，也还没有完全回到公司。",
+      "prompt": "Realistic documentary-style interior photograph of a black laptop bag on the floor against a plain wall, a return shipping label attached but fully unreadable, soft cold daylight, low eye-level angle, subtle scuffs on the bag, quiet apartment hallway or office corridor atmosphere, understated realism, no logos, no readable text, no dramatic staging."
+    },
+    {
+      "source": "03_工牌和门禁卡被放在空桌面角落.png",
+      "category": "returned-company-laptop-in-parcel-locker",
+      "categoryLabel": "快递柜里待退回的公司电脑",
+      "title": "工牌和门禁卡被放在空桌面角落",
+      "description": "工牌、门禁卡和一根卷起的挂绳被整齐放在桌角，旁边桌面已经清空。和电脑一起需要交还的，不只是设备，还有进入某个系统与空间的权限。",
+      "prompt": "Quiet documentary office photograph of an employee badge, access card and lanyard placed neatly on the corner of an otherwise empty desk, cool overhead office light, minimal composition, traces of recently removed personal items, realistic contemporary workplace atmosphere, emotionally restrained, no logos, no readable text."
+    },
+    {
+      "source": "04_被收走显示器后的空工位.png",
+      "category": "returned-company-laptop-in-parcel-locker",
+      "categoryLabel": "快递柜里待退回的公司电脑",
+      "title": "被收走显示器后的空工位",
+      "description": "显示器和笔记本都已经不在，只剩电源线、底座印子和一把推回桌下的办公椅。空工位没有戏剧化的崩塌感，只有流程完成之后留下的安静断裂。",
+      "prompt": "Documentary workspace photography of an empty office desk after equipment handover, monitor removed, faint dust marks and cable outlines visible, office chair tucked in, fluorescent corporate lighting, medium-wide composition, realistic modern resignation and offboarding mood, calm and understated, no logos, no readable text."
+    },
+    {
+      "source": "05_地铁车厢里抱着电脑包去寄回公司的人.png",
+      "category": "returned-company-laptop-in-parcel-locker",
+      "categoryLabel": "快递柜里待退回的公司电脑",
+      "title": "地铁车厢里抱着电脑包去寄回公司的人",
+      "description": "通勤高峰里的一个人把电脑包抱在腿上，包里装着最后要交回的办公设备。它不像普通上班路，更像一次被行政流程定义好的离场通勤。",
+      "prompt": "Realistic documentary photograph inside a subway car, a commuter seated or standing holding a laptop bag close to the body, anonymous framing with face not emphasized, cool transit lighting, urban morning or evening atmosphere, subtle crowd around, emotionally compressed modern labor reality, no logos, no readable text."
+    },
+    {
+      "source": "06_抽屉里只剩回形针和一把钥匙.png",
+      "category": "returned-company-laptop-in-parcel-locker",
+      "categoryLabel": "快递柜里待退回的公司电脑",
+      "title": "抽屉里只剩回形针和一把钥匙",
+      "description": "办公抽屉已经被清空到只剩几枚回形针、一把小钥匙和浅浅灰痕。真正的离开常常不是某个戏剧瞬间，而是把属于公司的东西一点点归位，把自己的痕迹一点点撤走。",
+      "prompt": "Top-down documentary photograph of a mostly emptied office drawer containing only a few paper clips, a small key, dust outlines and minor scratches, soft cool light, restrained composition, realistic end-of-employment atmosphere, tactile detail, no logos, no readable text."
+    },
+    {
+      "source": "07_最后一杯办公室咖啡和待装箱的电脑.png",
+      "category": "returned-company-laptop-in-parcel-locker",
+      "categoryLabel": "快递柜里待退回的公司电脑",
+      "title": "最后一杯办公室咖啡和待装箱的电脑",
+      "description": "纸杯里的咖啡还没喝完，旁边的笔记本电脑已经擦净、合上，准备放进纸箱。日常工作的节奏没有突然中断，只是被悄悄改写成一个收尾动作。",
+      "prompt": "Editorial documentary still life of a half-finished office coffee in a plain paper cup beside a cleaned closed laptop ready for packing, desk surface with packing materials nearby, cool neutral office light, subtle melancholy, realistic corporate offboarding scene, no logos, no readable text."
+    },
+    {
+      "source": "08_出租屋门口的纸箱和防震气泡膜.png",
+      "category": "returned-company-laptop-in-parcel-locker",
+      "categoryLabel": "快递柜里待退回的公司电脑",
+      "title": "出租屋门口的纸箱和防震气泡膜",
+      "description": "狭窄出租屋门口放着已经成型的纸箱、气泡膜和剪刀，像一场私人生活被公司流程短暂侵入。回寄设备这件事，把工作关系带进了本来最个人的空间。",
+      "prompt": "Realistic documentary photograph at the entrance of a small rented apartment, shipping box, bubble wrap and scissors prepared on the floor, modest urban living space, cold daylight from doorway, intimate but unsentimental framing, contemporary work-life overlap, no logos, no readable text."
+    },
+    {
+      "source": "09_快递站台上等待扫描的封箱电脑.png",
+      "category": "returned-company-laptop-in-parcel-locker",
+      "categoryLabel": "快递柜里待退回的公司电脑",
+      "title": "快递站台上等待扫描的封箱电脑",
+      "description": "封好的纸箱和几件普通包裹一起排在快递站台上，没有任何特殊对待。对个人来说很重的一次离场，对物流系统而言只是又一个标准化处理单元。",
+      "prompt": "Documentary editorial logistics photograph of a sealed cardboard box containing a returned work laptop sitting among ordinary parcels on a courier counter or sorting bench, realistic shipping station lighting, practical composition, subtle social realism, no logos, no readable text, no dramatization."
+    },
+    {
+      "source": "10_快递柜外低头核对手机的人.png",
+      "category": "returned-company-laptop-in-parcel-locker",
+      "categoryLabel": "快递柜里待退回的公司电脑",
+      "title": "快递柜外低头核对手机的人",
+      "description": "一个人站在快递柜前低头看手机，脚边是准备投递的电脑包。真正决定离职现场气氛的，往往不是对话，而是确认地址、流程和责任是否都对得上的那几秒钟。",
+      "prompt": "Realistic urban documentary photo of a person standing in front of parcel lockers checking a smartphone while a laptop bag rests by their feet, anonymous framing, evening ambient light, everyday residential or office complex setting, restrained emotional pressure, no logos, no readable text."
+    },
+    {
+      "source": "11_胶带封口后的电脑纸箱放在后备箱里.png",
+      "category": "returned-company-laptop-in-parcel-locker",
+      "categoryLabel": "快递柜里待退回的公司电脑",
+      "title": "胶带封口后的电脑纸箱放在后备箱里",
+      "description": "封好口的纸箱被放进车后备箱，旁边还有通勤杂物和折叠伞。它不是隆重的告别场面，只是某个工作日里顺手完成的一项必要手续，却格外像时代情绪的缩影。",
+      "prompt": "Documentary realism photograph of a taped cardboard box containing a company laptop placed in the trunk of a compact car, umbrella and ordinary commuting items nearby, overcast daylight, candid framing, modern urban offboarding mood, understated and believable, no logos, no readable text."
+    },
+    {
+      "source": "12_关上的快递柜门反出模糊人影.png",
+      "category": "returned-company-laptop-in-parcel-locker",
+      "categoryLabel": "快递柜里待退回的公司电脑",
+      "title": "关上的快递柜门反出模糊人影",
+      "description": "柜门已经关上，金属表面只留下模糊的人影和冷色环境反光。电脑寄回去了，流程似乎完成了，但真正的离场感恰恰出现在这个没有任何台词的收束瞬间。",
+      "prompt": "Minimal documentary editorial photograph of closed metal parcel locker doors with a faint blurred reflection of a person, cool urban lighting, clean geometric composition, quiet contemporary social realism, a sense of completion after returning company equipment, restrained mood, no logos, no readable text."
+    }
+  ]
+}

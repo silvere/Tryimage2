@@ -1,0 +1,103 @@
+{
+  "theme": "那些精美绝伦的水族箱",
+  "batchId": "stunning-aquariums-2026-05-13",
+  "createdAt": "2026-05-13",
+  "items": [
+    {
+      "source": "01_白砂缓坡与三石主景的竞赛级岩组草缸.png",
+      "category": "stunning-aquariums",
+      "categoryLabel": "那些精美绝伦的水族箱",
+      "title": "白砂缓坡与三石主景的竞赛级岩组草缸",
+      "description": "一只标准 90 厘米 iwagumi 草缸以三块主石建立稳定三角构图，前景是修剪密实的矮珍珠草坪，后景仅用少量细叶草弱化器材存在感。白砂溪道保持克制不过宽，既利于日常吸污维护，也让硬景比例更接近优秀玩家的真实比赛缸逻辑。",
+      "prompt": "Ultra realistic aquascape photography of a 90cm iwagumi planted aquarium, three-stone composition with one dominant seiryu stone and two supporting stones, compact green carpet of Hemianthus callitrichoides, narrow white sand path, subtle background stems, visible but clean glass lily pipes, crisp water clarity, soft overhead LED lighting, documentary editorial hobby photography, believable maintenance and algae-free detail, no logos, no readable text."
+    },
+    {
+      "source": "02_沉木树冠下成群红鼻剪刀的自然风草缸.png",
+      "category": "stunning-aquariums",
+      "categoryLabel": "那些精美绝伦的水族箱",
+      "title": "沉木树冠下成群红鼻剪刀的自然风草缸",
+      "description": "这只自然风草缸用分叉沉木搭出树冠感，木下铺垫低矮阴性草与少量石缝莫丝，后景以有层次的茎草形成林缘过渡。红鼻剪刀群游方向统一，说明水流组织和灯光节奏都经过调校，是兼顾观赏性与长期维护可行性的成熟玩家缸。",
+      "prompt": "Highly realistic nature aquarium photograph, large rimless freshwater planted tank with branching driftwood forming a forest canopy, epiphytes and moss on wood, shaded foreground crypts and small ferns, layered stem plants in the background, a healthy school of rummy nose tetras swimming together, natural substrate slope, clear signs of expert trimming and maintenance, documentary aquascaping photography, no logos, no readable text."
+    },
+    {
+      "source": "03_高密度街景式分层修剪的荷兰式草缸.png",
+      "category": "stunning-aquariums",
+      "categoryLabel": "那些精美绝伦的水族箱",
+      "title": "高密度街景式分层修剪的荷兰式草缸",
+      "description": "一只典型荷兰式水草缸把不同叶型、色块和高度处理得极其清楚，红宫廷、绿宫廷、椒草与羽叶类植物形成街道般的纵深。没有过度依赖硬景，而是靠修剪纪律、留白通道和前后景节奏取胜，对资深草友尤其有参考价值。",
+      "prompt": "Realistic high-end Dutch style planted aquarium photography, dense rows of contrasting stem plants arranged in streets, red Rotala, green stems, crypts, fine textured species, immaculate pruning, layered height transitions, strong depth in a glass aquarium, clean equipment management, natural water surface shimmer, serious hobby editorial photo, no logos, no readable text."
+    },
+    {
+      "source": "04_落叶铺底与铅笔鱼同游的黑水生境缸.png",
+      "category": "stunning-aquariums",
+      "categoryLabel": "那些精美绝伦的水族箱",
+      "title": "落叶铺底与铅笔鱼同游的黑水生境缸",
+      "description": "这只南美黑水缸没有追求通透艳丽，而是忠实呈现琥珀色水体、榄仁叶与细枝沉木交错的缓慢氛围。鱼只选择铅笔鱼和小型灯科，植物只保留少量耐弱光附生与漂浮根系，整体更接近真正可落地的生境式审美与养护思路。",
+      "prompt": "Documentary style photograph of a realistic blackwater biotope aquarium, amber tinted water, leaf litter substrate with Indian almond leaves and seed pods, tangled thin driftwood, dim but believable lighting, small pencilfish and understated tetras, very sparse hardy plants and floating roots, authentic South American biotope mood, expert aquarist setup, no logos, no readable text."
+    },
+    {
+      "source": "05_圆卵石浅滩与急流鱼并置的溪流缸.png",
+      "category": "stunning-aquariums",
+      "categoryLabel": "那些精美绝伦的水族箱",
+      "title": "圆卵石浅滩与急流鱼并置的溪流缸",
+      "description": "溪流缸以不同粒径的河卵石、局部裸露基岩和浅色砂砾营造山溪河床，水体通透但不过分发蓝。鱼只采用吸鳅与小型溪流鲤科，石面保留极轻微生物膜感而非完全无菌，呈现出高流量循环、强增氧和真实成熟缸状态的专业感。",
+      "prompt": "Extremely realistic hillstream aquarium photography, long low freshwater stream tank with rounded river stones, gravel shallows, exposed larger rocks, strong directional flow visible in plant sway, minimal hardy stream plants and algae film kept under control, hillstream loaches and small danios, bright oxygen-rich water, believable aquarist equipment logic, documentary hobby photo, no logos, no readable text."
+    },
+    {
+      "source": "06_雾化雨林背景下半水半陆的成熟雨林缸.png",
+      "category": "stunning-aquariums",
+      "categoryLabel": "那些精美绝伦的水族箱",
+      "title": "雾化雨林背景下半水半陆的成熟雨林缸",
+      "description": "这只雨林缸更像资深玩家长期养成的生态角落：下层水域克制而干净，上层有苔藓、榕类与小型蕨类稳稳附着在背景和根系上。玻璃有轻微湿润凝结，喷淋与通风之间取得平衡，没有夸张特效，却非常接近真实优秀 paludarium 的展示状态。",
+      "prompt": "Highly realistic paludarium photograph, mature rainforest tank with a shallow clean water section below and lush terrestrial growth above, mosses, miniature ferns, creeping plants on roots and background, subtle misting humidity, natural wood and rock transitions, believable LED and humidity management, premium hobby documentary photography, no fantasy elements, no logos, no readable text."
+    },
+    {
+      "source": "07_枝状SPS与整洁管线并存的礁岩海缸.png",
+      "category": "stunning-aquariums",
+      "categoryLabel": "那些精美绝伦的水族箱",
+      "title": "枝状SPS与整洁管线并存的礁岩海缸",
+      "description": "一只成熟礁岩海缸展现出玩家最在意的平衡：枝状 SPS 珊瑚有明显生长点与颜色层次，活石结构留出充分穿流空间，鱼只数量克制不过载。整体蓝光不做夸张荧光处理，玻璃洁净、沙面平整，体现出强循环、稳定补水和长期参数控制的真实功底。",
+      "prompt": "Realistic reef aquarium photography, high-end marine tank with branching SPS corals, open aquascape with porous live rock, controlled blue-white reef lighting, a few healthy reef fish, clean glass, modest sand bed, visible believable flow patterns, premium but practical home reef setup, editorial hobby photo, no exaggerated glow, no logos, no readable text."
+    },
+    {
+      "source": "08_桌面立方小缸里精确到厘米的纳米景观.png",
+      "category": "stunning-aquariums",
+      "categoryLabel": "那些精美绝伦的水族箱",
+      "title": "桌面立方小缸里精确到厘米的纳米景观",
+      "description": "30 厘米级 nano 缸用极少材料做出完整景深：主石、微型椒草、布氏水榕和少量迷你莫丝都被控制在合适尺度。它最有启发性的地方不是复杂，而是每一厘米留白都考虑到修剪手路、换水便利和小体积系统的稳定性。",
+      "prompt": "Documentary product-style photograph of a realistic nano cube aquarium on a desk, around 30cm rimless glass, miniature hardscape with one focal rock and tiny driftwood, small Anubias, Bucephalandra, moss, restrained carpeting plants, immaculate maintenance, subtle external filter pipes, true-to-life scale and lighting, no logos, no readable text."
+    },
+    {
+      "source": "09_苔藓产卵簇与隔离细节清楚可见的繁殖缸.png",
+      "category": "stunning-aquariums",
+      "categoryLabel": "那些精美绝伦的水族箱",
+      "title": "苔藓产卵簇与隔离细节清楚可见的繁殖缸",
+      "description": "这不是华丽造景，而是一只被拍得非常漂亮的专业繁殖缸：裸底便于观察与清理，深色背景帮助鱼只稳定发色，产卵莫丝和亚克力隔板位置都符合实际操作。它提醒人们，真正高级的水族摄影也可以来自繁殖效率、观察便利与秩序感。",
+      "prompt": "Ultra realistic aquarium photography of a serious fish breeding tank, bare bottom setup with dark background, spawning mop or Java moss clump, subtle divider box, small healthy breeding pair or group of egg-laying fish, sponge filter and heater placed neatly, crystal clear water, practical aquarist logic, clean documentary hobby image, no logos, no readable text."
+    },
+    {
+      "source": "10_低矮岩洞与贝壳领地明确的坦湖岩栖缸.png",
+      "category": "stunning-aquariums",
+      "categoryLabel": "那些精美绝伦的水族箱",
+      "title": "低矮岩洞与贝壳领地明确的坦湖岩栖缸",
+      "description": "坦噶尼喀湖风格缸以石灰岩堆叠和贝壳区划分出清楚领地，鱼只密度与岩缝尺度都贴近真实饲养经验。没有无谓的草景装饰，而是让洞穴、视线遮挡和沙面活动空间成为主角，对玩慈鲷的老手来说很有共鸣。",
+      "prompt": "Highly realistic Tanganyika cichlid aquarium photograph, limestone rock piles creating caves and territories, shell bed on one side, pale sand substrate, a few shell dwellers and rock-dwelling cichlids behaving naturally, clear alkaline-lake inspired setup, practical filtration and flow implied, authentic aquarist photography, no logos, no readable text."
+    },
+    {
+      "source": "11_红白神仙鱼穿梭高杆草丛的深缸展示缸.png",
+      "category": "stunning-aquariums",
+      "categoryLabel": "那些精美绝伦的水族箱",
+      "title": "红白神仙鱼穿梭高杆草丛的深缸展示缸",
+      "description": "深缸结构让高杆草与神仙鱼体型关系变得非常漂亮，后景大叶与细叶植物交替，中央保留足够游动廊道。鱼只尺寸、种群数量与植物密度都没有走向夸张，像一只真正被长期维护、兼顾展示与饲养舒适度的客厅主缸。",
+      "prompt": "Realistic large planted display aquarium photograph, tall deep tank with elegant angelfish swimming through layered stems and broadleaf plants, open central swimming space, driftwood accents used sparingly, warm neutral freshwater lighting, healthy plant growth with disciplined pruning, premium home aquarium documentary style, no logos, no readable text."
+    },
+    {
+      "source": "12_展会级浅景长缸里的白沙岔流与老木根系.png",
+      "category": "stunning-aquariums",
+      "categoryLabel": "那些精美绝伦的水族箱",
+      "title": "展会级浅景长缸里的白沙岔流与老木根系",
+      "description": "一只浅景长缸把老木根系、细沙岔流和低矮附生植物组织得极有空间感，像河漫滩被截取进玻璃中。它不像传统草坪缸那样靠满植取胜，而是通过枯水季河道逻辑、木石接壤细节和留白管理打动老玩家。",
+      "prompt": "Editorial exhibition-quality aquascape photograph of a shallow long aquarium, weathered driftwood roots spreading across the layout, branching white sand channels, sparse epiphytes and small grasses, natural floodplain composition, immaculate maintenance with believable detritus-free sand edges, realistic freshwater aquascaping, no logos, no readable text."
+    }
+  ]
+}
