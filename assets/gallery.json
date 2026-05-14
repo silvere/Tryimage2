@@ -1,7 +1,7 @@
 {
   "site": {
     "title": "OpenAI image2 视觉实验",
-    "subtitle": "735 张传播向 AI 海报",
+    "subtitle": "745 张传播向 AI 海报",
     "headline": "OpenAI image2 视觉实验",
     "intro": "每一批图片围绕一个临时主题生成，并按当次最合适的 category 归档；可以是反差创意、真实场景、产品概念、人物叙事或任何新的视觉方向。",
     "coverImage": "assets/contact_sheet_image2.jpg",
@@ -258,6 +258,10 @@
     {
       "id": "tattoo-art",
       "label": "纹身艺术"
+    },
+    {
+      "id": "80s-neon-insomnia",
+      "label": "80年代霓虹夜"
     }
   ],
   "batches": [
@@ -590,6 +594,12 @@
       "theme": "让人惊叹的纹身艺术",
       "createdAt": "2026-05-13",
       "count": 15
+    },
+    {
+      "id": "1980s-neon-insomnia-2026-05-14",
+      "theme": "80年代霓虹失眠夜",
+      "createdAt": "2026-05-14",
+      "count": 10
     }
   ],
   "items": [
@@ -8662,6 +8672,116 @@
       "thumb": "assets/thumbs/stunning-tattoo-art-2026-05-13/15_乌鸦哥特花窗整背.png",
       "description": "整背化为一扇破碎的哥特花窗，乌鸦穿过彩色光影与尖拱结构，营造宗教建筑般的庄严与危险。",
       "prompt": "压轴级纹身艺术封面图，展示成年模特完整背部的大型纹身：一只振翅乌鸦穿过破碎的哥特式花窗，花窗由深蓝、暗红、琥珀金等低饱和彩色玻璃质感组成，周围有尖拱、铁饰、裂纹和微尘光束，整体神秘庄严，黑灰主骨架加少量彩色点亮，背部构图完整震撼，摄影质感高级、背景极简深色、无文字无logo，呈现令人惊叹的整背纹身艺术。"
+    },
+    {
+      "id": "1980s-neon-insomnia-2026-05-14_01_雨夜斑马线",
+      "batch": "1980s-neon-insomnia-2026-05-14",
+      "category": "80s-neon-insomnia",
+      "number": "01",
+      "title": "雨夜斑马线",
+      "image": "assets/images/1980s-neon-insomnia-2026-05-14/01_雨夜斑马线.png",
+      "thumb": "assets/thumbs/1980s-neon-insomnia-2026-05-14/01_雨夜斑马线.png",
+      "description": "凌晨街口，一人停在粉蓝霓虹反光里。",
+      "prompt": "1980年代东亚都市雨夜纪实摄影，俯视略低角度拍一条被霓虹浸透的斑马线，潮湿柏油路面映出粉色与电蓝色光斑，一个穿旧风衣的人站在路中央短暂停住，远处出租车虚化掠过，空气里有细雨和薄雾，街边招牌只保留发光色块不可读文字，无品牌无logo，画面像杂志夜生活专题封面，真实胶片颗粒，强对比，高饱和霓虹，孤独失眠感，视觉冲击强。"
+    },
+    {
+      "id": "1980s-neon-insomnia-2026-05-14_02_窗边最后一杯咖啡",
+      "batch": "1980s-neon-insomnia-2026-05-14",
+      "category": "80s-neon-insomnia",
+      "number": "02",
+      "title": "窗边最后一杯咖啡",
+      "image": "assets/images/1980s-neon-insomnia-2026-05-14/02_窗边最后一杯咖啡.png",
+      "thumb": "assets/thumbs/1980s-neon-insomnia-2026-05-14/02_窗边最后一杯咖啡.png",
+      "description": "通宵小店里，独坐的人看着雨水滑下玻璃。",
+      "prompt": "1980年代通宵小餐馆 documentary editorial 风格，从店外透过起雾玻璃拍摄，窗边只有一个失眠年轻人，手边一杯黑咖啡和银色烟灰缸，头顶红橙霓虹把脸照成暖冷交错，玻璃上有雨痕和冷凝水，室内桌椅老旧，背景里服务员模糊走过，所有菜单和招牌都不要可读文字，无logo，真实胶片质感，轻微闪光灯感，深夜孤独又上镜，适合小红书封面。"
+    },
+    {
+      "id": "1980s-neon-insomnia-2026-05-14_03_电视雪花到天亮",
+      "batch": "1980s-neon-insomnia-2026-05-14",
+      "category": "80s-neon-insomnia",
+      "number": "03",
+      "title": "电视雪花到天亮",
+      "image": "assets/images/1980s-neon-insomnia-2026-05-14/03_电视雪花到天亮.png",
+      "thumb": "assets/thumbs/1980s-neon-insomnia-2026-05-14/03_电视雪花到天亮.png",
+      "description": "廉价汽车旅馆里，CRT雪花照亮凌乱床单。",
+      "prompt": "1980年代美国式汽车旅馆房间，纪实编辑摄影，床铺凌乱，床尾一台老式CRT电视发出蓝白雪花光，房间只有台灯和窗外霓虹漏进来的紫红色，床边有半开的行李箱、一次性塑料杯、掉在地上的高跟鞋或皮鞋，人物背影坐在床沿失眠发呆，不出现任何可读文字和品牌logo，构图紧凑，低光高反差，胶片颗粒明显，情绪是疲惫、空洞、无法入睡。"
+    },
+    {
+      "id": "1980s-neon-insomnia-2026-05-14_04_街机厅最后一局",
+      "batch": "1980s-neon-insomnia-2026-05-14",
+      "category": "80s-neon-insomnia",
+      "number": "04",
+      "title": "街机厅最后一局",
+      "image": "assets/images/1980s-neon-insomnia-2026-05-14/04_街机厅最后一局.png",
+      "thumb": "assets/thumbs/1980s-neon-insomnia-2026-05-14/04_街机厅最后一局.png",
+      "description": "空荡街机厅角落，只剩一台机子还在发光。",
+      "prompt": "1980年代街机厅深夜收场后的角落，纪录片式摄影，一排机器大多熄灭，只剩最里面一台街机散发青紫色荧光，一个少年弯腰站着，脸被屏幕照亮，地面有饮料杯和硬币反光，天花板荧光灯忽明忽暗，画面里所有屏幕和面板不要可读文字，不要任何品牌logo，氛围压抑而迷人，镜头略广角，强烈霓虹与黑暗对比，真实旧时代空气感。"
+    },
+    {
+      "id": "1980s-neon-insomnia-2026-05-14_05_滚筒里的凌晨三点",
+      "batch": "1980s-neon-insomnia-2026-05-14",
+      "category": "80s-neon-insomnia",
+      "number": "05",
+      "title": "滚筒里的凌晨三点",
+      "image": "assets/images/1980s-neon-insomnia-2026-05-14/05_滚筒里的凌晨三点.png",
+      "thumb": "assets/thumbs/1980s-neon-insomnia-2026-05-14/05_滚筒里的凌晨三点.png",
+      "description": "洗衣店无人说话，只剩滚筒和霓虹闪烁。",
+      "prompt": "1980年代24小时自助洗衣店，纪实 editorial 摄影，前景是一排正在旋转的滚筒洗衣机，圆形玻璃门反射粉蓝霓虹，后景一个穿宽肩夹克的人坐在塑料椅上发呆，手里捏着零钱，室内冷白灯与窗外霓虹混合，地砖微湿，环境旧但干净，任何机器面板和海报都不要可读文字，无logo，画面安静却有都市失眠节奏，胶片色偏自然。"
+    },
+    {
+      "id": "1980s-neon-insomnia-2026-05-14_06_天台最后一支烟",
+      "batch": "1980s-neon-insomnia-2026-05-14",
+      "category": "80s-neon-insomnia",
+      "number": "06",
+      "title": "天台最后一支烟",
+      "image": "assets/images/1980s-neon-insomnia-2026-05-14/06_天台最后一支烟.png",
+      "thumb": "assets/thumbs/1980s-neon-insomnia-2026-05-14/06_天台最后一支烟.png",
+      "description": "高楼天台边缘，一个人背对城市夜海。",
+      "prompt": "1980年代都市高楼天台夜景，新闻摄影般真实，一个人靠在混凝土女儿墙边抽最后一支烟，身后是被霓虹、车流和薄雾淹没的城市，风吹动衬衫和头发，画面带一点长焦压缩感，远处有模糊霓虹广告色块但绝无可读文字和logo，色调以紫红、电蓝、钠灯橙为主，情绪是清醒过头的孤独，构图有封面张力。"
+    },
+    {
+      "id": "1980s-neon-insomnia-2026-05-14_07_末班车之后",
+      "batch": "1980s-neon-insomnia-2026-05-14",
+      "category": "80s-neon-insomnia",
+      "number": "07",
+      "title": "末班车之后",
+      "image": "assets/images/1980s-neon-insomnia-2026-05-14/07_末班车之后.png",
+      "thumb": "assets/thumbs/1980s-neon-insomnia-2026-05-14/07_末班车之后.png",
+      "description": "起雾的公交站，只剩长椅和湿外套。",
+      "prompt": "1980年代深夜公交站 documentary 风格，透明站台玻璃被雨雾覆盖，一张长椅上坐着穿湿外套的人，手里握着未点燃的烟或车票样纸片但不要可读文字，路边积水反射粉色霓虹和黄色路灯，远处一辆旧巴士灯光模糊驶离，站牌和广告箱都只能是抽象发光图形不可读文字，无品牌无logo，镜头冷静克制，失眠城市感极强。"
+    },
+    {
+      "id": "1980s-neon-insomnia-2026-05-14_08_冷柜灯下的清醒",
+      "batch": "1980s-neon-insomnia-2026-05-14",
+      "category": "80s-neon-insomnia",
+      "number": "08",
+      "title": "冷柜灯下的清醒",
+      "image": "assets/images/1980s-neon-insomnia-2026-05-14/08_冷柜灯下的清醒.png",
+      "thumb": "assets/thumbs/1980s-neon-insomnia-2026-05-14/08_冷柜灯下的清醒.png",
+      "description": "通宵便利店冷柜前，荧光灯把脸照得发白。",
+      "prompt": "1980年代深夜便利店冷柜通道，纪实编辑摄影，狭长构图，一个神情疲惫的人站在玻璃冷柜前发呆，白色冷柜灯把脸照得苍白，店外霓虹从玻璃门透入形成粉蓝边缘光，货架密集但包装全部模糊去品牌化、无可读文字无logo，地面有反光，镜头轻微近距离，氛围是城市失眠、选择困难、清醒到发冷，非常适合作为系列中的高识别画面。"
+    },
+    {
+      "id": "1980s-neon-insomnia-2026-05-14_09_没人接的电话",
+      "batch": "1980s-neon-insomnia-2026-05-14",
+      "category": "80s-neon-insomnia",
+      "number": "09",
+      "title": "没人接的电话",
+      "image": "assets/images/1980s-neon-insomnia-2026-05-14/09_没人接的电话.png",
+      "thumb": "assets/thumbs/1980s-neon-insomnia-2026-05-14/09_没人接的电话.png",
+      "description": "狭窄后巷电话亭里，雨水顺着玻璃往下流。",
+      "prompt": "1980年代雨夜后巷电话亭，电影纪实混合风格，窄巷墙面潮湿发亮，一座透明电话亭被红蓝霓虹包围，里面的人握着听筒沉默站立，玻璃外是细密雨线和水珠，地面有积水倒影，周围店面招牌只保留发光轮廓不要任何可读字，无logo，构图紧张，近景有雨滴虚化，孤独、等待、睡不着的情绪非常明确。"
+    },
+    {
+      "id": "1980s-neon-insomnia-2026-05-14_10_天快亮了还没睡",
+      "batch": "1980s-neon-insomnia-2026-05-14",
+      "category": "80s-neon-insomnia",
+      "number": "10",
+      "title": "天快亮了还没睡",
+      "image": "assets/images/1980s-neon-insomnia-2026-05-14/10_天快亮了还没睡.png",
+      "thumb": "assets/thumbs/1980s-neon-insomnia-2026-05-14/10_天快亮了还没睡.png",
+      "description": "霓虹将灭未灭，停车场里的人终于停下脚步。",
+      "prompt": "1980年代凌晨将亮未亮的停车场，editorial documentary 摄影，天空刚出现冷灰蓝，建筑边缘的霓虹还在闪烁但开始黯淡，一个人站在老车旁边低头整理外套，地上散落几张不可读纸片和水渍，车身反射最后的粉紫霓虹，环境空旷安静，有一夜未眠后的虚脱感，不出现任何品牌logo和可读文字，胶片颗粒、低角度、封面感强，作为系列收尾。"
     }
   ]
 }
