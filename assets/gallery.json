@@ -1,7 +1,7 @@
 {
   "site": {
     "title": "OpenAI image2 视觉实验",
-    "subtitle": "745 张传播向 AI 海报",
+    "subtitle": "755 张传播向 AI 海报",
     "headline": "OpenAI image2 视觉实验",
     "intro": "每一批图片围绕一个临时主题生成，并按当次最合适的 category 归档；可以是反差创意、真实场景、产品概念、人物叙事或任何新的视觉方向。",
     "coverImage": "assets/contact_sheet_image2.jpg",
@@ -262,6 +262,10 @@
     {
       "id": "80s-neon-insomnia",
       "label": "80年代霓虹夜"
+    },
+    {
+      "id": "shandong-1980s-home",
+      "label": "80年代山东老家"
     }
   ],
   "batches": [
@@ -598,6 +602,12 @@
     {
       "id": "1980s-neon-insomnia-2026-05-14",
       "theme": "80年代霓虹失眠夜",
+      "createdAt": "2026-05-14",
+      "count": 10
+    },
+    {
+      "id": "shandong-hometown-tv-memories-2026-05-14",
+      "theme": "80年代的山东老家",
       "createdAt": "2026-05-14",
       "count": 10
     }
@@ -8782,6 +8792,116 @@
       "thumb": "assets/thumbs/1980s-neon-insomnia-2026-05-14/10_天快亮了还没睡.png",
       "description": "霓虹将灭未灭，停车场里的人终于停下脚步。",
       "prompt": "1980年代凌晨将亮未亮的停车场，editorial documentary 摄影，天空刚出现冷灰蓝，建筑边缘的霓虹还在闪烁但开始黯淡，一个人站在老车旁边低头整理外套，地上散落几张不可读纸片和水渍，车身反射最后的粉紫霓虹，环境空旷安静，有一夜未眠后的虚脱感，不出现任何品牌logo和可读文字，胶片颗粒、低角度、封面感强，作为系列收尾。"
+    },
+    {
+      "id": "shandong-hometown-tv-memories-2026-05-14_01_晚饭后的新闻联播",
+      "batch": "shandong-hometown-tv-memories-2026-05-14",
+      "category": "shandong-1980s-home",
+      "number": "01",
+      "title": "晚饭后的新闻联播",
+      "image": "assets/images/shandong-hometown-tv-memories-2026-05-14/01_晚饭后的新闻联播.png",
+      "thumb": "assets/thumbs/shandong-hometown-tv-memories-2026-05-14/01_晚饭后的新闻联播.png",
+      "description": "北方县城老家客厅里，老式电视开着晚间新闻，一屋子是冬夜刚安静下来的温黄光。",
+      "prompt": "1980年代中国山东老家室内纪实摄影，北方普通家庭客厅，老式箱式电视机正在播放新闻联播画面但屏幕上无可读文字，电视上铺白色蕾丝罩，木柜、暖水瓶、搪瓷缸、玻璃糖罐、旧沙发套、墙上老挂历但不可读，头顶一只暖黄色白炽灯泡，冬天傍晚气氛，窗户轻微结霜和水汽，真实生活痕迹，纪录片式编辑摄影，朴素克制，高度写实，无logo，无现代物件，无夸张复古滤镜，强烈中国家庭共同记忆"
+    },
+    {
+      "id": "shandong-hometown-tv-memories-2026-05-14_02_炕上看春晚",
+      "batch": "shandong-hometown-tv-memories-2026-05-14",
+      "category": "shandong-1980s-home",
+      "number": "02",
+      "title": "炕上看春晚",
+      "image": "assets/images/shandong-hometown-tv-memories-2026-05-14/02_炕上看春晚.png",
+      "thumb": "assets/thumbs/shandong-hometown-tv-memories-2026-05-14/02_炕上看春晚.png",
+      "description": "冬天的热炕铺着花被面，一家人围着电视看春晚，屋里暖，窗上全是雾气。",
+      "prompt": "1980年代山东农村老家冬夜室内，北方热炕房，一家人背影或侧影围坐在炕上看老式电视里的春节联欢晚会，电视画面喜庆但无可读文字，炕上花被面、棉袄、红色靠垫、搪瓷缸、瓜子盘、暖水瓶，窗户凝着厚厚白雾和冰花，暖黄色灯泡照明，土墙或白灰墙，木柜和小方桌，纪实摄影，编辑感封面构图，真实不摆拍，无logo无现代家电，充满北方家庭团聚记忆"
+    },
+    {
+      "id": "shandong-hometown-tv-memories-2026-05-14_03_立柜上的暖水瓶",
+      "batch": "shandong-hometown-tv-memories-2026-05-14",
+      "category": "shandong-1980s-home",
+      "number": "03",
+      "title": "立柜上的暖水瓶",
+      "image": "assets/images/shandong-hometown-tv-memories-2026-05-14/03_立柜上的暖水瓶.png",
+      "thumb": "assets/thumbs/shandong-hometown-tv-memories-2026-05-14/03_立柜上的暖水瓶.png",
+      "description": "老立柜角落里，暖水瓶和搪瓷缸挨着摆放，电视声音从旁边传来，像一整个年代的静物。",
+      "prompt": "1980年代中国山东老家室内静物纪实，老式木质立柜一角，红色或银色暖水瓶、白底蓝边搪瓷缸、针线笸箩、玻璃药瓶、折叠毛巾，旁边能看见老电视机边缘和微微闪烁的新闻画面，白色蕾丝电视罩垂落，暖黄灯光，旧墙面和岁月痕迹，北方家庭真实生活场景，摄影棚感不要，纪录片式写实，细节克制，无可读文字无logo"
+    },
+    {
+      "id": "shandong-hometown-tv-memories-2026-05-14_04_结霜窗户里的电视光",
+      "batch": "shandong-hometown-tv-memories-2026-05-14",
+      "category": "shandong-1980s-home",
+      "number": "04",
+      "title": "结霜窗户里的电视光",
+      "image": "assets/images/shandong-hometown-tv-memories-2026-05-14/04_结霜窗户里的电视光.png",
+      "thumb": "assets/thumbs/shandong-hometown-tv-memories-2026-05-14/04_结霜窗户里的电视光.png",
+      "description": "窗玻璃被哈气和冷气糊住，只剩电视蓝白色的闪烁映在屋里，冬天的夜格外近。",
+      "prompt": "1980年代山东北方老家冬季夜晚室内，镜头对着结满水汽和冰花的窗户，玻璃反射出老式电视机正在播放晚间节目，屋内暖黄色白炽灯与电视冷色光交织，窗台有旧布帘、搪瓷盆、干枯植物或毛线团，空间狭小真实，纪录片摄影，带一点编辑封面气质，生活化但极具情绪，不要可读文字，不要logo，不要现代窗框"
+    },
+    {
+      "id": "shandong-hometown-tv-memories-2026-05-14_05_蕾丝罩下的黑白电视",
+      "batch": "shandong-hometown-tv-memories-2026-05-14",
+      "category": "shandong-1980s-home",
+      "number": "05",
+      "title": "蕾丝罩下的黑白电视",
+      "image": "assets/images/shandong-hometown-tv-memories-2026-05-14/05_蕾丝罩下的黑白电视.png",
+      "thumb": "assets/thumbs/shandong-hometown-tv-memories-2026-05-14/05_蕾丝罩下的黑白电视.png",
+      "description": "白色蕾丝电视罩掀起一角，黑白电视里人影晃动，像小时候不许碰却总想凑近看的那台机器。",
+      "prompt": "1980年代山东老家客厅特写，老式黑白电视机近景，屏幕播放新闻联播或文艺晚会的人物画面但无可读文字，电视顶部铺白色钩花蕾丝罩，旁边有天线、木柜边角、旧相框背面、毛线织物，暖黄色室内光线，空气里有轻微灰尘感，真实家庭纪录片风格，细节丰富，怀旧但不做旧过头，无logo无现代感"
+    },
+    {
+      "id": "shandong-hometown-tv-memories-2026-05-14_06_茶几上的搪瓷缸",
+      "batch": "shandong-hometown-tv-memories-2026-05-14",
+      "category": "shandong-1980s-home",
+      "number": "06",
+      "title": "茶几上的搪瓷缸",
+      "image": "assets/images/shandong-hometown-tv-memories-2026-05-14/06_茶几上的搪瓷缸.png",
+      "thumb": "assets/thumbs/shandong-hometown-tv-memories-2026-05-14/06_茶几上的搪瓷缸.png",
+      "description": "电视正响着，茶几上两个掉了瓷的搪瓷缸冒着热气，简单得让人一下回到老家。",
+      "prompt": "1980年代山东北方家庭客厅生活静物，低矮茶几上两个有磕碰痕迹的搪瓷缸冒着热气，旁边瓜子皮、橘子、老花镜、针线、毛衣半成品，背景虚化中是正在播放新闻节目的老式电视和木柜，暖黄色灯泡照明，冬夜室内，纪实编辑摄影，真实中国家庭记忆，无可读文字无logo"
+    },
+    {
+      "id": "shandong-hometown-tv-memories-2026-05-14_07_挂历与立柜",
+      "batch": "shandong-hometown-tv-memories-2026-05-14",
+      "category": "shandong-1980s-home",
+      "number": "07",
+      "title": "挂历与立柜",
+      "image": "assets/images/shandong-hometown-tv-memories-2026-05-14/07_挂历与立柜.png",
+      "thumb": "assets/thumbs/shandong-hometown-tv-memories-2026-05-14/07_挂历与立柜.png",
+      "description": "墙上的旧挂历、柜门上的玻璃、旁边的收音机和电视，拼出北方老家最熟悉的一面墙。",
+      "prompt": "1980年代山东老家室内墙面构图，白灰墙上挂着旧挂历但文字不可辨认，下面是带玻璃门的木质立柜，柜里有茶具和搪瓷碗，旁边小收音机、暖水瓶、老式电视机一角，暖黄灯泡，冬季家庭空间，朴素真实，纪实摄影和杂志封面混合气质，构图稳定，不要任何可读文字，不要品牌logo，不要现代装修"
+    },
+    {
+      "id": "shandong-hometown-tv-memories-2026-05-14_08_半夜重播还亮着",
+      "batch": "shandong-hometown-tv-memories-2026-05-14",
+      "category": "shandong-1980s-home",
+      "number": "08",
+      "title": "半夜重播还亮着",
+      "image": "assets/images/shandong-hometown-tv-memories-2026-05-14/08_半夜重播还亮着.png",
+      "thumb": "assets/thumbs/shandong-hometown-tv-memories-2026-05-14/08_半夜重播还亮着.png",
+      "description": "人都快睡了，炕沿边的电视还在亮，花被和棉裤堆在一旁，像小孩假装睡着时偷看的那种夜。",
+      "prompt": "1980年代山东农村老家深夜室内，热炕边缘视角，花被、棉裤、棉袜、旧枕头凌乱放着，远处老式电视仍在播放重播节目，屏幕有人像但无可读文字，整个屋子被一只暖黄灯泡和电视微光照亮，窗外寒冷，窗上有凝霜，安静、真实、带一点儿童记忆视角，纪录片式摄影，无logo无现代元素"
+    },
+    {
+      "id": "shandong-hometown-tv-memories-2026-05-14_09_剥蒜时听着电视",
+      "batch": "shandong-hometown-tv-memories-2026-05-14",
+      "category": "shandong-1980s-home",
+      "number": "09",
+      "title": "剥蒜时听着电视",
+      "image": "assets/images/shandong-hometown-tv-memories-2026-05-14/09_剥蒜时听着电视.png",
+      "thumb": "assets/thumbs/shandong-hometown-tv-memories-2026-05-14/09_剥蒜时听着电视.png",
+      "description": "家里人不一定一直盯着屏幕，更多时候是边剥蒜边听电视，日子就在这种背景声里过去。",
+      "prompt": "1980年代山东老家厨房连着客厅的生活场景，一位中年母亲坐在小凳上剥蒜或择菜，远处老式电视机播放新闻联播，电视内容无可读文字，室内有搪瓷盆、旧围裙、木柜、暖水瓶、煤炉或简朴灶台痕迹，暖黄色灯泡，冬天傍晚，北方家庭真实纪实摄影，编辑感但不摆拍，无logo无现代厨电，浓厚中国共同记忆"
+    },
+    {
+      "id": "shandong-hometown-tv-memories-2026-05-14_10_春晚散场后的空屋",
+      "batch": "shandong-hometown-tv-memories-2026-05-14",
+      "category": "shandong-1980s-home",
+      "number": "10",
+      "title": "春晚散场后的空屋",
+      "image": "assets/images/shandong-hometown-tv-memories-2026-05-14/10_春晚散场后的空屋.png",
+      "thumb": "assets/thumbs/shandong-hometown-tv-memories-2026-05-14/10_春晚散场后的空屋.png",
+      "description": "人都去睡了，瓜子壳还在，电视只剩余光，屋子忽然很安静，像每个年夜最后那一刻。",
+      "prompt": "1980年代山东老家年夜饭后室内空镜，北方家庭客厅没有人，老式电视机还开着春晚尾声画面但无可读文字，茶几上剩下瓜子壳、糖纸、半杯热水，木柜、蕾丝电视罩、暖水瓶、旧沙发、花布椅垫都在，暖黄色灯泡照亮略显凌乱却温暖的房间，窗户有水汽，纪录片式现实主义，封面级构图，安静有余韵，无logo无现代物件"
     }
   ]
 }
