@@ -1,7 +1,7 @@
 {
   "site": {
     "title": "OpenAI image2 视觉实验",
-    "subtitle": "755 张传播向 AI 海报",
+    "subtitle": "765 张传播向 AI 海报",
     "headline": "OpenAI image2 视觉实验",
     "intro": "每一批图片围绕一个临时主题生成，并按当次最合适的 category 归档；可以是反差创意、真实场景、产品概念、人物叙事或任何新的视觉方向。",
     "coverImage": "assets/contact_sheet_image2.jpg",
@@ -266,6 +266,10 @@
     {
       "id": "shandong-1980s-home",
       "label": "80年代山东老家"
+    },
+    {
+      "id": "three-kingdoms-dark-epic",
+      "label": "权游风三国"
     }
   ],
   "batches": [
@@ -609,6 +613,12 @@
       "id": "shandong-hometown-tv-memories-2026-05-14",
       "theme": "80年代的山东老家",
       "createdAt": "2026-05-14",
+      "count": 10
+    },
+    {
+      "id": "game-of-thrones-three-kingdoms-epic-scenes-2026-05-15",
+      "theme": "如果《权力的游戏》重拍《三国演义》",
+      "createdAt": "2026-05-15",
       "count": 10
     }
   ],
@@ -8902,6 +8912,116 @@
       "thumb": "assets/thumbs/shandong-hometown-tv-memories-2026-05-14/10_春晚散场后的空屋.png",
       "description": "人都去睡了，瓜子壳还在，电视只剩余光，屋子忽然很安静，像每个年夜最后那一刻。",
       "prompt": "1980年代山东老家年夜饭后室内空镜，北方家庭客厅没有人，老式电视机还开着春晚尾声画面但无可读文字，茶几上剩下瓜子壳、糖纸、半杯热水，木柜、蕾丝电视罩、暖水瓶、旧沙发、花布椅垫都在，暖黄色灯泡照亮略显凌乱却温暖的房间，窗户有水汽，纪录片式现实主义，封面级构图，安静有余韵，无logo无现代物件"
+    },
+    {
+      "id": "game-of-thrones-three-kingdoms-epic-scenes-2026-05-15_01_桃园三结义",
+      "batch": "game-of-thrones-three-kingdoms-epic-scenes-2026-05-15",
+      "category": "three-kingdoms-dark-epic",
+      "number": "01",
+      "title": "桃园三结义",
+      "image": "assets/images/game-of-thrones-three-kingdoms-epic-scenes-2026-05-15/01_桃园三结义.png",
+      "thumb": "assets/thumbs/game-of-thrones-three-kingdoms-epic-scenes-2026-05-15/01_桃园三结义.png",
+      "description": "残阳与寒风中的桃园里，刘备、关羽、张飞以北境般肃冷的仪式结盟，像乱世的第一场誓言。",
+      "prompt": "《权力的游戏》式暗黑史诗真人电影画面，重绘《三国演义》桃园三结义，荒败庭院中的古老桃树，残阳如血，冷风卷起桃花与尘土，刘备关羽张飞单膝跪地歃血为盟，穿厚重中世纪皮甲与旧战袍，神情庄严而克制，远处荒村与战火若隐若现，北境般压低的乌云天空，冷灰蓝与暗红火光对比，电影级构图，超高细节，真实人脸，写实布料与盔甲纹理，无可读文字，无logo，无卡通感"
+    },
+    {
+      "id": "game-of-thrones-three-kingdoms-epic-scenes-2026-05-15_02_虎牢关前三英战吕布",
+      "batch": "game-of-thrones-three-kingdoms-epic-scenes-2026-05-15",
+      "category": "three-kingdoms-dark-epic",
+      "number": "02",
+      "title": "虎牢关前三英战吕布",
+      "image": "assets/images/game-of-thrones-three-kingdoms-epic-scenes-2026-05-15/02_虎牢关前三英战吕布.png",
+      "thumb": "assets/thumbs/game-of-thrones-three-kingdoms-epic-scenes-2026-05-15/02_虎牢关前三英战吕布.png",
+      "description": "尸骸与断旗之间，吕布如战神压场，刘关张三骑从风暴般的战线中围杀而来。",
+      "prompt": "《权力的游戏》式暗黑史诗战争场面，重绘虎牢关前三英战吕布，吕布骑赤兔马立于泥泞与尸骸之间，像维斯特洛末日战神，刘备关羽张飞三骑从三个方向围攻，长兵器碰撞出冰冷火花，旌旗破碎，攻城器械燃烧，黄沙混着黑烟，天空黑云翻卷，战场压迫感极强，超大场景，电影级动作瞬间，写实人物与战马，厚重铠甲，细节丰富，无现代元素，无可读文字，无logo"
+    },
+    {
+      "id": "game-of-thrones-three-kingdoms-epic-scenes-2026-05-15_03_煮酒论英雄",
+      "batch": "game-of-thrones-three-kingdoms-epic-scenes-2026-05-15",
+      "category": "three-kingdoms-dark-epic",
+      "number": "03",
+      "title": "煮酒论英雄",
+      "image": "assets/images/game-of-thrones-three-kingdoms-epic-scenes-2026-05-15/03_煮酒论英雄.png",
+      "thumb": "assets/thumbs/game-of-thrones-three-kingdoms-epic-scenes-2026-05-15/03_煮酒论英雄.png",
+      "description": "暴风雨将临的高台上，曹操与刘备对坐饮酒，谈笑之间全是试探与杀机。",
+      "prompt": "《权力的游戏》式王座厅权谋对话场景，重绘煮酒论英雄，曹操与刘备在石质高台室内对坐，青铜酒器冒着热气，烛火摇曳，二人表面平静却眼神互相试探，窗外雷电劈开乌云，侍卫与披甲武士隐在阴影中，气氛像铁王座前夜的密谈，冷峻压抑，强烈明暗对比，真实面部表情，古典中式器物与暗黑中世纪空间融合，超高细节，无可读文字，无logo"
+    },
+    {
+      "id": "game-of-thrones-three-kingdoms-epic-scenes-2026-05-15_04_关羽温酒斩华雄",
+      "batch": "game-of-thrones-three-kingdoms-epic-scenes-2026-05-15",
+      "category": "three-kingdoms-dark-epic",
+      "number": "04",
+      "title": "关羽温酒斩华雄",
+      "image": "assets/images/game-of-thrones-three-kingdoms-epic-scenes-2026-05-15/04_关羽温酒斩华雄.png",
+      "thumb": "assets/thumbs/game-of-thrones-three-kingdoms-epic-scenes-2026-05-15/04_关羽温酒斩华雄.png",
+      "description": "温酒未凉，关羽已在风雪与血雾中取回首级，像北境传说中最冷的一刀。",
+      "prompt": "《权力的游戏》式北境英雄传奇，重绘关羽温酒斩华雄，寒风刺骨的诸侯军营前，帐中温酒冒热气，关羽提青龙偃月刀翻身上马，下一刻从风雪与血雾中归来，手提华雄首级，披风与长发被风吹起，群雄震惊，火盆微光照亮冷灰蓝世界，英雄孤勇，写实铠甲和刀刃细节，电影级叙事感，无可读文字，无logo，无现代元素"
+    },
+    {
+      "id": "game-of-thrones-three-kingdoms-epic-scenes-2026-05-15_05_赵云长坂坡救阿斗",
+      "batch": "game-of-thrones-three-kingdoms-epic-scenes-2026-05-15",
+      "category": "three-kingdoms-dark-epic",
+      "number": "05",
+      "title": "赵云长坂坡救阿斗",
+      "image": "assets/images/game-of-thrones-three-kingdoms-epic-scenes-2026-05-15/05_赵云长坂坡救阿斗.png",
+      "thumb": "assets/thumbs/game-of-thrones-three-kingdoms-epic-scenes-2026-05-15/05_赵云长坂坡救阿斗.png",
+      "description": "暴风天幕下的黑色军潮里，赵云白马银枪抱着幼主冲破包围，像雪夜里唯一的亮光。",
+      "prompt": "《权力的游戏》式暗黑史诗战场，重绘赵云长坂坡救阿斗，赵云身骑白马，银甲染血，怀中紧抱幼主阿斗，在万军之中冲杀，四周曹军如黑潮般压来，枪林箭雨划破阴暗天空，泥泞地面被战马踏碎，风暴将至，人物像冰雪中孤骑，极强运动感与悲壮感，写实战马和盔甲，超高细节，电影级光影，无可读文字，无logo"
+    },
+    {
+      "id": "game-of-thrones-three-kingdoms-epic-scenes-2026-05-15_06_张飞喝断当阳桥",
+      "batch": "game-of-thrones-three-kingdoms-epic-scenes-2026-05-15",
+      "category": "three-kingdoms-dark-epic",
+      "number": "06",
+      "title": "张飞喝断当阳桥",
+      "image": "assets/images/game-of-thrones-three-kingdoms-epic-scenes-2026-05-15/06_张飞喝断当阳桥.png",
+      "thumb": "assets/thumbs/game-of-thrones-three-kingdoms-epic-scenes-2026-05-15/06_张飞喝断当阳桥.png",
+      "description": "一座破桥、一条怒河、一个黑甲怒将，张飞在桥头把整支大军吓停。",
+      "prompt": "《权力的游戏》式末日桥头对峙，重绘张飞喝断当阳桥，破败木桥横跨湍急河流，张飞黑甲染血独立桥头，怒目圆睁，长矛直指前方，像一人挡住整个黑暗大军，对岸是密密麻麻的骑兵与旌旗，寒雾弥漫，天空低沉压城，风声如狼嚎，史诗级孤胆英雄构图，写实人物，强压迫感，超高细节，无可读文字，无logo，无现代感"
+    },
+    {
+      "id": "game-of-thrones-three-kingdoms-epic-scenes-2026-05-15_07_草船借箭",
+      "batch": "game-of-thrones-three-kingdoms-epic-scenes-2026-05-15",
+      "category": "three-kingdoms-dark-epic",
+      "number": "07",
+      "title": "草船借箭",
+      "image": "assets/images/game-of-thrones-three-kingdoms-epic-scenes-2026-05-15/07_草船借箭.png",
+      "thumb": "assets/thumbs/game-of-thrones-three-kingdoms-epic-scenes-2026-05-15/07_草船借箭.png",
+      "description": "浓雾江面像鬼魂之海，诸葛亮立在船头，任由万箭穿雾而来。",
+      "prompt": "《权力的游戏》式夜海奇谋画面，重绘草船借箭，浓雾笼罩的深夜江面上，数艘覆满草束的战船像幽灵般漂浮，诸葛亮身披深色鹤氅立于船头，神色从容，远处曹军火把如群星，箭雨穿透迷雾射来，密密插满船身，江水泛着冰冷金属光，神秘冷冽，充满智谋与算计，电影级雾气和层次，写实人物与船体细节，无可读文字，无logo"
+    },
+    {
+      "id": "game-of-thrones-three-kingdoms-epic-scenes-2026-05-15_08_赤壁火攻",
+      "batch": "game-of-thrones-three-kingdoms-epic-scenes-2026-05-15",
+      "category": "three-kingdoms-dark-epic",
+      "number": "08",
+      "title": "赤壁火攻",
+      "image": "assets/images/game-of-thrones-three-kingdoms-epic-scenes-2026-05-15/08_赤壁火攻.png",
+      "thumb": "assets/thumbs/game-of-thrones-three-kingdoms-epic-scenes-2026-05-15/08_赤壁火攻.png",
+      "description": "长江在黑夜里燃成火海，连环战船像王朝一起崩裂，周瑜站在高处看着天色被烧红。",
+      "prompt": "《权力的游戏》式毁灭性大战，重绘赤壁火攻，长江夜色化作末日火海，连环战船在烈焰和浓烟中崩裂倾覆，火光映红整片天幕，周瑜立于高处披风飞扬，远望敌舰在狂风中燃烧，士兵奔逃，箭矢横飞，巨浪翻涌，像黑水河大战与龙焰降临结合的宏大战争场景，真实人物与船舰结构，超大规模构图，电影级火光烟雾，无可读文字，无logo"
+    },
+    {
+      "id": "game-of-thrones-three-kingdoms-epic-scenes-2026-05-15_09_空城计",
+      "batch": "game-of-thrones-three-kingdoms-epic-scenes-2026-05-15",
+      "category": "three-kingdoms-dark-epic",
+      "number": "09",
+      "title": "空城计",
+      "image": "assets/images/game-of-thrones-three-kingdoms-epic-scenes-2026-05-15/09_空城计.png",
+      "thumb": "assets/thumbs/game-of-thrones-three-kingdoms-epic-scenes-2026-05-15/09_空城计.png",
+      "description": "最安静的城门，最危险的心理战，诸葛亮在晨雾城楼上抚琴，逼停整支大军。",
+      "prompt": "《权力的游戏》式极度克制的心理博弈场景，重绘空城计，清冷黎明前的古城城楼上，诸葛亮独坐抚琴，衣袍在寒风中轻摆，城门洞开，街道空无一人，远方司马懿大军如黑色潮水停驻在晨雾与阴云之下，旌旗寂静，冷色调，沉默而充满压迫感，悬疑气氛强，电影级远近景对比，真实人物，无可读文字，无logo"
+    },
+    {
+      "id": "game-of-thrones-three-kingdoms-epic-scenes-2026-05-15_10_五丈原星落",
+      "batch": "game-of-thrones-three-kingdoms-epic-scenes-2026-05-15",
+      "category": "three-kingdoms-dark-epic",
+      "number": "10",
+      "title": "五丈原星落",
+      "image": "assets/images/game-of-thrones-three-kingdoms-epic-scenes-2026-05-15/10_五丈原星落.png",
+      "thumb": "assets/thumbs/game-of-thrones-three-kingdoms-epic-scenes-2026-05-15/10_五丈原星落.png",
+      "description": "病榻、孤灯、秋风与将坠的星，诸葛亮像一整个时代的火光正在熄灭。",
+      "prompt": "《权力的游戏》式传奇智者落幕场景，重绘五丈原星落，深秋夜幕下的军帐中烛火微弱，诸葛亮病卧榻上，面容清瘦却目光平静，帐外旌旗在寒风中飘动，营火零落，远处山野寂静，厚重乌云裂开一道微光，一颗星辰仿佛正在坠落，画面充满宿命、悲剧与王朝余晖，冷灰蓝与微弱金光对比，超高细节，电影级布光，真实人物，无可读文字，无logo"
     }
   ]
 }
