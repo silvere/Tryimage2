@@ -1,7 +1,7 @@
 {
   "site": {
     "title": "OpenAI image2 视觉实验",
-    "subtitle": "785 张传播向 AI 海报",
+    "subtitle": "800 张传播向 AI 海报",
     "headline": "OpenAI image2 视觉实验",
     "intro": "每一批图片围绕一个临时主题生成，并按当次最合适的 category 归档；可以是反差创意、真实场景、产品概念、人物叙事或任何新的视觉方向。",
     "coverImage": "assets/contact_sheet_image2.jpg",
@@ -278,6 +278,10 @@
     {
       "id": "seal-archive",
       "label": "印章秘藏"
+    },
+    {
+      "id": "su-shi-poetry-posters",
+      "label": "苏轼诗词海报"
     }
   ],
   "batches": [
@@ -640,6 +644,12 @@
       "theme": "那些绝美精妙的印章",
       "createdAt": "2026-05-16",
       "count": 10
+    },
+    {
+      "id": "su-shi-famous-poems-fulltext-posters-2026-05-16",
+      "theme": "苏轼十五首名篇全文艺术海报",
+      "createdAt": "2026-05-16",
+      "count": 15
     }
   ],
   "items": [
@@ -9262,6 +9272,171 @@
       "thumb": "assets/thumbs/exquisite-seals-2026-05-16/10_袖中将出的私印.png",
       "description": "半遮半露的印章藏在衣袖与案角之间，以人物缺席的方式制造悬念，收束整组的秘密感。",
       "prompt": "纪实叙事风近景，一枚小型私印半藏在深色丝绸衣袖与木案边缘之间，只露出印纽和部分石身，旁边有一点蹭开的朱砂痕，背景虚化为室内暗影，光线集中在印章与丝绸褶皱上，营造将要被取出或偷偷收起的瞬间，神秘克制，无可读文字，无标志"
+    },
+    {
+      "id": "su-shi-famous-poems-fulltext-posters-2026-05-16_01_水调歌头-明月几时有",
+      "batch": "su-shi-famous-poems-fulltext-posters-2026-05-16",
+      "category": "su-shi-poetry-posters",
+      "number": "01",
+      "title": "水调歌头·明月几时有",
+      "image": "assets/images/su-shi-famous-poems-fulltext-posters-2026-05-16/01_水调歌头-明月几时有.png",
+      "thumb": "assets/thumbs/su-shi-famous-poems-fulltext-posters-2026-05-16/01_水调歌头-明月几时有.png",
+      "description": "明月、江楼与举杯望月的文人夜景，突出中秋清辉与怀人之意。",
+      "prompt": "竖版中国艺术海报背景，深蓝夜空下的中秋明月高悬，月光洒在微波荡漾的江面与远处楼阁屋脊，一位宋代文人独坐临水高台举杯望月，画面上半部以浩瀚月夜为主，下方保留低对比度建筑与水面细节；右侧或左侧预留一整块干净、柔和的留白云气区域，便于后期叠加整首长篇中文诗词；整体气质清冷、旷达、思亲而不哀，工笔与电影感光影结合，收藏级文人海报质感，宋代审美，细腻笔触，层次丰富；不要任何可读文字，不要题字，不要印章，不要logo，不要水印。"
+    },
+    {
+      "id": "su-shi-famous-poems-fulltext-posters-2026-05-16_02_念奴娇-赤壁怀古",
+      "batch": "su-shi-famous-poems-fulltext-posters-2026-05-16",
+      "category": "su-shi-poetry-posters",
+      "number": "02",
+      "title": "念奴娇·赤壁怀古",
+      "image": "assets/images/su-shi-famous-poems-fulltext-posters-2026-05-16/02_念奴娇-赤壁怀古.png",
+      "thumb": "assets/thumbs/su-shi-famous-poems-fulltext-posters-2026-05-16/02_念奴娇-赤壁怀古.png",
+      "description": "赤壁江涛与断崖对峙，借历史战场气势映照豪放怀古。",
+      "prompt": "竖版高冲击力艺术海报背景，长江赤壁断崖在暮色与月色交界中巍然耸立，江涛翻涌拍岸，浪花如雪，远处隐约有古战船残影与烟云回旋，近景一叶小舟斜入画面，一位文士立于船头遥望峭壁；构图采用大面积悬崖压顶与下方奔流江水形成张力，顶部天空或一侧烟云中预留干净负空间，便于后期叠加整首诗词；整体雄浑苍茫、历史感强、不是普通插画，而是精致电影海报级山水场景，宋韵色调，厚重岩壁纹理；不要任何可读文字，不要旗帜文字，不要印章，不要logo，不要水印。"
+    },
+    {
+      "id": "su-shi-famous-poems-fulltext-posters-2026-05-16_03_江城子-乙卯正月二十日夜记梦",
+      "batch": "su-shi-famous-poems-fulltext-posters-2026-05-16",
+      "category": "su-shi-poetry-posters",
+      "number": "03",
+      "title": "江城子·乙卯正月二十日夜记梦",
+      "image": "assets/images/su-shi-famous-poems-fulltext-posters-2026-05-16/03_江城子-乙卯正月二十日夜记梦.png",
+      "thumb": "assets/thumbs/su-shi-famous-poems-fulltext-posters-2026-05-16/03_江城子-乙卯正月二十日夜记梦.png",
+      "description": "梦回故人与月夜庭院相叠，营造幽微凄清的追忆感。",
+      "prompt": "竖版抒情艺术海报背景，清冷月夜中的庭院与旧屋半掩，白梅或枯枝映窗，室内一盏微弱孤灯，窗外薄雾弥漫，仿佛梦境与现实交叠；可以有一位女子的朦胧背影在月下松林或庭前若隐若现，但不可清晰直面镜头，强调相见如梦、哀婉克制；画面下部以石阶、庭树、窗影组织叙事，上部留出安静夜空与雾气留白，供后期叠加长篇诗词；整体精雅、克制、哀而不伤，细腻东方电影感，宋代文人审美；不要任何可读文字，不要墓碑文字，不要印章，不要logo，不要水印。"
+    },
+    {
+      "id": "su-shi-famous-poems-fulltext-posters-2026-05-16_04_江城子-密州出猎",
+      "batch": "su-shi-famous-poems-fulltext-posters-2026-05-16",
+      "category": "su-shi-poetry-posters",
+      "number": "04",
+      "title": "江城子·密州出猎",
+      "image": "assets/images/su-shi-famous-poems-fulltext-posters-2026-05-16/04_江城子-密州出猎.png",
+      "thumb": "assets/thumbs/su-shi-famous-poems-fulltext-posters-2026-05-16/04_江城子-密州出猎.png",
+      "description": "秋猎纵马、挽弓豪发，表现词中雄心与壮怀。",
+      "prompt": "竖版动态中国风海报背景，秋日苍原与疏林之间，旌风猎猎但不出现文字旗号，一支宋代出猎队伍纵马疾驰，猎犬奔突，主角挽弓在前，气势昂扬；采用低机位仰视构图，让骑者与天际形成英雄感，地面卷起尘土与枯草，远山苍黄；天空或远处山间保留一块干净开阔的负空间，便于后期叠加整首诗词；整体强调豪情、速度、边地秋色与收藏级海报质感，非卡通、非普通插画，电影海报感、笔墨化尘烟；不要任何可读文字，不要logo，不要水印，不要印章。"
+    },
+    {
+      "id": "su-shi-famous-poems-fulltext-posters-2026-05-16_05_定风波-莫听穿林打叶声",
+      "batch": "su-shi-famous-poems-fulltext-posters-2026-05-16",
+      "category": "su-shi-poetry-posters",
+      "number": "05",
+      "title": "定风波·莫听穿林打叶声",
+      "image": "assets/images/su-shi-famous-poems-fulltext-posters-2026-05-16/05_定风波-莫听穿林打叶声.png",
+      "thumb": "assets/thumbs/su-shi-famous-poems-fulltext-posters-2026-05-16/05_定风波-莫听穿林打叶声.png",
+      "description": "风雨竹径中从容徐行，以景写达观胸襟。",
+      "prompt": "竖版文人艺术海报背景，山路竹林中骤雨倾落，雨点击打竹叶与芭蕉，泥径蜿蜒，一位披蓑戴笠的文士拄杖徐行，神态从容，风雨与人物形成鲜明对照；画面可采用近景大面积雨幕与中景行路人，远山被雾气吞没；在上方雾空或道路一侧预留整洁、安静的负空间，以便后期叠加长篇中文诗词；整体气质旷达通透、雨声可感、海报级审美，宋人山水意境与现代电影镜头融合；不要任何可读文字，不要路牌文字，不要logo，不要印章，不要水印。"
+    },
+    {
+      "id": "su-shi-famous-poems-fulltext-posters-2026-05-16_06_蝶恋花-春景",
+      "batch": "su-shi-famous-poems-fulltext-posters-2026-05-16",
+      "category": "su-shi-poetry-posters",
+      "number": "06",
+      "title": "蝶恋花·春景",
+      "image": "assets/images/su-shi-famous-poems-fulltext-posters-2026-05-16/06_蝶恋花-春景.png",
+      "thumb": "assets/thumbs/su-shi-famous-poems-fulltext-posters-2026-05-16/06_蝶恋花-春景.png",
+      "description": "春院、柳丝与秋千，传达春愁与深院情思。",
+      "prompt": "竖版精致春日艺术海报背景，春晨庭院深深，花墙、柳丝、燕子、轻暖日光与微风中的秋千架共同构成婉约而明丽的场景，花瓣轻落，小径通向幽深院落；人物可以极小比例出现在回廊尽头或倚栏处，不喧宾夺主；构图避免拥挤，在天空、粉墙或庭院光影处预留大片干净留白，方便后期覆盖整首诗词；整体要像高级收藏海报，清丽而不甜俗，宋韵建筑与花木细节精雅，非通用插画；不要任何可读文字，不要匾额文字，不要logo，不要印章，不要水印。"
+    },
+    {
+      "id": "su-shi-famous-poems-fulltext-posters-2026-05-16_07_卜算子-黄州定慧院寓居作",
+      "batch": "su-shi-famous-poems-fulltext-posters-2026-05-16",
+      "category": "su-shi-poetry-posters",
+      "number": "07",
+      "title": "卜算子·黄州定慧院寓居作",
+      "image": "assets/images/su-shi-famous-poems-fulltext-posters-2026-05-16/07_卜算子-黄州定慧院寓居作.png",
+      "thumb": "assets/thumbs/su-shi-famous-poems-fulltext-posters-2026-05-16/07_卜算子-黄州定慧院寓居作.png",
+      "description": "月夜疏桐与孤鸿相映，表现幽居中的孤高与自守。",
+      "prompt": "竖版孤清意境海报背景，夜色沉静的黄州寺院庭中，疏桐高耸，月色如洗，空庭寂无人声，一只孤鸿掠过天际或停在枯枝上，地面铺有淡淡树影；画面采用极简构图，寺墙、石阶、古井或廊檐只作少量点缀，让孤鸿与月夜成为视觉核心；上方夜空或一侧白墙预留大面积纯净负空间，便于后期叠加整首诗词；整体气质冷逸、孤高、含蓄，艺术海报品质，宋代禅院审美，微妙灰蓝色层次；不要任何可读文字，不要寺匾文字，不要logo，不要印章，不要水印。"
+    },
+    {
+      "id": "su-shi-famous-poems-fulltext-posters-2026-05-16_08_浣溪沙-游蕲水清泉寺",
+      "batch": "su-shi-famous-poems-fulltext-posters-2026-05-16",
+      "category": "su-shi-poetry-posters",
+      "number": "08",
+      "title": "浣溪沙·游蕲水清泉寺",
+      "image": "assets/images/su-shi-famous-poems-fulltext-posters-2026-05-16/08_浣溪沙-游蕲水清泉寺.png",
+      "thumb": "assets/thumbs/su-shi-famous-poems-fulltext-posters-2026-05-16/08_浣溪沙-游蕲水清泉寺.png",
+      "description": "清溪、松路与山寺春景，呈现轻快而自信的生命感。",
+      "prompt": "竖版清润山寺艺术海报背景，春日山间清泉寺外，兰芽短浸溪水，松间沙路净无泥，细雨初歇，潺潺溪流绕过石桥与寺旁古树，远处偶有布谷鸟隐于雾林；构图以近景溪石与浅水反光引导视线进入山寺，整体清新空灵；在天空薄雾、溪流转折处或寺墙留出整洁负空间，以便后期叠加长篇诗词；追求文人旅行海报般的高级感，色调明净含蓄，宋韵自然，不要做成旅游宣传图；不要任何可读文字，不要寺匾文字，不要logo，不要印章，不要水印。"
+    },
+    {
+      "id": "su-shi-famous-poems-fulltext-posters-2026-05-16_09_题西林壁",
+      "batch": "su-shi-famous-poems-fulltext-posters-2026-05-16",
+      "category": "su-shi-poetry-posters",
+      "number": "09",
+      "title": "题西林壁",
+      "image": "assets/images/su-shi-famous-poems-fulltext-posters-2026-05-16/09_题西林壁.png",
+      "thumb": "assets/thumbs/su-shi-famous-poems-fulltext-posters-2026-05-16/09_题西林壁.png",
+      "description": "云山变幻、远近高低不同，突出“身在此山中”的观照主题。",
+      "prompt": "竖版哲思型艺术海报背景，庐山群峰在云雾间层层展开，从不同角度交错显现横岭、侧峰、远近高低各不同的山体关系，山岚流动，栈道与寺舍若隐若现；构图强调空间错觉与观看角度变化，可用前景山石、中景云海、远景主峰形成递进，避免人物主导；在一侧云海或上方天光中预留大块干净负空间，便于后期叠加整首诗词；整体应有高级山水海报气质，哲理感强，宋画式结构与现代摄影景深结合；不要任何可读文字，不要碑刻文字，不要logo，不要印章，不要水印。"
+    },
+    {
+      "id": "su-shi-famous-poems-fulltext-posters-2026-05-16_10_饮湖上初晴后雨二首-其二",
+      "batch": "su-shi-famous-poems-fulltext-posters-2026-05-16",
+      "category": "su-shi-poetry-posters",
+      "number": "10",
+      "title": "饮湖上初晴后雨二首·其二",
+      "image": "assets/images/su-shi-famous-poems-fulltext-posters-2026-05-16/10_饮湖上初晴后雨二首-其二.png",
+      "thumb": "assets/thumbs/su-shi-famous-poems-fulltext-posters-2026-05-16/10_饮湖上初晴后雨二首-其二.png",
+      "description": "西湖晴雨相宜、空蒙潋滟，映现西子之美。",
+      "prompt": "竖版西湖美学海报背景，西湖在初晴后雨的转换瞬间，远山空蒙，湖面轻雾未散，近处荷叶、画桥、柳枝与小舟笼在柔润水气中，天边透出淡金日光；构图宜开阔而雅致，以大片湖天与雾光形成空灵气息，避免过多建筑拥挤；在湖面反光区域或天空云雾中预留干净负空间，供后期叠加整首诗词；整体要如珍藏级东方艺术海报，温润、空灵、含蓄，像西子淡妆浓抹的视觉化，不是俗套风景插画；不要任何可读文字，不要船帆文字，不要logo，不要印章，不要水印。"
+    },
+    {
+      "id": "su-shi-famous-poems-fulltext-posters-2026-05-16_11_惠崇春江晚景二首-其一",
+      "batch": "su-shi-famous-poems-fulltext-posters-2026-05-16",
+      "category": "su-shi-poetry-posters",
+      "number": "11",
+      "title": "惠崇春江晚景二首·其一",
+      "image": "assets/images/su-shi-famous-poems-fulltext-posters-2026-05-16/11_惠崇春江晚景二首-其一.png",
+      "thumb": "assets/thumbs/su-shi-famous-poems-fulltext-posters-2026-05-16/11_惠崇春江晚景二首-其一.png",
+      "description": "桃花、春江、鸭戏与蒌蒿芦芽，展现可感知的早春生机。",
+      "prompt": "竖版早春江岸艺术海报背景，竹外桃花初绽，春江水暖，几只鸭子在浅水中游动，岸边蒌蒿满地、芦芽短短，远处沙洲与淡雾江天相接；构图以近景桃枝斜入、中景江面鸭群、远景洲渚形成层次，色彩柔和而有生机；在上方淡天空或江面平静区域预留大片清爽负空间，便于后期叠加整首诗词；整体追求宋人小景与现代海报设计结合，精雅高级，不要儿童绘本感；不要任何可读文字，不要logo，不要印章，不要水印。"
+    },
+    {
+      "id": "su-shi-famous-poems-fulltext-posters-2026-05-16_12_和子由渑池怀旧",
+      "batch": "su-shi-famous-poems-fulltext-posters-2026-05-16",
+      "category": "su-shi-poetry-posters",
+      "number": "12",
+      "title": "和子由渑池怀旧",
+      "image": "assets/images/su-shi-famous-poems-fulltext-posters-2026-05-16/12_和子由渑池怀旧.png",
+      "thumb": "assets/thumbs/su-shi-famous-poems-fulltext-posters-2026-05-16/12_和子由渑池怀旧.png",
+      "description": "古道雪泥与鸿爪痕迹，象征人生行旅与旧游难再。",
+      "prompt": "竖版怀旧哲理艺术海报背景，冬末或早春的古道与驿站外，浅雪未融，泥地上清晰可见几行鸿雁爪印延伸向远方，残照照着荒寺、老树与旅人曾歇息的破壁；可有两位文士昔日同行的微弱记忆感剪影消散于远处，但以环境为主；构图强调地面痕迹与岁月空旷感，天空或墙面预留整块干净负空间，方便后期叠加整首诗词；整体沉静、苍茫、有时间流逝感，艺术海报级完成度，宋韵古旅情境；不要任何可读文字，不要驿站招牌文字，不要logo，不要印章，不要水印。"
+    },
+    {
+      "id": "su-shi-famous-poems-fulltext-posters-2026-05-16_13_赠刘景文",
+      "batch": "su-shi-famous-poems-fulltext-posters-2026-05-16",
+      "category": "su-shi-poetry-posters",
+      "number": "13",
+      "title": "赠刘景文",
+      "image": "assets/images/su-shi-famous-poems-fulltext-posters-2026-05-16/13_赠刘景文.png",
+      "thumb": "assets/thumbs/su-shi-famous-poems-fulltext-posters-2026-05-16/13_赠刘景文.png",
+      "description": "残荷与菊、橙黄橘绿并置，表现逆境中的风骨与收获。",
+      "prompt": "竖版晚秋初冬艺术海报背景，荷尽的池塘里残荷枯梗挺立，岸边菊花仍傲霜开放，霜晨清光映着金黄橙橘挂枝，空气澄澈；构图把前景残荷、中景菊花、远处果树与薄霜层层推进，形成由萧瑟到丰盛的反转；在天空、池面或一侧素净墙面预留清晰负空间，供后期叠加整首诗词；整体要有节令之美与勉励意味，精致高雅的东方海报，不要俗艳静物画感；不要任何可读文字，不要logo，不要印章，不要水印。"
+    },
+    {
+      "id": "su-shi-famous-poems-fulltext-posters-2026-05-16_14_海棠",
+      "batch": "su-shi-famous-poems-fulltext-posters-2026-05-16",
+      "category": "su-shi-poetry-posters",
+      "number": "14",
+      "title": "海棠",
+      "image": "assets/images/su-shi-famous-poems-fulltext-posters-2026-05-16/14_海棠.png",
+      "thumb": "assets/thumbs/su-shi-famous-poems-fulltext-posters-2026-05-16/14_海棠.png",
+      "description": "春夜烛照海棠，营造怜花惜春的幽艳氛围。",
+      "prompt": "竖版夜春海棠艺术海报背景，静谧庭院中的海棠树在夜色与微雨后愈发明艳，花枝被烛光或窗内灯光轻轻映亮，石栏、粉墙、疏窗若隐若现，风格雅致而不繁复；可暗示“只恐夜深花睡去”的守花之情，用一盏未灭的高烛置于角落，但不出现人物正面；构图让盛放海棠占据中上部，一侧留出整洁柔和的暗色留白，便于后期叠加诗词；整体像高级文学艺术海报，花影摇曳、春夜微醺、宋代庭院审美；不要任何可读文字，不要匾额文字，不要logo，不要印章，不要水印。"
+    },
+    {
+      "id": "su-shi-famous-poems-fulltext-posters-2026-05-16_15_六月二十七日望湖楼醉书五绝-其一",
+      "batch": "su-shi-famous-poems-fulltext-posters-2026-05-16",
+      "category": "su-shi-poetry-posters",
+      "number": "15",
+      "title": "六月二十七日望湖楼醉书五绝·其一",
+      "image": "assets/images/su-shi-famous-poems-fulltext-posters-2026-05-16/15_六月二十七日望湖楼醉书五绝-其一.png",
+      "thumb": "assets/thumbs/su-shi-famous-poems-fulltext-posters-2026-05-16/15_六月二十七日望湖楼醉书五绝-其一.png",
+      "description": "黑云翻墨、白雨跳珠，以骤雨临湖的瞬间制造强烈视觉节奏。",
+      "prompt": "竖版强烈天气戏剧性的艺术海报背景，西湖夏日骤雨将至，黑云如墨翻卷压向湖面，远山忽隐，白雨如珠乱跳入船舱与湖上，狂风掀动水纹与荷叶；构图以斜线风雨和横向湖面形成速度感，近景可见望湖楼栏杆或临湖船首增强代入，但不喧宾夺主；在画面一角的天空裂隙或雨幕较淡区域预留负空间，便于后期叠加整首诗词；整体要求电影海报般的震撼与笔墨感并存，夏日湖雨的瞬息变化鲜明，不是普通风景图；不要任何可读文字，不要楼匾文字，不要logo，不要印章，不要水印。"
     }
   ]
 }
