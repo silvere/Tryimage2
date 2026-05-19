@@ -1,7 +1,7 @@
 {
   "site": {
     "title": "OpenAI image2 视觉实验",
-    "subtitle": "810 张传播向 AI 海报",
+    "subtitle": "830 张传播向 AI 海报",
     "headline": "OpenAI image2 视觉实验",
     "intro": "每一批图片围绕一个临时主题生成，并按当次最合适的 category 归档；可以是反差创意、真实场景、产品概念、人物叙事或任何新的视觉方向。",
     "coverImage": "assets/contact_sheet_image2.jpg",
@@ -286,6 +286,10 @@
     {
       "id": "cowhide-masterpieces",
       "label": "创意牛皮器物"
+    },
+    {
+      "id": "uncategorized",
+      "label": "未分类"
     }
   ],
   "batches": [
@@ -660,6 +664,30 @@
       "theme": "那些精美绝伦的有创意的牛皮制品",
       "createdAt": "2026-05-16",
       "count": 10
+    },
+    {
+      "id": "warring-states-ancient-jade-seal-macro-2026-05-19",
+      "theme": "战国古玉印微距特写",
+      "createdAt": "2026-05-19",
+      "count": 5
+    },
+    {
+      "id": "republic-era-bronze-seals-macro-2026-05-19",
+      "theme": "民国老铜印微距细节",
+      "createdAt": "2026-05-19",
+      "count": 5
+    },
+    {
+      "id": "rare-shoushan-stone-seals-macro-2026-05-19",
+      "theme": "孤品寿山石印章微距",
+      "createdAt": "2026-05-19",
+      "count": 5
+    },
+    {
+      "id": "contemporary-master-carving-seals-macro-2026-05-19",
+      "theme": "当代篆刻大师闲章系列",
+      "createdAt": "2026-05-19",
+      "count": 5
     }
   ],
   "items": [
@@ -9557,6 +9585,226 @@
       "thumb": "assets/thumbs/creative-cowhide-masterpieces-2026-05-16/10_灯笼式线材收纳器.png",
       "description": "把线材收纳做成可捏可开的牛皮小灯笼，体积迷你却极有造型辨识度，挂在桌边就像一件可把玩的收藏玩物。",
       "prompt": "可点击感极强的静物摄影，一枚灯笼式线材收纳器，由柔韧全粒面牛皮通过纵向切片、抽带结构与黄铜挂环形成可开合小灯笼造型，半透明般的体积感来自皮片间缝隙，内部隐约收纳短线材与转接头，无任何品牌元素，悬挂在木质挂架旁并落在石面上形成双重层次，微距表现皮革回弹、边缘抛光、针脚与黄铜旧化质感，真实编辑风，避免文字logo人物脸。"
+    },
+    {
+      "id": "warring-states-ancient-jade-seal-macro-2026-05-19_01_螭龙钮玉印特写",
+      "batch": "warring-states-ancient-jade-seal-macro-2026-05-19",
+      "category": "uncategorized",
+      "number": "01",
+      "title": "螭龙钮玉印特写",
+      "image": "assets/images/warring-states-ancient-jade-seal-macro-2026-05-19/01_螭龙钮玉印特写.png",
+      "thumb": "assets/thumbs/warring-states-ancient-jade-seal-macro-2026-05-19/01_螭龙钮玉印特写.png",
+      "description": "战国螭龙钮玉印微距特写，沁色包浆自然，古玉冰裂纹清晰",
+      "prompt": "超高清微距摄影，战国螭龙钮和田青玉印特写，玉质温润有天然冰裂纹，千年土沁黄褐包浆自然，螭龙雕刻线条古朴有力，灯光斜射凸显立体感，专业文物摄影，8K，无多余文字"
+    },
+    {
+      "id": "warring-states-ancient-jade-seal-macro-2026-05-19_02_朱文印面微距",
+      "batch": "warring-states-ancient-jade-seal-macro-2026-05-19",
+      "category": "uncategorized",
+      "number": "02",
+      "title": "朱文印面微距",
+      "image": "assets/images/warring-states-ancient-jade-seal-macro-2026-05-19/02_朱文印面微距.png",
+      "thumb": "assets/thumbs/warring-states-ancient-jade-seal-macro-2026-05-19/02_朱文印面微距.png",
+      "description": "战国玉印印面朱文微距，笔画锋利，磨损痕迹自然",
+      "prompt": "超高清微距摄影，战国玉印朱文印面特写，篆书笔画锋利有力，边缘有千年使用的磨损痕迹，朱砂残留若隐若现，玉质肌理清晰，专业文物摄影，8K，无多余文字"
+    },
+    {
+      "id": "warring-states-ancient-jade-seal-macro-2026-05-19_03_沁色包浆细节",
+      "batch": "warring-states-ancient-jade-seal-macro-2026-05-19",
+      "category": "uncategorized",
+      "number": "03",
+      "title": "沁色包浆细节",
+      "image": "assets/images/warring-states-ancient-jade-seal-macro-2026-05-19/03_沁色包浆细节.png",
+      "thumb": "assets/thumbs/warring-states-ancient-jade-seal-macro-2026-05-19/03_沁色包浆细节.png",
+      "description": "战国玉印表面沁色变化特写，深浅过渡自然，历史感强烈",
+      "prompt": "超高清微距摄影，战国玉印表面沁色变化特写，黄褐色土沁与青白玉底色自然过渡，局部有铜锈沾染痕迹，玉质包浆油亮，专业文物摄影，8K，无多余文字"
+    },
+    {
+      "id": "warring-states-ancient-jade-seal-macro-2026-05-19_04_出土场景还原",
+      "batch": "warring-states-ancient-jade-seal-macro-2026-05-19",
+      "category": "uncategorized",
+      "number": "04",
+      "title": "出土场景还原",
+      "image": "assets/images/warring-states-ancient-jade-seal-macro-2026-05-19/04_出土场景还原.png",
+      "thumb": "assets/thumbs/warring-states-ancient-jade-seal-macro-2026-05-19/04_出土场景还原.png",
+      "description": "战国玉印放置在出土麻布垫上的特写，搭配青铜残片",
+      "prompt": "超高清微距摄影，战国玉印放置在粗麻布残片上的特写，旁边散落小青铜残片有铜绿锈迹，背景深色凸显文物质感，软光，氛围感强，8K，无多余文字"
+    },
+    {
+      "id": "warring-states-ancient-jade-seal-macro-2026-05-19_05_玉质透光效果",
+      "batch": "warring-states-ancient-jade-seal-macro-2026-05-19",
+      "category": "uncategorized",
+      "number": "05",
+      "title": "玉质透光效果",
+      "image": "assets/images/warring-states-ancient-jade-seal-macro-2026-05-19/05_玉质透光效果.png",
+      "thumb": "assets/thumbs/warring-states-ancient-jade-seal-macro-2026-05-19/05_玉质透光效果.png",
+      "description": "战国玉印透光效果特写，玉质通透，内部冰裂纹可见",
+      "prompt": "超高清微距摄影，战国玉印逆光特写，光线穿透玉质，内部天然冰裂纹清晰可见，沁色在光线下呈现半透明效果，温润通透，专业文物摄影，8K，无多余文字"
+    },
+    {
+      "id": "republic-era-bronze-seals-macro-2026-05-19_01_铜印印面特写",
+      "batch": "republic-era-bronze-seals-macro-2026-05-19",
+      "category": "uncategorized",
+      "number": "01",
+      "title": "铜印印面特写",
+      "image": "assets/images/republic-era-bronze-seals-macro-2026-05-19/01_铜印印面特写.png",
+      "thumb": "assets/thumbs/republic-era-bronze-seals-macro-2026-05-19/01_铜印印面特写.png",
+      "description": "民国老铜印印面特写，磨损印边，铜绿锈迹自然",
+      "prompt": "超高清微距摄影，民国老铜印印面特写，印文是商号字号，边缘有几十年使用的磨损痕迹，表面分布着自然的铜绿锈迹和厚重皮壳包浆，质感厚重，专业复古静物摄影，8K，无多余文字"
+    },
+    {
+      "id": "republic-era-bronze-seals-macro-2026-05-19_02_铜印包浆细节",
+      "batch": "republic-era-bronze-seals-macro-2026-05-19",
+      "category": "uncategorized",
+      "number": "02",
+      "title": "铜印包浆细节",
+      "image": "assets/images/republic-era-bronze-seals-macro-2026-05-19/02_铜印包浆细节.png",
+      "thumb": "assets/thumbs/republic-era-bronze-seals-macro-2026-05-19/02_铜印包浆细节.png",
+      "description": "民国老铜印表面包浆特写，岁月留下的使用痕迹清晰",
+      "prompt": "超高清微距摄影，民国老铜印表面特写，厚重的深褐色包浆油亮温润，手指常年握持的位置磨损光滑，局部有蓝绿色铜锈，细节丰富，复古质感强烈，8K，无多余文字"
+    },
+    {
+      "id": "republic-era-bronze-seals-macro-2026-05-19_03_印谱上的盖印痕迹",
+      "batch": "republic-era-bronze-seals-macro-2026-05-19",
+      "category": "uncategorized",
+      "number": "03",
+      "title": "印谱上的盖印痕迹",
+      "image": "assets/images/republic-era-bronze-seals-macro-2026-05-19/03_印谱上的盖印痕迹.png",
+      "thumb": "assets/thumbs/republic-era-bronze-seals-macro-2026-05-19/03_印谱上的盖印痕迹.png",
+      "description": "民国老铜印盖在手写印谱上的痕迹，印泥已经陈旧变暗",
+      "prompt": "超高清微距摄影，民国老铜印盖在棉麻纸质手写印谱上的特写，印泥颜色陈旧暗红，印谱上有毛笔手写的小字注释，纸张泛黄有岁月痕迹，复古氛围感强，8K，无多余文字"
+    },
+    {
+      "id": "republic-era-bronze-seals-macro-2026-05-19_04_老铜印与印泥盒",
+      "batch": "republic-era-bronze-seals-macro-2026-05-19",
+      "category": "uncategorized",
+      "number": "04",
+      "title": "老铜印与印泥盒",
+      "image": "assets/images/republic-era-bronze-seals-macro-2026-05-19/04_老铜印与印泥盒.png",
+      "thumb": "assets/thumbs/republic-era-bronze-seals-macro-2026-05-19/04_老铜印与印泥盒.png",
+      "description": "民国老铜印放置在粗麻布垫上的特写，旁边放着老印泥盒",
+      "prompt": "超高清微距摄影，民国老铜印放在粗麻布垫上的特写，旁边是破旧的铁质印泥盒，印泥已经干涸开裂，整体色调复古温暖，年代感强烈，8K，无多余文字"
+    },
+    {
+      "id": "republic-era-bronze-seals-macro-2026-05-19_05_铜印钮部细节",
+      "batch": "republic-era-bronze-seals-macro-2026-05-19",
+      "category": "uncategorized",
+      "number": "05",
+      "title": "铜印钮部细节",
+      "image": "assets/images/republic-era-bronze-seals-macro-2026-05-19/05_铜印钮部细节.png",
+      "thumb": "assets/thumbs/republic-era-bronze-seals-macro-2026-05-19/05_铜印钮部细节.png",
+      "description": "民国老铜印钮部特写，造型简单古朴，磨损严重",
+      "prompt": "超高清微距摄影，民国老铜印桥形钮特写，造型简单古朴，常年穿绳使用的位置磨损凹陷光滑，铜锈和包浆层次丰富，质感厚重，8K，无多余文字"
+    },
+    {
+      "id": "rare-shoushan-stone-seals-macro-2026-05-19_01_田黄冻石印面微距",
+      "batch": "rare-shoushan-stone-seals-macro-2026-05-19",
+      "category": "uncategorized",
+      "number": "01",
+      "title": "田黄冻石印面微距",
+      "image": "assets/images/rare-shoushan-stone-seals-macro-2026-05-19/01_田黄冻石印面微距.png",
+      "thumb": "assets/thumbs/rare-shoushan-stone-seals-macro-2026-05-19/01_田黄冻石印面微距.png",
+      "description": "微距下田黄冻石印章的朱砂印泥油光纹理，印文清晰可见",
+      "prompt": "超高清微距摄影，孤品田黄冻石印章印面特写，朱砂印泥油润光亮，印文篆刻刀痕清晰，天然石纹肌理细腻，放置在藏青色锦盒衬布上，软光斜射，质感强烈，8K RAW，专业静物摄影，无多余文字"
+    },
+    {
+      "id": "rare-shoushan-stone-seals-macro-2026-05-19_02_名家边款微距",
+      "batch": "rare-shoushan-stone-seals-macro-2026-05-19",
+      "category": "uncategorized",
+      "number": "02",
+      "title": "名家边款微距",
+      "image": "assets/images/rare-shoushan-stone-seals-macro-2026-05-19/02_名家边款微距.png",
+      "thumb": "assets/thumbs/rare-shoushan-stone-seals-macro-2026-05-19/02_名家边款微距.png",
+      "description": "寿山石印章侧面名家篆刻边款，刀痕深浅有致，石纹自然",
+      "prompt": "超高清微距摄影，寿山石印章侧面名家手刻边款特写，篆刻刀痕清晰立体，天然寿山石纹理自然，光线柔和凸显石材温润质感，专业文玩摄影，8K，无多余文字"
+    },
+    {
+      "id": "rare-shoushan-stone-seals-macro-2026-05-19_03_寿山石天然纹理",
+      "batch": "rare-shoushan-stone-seals-macro-2026-05-19",
+      "category": "uncategorized",
+      "number": "03",
+      "title": "寿山石天然纹理",
+      "image": "assets/images/rare-shoushan-stone-seals-macro-2026-05-19/03_寿山石天然纹理.png",
+      "thumb": "assets/thumbs/rare-shoushan-stone-seals-macro-2026-05-19/03_寿山石天然纹理.png",
+      "description": "寿山石印章石体天然萝卜丝纹理，温润如玉的质感",
+      "prompt": "超高清微距摄影，寿山石印章石体天然纹理特写，萝卜丝纹细腻自然，石质温润通透，光线下泛着柔和光泽，没有篆刻的干净石面，专业静物摄影，8K，无多余文字"
+    },
+    {
+      "id": "rare-shoushan-stone-seals-macro-2026-05-19_04_盖印瞬间特写",
+      "batch": "rare-shoushan-stone-seals-macro-2026-05-19",
+      "category": "uncategorized",
+      "number": "04",
+      "title": "盖印瞬间特写",
+      "image": "assets/images/rare-shoushan-stone-seals-macro-2026-05-19/04_盖印瞬间特写.png",
+      "thumb": "assets/thumbs/rare-shoushan-stone-seals-macro-2026-05-19/04_盖印瞬间特写.png",
+      "description": "寿山石印章盖在宣纸上的瞬间，印泥晕染边缘自然",
+      "prompt": "超高清微距摄影，寿山石印章刚盖在洒金宣纸上的特写，朱砂印泥微微晕染，印文边缘清晰，宣纸纤维纹理可见，软光，氛围感强，8K，无多余文字"
+    },
+    {
+      "id": "rare-shoushan-stone-seals-macro-2026-05-19_05_锦盒中的寿山石印章",
+      "batch": "rare-shoushan-stone-seals-macro-2026-05-19",
+      "category": "uncategorized",
+      "number": "05",
+      "title": "锦盒中的寿山石印章",
+      "image": "assets/images/rare-shoushan-stone-seals-macro-2026-05-19/05_锦盒中的寿山石印章.png",
+      "thumb": "assets/thumbs/rare-shoushan-stone-seals-macro-2026-05-19/05_锦盒中的寿山石印章.png",
+      "description": "放置在宋锦衬布锦盒中的全套寿山石印章，搭配印泥盒",
+      "prompt": "超高清微距摄影，锦盒中的全套寿山石印章特写，宋锦衬布纹理清晰，旁边放着瓷质印泥盒，朱砂印泥油光发亮，整体氛围复古雅致，专业文玩摄影，8K，无多余文字"
+    },
+    {
+      "id": "contemporary-master-carving-seals-macro-2026-05-19_01_写意印文特写",
+      "batch": "contemporary-master-carving-seals-macro-2026-05-19",
+      "category": "uncategorized",
+      "number": "01",
+      "title": "写意印文特写",
+      "image": "assets/images/contemporary-master-carving-seals-macro-2026-05-19/01_写意印文特写.png",
+      "thumb": "assets/thumbs/contemporary-master-carving-seals-macro-2026-05-19/01_写意印文特写.png",
+      "description": "青田石闲章写意印文微距，篆刻刀痕清晰可见",
+      "prompt": "超高清微距摄影，青田石闲章印面特写，写意风格篆刻「平安喜乐」朱文，刀痕锐利清晰，青田石天然蓝花钉纹理自然，印泥朱砂鲜红油润，专业文艺摄影，8K，无多余文字"
+    },
+    {
+      "id": "contemporary-master-carving-seals-macro-2026-05-19_02_异形钮雕刻细节",
+      "batch": "contemporary-master-carving-seals-macro-2026-05-19",
+      "category": "uncategorized",
+      "number": "02",
+      "title": "异形钮雕刻细节",
+      "image": "assets/images/contemporary-master-carving-seals-macro-2026-05-19/02_异形钮雕刻细节.png",
+      "thumb": "assets/thumbs/contemporary-master-carving-seals-macro-2026-05-19/02_异形钮雕刻细节.png",
+      "description": "异形钮青田石印章特写，钮为手工雕刻的小狮子造型",
+      "prompt": "超高清微距摄影，青田石异形钮闲章顶部特写，手工雕刻的小狮子钮造型生动，刀痕清晰，石质温润，光线下质感细腻，专业静物摄影，8K，无多余文字"
+    },
+    {
+      "id": "contemporary-master-carving-seals-macro-2026-05-19_03_印床中的印章",
+      "batch": "contemporary-master-carving-seals-macro-2026-05-19",
+      "category": "uncategorized",
+      "number": "03",
+      "title": "印床中的印章",
+      "image": "assets/images/contemporary-master-carving-seals-macro-2026-05-19/03_印床中的印章.png",
+      "thumb": "assets/thumbs/contemporary-master-carving-seals-macro-2026-05-19/03_印床中的印章.png",
+      "description": "实木印床上的印章特写，夹在印床中等待篆刻",
+      "prompt": "超高清微距摄影，黑檀木印床夹着青田石印章的特写，印床木纹清晰，金属螺丝质感厚重，印章侧面还有刚画好的印稿线条，文艺氛围感强，8K，无多余文字"
+    },
+    {
+      "id": "contemporary-master-carving-seals-macro-2026-05-19_04_清理石粉特写",
+      "batch": "contemporary-master-carving-seals-macro-2026-05-19",
+      "category": "uncategorized",
+      "number": "04",
+      "title": "清理石粉特写",
+      "image": "assets/images/contemporary-master-carving-seals-macro-2026-05-19/04_清理石粉特写.png",
+      "thumb": "assets/thumbs/contemporary-master-carving-seals-macro-2026-05-19/04_清理石粉特写.png",
+      "description": "篆刻完成后扫去石粉的瞬间，毛刷和石粉细节",
+      "prompt": "超高清微距摄影，棕毛刷扫去青田石印章表面篆刻石粉的特写，细小石粉颗粒在光线下清晰可见，刀痕内的石粉被扫出，质感真实，专业摄影，8K，无多余文字"
+    },
+    {
+      "id": "contemporary-master-carving-seals-macro-2026-05-19_05_印蜕特写",
+      "batch": "contemporary-master-carving-seals-macro-2026-05-19",
+      "category": "uncategorized",
+      "number": "05",
+      "title": "印蜕特写",
+      "image": "assets/images/contemporary-master-carving-seals-macro-2026-05-19/05_印蜕特写.png",
+      "thumb": "assets/thumbs/contemporary-master-carving-seals-macro-2026-05-19/05_印蜕特写.png",
+      "description": "盖在洒金宣纸上的闲章印蜕，印泥晕染边缘自然",
+      "prompt": "超高清微距摄影，「如意」闲章盖在洒金宣纸上的印蜕特写，朱砂印泥微微晕染，边缘自然，宣纸纤维和洒金颗粒清晰，书法氛围感强，8K，无多余文字"
     }
   ]
 }

@@ -1,0 +1,39 @@
+{
+  "batchId": "contemporary-master-carving-seals-macro-2026-05-19",
+  "category": "文艺创作",
+  "categoryLabel": "文艺创作",
+  "createdAt": "2026-05-19",
+  "items": [
+    {
+      "description": "青田石闲章写意印文微距，篆刻刀痕清晰可见",
+      "prompt": "超高清微距摄影，青田石闲章印面特写，写意风格篆刻「平安喜乐」朱文，刀痕锐利清晰，青田石天然蓝花钉纹理自然，印泥朱砂鲜红油润，专业文艺摄影，8K，无多余文字",
+      "source": "01_qingtian-stone-xianzhang-print.png",
+      "title": "写意印文特写"
+    },
+    {
+      "description": "异形钮青田石印章特写，钮为手工雕刻的小狮子造型",
+      "prompt": "超高清微距摄影，青田石异形钮闲章顶部特写，手工雕刻的小狮子钮造型生动，刀痕清晰，石质温润，光线下质感细腻，专业静物摄影，8K，无多余文字",
+      "source": "02_special-button-seal-top.png",
+      "title": "异形钮雕刻细节"
+    },
+    {
+      "description": "实木印床上的印章特写，夹在印床中等待篆刻",
+      "prompt": "超高清微距摄影，黑檀木印床夹着青田石印章的特写，印床木纹清晰，金属螺丝质感厚重，印章侧面还有刚画好的印稿线条，文艺氛围感强，8K，无多余文字",
+      "source": "03_seal-on-wooden-bed.png",
+      "title": "印床中的印章"
+    },
+    {
+      "description": "篆刻完成后扫去石粉的瞬间，毛刷和石粉细节",
+      "prompt": "超高清微距摄影，棕毛刷扫去青田石印章表面篆刻石粉的特写，细小石粉颗粒在光线下清晰可见，刀痕内的石粉被扫出，质感真实，专业摄影，8K，无多余文字",
+      "source": "04_brush-cleaning-stone-powder.png",
+      "title": "清理石粉特写"
+    },
+    {
+      "description": "盖在洒金宣纸上的闲章印蜕，印泥晕染边缘自然",
+      "prompt": "超高清微距摄影，「如意」闲章盖在洒金宣纸上的印蜕特写，朱砂印泥微微晕染，边缘自然，宣纸纤维和洒金颗粒清晰，书法氛围感强，8K，无多余文字",
+      "source": "05_seal-impression-on-xuanzhi.png",
+      "title": "印蜕特写"
+    }
+  ],
+  "theme": "当代篆刻大师闲章系列"
+}
