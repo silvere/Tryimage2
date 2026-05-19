@@ -1,0 +1,103 @@
+{
+  "theme": "高铁安检托盘 EDC",
+  "batchId": "high-speed-rail-security-tray-edc-2026-05-19",
+  "createdAt": "2026-05-19",
+  "items": [
+    {
+      "source": "01_黑托盘商务冷感套装.png",
+      "category": "travel-edc",
+      "categoryLabel": "高铁安检EDC",
+      "title": "黑托盘商务冷感套装",
+      "description": "黑色安检托盘里排开深色商务 EDC，像一张冷静又锋利的人设名片。",
+      "prompt": "Top-down documentary editorial photograph of a black security tray at a Chinese high-speed rail station, arranged with striking dark business EDC: black passport holder, silver laptop corner, wireless earbuds, fountain pen, watch, charging cable, sleek card holder, dramatic overhead lighting, high contrast, visually shocking composition, realistic station surface, no logos, no readable text."
+    },
+    {
+      "source": "02_粉色随行轻甜套装.png",
+      "category": "travel-edc",
+      "categoryLabel": "高铁安检EDC",
+      "title": "粉色随行轻甜套装",
+      "description": "同一个安检托盘，也可以像一张轻甜但有秩序感的出行平铺。",
+      "prompt": "Top-down editorial photograph of a high-speed rail security tray filled with pastel pink and cream travel EDC: compact mirror, lip balm, earbuds case, mini perfume, tissue pack, power bank, delicate wallet, phone with soft case, strong Xiaohongshu visual appeal, crisp symmetry, realistic security checkpoint setting, no logos, no readable text."
+    },
+    {
+      "source": "03_摄影师重装备托盘.png",
+      "category": "travel-edc",
+      "categoryLabel": "高铁安检EDC",
+      "title": "摄影师重装备托盘",
+      "description": "镜头、电池、读卡器一起摊开时，托盘立刻有了任务感和压迫感。",
+      "prompt": "Top-down documentary editorial photo of a security tray at a Chinese high-speed rail station loaded with photographer EDC: mirrorless camera body, prime lens, spare batteries, SD card case, cable pouch, notebook, phone, sunglasses, hard shadows, dense layered composition, strong visual impact, realistic tray texture, no brand logos, no readable text."
+    },
+    {
+      "source": "04_程序员线材地狱托盘.png",
+      "category": "travel-edc",
+      "categoryLabel": "高铁安检EDC",
+      "title": "程序员线材地狱托盘",
+      "description": "充电头、转接器和各种线缆摊开以后，托盘像一张混乱但迷人的技术地图。",
+      "prompt": "Top-down editorial photograph of a high-speed rail security tray full of programmer travel EDC: tangled but organized charging cables, adapters, compact keyboard, SSD case, power bank, laptop charger brick, smartwatch, minimalist wallet, intense clutter aesthetics, high contrast lighting, hyper-detailed still life, no logos, no readable text."
+    },
+    {
+      "source": "05_极简一人出差托盘.png",
+      "category": "travel-edc",
+      "categoryLabel": "高铁安检EDC",
+      "title": "极简一人出差托盘",
+      "description": "东西少到近乎克制时，安检托盘反而更有气场。",
+      "prompt": "Top-down minimalist editorial photo of a high-speed rail station security tray with only a few sharply placed items: phone, slim wallet, passport holder, earbuds, single pen, small charger, watch, folded ticket sleeve without text, lots of negative space, luxury minimalism, dramatic spotlight, strong visual tension, no logos, no readable text."
+    },
+    {
+      "source": "06_夜车人的深色功能托盘.png",
+      "category": "travel-edc",
+      "categoryLabel": "高铁安检EDC",
+      "title": "夜车人的深色功能托盘",
+      "description": "深夜赶车的人，托盘里的东西像一套维持清醒和秩序的装备。",
+      "prompt": "Top-down moody editorial photograph of a dark security tray for a late-night high-speed rail traveler: black thermos cup, eye drops, wired earbuds, power bank, flashlight, notebook, medicine blister pack, keys, dark navy and graphite color palette, cinematic low-key lighting, realistic station checkpoint atmosphere, no logos, no readable text."
+    },
+    {
+      "source": "07_情侣双人混装托盘.png",
+      "category": "travel-edc",
+      "categoryLabel": "高铁安检EDC",
+      "title": "情侣双人混装托盘",
+      "description": "两个人的零碎放进同一个托盘后，生活感和故事感会一下子冒出来。",
+      "prompt": "Top-down editorial photograph of one high-speed rail security tray holding mixed couple travel EDC: two phones, two wallets, shared earbuds, lipstick, keys, compact camera, snack bar, tangled charging cable, casually overlapping arrangement, lively story-rich composition, high visual contrast, realistic Chinese station setting, no logos, no readable text."
+    },
+    {
+      "source": "08_户外党金属硬核托盘.png",
+      "category": "travel-edc",
+      "categoryLabel": "高铁安检EDC",
+      "title": "户外党金属硬核托盘",
+      "description": "金属器物密集排开时，安检托盘会有一种像装备检阅的冲击力。",
+      "prompt": "Top-down hard-edged editorial photo of a security tray at a high-speed rail checkpoint packed with rugged outdoor EDC: folding flashlight, metal water bottle, carabiner, tactical pen, compact multi-tool, field notebook, power bank, gloves, brushed metal textures, severe industrial lighting, aggressive visual impact, no logos, no readable text."
+    },
+    {
+      "source": "09_新中式木色温润托盘.png",
+      "category": "travel-edc",
+      "categoryLabel": "高铁安检EDC",
+      "title": "新中式木色温润托盘",
+      "description": "木珠、茶包和深色皮件放在一起，托盘忽然有了很稳的东方气质。",
+      "prompt": "Top-down editorial photograph of a high-speed rail security tray styled with new Chinese aesthetic travel EDC: sandalwood bead bracelet, tea sachet pouch, brown leather wallet, fountain pen, foldable glasses case, earbuds, dark phone, neat restrained composition, warm wood-like tones against cold security tray, elegant visual contrast, no logos, no readable text."
+    },
+    {
+      "source": "10_潮流玩家彩色爆炸托盘.png",
+      "category": "travel-edc",
+      "categoryLabel": "高铁安检EDC",
+      "title": "潮流玩家彩色爆炸托盘",
+      "description": "高饱和配色和玩具感小物一旦进托盘，画面会像突然炸开。",
+      "prompt": "Top-down bold editorial photo of a high-speed rail security tray bursting with colorful street-style EDC: bright earbuds case, transparent game handheld, graffiti-style lighter, chunky keychain toy, compact camera, colored cables, sunglasses, wallet, electric neon palette, explosive visual composition, strong Xiaohongshu hot-post energy, no logos, no readable text."
+    },
+    {
+      "source": "11_妈妈带娃应急托盘.png",
+      "category": "travel-edc",
+      "categoryLabel": "高铁安检EDC",
+      "title": "妈妈带娃应急托盘",
+      "description": "纸巾、零食、湿巾和小玩具一起出现时，托盘像一张旅行生存清单。",
+      "prompt": "Top-down realistic editorial photograph of a high-speed rail security tray for a mother traveling with a child: wipes, snacks, toy car, tissues, child water bottle, power bank, phone, wallet, medicine pouch, slightly crowded but orderly survival-kit composition, strong story and emotional realism, no logos, no readable text."
+    },
+    {
+      "source": "12_失眠旅人药片耳机托盘.png",
+      "category": "travel-edc",
+      "categoryLabel": "高铁安检EDC",
+      "title": "失眠旅人药片耳机托盘",
+      "description": "药片、眼罩和耳机放在冷白灯下，有一种很强的都市阈值感。",
+      "prompt": "Top-down cinematic editorial photograph of a high-speed rail security tray for an insomniac urban traveler: sleep mask, medicine blister pack, earbuds, e-reader, charger, wallet, mint tin, hand cream, cold fluorescent station light, threshold-space melancholy, sharp composition, visually arresting realism, no logos, no readable text."
+    }
+  ]
+}
