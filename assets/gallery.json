@@ -1,7 +1,7 @@
 {
   "site": {
     "title": "OpenAI image2 视觉实验",
-    "subtitle": "857 张传播向 AI 海报",
+    "subtitle": "872 张传播向 AI 海报",
     "headline": "OpenAI image2 视觉实验",
     "intro": "每一批图片围绕一个临时主题生成，并按当次最合适的 category 归档；可以是反差创意、真实场景、产品概念、人物叙事或任何新的视觉方向。",
     "coverImage": "assets/contact_sheet_image2.jpg",
@@ -705,6 +705,12 @@
     },
     {
       "id": "alien-daily-life-editorial-2026-05-21",
+      "theme": "日常生活中的外星物品",
+      "createdAt": "2026-05-21",
+      "count": 15
+    },
+    {
+      "id": "alien-daily-life-cold-witness-2026-05-21",
       "theme": "日常生活中的外星物品",
       "createdAt": "2026-05-21",
       "count": 15
@@ -10122,6 +10128,171 @@
       "thumb": "assets/thumbs/alien-daily-life-editorial-2026-05-21/15_购物车里的共振节点.png",
       "description": "超市购物车底部滚着一枚外星节点，像廉价塑料玩具却散发精密生命感，与蔬菜、清洁用品和日常采购形成奇异共处。",
       "prompt": "超市购物车俯视视角，车里有普通蔬菜、水果、清洁用品与纸袋，在角落里滚着一个外星节点装置，形态像多面体与海洋生物融合，材质介于塑料、玻璃和活体组织之间，超市顶灯明亮均匀，纪录片/编辑风格，生活化、艺术化、视觉冲击强，无文字，无logo，无夸张科幻武器感"
+    },
+    {
+      "id": "alien-daily-life-cold-witness-2026-05-21_01_走廊识别结",
+      "batch": "alien-daily-life-cold-witness-2026-05-21",
+      "category": "alien-daily-life",
+      "number": "01",
+      "title": "走廊识别结",
+      "image": "assets/images/alien-daily-life-cold-witness-2026-05-21/01_走廊识别结.png",
+      "thumb": "assets/thumbs/alien-daily-life-cold-witness-2026-05-21/01_走廊识别结.png",
+      "description": "出租公寓的灰色走廊尽头，一枚像生物结节的识别装置嵌在门禁旁，表面半透明，内部像缓慢收缩的膜。它让普通回家瞬间变成被验证的程序。",
+      "prompt": "冷调纪实摄影，普通出租公寓楼层走廊，低矮天花板，荧光灯，混凝土墙面，金属防火门，门禁立柱旁嵌着一个外星质感的半透明识别结节，像有机膜与塑料外壳结合，微弱冷光，像真实设备不是科幻道具。镜头像住户随手拍到的证据画面，略微偏斜，环境压抑，克制配色，雾面不锈钢，地面磨损，墙角积灰，无可读文字，无logo，无奇幻特效，强调 access control 与居住制度感。"
+    },
+    {
+      "id": "alien-daily-life-cold-witness-2026-05-21_02_分诊托盘里的异物",
+      "batch": "alien-daily-life-cold-witness-2026-05-21",
+      "category": "alien-daily-life",
+      "number": "02",
+      "title": "分诊托盘里的异物",
+      "image": "assets/images/alien-daily-life-cold-witness-2026-05-21/02_分诊托盘里的异物.png",
+      "thumb": "assets/thumbs/alien-daily-life-cold-witness-2026-05-21/02_分诊托盘里的异物.png",
+      "description": "社区诊所分诊窗口后的不锈钢托盘上，躺着一个像脱落器官又像医疗器件的外星物品，被一次性手套和塑料盒半包围。它让候诊区的平静显得更冷。",
+      "prompt": "社区诊所窗口后的纪实特写，不锈钢台面，白色塑料托盘，一次性手套，雾化玻璃隔断，冷白荧光灯，一个外星物品放在托盘中央，形态像有机瓣膜与医疗耗材结合，湿润但克制，不夸张。构图像记者拍到的现场证据，背景有模糊排队栏杆和坐椅，现实主义，色彩压低，无可读文字，无logo，突出医疗流程与被处理的身体感。"
+    },
+    {
+      "id": "alien-daily-life-cold-witness-2026-05-21_03_储物柜里的替代教材",
+      "batch": "alien-daily-life-cold-witness-2026-05-21",
+      "category": "alien-daily-life",
+      "number": "03",
+      "title": "储物柜里的替代教材",
+      "image": "assets/images/alien-daily-life-cold-witness-2026-05-21/03_储物柜里的替代教材.png",
+      "thumb": "assets/thumbs/alien-daily-life-cold-witness-2026-05-21/03_储物柜里的替代教材.png",
+      "description": "学校走廊一排旧储物柜中，半开的门后露出一件无法归类的外星学习器，表面像塑封骨架。它像被孩子长期使用，却没有人解释它属于哪门课程。",
+      "prompt": "学校走廊纪实画面，旧金属储物柜，荧光灯，地砖反光，浅灰绿色墙面，其中一个柜门半开，里面放着一个外星物品，像教学器材与生物结构混合，塑料、硅胶、细小孔洞、像被频繁触摸过。镜头距离克制，像教师或学生路过拍下的证据，安静但不安，无可读文字，无logo，不做科幻校园，只呈现制度化教育环境中的异样物证。"
+    },
+    {
+      "id": "alien-daily-life-cold-witness-2026-05-21_04_照护推车第二层",
+      "batch": "alien-daily-life-cold-witness-2026-05-21",
+      "category": "alien-daily-life",
+      "number": "04",
+      "title": "照护推车第二层",
+      "image": "assets/images/alien-daily-life-cold-witness-2026-05-21/04_照护推车第二层.png",
+      "thumb": "assets/thumbs/alien-daily-life-cold-witness-2026-05-21/04_照护推车第二层.png",
+      "description": "养老机构的送餐推车下层，金属保温盒之间夹着一件像呼吸囊的外星装置，仿佛用于安抚、监测或替代陪伴。它比食物更像日常必需品。",
+      "prompt": "养老机构走廊，送餐推车停在门外，米白墙面，PVC地板，不锈钢保温盒，塑料餐盘，冷白荧光灯。推车第二层放着一个外星物品，像柔软呼吸囊和护理设备结合，表面有细微褶皱与半透明组织感。摄影风格冷静、社会纪实、像调查报道插图，门缝、扶手、轮子细节清晰，无可读文字，无logo，强调 eldercare、制度性照护与情感替代。"
+    },
+    {
+      "id": "alien-daily-life-cold-witness-2026-05-21_05_分类房回收件",
+      "batch": "alien-daily-life-cold-witness-2026-05-21",
+      "category": "alien-daily-life",
+      "number": "05",
+      "title": "分类房回收件",
+      "image": "assets/images/alien-daily-life-cold-witness-2026-05-21/05_分类房回收件.png",
+      "thumb": "assets/thumbs/alien-daily-life-cold-witness-2026-05-21/05_分类房回收件.png",
+      "description": "小区垃圾分类房里，一只潮湿塑料桶旁放着一个像自己还在分解的外星容器。它看起来既像废弃物，也像未来还会被再次使用的器官。",
+      "prompt": "城市住宅区垃圾分类房，混凝土地面潮湿，排水沟，不锈钢水池，塑料桶和橡胶手套，顶部荧光灯。角落里有一个外星物品，像可折叠容器与生物外壳结合，潮湿、半透明、表面有被压缩痕迹。画面像物业或居民偶然拍到的证据，真实环境，压低饱和度，无可读文字，无logo，讨论 waste、循环、被遗弃与再利用。"
+    },
+    {
+      "id": "alien-daily-life-cold-witness-2026-05-21_06_外卖柜中的待取件",
+      "batch": "alien-daily-life-cold-witness-2026-05-21",
+      "category": "alien-daily-life",
+      "number": "06",
+      "title": "外卖柜中的待取件",
+      "image": "assets/images/alien-daily-life-cold-witness-2026-05-21/06_外卖柜中的待取件.png",
+      "thumb": "assets/thumbs/alien-daily-life-cold-witness-2026-05-21/06_外卖柜中的待取件.png",
+      "description": "写字楼大厅的取餐柜空格里，一件外星包裹静静发冷，像某种会回应指纹或体温的生物包装。它使便利服务显出新的服从关系。",
+      "prompt": "办公楼大厅纪实照片，快递或取餐柜区域，灰色石材地面，金属柜门，塑料提示灯，保安闸机虚化在后景。一个柜格半开，内部放着外星物品，像柔软包裹与有机组织结合，冷凝水细节，像真实配送物。镜头像路人抓拍，直白、不戏剧化，无可读文字，无logo，突出平台劳动、即时消费与被标准化的交付。"
+    },
+    {
+      "id": "alien-daily-life-cold-witness-2026-05-21_07_维修台上的替换核心",
+      "batch": "alien-daily-life-cold-witness-2026-05-21",
+      "category": "alien-daily-life",
+      "number": "07",
+      "title": "维修台上的替换核心",
+      "image": "assets/images/alien-daily-life-cold-witness-2026-05-21/07_维修台上的替换核心.png",
+      "thumb": "assets/thumbs/alien-daily-life-cold-witness-2026-05-21/07_维修台上的替换核心.png",
+      "description": "街边小维修铺的工作台上，散乱螺丝刀、电线和一个外星替换件并排躺着。它像任何可以被拆开、焊接、继续运转的廉价命脉。",
+      "prompt": "街边维修店内部，狭窄，白色荧光灯，旧木工作台，焊台，螺丝盒，电线，塑料收纳箱。台面中央有一个外星物品，像消费电子内部核心与生物器官混合，拆开的截面克制真实，不恶心。画面像维修师傅工作间的纪录照片，社会现实感强，颜色冷而脏，无可读文字，无logo，指向 repair、延命、低成本生存。"
+    },
+    {
+      "id": "alien-daily-life-cold-witness-2026-05-21_08_队列尽头的呼吸桩",
+      "batch": "alien-daily-life-cold-witness-2026-05-21",
+      "category": "alien-daily-life",
+      "number": "08",
+      "title": "队列尽头的呼吸桩",
+      "image": "assets/images/alien-daily-life-cold-witness-2026-05-21/08_队列尽头的呼吸桩.png",
+      "thumb": "assets/thumbs/alien-daily-life-cold-witness-2026-05-21/08_队列尽头的呼吸桩.png",
+      "description": "政务大厅排队栏杆的末端，立着一根像会轻微起伏的外星柱体，仿佛专门测量等待中的人群。它让秩序显得更像一种提取程序。",
+      "prompt": "政务大厅或公共服务大厅，排队栏杆、塑料座椅、磨砂玻璃、冷白顶灯，空间宽但压迫。队列末端有一个外星物品，像立式终端与呼吸组织结合，表面是哑光塑料和半透明膜，静默、功能性强。镜头像新闻调查配图，远中景，现实制度空间，无可读文字，无logo，强调 bureaucracy、排队、被管理的身体。"
+    },
+    {
+      "id": "alien-daily-life-cold-witness-2026-05-21_09_群租走廊的蓄热体",
+      "batch": "alien-daily-life-cold-witness-2026-05-21",
+      "category": "alien-daily-life",
+      "number": "09",
+      "title": "群租走廊的蓄热体",
+      "image": "assets/images/alien-daily-life-cold-witness-2026-05-21/09_群租走廊的蓄热体.png",
+      "thumb": "assets/thumbs/alien-daily-life-cold-witness-2026-05-21/09_群租走廊的蓄热体.png",
+      "description": "群租房公共过道靠墙放着一件像在缓慢保温的外星囊体，旁边是拖鞋、水桶和折叠椅。它像某种临时生活设施，也像谁都无权解释的共同依赖。",
+      "prompt": "群租房或廉价宿舍公共过道，狭窄，冷色荧光灯，剥落墙皮，塑料水桶，折叠椅，拖鞋，门口地垫。靠墙摆放一个外星物品，像蓄热囊和家用装置结合，表面有长期使用痕迹，低调发热感但无夸张光效。摄影风格像社会纪实专题，压抑、真实、克制，无可读文字，无logo，聚焦 housing 与 precarity。"
+    },
+    {
+      "id": "alien-daily-life-cold-witness-2026-05-21_10_闸机后的遗留壳",
+      "batch": "alien-daily-life-cold-witness-2026-05-21",
+      "category": "alien-daily-life",
+      "number": "10",
+      "title": "闸机后的遗留壳",
+      "image": "assets/images/alien-daily-life-cold-witness-2026-05-21/10_闸机后的遗留壳.png",
+      "thumb": "assets/thumbs/alien-daily-life-cold-witness-2026-05-21/10_闸机后的遗留壳.png",
+      "description": "早高峰地铁出站闸机内侧地面上，一枚像刚完成验证的外星薄壳贴着黄色边线。它小到几乎被忽略，却像整个通勤系统留下的皮屑。",
+      "prompt": "城市轨道交通出站区域，闸机、不锈钢栏杆、冷色地砖、顶棚荧光灯，早高峰后稍空的瞬间。地面边线旁有一个外星物品，像薄薄蜕壳与智能票证残片结合，细节真实，几乎不起眼。拍摄角度低，像乘客偶然发现并记录，现实主义，无可读文字，无logo，不出现上一批的吊环或座椅元素，强调 commuting 与系统残留。"
+    },
+    {
+      "id": "alien-daily-life-cold-witness-2026-05-21_11_退货区样本",
+      "batch": "alien-daily-life-cold-witness-2026-05-21",
+      "category": "alien-daily-life",
+      "number": "11",
+      "title": "退货区样本",
+      "image": "assets/images/alien-daily-life-cold-witness-2026-05-21/11_退货区样本.png",
+      "thumb": "assets/thumbs/alien-daily-life-cold-witness-2026-05-21/11_退货区样本.png",
+      "description": "商场后场退货台的塑料周转箱里，一件外星商品被贴纸残胶和泡沫纸围住。它像被消费者拒收后回到系统内部的证据。",
+      "prompt": "零售商场后场或仓储退货区，塑料周转箱，金属货架，冷白灯，胶带残片，泡沫包装，地面为磨损水泥。箱中放置一个外星物品，像消费品与生物组织混合，设计感低调，像真实量产物。镜头像后勤人员手机拍摄，客观、冷静、无戏剧光影，无可读文字，无logo，强调 retail、退货、商品循环和不可见劳动。"
+    },
+    {
+      "id": "alien-daily-life-cold-witness-2026-05-21_12_管井里的附生阀",
+      "batch": "alien-daily-life-cold-witness-2026-05-21",
+      "category": "alien-daily-life",
+      "number": "12",
+      "title": "管井里的附生阀",
+      "image": "assets/images/alien-daily-life-cold-witness-2026-05-21/12_管井里的附生阀.png",
+      "thumb": "assets/thumbs/alien-daily-life-cold-witness-2026-05-21/12_管井里的附生阀.png",
+      "description": "公寓设备层的管井间里，一只外星阀体附着在旧管道之间，像维护系统自行长出的器官。它让基础设施显得既中性又带有生命偏向。",
+      "prompt": "建筑设备层或管井间，裸露管道，阀门，冷凝水，不锈钢梯子，混凝土墙，荧光灯闪烁感。旧管道之间附着一个外星物品，像阀门与寄生器官结合，材质是橡胶、树脂、潮湿膜面，功能感强。构图像维护记录照片，真实、克制、工业冷感，无可读文字，无logo，聚焦 maintenance、基础设施与隐形运转。"
+    },
+    {
+      "id": "alien-daily-life-cold-witness-2026-05-21_13_夜间取药口的软匣",
+      "batch": "alien-daily-life-cold-witness-2026-05-21",
+      "category": "alien-daily-life",
+      "number": "13",
+      "title": "夜间取药口的软匣",
+      "image": "assets/images/alien-daily-life-cold-witness-2026-05-21/13_夜间取药口的软匣.png",
+      "thumb": "assets/thumbs/alien-daily-life-cold-witness-2026-05-21/13_夜间取药口的软匣.png",
+      "description": "医院夜间取药窗口的小转盘里，放着一个像会根据体温松开的外星药匣。它让治疗看上去像更精密的分配关系，而不是关怀。",
+      "prompt": "医院夜间取药窗口，玻璃隔断，小型转盘或传递口，不锈钢边框，冷白灯，空旷走廊反光。转盘中放着一个外星物品，像药盒与柔软生物囊融合，表面克制、有使用逻辑。镜头像陪护家属在凌晨拍到的现场，安静、疲惫、纪实，无可读文字，无logo，强调 medicine、分配、制度化治疗。"
+    },
+    {
+      "id": "alien-daily-life-cold-witness-2026-05-21_14_休息室置物架上的备用肺",
+      "batch": "alien-daily-life-cold-witness-2026-05-21",
+      "category": "alien-daily-life",
+      "number": "14",
+      "title": "休息室置物架上的备用肺",
+      "image": "assets/images/alien-daily-life-cold-witness-2026-05-21/14_休息室置物架上的备用肺.png",
+      "thumb": "assets/thumbs/alien-daily-life-cold-witness-2026-05-21/14_休息室置物架上的备用肺.png",
+      "description": "工厂休息室的铁架上，安全帽、水杯和一个外星呼吸器并排摆着。它像劳动者在高强度工作间隙必须共享的第二套器官。",
+      "prompt": "工厂或物流分拣中心休息室，金属置物架，塑料水杯，安全帽，白炽转冷的顶灯，墙面略脏，空气干燥。架子上放着一个外星物品，像便携呼吸器与有机肺泡结合，工业塑料与半透明膜面共存。画面像劳工权益报道配图，冷静、客观、压抑，无可读文字，无logo，指向 labor、疲劳、替代性身体。"
+    },
+    {
+      "id": "alien-daily-life-cold-witness-2026-05-21_15_地下车库婴儿车旁的静默体",
+      "batch": "alien-daily-life-cold-witness-2026-05-21",
+      "category": "alien-daily-life",
+      "number": "15",
+      "title": "地下车库婴儿车旁的静默体",
+      "image": "assets/images/alien-daily-life-cold-witness-2026-05-21/15_地下车库婴儿车旁的静默体.png",
+      "thumb": "assets/thumbs/alien-daily-life-cold-witness-2026-05-21/15_地下车库婴儿车旁的静默体.png",
+      "description": "住宅地下车库电梯前，折叠婴儿车边上放着一件像睡眠监测又像孵化器的外星装置。它使育儿、居住和安全焦虑在同一块混凝土地面上相遇。",
+      "prompt": "住宅地下车库电梯厅，混凝土柱，顶管，冷白荧光灯，地面标线，电梯门关闭，角落有折叠婴儿车和购物袋。婴儿车旁放着一个外星物品，像婴幼儿监测装置与孵化囊结合，材质为磨砂塑料、硅胶、细网格，低调不发光。拍摄风格像监控死角中的见证画面，现实、安静、令人不安，无可读文字，无logo，强调 housing、育儿、风险管理与日常化控制。"
     }
   ]
 }
