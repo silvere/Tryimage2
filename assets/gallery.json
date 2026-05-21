@@ -1,7 +1,7 @@
 {
   "site": {
     "title": "OpenAI image2 视觉实验",
-    "subtitle": "842 张传播向 AI 海报",
+    "subtitle": "857 张传播向 AI 海报",
     "headline": "OpenAI image2 视觉实验",
     "intro": "每一批图片围绕一个临时主题生成，并按当次最合适的 category 归档；可以是反差创意、真实场景、产品概念、人物叙事或任何新的视觉方向。",
     "coverImage": "assets/contact_sheet_image2.jpg",
@@ -294,6 +294,10 @@
     {
       "id": "travel-edc",
       "label": "高铁安检EDC"
+    },
+    {
+      "id": "alien-daily-life",
+      "label": "外星日常物品"
     }
   ],
   "batches": [
@@ -698,6 +702,12 @@
       "theme": "高铁安检托盘 EDC",
       "createdAt": "2026-05-19",
       "count": 12
+    },
+    {
+      "id": "alien-daily-life-editorial-2026-05-21",
+      "theme": "日常生活中的外星物品",
+      "createdAt": "2026-05-21",
+      "count": 15
     }
   ],
   "items": [
@@ -9947,6 +9957,171 @@
       "thumb": "assets/thumbs/high-speed-rail-security-tray-edc-2026-05-19/12_失眠旅人药片耳机托盘.png",
       "description": "药片、眼罩和耳机放在冷白灯下，有一种很强的都市阈值感。",
       "prompt": "Top-down cinematic editorial photograph of a high-speed rail security tray for an insomniac urban traveler: sleep mask, medicine blister pack, earbuds, e-reader, charger, wallet, mint tin, hand cream, cold fluorescent station light, threshold-space melancholy, sharp composition, visually arresting realism, no logos, no readable text."
+    },
+    {
+      "id": "alien-daily-life-editorial-2026-05-21_01_水槽里的呼吸球体",
+      "batch": "alien-daily-life-editorial-2026-05-21",
+      "category": "alien-daily-life",
+      "number": "01",
+      "title": "水槽里的呼吸球体",
+      "image": "assets/images/alien-daily-life-editorial-2026-05-21/01_水槽里的呼吸球体.png",
+      "thumb": "assets/thumbs/alien-daily-life-editorial-2026-05-21/01_水槽里的呼吸球体.png",
+      "description": "清晨厨房水槽中，一枚半透明外星球体浸在薄水层里，像海洋生物般缓慢起伏，与不锈钢餐具和残留水滴形成安静而诡异的对照。",
+      "prompt": "纪录片/编辑摄影风格，日常厨房场景，不锈钢水槽内放着一个半透明的外星球体，表面有细密生物纹理与微弱内发光，像在呼吸，周围是普通杯子、盘子、勺子与水滴，清晨冷色自然光，构图克制但具有强烈视觉冲击，真实材质，艺术气息浓厚，安静诡异，高级摄影质感，无文字，无logo，无科幻海报感"
+    },
+    {
+      "id": "alien-daily-life-editorial-2026-05-21_02_吐司机里的晶体面包",
+      "batch": "alien-daily-life-editorial-2026-05-21",
+      "category": "alien-daily-life",
+      "number": "02",
+      "title": "吐司机里的晶体面包",
+      "image": "assets/images/alien-daily-life-editorial-2026-05-21/02_吐司机里的晶体面包.png",
+      "thumb": "assets/thumbs/alien-daily-life-editorial-2026-05-21/02_吐司机里的晶体面包.png",
+      "description": "一台普通吐司机弹出的不是面包，而是一块具有矿物质感的外星组织，边缘焦黑、中心发出柔和异色光，像早餐中误闯的宇宙残片。",
+      "prompt": "普通家庭厨房台面，一台复古吐司机刚弹出一块外星物体，形态介于面包与晶体之间，表面焦化裂纹中透出蓝紫微光，周围有黄油刀、盘子、面包屑，纪录片式近景，编辑摄影，强烈视觉反差，生活化但陌生，真实光影，艺术化构图，无可读文字，无logo，无夸张未来武器元素"
+    },
+    {
+      "id": "alien-daily-life-editorial-2026-05-21_03_地铁扶手上的寄生种子",
+      "batch": "alien-daily-life-editorial-2026-05-21",
+      "category": "alien-daily-life",
+      "number": "03",
+      "title": "地铁扶手上的寄生种子",
+      "image": "assets/images/alien-daily-life-editorial-2026-05-21/03_地铁扶手上的寄生种子.png",
+      "thumb": "assets/thumbs/alien-daily-life-editorial-2026-05-21/03_地铁扶手上的寄生种子.png",
+      "description": "拥挤通勤车厢里，一个看似普通吊环扶手悄然被外星种子取代，柔软有机、带湿润反光，悬在日常疲惫的人群上方。",
+      "prompt": "城市地铁车厢内部，纪实摄影视角，普通吊环扶手中混入一个外星有机物体，形似种子与海胆结合，湿润半透明，低调悬挂在金属杆上，周围是模糊的通勤人群与日光灯，色调冷峻，具有编辑杂志封面质感，平凡空间中的强烈异物感，无文字，无logo，无赛博朋克海报感"
+    },
+    {
+      "id": "alien-daily-life-editorial-2026-05-21_04_人行横道旁的折叠外壳",
+      "batch": "alien-daily-life-editorial-2026-05-21",
+      "category": "alien-daily-life",
+      "number": "04",
+      "title": "人行横道旁的折叠外壳",
+      "image": "assets/images/alien-daily-life-editorial-2026-05-21/04_人行横道旁的折叠外壳.png",
+      "thumb": "assets/thumbs/alien-daily-life-editorial-2026-05-21/04_人行横道旁的折叠外壳.png",
+      "description": "雨后街角，一件像雨伞又像生物外骨骼的外星物品被遗落在斑马线边，黑白路面与虹彩壳面构成强烈冲突。",
+      "prompt": "雨后城市街头，人行横道边缘躺着一件外星折叠物，像伞骨、贝壳和昆虫外骨骼的结合体，表面有彩虹油膜般反光，旁边是积水、路缘石、普通鞋印，纪录片式街拍，编辑艺术摄影，高对比，潮湿空气，克制而震撼，无文字，无logo，无动作打斗"
+    },
+    {
+      "id": "alien-daily-life-editorial-2026-05-21_05_办公桌上的替代订书器",
+      "batch": "alien-daily-life-editorial-2026-05-21",
+      "category": "alien-daily-life",
+      "number": "05",
+      "title": "办公桌上的替代订书器",
+      "image": "assets/images/alien-daily-life-editorial-2026-05-21/05_办公桌上的替代订书器.png",
+      "thumb": "assets/thumbs/alien-daily-life-editorial-2026-05-21/05_办公桌上的替代订书器.png",
+      "description": "一张普通办公桌上，订书器的位置被一件骨质与金属混合的外星器物占据，像文具，也像古老遗骸，令人不安地合理。",
+      "prompt": "办公室桌面静物摄影，电脑键盘、咖啡杯、便签纸之间放着一个外星物件，体积如订书器，材质融合骨质、陶瓷与金属，结构精密又像生物器官，冷白办公灯与窗边自然光混合，纪录片/编辑风格，高级艺术静物，视觉冲击来自日常环境中的异常真实感，无文字，无logo"
+    },
+    {
+      "id": "alien-daily-life-editorial-2026-05-21_06_洗衣篮里的凝胶生物",
+      "batch": "alien-daily-life-editorial-2026-05-21",
+      "category": "alien-daily-life",
+      "number": "06",
+      "title": "洗衣篮里的凝胶生物",
+      "image": "assets/images/alien-daily-life-editorial-2026-05-21/06_洗衣篮里的凝胶生物.png",
+      "thumb": "assets/thumbs/alien-daily-life-editorial-2026-05-21/06_洗衣篮里的凝胶生物.png",
+      "description": "一堆待洗衣物中间，一枚像洗衣凝珠般鲜艳却明显具生命感的外星物体安静蜷缩，柔软、湿亮、危险而美丽。",
+      "prompt": "家庭洗衣房场景，塑料洗衣篮里堆满普通T恤、袜子、毛巾，中间有一个像洗衣凝珠但明显是外星生命体的物件，半透明凝胶外皮内有流动色彩，柔软湿润，微微发光，近距离纪实摄影，编辑风格，色彩冲击强，生活细节真实，无文字，无logo，无卡通感"
+    },
+    {
+      "id": "alien-daily-life-editorial-2026-05-21_07_便利店冷柜里的异星果实",
+      "batch": "alien-daily-life-editorial-2026-05-21",
+      "category": "alien-daily-life",
+      "number": "07",
+      "title": "便利店冷柜里的异星果实",
+      "image": "assets/images/alien-daily-life-editorial-2026-05-21/07_便利店冷柜里的异星果实.png",
+      "thumb": "assets/thumbs/alien-daily-life-editorial-2026-05-21/07_便利店冷柜里的异星果实.png",
+      "description": "冷柜货架上，一颗难以归类的外星果实混在普通即食食品之间，表面呈现皮肤、矿物与植物混合的奇异质地。",
+      "prompt": "便利店冷柜内部视角，普通包装食品与饮料之间放着一个未标识的外星果实，形状复杂，像海葵、石榴和矿石融合，表面湿润且有细微呼吸感，冰冷白光照明，纪录片式商品摄影但无任何可读标签，艺术化、高冲击、真实生活空间中的陌生物件，无文字，无logo"
+    },
+    {
+      "id": "alien-daily-life-editorial-2026-05-21_08_床头柜上的脉冲核心",
+      "batch": "alien-daily-life-editorial-2026-05-21",
+      "category": "alien-daily-life",
+      "number": "08",
+      "title": "床头柜上的脉冲核心",
+      "image": "assets/images/alien-daily-life-editorial-2026-05-21/08_床头柜上的脉冲核心.png",
+      "thumb": "assets/thumbs/alien-daily-life-editorial-2026-05-21/08_床头柜上的脉冲核心.png",
+      "description": "卧室床头柜上，闹钟位置被一个会周期性发光的外星核心替代，像在计算时间，也像在孵化什么。",
+      "prompt": "安静卧室夜晚场景，床头柜上放着一个外星核心装置，大小像闹钟，表面柔软金属与半透明膜层交叠，内部有规律脉冲光，旁边是眼镜、水杯、书本，低照度纪实摄影，编辑艺术风格，深色氛围与微光形成视觉冲击，真实而克制，无文字，无logo，无未来战舰元素"
+    },
+    {
+      "id": "alien-daily-life-editorial-2026-05-21_09_牙刷杯中的多节附肢",
+      "batch": "alien-daily-life-editorial-2026-05-21",
+      "category": "alien-daily-life",
+      "number": "09",
+      "title": "牙刷杯中的多节附肢",
+      "image": "assets/images/alien-daily-life-editorial-2026-05-21/09_牙刷杯中的多节附肢.png",
+      "thumb": "assets/thumbs/alien-daily-life-editorial-2026-05-21/09_牙刷杯中的多节附肢.png",
+      "description": "洗手台上的牙刷杯里，夹着一支看似牙刷却更像生物附肢的外星物品，潮湿瓷面与柔软节肢让日常清洁场景骤然失真。",
+      "prompt": "浴室洗手台近景，陶瓷牙刷杯中插着几支普通牙刷，其中一支被外星物件取代，像牙刷与节肢触须融合，材质半透明、柔韧、有细小纤毛，周围是镜面水渍、肥皂、瓷砖，冷白灯光，纪录片风格，艺术摄影，冲击力强但不夸张，无文字，无logo"
+    },
+    {
+      "id": "alien-daily-life-editorial-2026-05-21_10_公交座椅上的温热卵石",
+      "batch": "alien-daily-life-editorial-2026-05-21",
+      "category": "alien-daily-life",
+      "number": "10",
+      "title": "公交座椅上的温热卵石",
+      "image": "assets/images/alien-daily-life-editorial-2026-05-21/10_公交座椅上的温热卵石.png",
+      "thumb": "assets/thumbs/alien-daily-life-editorial-2026-05-21/10_公交座椅上的温热卵石.png",
+      "description": "一辆傍晚公交车空座上，放着一枚不起眼却明显不属于地球的卵石状物体，吸收着余温，仿佛刚刚被谁遗忘。",
+      "prompt": "傍晚公交车内部，织物座椅上孤零零放着一个外星卵石状物体，外观低调但近看有复杂生物纹路与微弱体温感，窗外城市灯光虚化，纪实摄影，编辑杂志风格，色调克制，平凡空间中的深度异样感，强烈视觉叙事，无文字，无logo"
+    },
+    {
+      "id": "alien-daily-life-editorial-2026-05-21_11_冰箱保鲜盒中的遗留器官",
+      "batch": "alien-daily-life-editorial-2026-05-21",
+      "category": "alien-daily-life",
+      "number": "11",
+      "title": "冰箱保鲜盒中的遗留器官",
+      "image": "assets/images/alien-daily-life-editorial-2026-05-21/11_冰箱保鲜盒中的遗留器官.png",
+      "thumb": "assets/thumbs/alien-daily-life-editorial-2026-05-21/11_冰箱保鲜盒中的遗留器官.png",
+      "description": "冰箱里透明保鲜盒中放着一件像剩菜又像外星器官的物体，冷光下呈现珍贵标本般的美感与不适感。",
+      "prompt": "家用冰箱内部，透明保鲜盒里装着一个外星物件，形态像器官、蘑菇和珊瑚的混合，表面带薄霜与凝结水珠，周围是普通蔬菜、鸡蛋、瓶罐，冰箱冷白光，纪录片式静物摄影，编辑艺术感强，真实生活化又极具视觉冲击，无文字，无logo"
+    },
+    {
+      "id": "alien-daily-life-editorial-2026-05-21_12_抽屉深处的记忆代币",
+      "batch": "alien-daily-life-editorial-2026-05-21",
+      "category": "alien-daily-life",
+      "number": "12",
+      "title": "抽屉深处的记忆代币",
+      "image": "assets/images/alien-daily-life-editorial-2026-05-21/12_抽屉深处的记忆代币.png",
+      "thumb": "assets/thumbs/alien-daily-life-editorial-2026-05-21/12_抽屉深处的记忆代币.png",
+      "description": "半开的办公抽屉里，在硬币、回形针和发票残角之间，躺着一枚带有湿润虹彩的外星代币，像被长期误认为普通杂物。",
+      "prompt": "半开的桌面抽屉特写，里面有普通零钱、回形针、电池、钥匙等日常小物，其中混着一枚外星代币，表面有虹彩薄膜和精细陌生纹理，像有机金属制成，暖色室内光与阴影并存，纪录片/编辑摄影，细节丰富，安静但震撼，无文字，无logo"
+    },
+    {
+      "id": "alien-daily-life-editorial-2026-05-21_13_晾衣绳上的异形夹子",
+      "batch": "alien-daily-life-editorial-2026-05-21",
+      "category": "alien-daily-life",
+      "number": "13",
+      "title": "晾衣绳上的异形夹子",
+      "image": "assets/images/alien-daily-life-editorial-2026-05-21/13_晾衣绳上的异形夹子.png",
+      "thumb": "assets/thumbs/alien-daily-life-editorial-2026-05-21/13_晾衣绳上的异形夹子.png",
+      "description": "居民楼天台上，一排普通衣夹中混入一只外星结构体，像在帮助固定床单，也像在悄悄附着、观察风向。",
+      "prompt": "居民楼屋顶晾衣区，风吹动床单与衬衫，晾衣绳上一排普通塑料夹子中有一个外星夹状物，结构像昆虫骨架与精密机械结合，表面哑光且有细小孔洞，午后强风与自然光，纪录片式城市生活摄影，编辑艺术感，高对比、极具视觉记忆点，无文字，无logo"
+    },
+    {
+      "id": "alien-daily-life-editorial-2026-05-21_14_电梯按键旁的蜕膜",
+      "batch": "alien-daily-life-editorial-2026-05-21",
+      "category": "alien-daily-life",
+      "number": "14",
+      "title": "电梯按键旁的蜕膜",
+      "image": "assets/images/alien-daily-life-editorial-2026-05-21/14_电梯按键旁的蜕膜.png",
+      "thumb": "assets/thumbs/alien-daily-life-editorial-2026-05-21/14_电梯按键旁的蜕膜.png",
+      "description": "写字楼电梯内壁上，按键面板旁贴附着一层薄薄的外星蜕膜，像日常空间中无人在意的秘密生长痕迹。",
+      "prompt": "现代写字楼电梯内部，不锈钢反光墙面与按键面板旁贴着一层外星蜕膜状物体，薄而半透明，边缘卷起，带有珍珠般色泽和生物纹理，空间干净克制，冷色灯光，纪录片式近景摄影，编辑艺术氛围，极简而高冲击，无文字，无logo"
+    },
+    {
+      "id": "alien-daily-life-editorial-2026-05-21_15_购物车里的共振节点",
+      "batch": "alien-daily-life-editorial-2026-05-21",
+      "category": "alien-daily-life",
+      "number": "15",
+      "title": "购物车里的共振节点",
+      "image": "assets/images/alien-daily-life-editorial-2026-05-21/15_购物车里的共振节点.png",
+      "thumb": "assets/thumbs/alien-daily-life-editorial-2026-05-21/15_购物车里的共振节点.png",
+      "description": "超市购物车底部滚着一枚外星节点，像廉价塑料玩具却散发精密生命感，与蔬菜、清洁用品和日常采购形成奇异共处。",
+      "prompt": "超市购物车俯视视角，车里有普通蔬菜、水果、清洁用品与纸袋，在角落里滚着一个外星节点装置，形态像多面体与海洋生物融合，材质介于塑料、玻璃和活体组织之间，超市顶灯明亮均匀，纪录片/编辑风格，生活化、艺术化、视觉冲击强，无文字，无logo，无夸张科幻武器感"
     }
   ]
 }
