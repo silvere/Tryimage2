@@ -1,0 +1,17 @@
+{
+  "batchId": "living-box-art-exhibition-2026-05-22",
+  "topicId": "2026-05-22-有生命的盒子艺术展",
+  "status": "pending",
+  "metadataPath": "batches/living-box-art-exhibition-2026-05-22.json",
+  "generatedImageDir": "tmp/living-box-art-exhibition-2026-05-22",
+  "sourceGenerationArtifact": "workflow/generation/done/living-box-art-exhibition-2026-05-22.json",
+  "github": {
+    "status": "pending"
+  },
+  "xiaohongshu": {
+    "status": "pending"
+  },
+  "createdAt": "2026-05-22T06:10:14.736Z",
+  "updatedAt": "2026-05-22T06:10:14.736Z",
+  "notes": []
+}

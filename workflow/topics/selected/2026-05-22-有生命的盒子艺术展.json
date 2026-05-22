@@ -1,0 +1,41 @@
+{
+  "id": "2026-05-22-有生命的盒子艺术展",
+  "createdAt": "2026-05-22T05:43:47.028Z",
+  "source": "manual/cli",
+  "title": "有生命的盒子艺术展",
+  "lane": "visual-art",
+  "keywords": [
+    "盒子",
+    "呼吸",
+    "展览",
+    "装置",
+    "生命感"
+  ],
+  "rationale": "",
+  "status": "selected",
+  "generation": {
+    "status": "done",
+    "batchId": "living-box-art-exhibition-2026-05-22",
+    "metadataPath": "batches/living-box-art-exhibition-2026-05-22.json",
+    "generatedImageDir": "tmp/living-box-art-exhibition-2026-05-22",
+    "artifactPath": "workflow/generation/done/living-box-art-exhibition-2026-05-22.json",
+    "itemCount": 15,
+    "category": "living-box-art-exhibition",
+    "categoryLabel": "有生命的盒子艺术展",
+    "spec": null,
+    "lastError": null,
+    "updatedAt": "2026-05-22T06:10:14.737Z",
+    "startedAt": "2026-05-22T05:44:01.815Z",
+    "completedAt": "2026-05-22T06:10:14.734Z"
+  },
+  "publish": {
+    "status": "pending",
+    "github": {
+      "status": "pending"
+    },
+    "xiaohongshu": {
+      "status": "pending"
+    }
+  },
+  "notes": []
+}

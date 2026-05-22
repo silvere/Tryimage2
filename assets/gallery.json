@@ -1,7 +1,7 @@
 {
   "site": {
     "title": "OpenAI image2 视觉实验",
-    "subtitle": "872 张传播向 AI 海报",
+    "subtitle": "887 张传播向 AI 海报",
     "headline": "OpenAI image2 视觉实验",
     "intro": "每一批图片围绕一个临时主题生成，并按当次最合适的 category 归档；可以是反差创意、真实场景、产品概念、人物叙事或任何新的视觉方向。",
     "coverImage": "assets/contact_sheet_image2.jpg",
@@ -298,6 +298,10 @@
     {
       "id": "alien-daily-life",
       "label": "外星日常物品"
+    },
+    {
+      "id": "living-box-art-exhibition",
+      "label": "有生命的盒子艺术展"
     }
   ],
   "batches": [
@@ -713,6 +717,12 @@
       "id": "alien-daily-life-cold-witness-2026-05-21",
       "theme": "日常生活中的外星物品",
       "createdAt": "2026-05-21",
+      "count": 15
+    },
+    {
+      "id": "living-box-art-exhibition-2026-05-22",
+      "theme": "有生命的盒子艺术展",
+      "createdAt": "2026-05-22",
       "count": 15
     }
   ],
@@ -10293,6 +10303,171 @@
       "thumb": "assets/thumbs/alien-daily-life-cold-witness-2026-05-21/15_地下车库婴儿车旁的静默体.png",
       "description": "住宅地下车库电梯前，折叠婴儿车边上放着一件像睡眠监测又像孵化器的外星装置。它使育儿、居住和安全焦虑在同一块混凝土地面上相遇。",
       "prompt": "住宅地下车库电梯厅，混凝土柱，顶管，冷白荧光灯，地面标线，电梯门关闭，角落有折叠婴儿车和购物袋。婴儿车旁放着一个外星物品，像婴幼儿监测装置与孵化囊结合，材质为磨砂塑料、硅胶、细网格，低调不发光。拍摄风格像监控死角中的见证画面，现实、安静、令人不安，无可读文字，无logo，强调 housing、育儿、风险管理与日常化控制。"
+    },
+    {
+      "id": "living-box-art-exhibition-2026-05-22_01_入口处的红色脉搏箱",
+      "batch": "living-box-art-exhibition-2026-05-22",
+      "category": "living-box-art-exhibition",
+      "number": "01",
+      "title": "入口处的红色脉搏箱",
+      "image": "assets/images/living-box-art-exhibition-2026-05-22/01_入口处的红色脉搏箱.png",
+      "thumb": "assets/thumbs/living-box-art-exhibition-2026-05-22/01_入口处的红色脉搏箱.png",
+      "description": "白盒子展厅入口中央，一只鲜红运输箱像心脏一样缓慢起伏，箱角金属件与柔软皮膜交界处泛着湿亮反光，第一眼就像活物。",
+      "prompt": "当代艺术馆白盒子展厅入口，中央摆放一只大型红色运输木箱，外形方正但表面像在呼吸起伏，箱体缝隙中透出温热红光，金属包角与柔软半透明生物皮膜融合，地面有淡淡反射，纪录片式编辑摄影，极强视觉冲击，冷静高级，真实材质，无文字，无logo，无游客摆拍感"
+    },
+    {
+      "id": "living-box-art-exhibition-2026-05-22_02_堆叠箱塔的脊柱",
+      "batch": "living-box-art-exhibition-2026-05-22",
+      "category": "living-box-art-exhibition",
+      "number": "02",
+      "title": "堆叠箱塔的脊柱",
+      "image": "assets/images/living-box-art-exhibition-2026-05-22/02_堆叠箱塔的脊柱.png",
+      "thumb": "assets/thumbs/living-box-art-exhibition-2026-05-22/02_堆叠箱塔的脊柱.png",
+      "description": "几只被垒到天花板下的旧纸箱在中缝处长出整齐脊柱，像建筑结构忽然拥有了脊椎和姿态。",
+      "prompt": "高挑当代美术馆展厅，几只旧纸箱和木箱被垒成高塔，箱体之间的缝隙长出规则脊柱般结构，像骨骼把箱子连接成一个站立生命体，顶光冷白，空间极简，尺度震撼，编辑杂志封面摄影，真实灰尘与磨损细节，无文字，无logo，无科幻海报字样"
+    },
+    {
+      "id": "living-box-art-exhibition-2026-05-22_03_透明孵化箱",
+      "batch": "living-box-art-exhibition-2026-05-22",
+      "category": "living-box-art-exhibition",
+      "number": "03",
+      "title": "透明孵化箱",
+      "image": "assets/images/living-box-art-exhibition-2026-05-22/03_透明孵化箱.png",
+      "thumb": "assets/thumbs/living-box-art-exhibition-2026-05-22/03_透明孵化箱.png",
+      "description": "一只亚克力展示盒内部漂浮着尚未完全定型的小盒子胚胎，像产品陈列和生物培养之间的危险混血。",
+      "prompt": "艺术展览中的透明亚克力展示盒，内部漂浮着几个半成型的小盒子胚胎，边角像包装盒，表面却有柔软膜层和微弱血管纹理，底部冷白灯带照亮液体与凝结水珠，未来感但真实，编辑艺术摄影，极具视觉冲击，无文字，无logo，无实验室科普面板"
+    },
+    {
+      "id": "living-box-art-exhibition-2026-05-22_04_墙上的纸壳蜕皮",
+      "batch": "living-box-art-exhibition-2026-05-22",
+      "category": "living-box-art-exhibition",
+      "number": "04",
+      "title": "墙上的纸壳蜕皮",
+      "image": "assets/images/living-box-art-exhibition-2026-05-22/04_墙上的纸壳蜕皮.png",
+      "thumb": "assets/thumbs/living-box-art-exhibition-2026-05-22/04_墙上的纸壳蜕皮.png",
+      "description": "整面展墙被一层卷起的纸壳蜕膜覆盖，像快递箱表皮刚刚从墙体上脱落，留下潮湿而新鲜的纤维组织。",
+      "prompt": "白色艺术馆墙面大面积覆盖卷起的纸壳蜕膜，材质像瓦楞纸板与生物皮肤结合，边缘翘起，内部纤维湿润新鲜，墙脚有掉落碎屑，侧光强调层次和触感，纪录片式当代艺术摄影，简洁克制但强烈不适和美感并存，无文字，无logo"
+    },
+    {
+      "id": "living-box-art-exhibition-2026-05-22_05_玻璃柜里的低语抽屉",
+      "batch": "living-box-art-exhibition-2026-05-22",
+      "category": "living-box-art-exhibition",
+      "number": "05",
+      "title": "玻璃柜里的低语抽屉",
+      "image": "assets/images/living-box-art-exhibition-2026-05-22/05_玻璃柜里的低语抽屉.png",
+      "thumb": "assets/thumbs/living-box-art-exhibition-2026-05-22/05_玻璃柜里的低语抽屉.png",
+      "description": "一只半开的抽屉盒被单独陈列在玻璃柜中，里面密密排列的小隔间像嘴一样微张，仿佛在低声交流。",
+      "prompt": "玻璃展示柜内部，一只古老抽屉盒半开，内部多个小格像一排排微张的嘴，木质与柔软组织细节混合，微湿反光，展柜冷光与环境暗部形成戏剧反差，近景编辑摄影，诡异、精致、极具收藏感，无文字，无logo，无说明牌特写"
+    },
+    {
+      "id": "living-box-art-exhibition-2026-05-22_06_黑箱的眼缝",
+      "batch": "living-box-art-exhibition-2026-05-22",
+      "category": "living-box-art-exhibition",
+      "number": "06",
+      "title": "黑箱的眼缝",
+      "image": "assets/images/living-box-art-exhibition-2026-05-22/06_黑箱的眼缝.png",
+      "thumb": "assets/thumbs/living-box-art-exhibition-2026-05-22/06_黑箱的眼缝.png",
+      "description": "一只纯黑展箱静静悬在空中，正面只有一道细缝，缝内一排湿润眼状结构若隐若现，让整个空间立刻安静下来。",
+      "prompt": "黑色独立展厅中，一只悬浮的纯黑方盒安静停在半空，盒面只有一道极细长缝，内部隐约可见一排湿润眼状结构和微弱反光，空间深暗，聚光灯精准照射，极简而高冲击，艺术馆摄影，真实材质，无文字，无logo，无恐怖片夸张效果"
+    },
+    {
+      "id": "living-box-art-exhibition-2026-05-22_07_托盘上试图爬行的木箱",
+      "batch": "living-box-art-exhibition-2026-05-22",
+      "category": "living-box-art-exhibition",
+      "number": "07",
+      "title": "托盘上试图爬行的木箱",
+      "image": "assets/images/living-box-art-exhibition-2026-05-22/07_托盘上试图爬行的木箱.png",
+      "thumb": "assets/thumbs/living-box-art-exhibition-2026-05-22/07_托盘上试图爬行的木箱.png",
+      "description": "仓储托盘上的木箱底部悄悄长出短促的肢节，像在搬运结束后终于决定自己离开展位。",
+      "prompt": "美术馆工业风副展厅，一只旧木箱放在仓储托盘上，箱底悄悄长出短小节肢和细小轮状关节，像正在试探爬行，地面有运输痕迹和粉尘，顶灯硬朗，纪录片式编辑摄影，艺术展与后台仓储混合质感，视觉冲击强，无文字，无logo"
+    },
+    {
+      "id": "living-box-art-exhibition-2026-05-22_08_礼盒里开出的组织花",
+      "batch": "living-box-art-exhibition-2026-05-22",
+      "category": "living-box-art-exhibition",
+      "number": "08",
+      "title": "礼盒里开出的组织花",
+      "image": "assets/images/living-box-art-exhibition-2026-05-22/08_礼盒里开出的组织花.png",
+      "thumb": "assets/thumbs/living-box-art-exhibition-2026-05-22/08_礼盒里开出的组织花.png",
+      "description": "一只系着缎带的礼盒被打开后，不是礼物而是层层翻卷的组织花，甜美包装和生物质地的冲突异常强烈。",
+      "prompt": "纯白展台上一只精致礼盒被打开，里面不是礼物而是层层翻卷绽放的生物组织花，材质介于丝绸、珊瑚和内脏之间，缎带仍保持完美，柔和聚光灯下画面甜美却诡异，编辑艺术摄影，极具视觉冲击，无文字，无logo，无珠宝广告感"
+    },
+    {
+      "id": "living-box-art-exhibition-2026-05-22_09_档案盒的呼吸标签",
+      "batch": "living-box-art-exhibition-2026-05-22",
+      "category": "living-box-art-exhibition",
+      "number": "09",
+      "title": "档案盒的呼吸标签",
+      "image": "assets/images/living-box-art-exhibition-2026-05-22/09_档案盒的呼吸标签.png",
+      "thumb": "assets/thumbs/living-box-art-exhibition-2026-05-22/09_档案盒的呼吸标签.png",
+      "description": "整齐排放的档案盒看似理性克制，只有标签位像鳃一样一张一合，把管理秩序变成了活体秩序。",
+      "prompt": "极简档案主题展区，整齐货架上排列许多浅灰档案盒，盒侧标签插槽像鳃一样在微微开合呼吸，局部有细小湿润纹理，冷白灯、秩序感强、构图严谨，纪实与艺术之间，强视觉记忆点，无文字，无logo，无办公海报感"
+    },
+    {
+      "id": "living-box-art-exhibition-2026-05-22_10_儿童尺寸的箱巢",
+      "batch": "living-box-art-exhibition-2026-05-22",
+      "category": "living-box-art-exhibition",
+      "number": "10",
+      "title": "儿童尺寸的箱巢",
+      "image": "assets/images/living-box-art-exhibition-2026-05-22/10_儿童尺寸的箱巢.png",
+      "thumb": "assets/thumbs/living-box-art-exhibition-2026-05-22/10_儿童尺寸的箱巢.png",
+      "description": "地面角落摆着一只足够容纳孩子蜷缩进去的大纸箱，内部铺满柔软纤维和温热光，像诱人的巢穴。",
+      "prompt": "美术馆角落，一只儿童尺寸的大纸箱敞开摆放，内部铺满柔软纤维、棉絮状生物组织和温热琥珀色微光，入口边缘有磨损和抓痕，像箱子自己长成一个巢穴，空间安静，纪录片式摄影，强烈故事感和视觉冲击，无文字，无logo，无真实儿童出现"
+    },
+    {
+      "id": "living-box-art-exhibition-2026-05-22_11_镜面箱的自画像",
+      "batch": "living-box-art-exhibition-2026-05-22",
+      "category": "living-box-art-exhibition",
+      "number": "11",
+      "title": "镜面箱的自画像",
+      "image": "assets/images/living-box-art-exhibition-2026-05-22/11_镜面箱的自画像.png",
+      "thumb": "assets/thumbs/living-box-art-exhibition-2026-05-22/11_镜面箱的自画像.png",
+      "description": "一只镜面不锈钢盒子映出展厅和观者的碎片倒影，但盒面中央像肌肉一样鼓起，好像它也在观看外面。",
+      "prompt": "当代艺术展厅中，一只镜面不锈钢方盒单独陈列，表面映出破碎展厅倒影，盒面中央却像肌肉般微微鼓起并形成注视感，镜面有细小指纹与冷光反射，极简、高级、极具视觉冲击，编辑摄影，无文字，无logo，无明确人脸主体"
+    },
+    {
+      "id": "living-box-art-exhibition-2026-05-22_12_蓝色血管的快递箱",
+      "batch": "living-box-art-exhibition-2026-05-22",
+      "category": "living-box-art-exhibition",
+      "number": "12",
+      "title": "蓝色血管的快递箱",
+      "image": "assets/images/living-box-art-exhibition-2026-05-22/12_蓝色血管的快递箱.png",
+      "thumb": "assets/thumbs/living-box-art-exhibition-2026-05-22/12_蓝色血管的快递箱.png",
+      "description": "一只普通牛皮快递箱被挂在墙上，纸板纤维下透出整片蓝色脉络，像物流系统忽然暴露了自己的生命体征。",
+      "prompt": "白墙上单独悬挂一只普通牛皮纸快递箱，瓦楞纸板下清晰浮现大片蓝色血管状脉络，局部微微发光，角部胶带与纸纤维真实可见，艺术馆挂墙陈列方式，冷静高对比，视觉冲击强，编辑摄影，无文字，无logo，无快递品牌标识"
+    },
+    {
+      "id": "living-box-art-exhibition-2026-05-22_13_从天花板倒挂的箱根",
+      "batch": "living-box-art-exhibition-2026-05-22",
+      "category": "living-box-art-exhibition",
+      "number": "13",
+      "title": "从天花板倒挂的箱根",
+      "image": "assets/images/living-box-art-exhibition-2026-05-22/13_从天花板倒挂的箱根.png",
+      "thumb": "assets/thumbs/living-box-art-exhibition-2026-05-22/13_从天花板倒挂的箱根.png",
+      "description": "一串小盒子从天花板垂下，彼此之间靠肉质根系连接，像倒挂植物又像集体神经系统。",
+      "prompt": "高天花艺术馆空间，一串不同尺寸的小盒子从天花板倒挂垂落，彼此之间被肉质根系和细小纤维连接，形成垂直雕塑，顶光和阴影制造巨大空间张力，极具装置艺术感与生命感，编辑摄影，强视觉冲击，无文字，无logo"
+    },
+    {
+      "id": "living-box-art-exhibition-2026-05-22_14_开箱后的肺叶",
+      "batch": "living-box-art-exhibition-2026-05-22",
+      "category": "living-box-art-exhibition",
+      "number": "14",
+      "title": "开箱后的肺叶",
+      "image": "assets/images/living-box-art-exhibition-2026-05-22/14_开箱后的肺叶.png",
+      "thumb": "assets/thumbs/living-box-art-exhibition-2026-05-22/14_开箱后的肺叶.png",
+      "description": "运输箱被撬开后，里面不是作品而是一对缓慢鼓胀的半透明肺叶，像呼吸本身被当作展品送达。",
+      "prompt": "当代艺术展后台和展厅交界处，一只被撬开的运输木箱内部躺着一对巨大半透明肺叶状结构，随呼吸缓慢起伏，箱内衬布、木屑、金属钉真实可见，冷白环境光与内部柔光形成对比，纪录片式编辑摄影，震撼但克制，无文字，无logo，无血腥感"
+    },
+    {
+      "id": "living-box-art-exhibition-2026-05-22_15_出口走廊的心跳盒群",
+      "batch": "living-box-art-exhibition-2026-05-22",
+      "category": "living-box-art-exhibition",
+      "number": "15",
+      "title": "出口走廊的心跳盒群",
+      "image": "assets/images/living-box-art-exhibition-2026-05-22/15_出口走廊的心跳盒群.png",
+      "thumb": "assets/thumbs/living-box-art-exhibition-2026-05-22/15_出口走廊的心跳盒群.png",
+      "description": "临近出口的狭长走廊两侧摆满尺寸不同的盒子，它们同时轻轻搏动，让离开展览这件事本身也变得不稳定。",
+      "prompt": "艺术展出口走廊，两侧整齐摆放许多不同尺寸的盒子，所有盒面都在极轻微同步搏动，像一整条走廊拥有共同心跳，地面抛光反射，透视感强，冷色顶灯，最后一幕般的强烈视觉冲击，纪录片式高级摄影，无文字，无logo，无观众密集场景"
     }
   ]
 }
