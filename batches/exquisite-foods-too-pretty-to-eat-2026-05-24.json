@@ -1,0 +1,127 @@
+{
+  "theme": "那些精美到不舍得吃掉的美食",
+  "batchId": "exquisite-foods-too-pretty-to-eat-2026-05-24",
+  "createdAt": "2026-05-24T09:34:49.744517",
+  "items": [
+    {
+      "source": "01_sakura_mochi_glass_box.png",
+      "category": "dessert",
+      "categoryLabel": "甜品",
+      "title": "樱花麻薯玻璃盒",
+      "description": "透明玻璃盒里盛放的樱花麻薯，淡粉色外皮透出纹理，点缀新鲜樱花花瓣，撒上细碎金箔，旁边放着银质小叉，光影柔和，氛围感拉满",
+      "prompt": "realistic commercial food photography, delicate sakura mochi in clear glass box, pale pink translucent skin with visible texture, fresh cherry blossom petals on top, sprinkled with fine gold foil, silver tiny fork beside, soft warm window light, shallow depth of field, high detail, 8k, no text, no logos"
+    },
+    {
+      "source": "02_jellyfish_sashimi_platter.png",
+      "category": "seafood",
+      "categoryLabel": "海鲜",
+      "title": "水母刺身拼盘",
+      "description": "像透明艺术品一样的水母刺身，摆放在碎冰上，泛着淡蓝色珠光，周围点缀可食用的蓝色蝶豆花和银箔，像把整片大海盛在了盘子里",
+      "prompt": "high-end Japanese food photography, transparent jellyfish sashimi platter on crushed ice, pearlescent light blue iridescent surface, decorated with edible blue butterfly pea flowers and silver foil, looks like a piece of ocean art, cool blue lighting, high contrast, ultra clear details, 8k, no text, no logos"
+    },
+    {
+      "source": "03_edible_flower_macaron_tower.png",
+      "category": "dessert",
+      "categoryLabel": "甜品",
+      "title": "可食用花马卡龙塔",
+      "description": "马卡龙塔每一层都夹着不同颜色的奶油，缝隙里插满了小雏菊、满天星等可食用鲜花，顶部是镀金的小皇冠，放在大理石台面上，阳光斜射",
+      "prompt": "luxury dessert photography, macaron tower with pastel color shells, each layer filled with different colored cream, gaps filled with edible daisies, baby's breath and other small flowers, gold-plated tiny crown on top, placed on white marble countertop, warm golden hour sunlight, soft shadows, 8k, high detail, no text, no logos"
+    },
+    {
+      "source": "04_crystal_glutinous_rice_dumpling.png",
+      "category": "chinese",
+      "categoryLabel": "中式点心",
+      "title": "水晶冰粽",
+      "description": "完全透明的水晶冰粽，能清晰看到里面包裹的芒果、草莓、抹茶馅，放在碎冰铺成的盘子里，旁边摆着新鲜薄荷叶，凉丝丝的夏日感拉满",
+      "prompt": "summer Chinese dessert photography, fully transparent crystal glutinous rice dumplings, clear view of mango, strawberry, matcha fillings inside, placed on plate with crushed ice, fresh mint leaves beside, cool cyan tone lighting, high transparency texture, super clear details, 8k, no text, no logos"
+    },
+    {
+      "source": "05_foie_gras_rose_canapes.png",
+      "category": "western",
+      "categoryLabel": "西式前菜",
+      "title": "鹅肝玫瑰小食",
+      "description": "把鹅肝做成玫瑰花瓣的形状，层层叠叠放在烤得酥脆的吐司片上，撒上可食用的红色树莓粉和金箔，旁边点缀新鲜树莓，精致到像艺术品",
+      "prompt": "high-end western cuisine photography, foie gras made into rose petal shapes, layered on crispy toasted bread slices, sprinkled with edible red raspberry powder and gold foil, fresh raspberries beside, soft warm lighting, shallow depth of field, ultra realistic texture, 8k, no text, no logos"
+    },
+    {
+      "source": "06_peach_blossom_wine_jelly.png",
+      "category": "drink",
+      "categoryLabel": "饮品",
+      "title": "桃花酒冻",
+      "description": "盛在仿古白瓷小碗里的桃花酒冻，淡粉色半透明，里面凝固着完整的桃花瓣，表面撒上细碎的干桂花，旁边放着银质小勺，古风氛围感拉满",
+      "prompt": "traditional Chinese drink photography, peach blossom wine jelly in antique white porcelain bowl, pale pink translucent with whole peach blossom petals frozen inside, sprinkled with dried osmanthus on top, silver tiny spoon beside, soft warm ambient light, traditional Chinese style background, 8k, no text, no logos"
+    },
+    {
+      "source": "07_rainbow_sushi_roll_platter.png",
+      "category": "japanese",
+      "categoryLabel": "日料",
+      "title": "彩虹寿司卷拼盘",
+      "description": "七种颜色的彩虹寿司卷，每一层分别铺着牛油果、三文鱼、芒果、蟹籽、金枪鱼、黄瓜、玉子烧，整齐摆放在黑色石板上，旁边点缀青芥末和日式酱油小碟",
+      "prompt": "vibrant Japanese food photography, rainbow sushi rolls in 7 colors, each layer topped with avocado, salmon, mango, caviar, tuna, cucumber, tamagoyaki, neatly arranged on black slate plate, wasabi and tiny soy sauce dish beside, bright natural lighting, high color saturation, 8k, no text, no logos"
+    },
+    {
+      "source": "08_edible_gold_leaf_mooncake.png",
+      "category": "chinese",
+      "categoryLabel": "中式点心",
+      "title": "金箔流心月饼",
+      "description": "外皮烤得金黄油亮的流心月饼，表面贴了一层可食用金箔，切开一角露出缓缓流出的奶黄流心，放在红木小托盘中，旁边摆着半杯普洱茶，中秋氛围感拉满",
+      "prompt": "traditional Chinese mid-autumn dessert photography, golden baked mooncake with edible gold leaf on surface, cut open to show flowing creamy custard filling, placed on small red wood tray, half cup of pu'er tea beside, warm golden lighting, soft shadows, 8k, no text, no logos"
+    },
+    {
+      "source": "09_butterfly_pea_flower_mousse.png",
+      "category": "dessert",
+      "categoryLabel": "甜品",
+      "title": "蝶豆花星空慕斯",
+      "description": "渐变蓝紫色的蝶豆花慕斯，表面撒着可食用的银粉，像布满星星的夜空，顶层放着一片糖做的透明蝴蝶装饰，放在黑色镜面餐盘上，神秘又精致",
+      "prompt": "creative dessert photography, gradient blue-purple butterfly pea flower mousse, surface sprinkled with edible silver powder looks like starry night sky, transparent sugar butterfly decoration on top, placed on black mirror plate, cool blue-purple ambient lighting, high detail, 8k, no text, no logos"
+    },
+    {
+      "source": "10_cherry_blossom_bento_box.png",
+      "category": "japanese",
+      "categoryLabel": "日式便当",
+      "title": "樱花便当盒",
+      "description": "粉色樱花造型的便当盒里，整齐摆放着做成樱花形状的饭团、粉色玉子烧、小番茄做成的兔子、蔬菜沙拉，每一样都像小工艺品，舍不得下口",
+      "prompt": "cute Japanese bento photography, pink cherry blossom shaped bento box, neatly arranged sakura shaped rice balls, pink tamagoyaki, tomato rabbits, vegetable salad, every item looks like tiny craft, soft warm natural light, pastel color palette, 8k, no text, no logos"
+    },
+    {
+      "source": "11_edible_flower_salad_bowl.png",
+      "category": "healthy",
+      "categoryLabel": "轻食",
+      "title": "可食用花沙拉碗",
+      "description": "透明玻璃碗里的沙拉，混合了芝麻菜、牛油果、无花果、草莓，表面铺满了五颜六色的可食用鲜花，撒上帕玛森芝士碎和少量黑胡椒，健康又好看",
+      "prompt": "fresh healthy food photography, salad in clear glass bowl, mixed arugula, avocado, figs, strawberries, surface full of colorful edible flowers, sprinkled with parmesan cheese and black pepper, bright natural window light, vibrant colors, 8k, no text, no logos"
+    },
+    {
+      "source": "12_gold_leaf_chocolate_truffle_box.png",
+      "category": "dessert",
+      "categoryLabel": "甜品",
+      "title": "金箔松露巧克力礼盒",
+      "description": "黑色丝绒礼盒里的12颗松露巧克力，每颗都裹着不同的涂层：可可粉、抹茶粉、草莓粉、金箔，表面做了不同的纹理，像一盒精致的珠宝",
+      "prompt": "luxury chocolate photography, 12 truffle chocolates in black velvet gift box, each coated with different toppings: cocoa powder, matcha powder, strawberry powder, gold foil, different textures on surface, looks like a box of fine jewelry, soft warm lighting, shallow depth of field, 8k, no text, no logos"
+    },
+    {
+      "source": "13_osmanthus_crystal_cake.png",
+      "category": "chinese",
+      "categoryLabel": "中式点心",
+      "title": "桂花水晶糕",
+      "description": "半透明的桂花水晶糕，里面均匀分布着金黄色的干桂花，切成整齐的小方块，放在白瓷盘上，旁边摆着一小碟桂花蜜，温润的江南点心质感",
+      "prompt": "traditional Chinese dessert photography, semi-transparent osmanthus crystal cake, evenly distributed golden dried osmanthus inside, cut into neat small squares, placed on white porcelain plate, small dish of osmanthus honey beside, soft warm lighting, gentle texture, 8k, no text, no logos"
+    },
+    {
+      "source": "14_unicorn_rainbow_crepe_cake.png",
+      "category": "dessert",
+      "categoryLabel": "甜品",
+      "title": "独角兽彩虹千层蛋糕",
+      "description": "切开的彩虹千层蛋糕，能清晰看到20层不同颜色的薄饼和奶油，顶层做了独角兽的角和耳朵装饰，撒上彩虹糖珠，放在粉色大理石台面上，少女心拉满",
+      "prompt": "dreamy dessert photography, sliced rainbow crepe cake, clear view of 20 layers of different colored thin crepes and cream, unicorn horn and ears decoration on top, sprinkled with rainbow sugar beads, placed on pink marble countertop, soft pastel color tone, warm lighting, 8k, no text, no logos"
+    },
+    {
+      "source": "15_edible_flower_iced_coffee.png",
+      "category": "drink",
+      "categoryLabel": "饮品",
+      "title": "鲜花冰咖啡",
+      "description": "透明玻璃杯中装着冰拿铁，表面漂浮着几朵可食用的小雏菊和薄荷叶，冰块里还冻着小朵的满天星，阳光穿过杯子折射出好看的光斑，夏日氛围感拉满",
+      "prompt": "summer drink photography, iced latte in clear glass, floating edible daisies and mint leaves on top, baby's breath flowers frozen inside ice cubes, sunlight passing through glass creates beautiful light spots, bright natural lighting, cool tone, 8k, no text, no logos"
+    }
+  ]
+}
