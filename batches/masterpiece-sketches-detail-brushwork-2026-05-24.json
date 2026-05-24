@@ -1,0 +1,127 @@
+{
+  "theme": "那些素描的神作，细节和笔触的直接展示",
+  "batchId": "masterpiece-sketches-detail-brushwork-2026-05-24",
+  "createdAt": "2026-05-24T17:20:50.622126",
+  "items": [
+    {
+      "source": "01_old_man_wrinkles_graphite.png",
+      "category": "sketch-art",
+      "categoryLabel": "素描神作",
+      "title": "皱纹老人像",
+      "description": "超近距离的人像素描，深刻皱纹、皮肤纹理与铅笔排线都被直接放大展示。",
+      "prompt": "masterpiece graphite sketch artwork, extreme close-up portrait of an old man, deeply detailed wrinkles, pores, cheekbones, expressive eyes, visible graphite pencil strokes and layered hatching, paper grain clearly visible, dramatic light and shadow, hand-drawn realism, no text, no logos"
+    },
+    {
+      "source": "02_ballerina_tulle_motion_sketch.png",
+      "category": "sketch-art",
+      "categoryLabel": "素描神作",
+      "title": "芭蕾舞者纱裙",
+      "description": "舞者旋转瞬间的素描，纱裙层层叠叠，柔软线条和爆发动作感一起出现。",
+      "prompt": "masterpiece pencil sketch, ballerina spinning in motion, layered tulle skirt rendered with delicate graphite strokes, graceful body tension, visible hand-drawn gesture lines, mix of soft shading and sharp contour lines, paper texture, highly detailed, no text, no logos"
+    },
+    {
+      "source": "03_horse_eye_and_muscle_study.png",
+      "category": "sketch-art",
+      "categoryLabel": "素描神作",
+      "title": "骏马眼神与肌肉",
+      "description": "马头与颈部肌肉的素描研究，毛发、眼神、骨骼起伏和铅笔转折都极清晰。",
+      "prompt": "fine art graphite study, close-up horse head and neck, powerful muscles, glossy eye, visible mane texture, detailed anatomical sketching, rich pencil hatching and cross-hatching, dramatic realism, paper grain visible, no text, no logos"
+    },
+    {
+      "source": "04_broken_marble_hand_sketch.png",
+      "category": "sketch-art",
+      "categoryLabel": "素描神作",
+      "title": "断裂石膏手",
+      "description": "一只断裂石膏手的学院派素描，明暗关系和结构排线像教科书一样精准。",
+      "prompt": "academic graphite drawing masterpiece, broken plaster hand study, classical atelier style, precise structure, dramatic chiaroscuro, visible construction lines and refined shading, paper texture, extremely detailed pencil marks, no text, no logos"
+    },
+    {
+      "source": "05_wet_hair_young_woman_sketch.png",
+      "category": "sketch-art",
+      "categoryLabel": "素描神作",
+      "title": "湿发少女像",
+      "description": "少女脸部与湿发的写实素描，发丝一缕缕贴在脸侧，细腻又充满呼吸感。",
+      "prompt": "hyper-realistic pencil sketch portrait, young woman with wet hair strands on face, delicate skin tones translated into graphite values, visible pencil strokes, subtle eyelashes, realistic lips and wet hair texture, paper grain and shading transitions, no text, no logos"
+    },
+    {
+      "source": "06_tiger_fur_roar_sketch.png",
+      "category": "sketch-art",
+      "categoryLabel": "素描神作",
+      "title": "猛虎咆哮毛发",
+      "description": "猛虎张口咆哮的近景素描，牙齿、胡须和毛发细节极致密集，视觉冲击很强。",
+      "prompt": "powerful graphite animal sketch, roaring tiger close-up, detailed fur, whiskers, teeth and open mouth, dynamic contrast, aggressive energy, visible layered pencil marks and textured paper, ultra detailed hand-drawn realism, no text, no logos"
+    },
+    {
+      "source": "07_antique_camera_mechanical_sketch.png",
+      "category": "sketch-art",
+      "categoryLabel": "素描神作",
+      "title": "老相机机械细节",
+      "description": "复古相机静物素描，镜头环、刻度、金属磨损和排线节奏都展示得非常过瘾。",
+      "prompt": "masterpiece still life pencil sketch, antique camera with lens rings, engraved dials, metallic wear and screws, precise technical detail, rich hatching and crosshatching, strong material rendering, visible paper texture, no text, no logos"
+    },
+    {
+      "source": "08_clenched_hand_veins_sketch.png",
+      "category": "sketch-art",
+      "categoryLabel": "素描神作",
+      "title": "握紧的手与青筋",
+      "description": "一只用力握紧的手，关节、青筋与肌腱被极其细致地画出，力量感直接扑面而来。",
+      "prompt": "dramatic graphite hand study, clenched fist with visible veins, tendons, knuckles and skin folds, strong directional light, anatomical precision, layered pencil shading and construction lines, hand-drawn realism, no text, no logos"
+    },
+    {
+      "source": "09_city_alley_rain_sketch.png",
+      "category": "sketch-art",
+      "categoryLabel": "素描神作",
+      "title": "雨后旧巷",
+      "description": "旧城巷道的素描场景，地面反光、墙面斑驳和远处透视层次都被笔触精确控制。",
+      "prompt": "architectural graphite sketch masterpiece, old city alley after rain, wet reflective ground, weathered walls, deep perspective, subtle atmospheric depth, visible pencil texture and directional hatching, richly detailed urban drawing, no text, no logos"
+    },
+    {
+      "source": "10_sleeping_cat_fur_sketch.png",
+      "category": "sketch-art",
+      "categoryLabel": "素描神作",
+      "title": "蜷睡的猫",
+      "description": "睡着的猫蜷成一团，柔软毛发和轻微呼吸感用大量细碎笔触堆出来。",
+      "prompt": "beautiful graphite sketch, sleeping curled cat, soft dense fur rendered with thousands of delicate pencil strokes, calm breathing posture, warm light, paper texture visible, realistic hand-drawn shading, no text, no logos"
+    },
+    {
+      "source": "11_aged_tree_bark_roots_sketch.png",
+      "category": "sketch-art",
+      "categoryLabel": "素描神作",
+      "title": "古树树皮与根系",
+      "description": "老树局部素描，裂开的树皮、盘绕根系和阴影层次像雕刻一样扎实。",
+      "prompt": "masterpiece nature pencil drawing, ancient tree trunk with cracked bark and twisted roots, dramatic texture study, deep shadows, intricate graphite hatching, tactile realism, visible paper surface, no text, no logos"
+    },
+    {
+      "source": "12_classical_bust_half_shadow_sketch.png",
+      "category": "sketch-art",
+      "categoryLabel": "素描神作",
+      "title": "半明半暗石膏头像",
+      "description": "经典石膏头像的学院派素描，明暗交界线和体积感都处理得极其高级。",
+      "prompt": "atelier graphite masterpiece, classical plaster bust in half light and half shadow, refined edge control, rich tonal structure, elegant crosshatching, highly disciplined academic drawing, paper texture visible, no text, no logos"
+    },
+    {
+      "source": "13_work_boot_leather_sketch.png",
+      "category": "sketch-art",
+      "categoryLabel": "素描神作",
+      "title": "工装靴皮革质感",
+      "description": "一双磨损工装靴的静物素描，皮革折痕、鞋带、泥渍和厚重感都非常迷人。",
+      "prompt": "still life graphite sketch masterpiece, worn work boots with leather creases, laces, mud stains and heavy structure, material realism, rich pencil shading and texture marks, strong hand-drawn detail, no text, no logos"
+    },
+    {
+      "source": "14_crow_feathers_profile_sketch.png",
+      "category": "sketch-art",
+      "categoryLabel": "素描神作",
+      "title": "乌鸦羽毛侧影",
+      "description": "乌鸦侧面肖像素描，羽毛层次、喙部高光与黑白灰对比极其漂亮。",
+      "prompt": "dramatic graphite bird portrait, crow in profile, layered feathers, sharp beak highlight, intense black white gray contrast, visible pencil strokes and rich texture, elegant fine art realism, no text, no logos"
+    },
+    {
+      "source": "15_old_watch_open_mechanism_sketch.png",
+      "category": "sketch-art",
+      "categoryLabel": "素描神作",
+      "title": "老怀表剖面结构",
+      "description": "打开后的老怀表内部齿轮被细致素描出来，金属结构和技术美感非常强。",
+      "prompt": "technical fine art graphite drawing, open antique pocket watch showing internal gears and mechanism, intricate metallic components, precise shading, rich crosshatching, visible hand-drawn construction and paper texture, masterpiece sketch realism, no text, no logos"
+    }
+  ]
+}
