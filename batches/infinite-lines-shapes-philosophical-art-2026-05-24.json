@@ -1,0 +1,127 @@
+{
+  "theme": "那些错综复杂、成千上万的线条和形状组合成的图片，艺术冲击力，美轮美奂，耐看而又有哲学气息",
+  "batchId": "infinite-lines-shapes-philosophical-art-2026-05-24",
+  "createdAt": "2026-05-24T18:15:15.164238",
+  "items": [
+    {
+      "source": "01_cathedral_of_infinite_lines.png",
+      "category": "line-art",
+      "categoryLabel": "线条哲学艺术",
+      "title": "无限线条大教堂",
+      "description": "无数细线像建筑骨架一样汇聚成一座抽象大教堂，秩序感与神秘感并存。",
+      "prompt": "stunning philosophical line art, infinite cathedral made of tens of thousands of fine lines and geometric structures, overwhelming visual complexity, elegant symmetry, luminous monochrome and gold accents, abstract sacred architecture, mesmerizing, ultra detailed, no text, no logos"
+    },
+    {
+      "source": "02_fractal_meditation_head.png",
+      "category": "line-art",
+      "categoryLabel": "线条哲学艺术",
+      "title": "分形冥想头像",
+      "description": "一个沉思的人头由密密麻麻的分形线条和几何图形构成，像思想本身在生长。",
+      "prompt": "philosophical visual art, meditating human head formed by countless fractal lines, spirals and geometric shapes, thought patterns expanding outward, abstract and beautiful, intense detail, contemplative mood, high visual impact, no text, no logos"
+    },
+    {
+      "source": "03_cosmic_labyrinth_orbit.png",
+      "category": "line-art",
+      "categoryLabel": "线条哲学艺术",
+      "title": "宇宙迷宫轨道",
+      "description": "像星图又像迷宫的巨大图像，由重叠轨道、圆环和微型线束层层推进。",
+      "prompt": "mesmerizing abstract art, cosmic labyrinth built from overlapping orbits, concentric circles, tiny line bundles and mathematical pathways, celestial and philosophical feeling, beautiful and intricate, ultra detailed, high contrast, no text, no logos"
+    },
+    {
+      "source": "04_city_of_thinking_grids.png",
+      "category": "line-art",
+      "categoryLabel": "线条哲学艺术",
+      "title": "思维网格之城",
+      "description": "成千上万的线和方块像城市也像神经网络，构成一座会思考的抽象城。",
+      "prompt": "visionary line-based artwork, city of thought made from countless grids, lines, rectangles and network pathways, resembles futuristic architecture and neural maps, philosophical, elegant, dense detail, visually overwhelming, no text, no logos"
+    },
+    {
+      "source": "05_eternal_knot_garden.png",
+      "category": "line-art",
+      "categoryLabel": "线条哲学艺术",
+      "title": "永恒结花园",
+      "description": "复杂线结、花瓣结构和曼陀罗图案交织成一个庄严而华丽的精神花园。",
+      "prompt": "ornate philosophical abstract art, eternal knot garden composed of countless interwoven lines, mandala petals, sacred geometry and ornamental structures, luxurious and contemplative, richly layered detail, no text, no logos"
+    },
+    {
+      "source": "06_philosopher_staircase_void.png",
+      "category": "line-art",
+      "categoryLabel": "线条哲学艺术",
+      "title": "哲人阶梯与虚空",
+      "description": "无尽的线性楼梯盘旋向中心虚空，线条、三角面与阴影形成强烈精神压迫感。",
+      "prompt": "dramatic philosophical line art, infinite staircase spiraling into central void, built from thousands of lines, triangles and shadow structures, existential atmosphere, beautiful and unsettling, intense detail, no text, no logos"
+    },
+    {
+      "source": "07_memory_map_of_rivers.png",
+      "category": "line-art",
+      "categoryLabel": "线条哲学艺术",
+      "title": "记忆河流地图",
+      "description": "线条像河流又像脑回路，彼此缠绕、分岔，形成一张耐看而安静的心智地图。",
+      "prompt": "poetic abstract line art, memory river map made of branching streams of fine lines, brain-like pathways and topographic shapes, meditative, beautiful, philosophical, highly intricate, elegant monochrome with subtle color accents, no text, no logos"
+    },
+    {
+      "source": "08_mandala_of_time_fragments.png",
+      "category": "line-art",
+      "categoryLabel": "线条哲学艺术",
+      "title": "时间碎片曼陀罗",
+      "description": "破碎钟面、微型齿轮和放射状线条形成巨大的时间曼陀罗，复杂又庄重。",
+      "prompt": "masterpiece abstract composition, mandala of time fragments with shattered clock faces, miniature gears, radiating fine lines and sacred symmetry, philosophical and visually hypnotic, ultra intricate, no text, no logos"
+    },
+    {
+      "source": "09_forest_of_geometric_breath.png",
+      "category": "line-art",
+      "categoryLabel": "线条哲学艺术",
+      "title": "几何呼吸森林",
+      "description": "森林不是由树木，而是由成千线束、弧形和多边形构成，像万物在呼吸。",
+      "prompt": "beautiful philosophical line-and-shape art, forest made from countless line bundles, arcs, polygons and layered forms, organic yet mathematical, sense of breathing universe, mesmerizing detail, no text, no logos"
+    },
+    {
+      "source": "10_black_sun_equation_field.png",
+      "category": "line-art",
+      "categoryLabel": "线条哲学艺术",
+      "title": "黑太阳方程场",
+      "description": "中央黑色太阳周围环绕密密麻麻的公式感线条和形状，像宇宙真理的显影。",
+      "prompt": "high impact philosophical artwork, black sun surrounded by countless equation-like lines, circles, symbols and geometric waves, cosmic truth atmosphere, dark elegant beauty, extremely detailed, no readable text, no logos"
+    },
+    {
+      "source": "11_corridor_of_mirrored_patterns.png",
+      "category": "line-art",
+      "categoryLabel": "线条哲学艺术",
+      "title": "镜像纹样长廊",
+      "description": "镜像重复的线条纹样构成深不见底的长廊，繁复中带着理性与眩晕。",
+      "prompt": "immersive line art corridor, endless mirrored patterns made of thousands of fine lines and repeating geometric motifs, rational yet dizzying, elegant symmetry, philosophical spatial illusion, ultra detailed, no text, no logos"
+    },
+    {
+      "source": "12_orbiting_faces_of_consciousness.png",
+      "category": "line-art",
+      "categoryLabel": "线条哲学艺术",
+      "title": "意识轨道群像",
+      "description": "数张人脸轮廓由线条与圆轨道层层叠出，像意识在彼此映照和旋转。",
+      "prompt": "surreal philosophical art, multiple human face profiles formed by orbital lines, circles and layered geometric structures, consciousness reflected and rotating through space, ethereal and intricate, no text, no logos"
+    },
+    {
+      "source": "13_archives_of_sacred_geometry.png",
+      "category": "line-art",
+      "categoryLabel": "线条哲学艺术",
+      "title": "神圣几何档案馆",
+      "description": "像图书馆又像神庙的巨大内部，由几何线图、矩阵与高耸结构构成。",
+      "prompt": "grand philosophical line art interior, archive of sacred geometry, towering temple-library built from matrices, diagrams, endless linework and geometric vaults, sublime, beautiful, ultra intricate, no text, no logos"
+    },
+    {
+      "source": "14_wave_machine_of_existence.png",
+      "category": "line-art",
+      "categoryLabel": "线条哲学艺术",
+      "title": "存在波动机器",
+      "description": "成片线波、轮廓与结构件像一台关于存在本身的大机器，复杂且冷峻。",
+      "prompt": "philosophical abstract machine art, existence wave machine made of massive line waves, contours, frames and structural components, cold elegant beauty, highly complex, visually shocking, no text, no logos"
+    },
+    {
+      "source": "15_moonlit_tapestry_of_reason.png",
+      "category": "line-art",
+      "categoryLabel": "线条哲学艺术",
+      "title": "月下理性织锦",
+      "description": "像织锦、星图和数学构图叠合而成的终章画面，冷静、华丽且很耐看。",
+      "prompt": "breathtaking philosophical line art tapestry, moonlit composition combining star maps, woven patterns, mathematical forms and endless fine linework, calm yet magnificent, elegant silver-blue palette, ultra detailed, no text, no logos"
+    }
+  ]
+}
