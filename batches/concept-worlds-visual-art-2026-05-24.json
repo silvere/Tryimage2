@@ -1,0 +1,127 @@
+{
+  "theme": "15个理念世界的视觉艺术表达",
+  "batchId": "concept-worlds-visual-art-2026-05-24",
+  "createdAt": "2026-05-24T09:57:55.901132",
+  "items": [
+    {
+      "source": "01_world_of_memory_archives.png",
+      "category": "concept-art",
+      "categoryLabel": "理念世界",
+      "title": "记忆档案馆",
+      "description": "巨大的图书馆空间里，书页与旧照片化成漂浮的楼梯和河流，抽象的记忆光点与具体的木质书架交织。",
+      "prompt": "surreal visual art, world of memory archives, colossal library interior, old paper pages and vintage photographs transforming into floating stairways and rivers, glowing memory particles in the air, fusion of abstract light fragments and concrete wooden bookshelves, cinematic composition, poetic atmosphere, ultra detailed, no text, no logos"
+    },
+    {
+      "source": "02_world_of_time_gardens.png",
+      "category": "concept-art",
+      "categoryLabel": "理念世界",
+      "title": "时间花园",
+      "description": "花朵像钟表齿轮一样层层绽放，具体的温室结构中流动着抽象的时间丝线。",
+      "prompt": "symbolic surrealism, world of time gardens, elegant greenhouse filled with flowers shaped like clock gears, transparent time threads flowing through the air, fusion of concrete glass architecture and abstract temporal ribbons, dramatic soft light, highly detailed, no text, no logos"
+    },
+    {
+      "source": "03_world_of_silence_cathedral.png",
+      "category": "concept-art",
+      "categoryLabel": "理念世界",
+      "title": "寂静大教堂",
+      "description": "一座近乎空无的教堂中，声音被表现为悬浮的裂纹玻璃与淡蓝雾带，安静被具象化。",
+      "prompt": "surreal fine art, world of silence cathedral, vast empty cathedral interior, sound visualized as floating cracked glass shards and pale blue mist ribbons, silence embodied as sacred negative space, abstract and concrete fusion, moody light beams, ultra detailed, no text, no logos"
+    },
+    {
+      "source": "04_world_of_desire_bazaar.png",
+      "category": "concept-art",
+      "categoryLabel": "理念世界",
+      "title": "欲望集市",
+      "description": "夜色中的市场摊位售卖发光的心愿、金属苹果、液态霓虹，现实集市与欲望的抽象形态融合。",
+      "prompt": "editorial surreal art, world of desire bazaar, night market stalls selling glowing wishes, metallic apples, liquid neon objects, realistic street market mixed with abstract symbols of desire, rich color contrast, cinematic night lighting, highly detailed, no text, no logos"
+    },
+    {
+      "source": "05_world_of_loneliness_apartment.png",
+      "category": "concept-art",
+      "categoryLabel": "理念世界",
+      "title": "孤独公寓",
+      "description": "高楼公寓切面里，一个个真实房间被海水般的蓝色空洞包围，孤独感被抽象成巨大的留白。",
+      "prompt": "conceptual visual art, world of loneliness apartment, cutaway of tall apartment building with many realistic rooms, surrounded by deep blue ocean-like emptiness, loneliness expressed as vast abstract negative space, fusion of concrete domestic interiors and emotional abstraction, cinematic, ultra detailed, no text, no logos"
+    },
+    {
+      "source": "06_world_of_faith_bridge.png",
+      "category": "concept-art",
+      "categoryLabel": "理念世界",
+      "title": "信念之桥",
+      "description": "一座细长桥梁跨越深渊，桥面由真实石材和发光几何体共同构成，像信念支撑前行。",
+      "prompt": "epic surreal scene, world of faith bridge, slender bridge crossing a dark abyss, bridge surface built from real stone blocks and luminous geometric forms, abstract faith energy supporting a concrete pathway, dramatic sky, strong visual impact, ultra detailed, no text, no logos"
+    },
+    {
+      "source": "07_world_of_freedom_wind_city.png",
+      "category": "concept-art",
+      "categoryLabel": "理念世界",
+      "title": "自由风城",
+      "description": "城市建筑被风吹散成丝带、羽毛和半透明布面，现实城市与自由的抽象流动状态融合。",
+      "prompt": "dynamic surreal visual art, world of freedom wind city, realistic urban skyline dissolving into ribbons, feathers and translucent fabric in the wind, fusion of concrete city forms and abstract motion of freedom, bright sky, powerful composition, ultra detailed, no text, no logos"
+    },
+    {
+      "source": "08_world_of_knowledge_observatory.png",
+      "category": "concept-art",
+      "categoryLabel": "理念世界",
+      "title": "知识观测台",
+      "description": "天文台穹顶下，星图、公式、纸页与机械仪器盘旋上升，知识像宇宙一样被展开。",
+      "prompt": "poetic conceptual art, world of knowledge observatory, grand observatory dome interior, star charts, formulas, paper sheets and brass scientific instruments spiraling upward, knowledge unfolding like a galaxy, fusion of concrete machinery and abstract intellectual cosmos, ultra detailed, no text, no logos"
+    },
+    {
+      "source": "09_world_of_hope_greenhouse.png",
+      "category": "concept-art",
+      "categoryLabel": "理念世界",
+      "title": "希望温室",
+      "description": "废墟中的温室里长出发光植物和透明果实，希望被表现为真实植物与抽象光源的结合。",
+      "prompt": "emotionally uplifting surreal art, world of hope greenhouse, abandoned ruins containing a luminous greenhouse, glowing plants and transparent fruits growing from concrete debris, hope shown through fusion of realistic botany and abstract light energy, atmospheric, ultra detailed, no text, no logos"
+    },
+    {
+      "source": "10_world_of_regret_museum.png",
+      "category": "concept-art",
+      "categoryLabel": "理念世界",
+      "title": "遗憾博物馆",
+      "description": "展厅里陈列破碎的杯子、没寄出的信和融化的门票，遗憾以真实物件加抽象裂痕的形式出现。",
+      "prompt": "melancholic surreal museum scene, world of regret museum, gallery hall displaying broken cups, unsent letters, melting tickets, regret represented by abstract fractures and suspended glass lines around concrete objects, moody elegant lighting, ultra detailed, no text, no logos"
+    },
+    {
+      "source": "11_world_of_rebirth_forest.png",
+      "category": "concept-art",
+      "categoryLabel": "理念世界",
+      "title": "重生森林",
+      "description": "烧焦的树干中长出玻璃花、嫩芽和液态金光，毁灭与新生在同一画面共存。",
+      "prompt": "striking surreal nature art, world of rebirth forest, charred tree trunks sprouting glass flowers, fresh green shoots and flowing liquid gold light, coexistence of destruction and renewal, fusion of concrete forest textures and abstract rebirth energy, ultra detailed, no text, no logos"
+    },
+    {
+      "source": "12_world_of_identity_mirrors.png",
+      "category": "concept-art",
+      "categoryLabel": "理念世界",
+      "title": "身份镜厅",
+      "description": "镜厅里的人像在每面镜中呈现不同材质与年龄状态，身份被具象化为不断分裂的镜像。",
+      "prompt": "psychological surreal art, world of identity mirrors, endless mirror hall, one figure reflected in many mirrors with different ages, materials and visual states, identity visualized as fragmented mirror selves, fusion of concrete human portrait and abstract self-division, highly detailed, no text, no logos"
+    },
+    {
+      "source": "13_world_of_dream_harbor.png",
+      "category": "concept-art",
+      "categoryLabel": "理念世界",
+      "title": "梦境港口",
+      "description": "港口停泊着由云、纸船、鲸鱼骨架和灯塔拼成的船只，梦境感与现实码头交汇。",
+      "prompt": "dreamlike surreal harbor scene, world of dreams harbor, realistic dock with ships made from clouds, paper boats, whale-bone structures and lighthouse fragments, fusion of concrete maritime details and abstract dream imagery, cinematic dusk light, ultra detailed, no text, no logos"
+    },
+    {
+      "source": "14_world_of_order_machine_palace.png",
+      "category": "concept-art",
+      "categoryLabel": "理念世界",
+      "title": "秩序机器宫",
+      "description": "一座巨大的机械宫殿里，齿轮、格网、文件柜和发光线条精密排列，秩序被视觉化为宏大系统。",
+      "prompt": "architectural conceptual art, world of order machine palace, gigantic mechanical palace interior, gears, grids, filing cabinets and luminous lines arranged with extreme precision, order visualized as a monumental system, fusion of concrete industrial design and abstract structure, ultra detailed, no text, no logos"
+    },
+    {
+      "source": "15_world_of_chaos_carnival.png",
+      "category": "concept-art",
+      "categoryLabel": "理念世界",
+      "title": "混沌狂欢场",
+      "description": "游乐园结构被扭曲成漂浮的色块、液体烟火和倾斜旋转木马，混沌感既危险又绚丽。",
+      "prompt": "high impact surreal visual art, world of chaos carnival, amusement park twisted into floating color blocks, liquid fireworks and tilted carousels, fusion of concrete fairground structures and abstract chaos energy, intense color, dramatic perspective, ultra detailed, no text, no logos"
+    }
+  ]
+}
