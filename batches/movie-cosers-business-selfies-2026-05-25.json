@@ -1,0 +1,127 @@
+{
+  "theme": "经典电影角色 Coser 和当今商业名人的双人合影自拍，像活动现场偶遇随手拍",
+  "batchId": "movie-cosers-business-selfies-2026-05-25",
+  "createdAt": "2026-05-25T09:50:00+08:00",
+  "items": [
+    {
+      "source": "01-leia-jensen.png",
+      "category": "movie-coser-business-selfie",
+      "categoryLabel": "电影角色×商业名人自拍",
+      "title": "Leia × Jensen Huang 自拍",
+      "description": "莱娅公主和黄仁勋同框的随手自拍，既像活动偶遇，也保留了很强的角色识别度。",
+      "prompt": "Create a vertical realistic iPhone selfie photo. Princess Leia from Star Wars with Jensen Huang in a casual chance encounter selfie. Leia has iconic side-bun hairstyle, white princess outfit, dignified resilient expression; Jensen Huang is clearly recognizable in realistic modern clothing. Arm-length selfie perspective, slightly awkward crop, upscale public setting, mild motion blur, JPEG artifacts, no text, no logos."
+    },
+    {
+      "source": "02-hermione-billgates.png",
+      "category": "movie-coser-business-selfie",
+      "categoryLabel": "电影角色×商业名人自拍",
+      "title": "Hermione × Bill Gates 自拍",
+      "description": "赫敏和比尔·盖茨的自拍组合很出人意料，但角色和人物都能一眼认出来。",
+      "prompt": "Create a vertical realistic iPhone selfie photo. Hermione Granger from Harry Potter with Bill Gates in a spontaneous two-person selfie. Hermione has wavy brown hair, school scarf or wizard-academic styling, smart determined expression; Bill Gates clearly recognizable, natural modern appearance. Slight lens distortion, casual conference or public setting, no text, no logos."
+    },
+    {
+      "source": "03-mathilda-elon.png",
+      "category": "movie-coser-business-selfie",
+      "categoryLabel": "电影角色×商业名人自拍",
+      "title": "Mathilda × Elon Musk 自拍",
+      "description": "玛蒂尔达的警觉气质和马斯克的现实感放在同一张自拍里，反差感很强。",
+      "prompt": "Create a vertical realistic iPhone selfie photo. Mathilda from Leon: The Professional with Elon Musk in a spontaneous real-world selfie. Mathilda has short bob or shoulder-length hair, choker, guarded precocious expression; Elon Musk clearly recognizable. Casual event or city setting, imperfect composition, slight motion blur, JPEG artifacts, no text, no logos."
+    },
+    {
+      "source": "04-mia-arnault.png",
+      "category": "movie-coser-business-selfie",
+      "categoryLabel": "电影角色×商业名人自拍",
+      "title": "Mia Wallace × Bernard Arnault 自拍",
+      "description": "Mia Wallace 的冷感和 Bernard Arnault 的正式感放在一起，像一张奇怪但可信的活动现场自拍。",
+      "prompt": "Create a vertical realistic iPhone selfie photo. Mia Wallace from Pulp Fiction with Bernard Arnault in a casual two-person selfie. Mia has black bob with bangs, white shirt and black styling, cool dangerous expression; Bernard Arnault clearly recognizable in realistic modern clothing. Hotel or gala setting, slight crop awkwardness, no text, no logos."
+    },
+    {
+      "source": "05-holly-timcook.png",
+      "category": "movie-coser-business-selfie",
+      "categoryLabel": "电影角色×商业名人自拍",
+      "title": "Holly × Tim Cook 自拍",
+      "description": "Holly Golightly 的优雅和 Tim Cook 的日常感混在一张自拍里，意外地很自然。",
+      "prompt": "Create a vertical realistic iPhone selfie photo. Holly Golightly from Breakfast at Tiffanys with Tim Cook in a casual selfie. Holly has elegant updo, black dress, pearls, sophisticated aloof expression; Tim Cook clearly recognizable and naturally posed. Upscale public interior, slight JPEG compression, no text, no logos."
+    },
+    {
+      "source": "06-dorothy-satya.png",
+      "category": "movie-coser-business-selfie",
+      "categoryLabel": "电影角色×商业名人自拍",
+      "title": "Dorothy × Satya Nadella 自拍",
+      "description": "Dorothy 的蓝白格裙在现代活动场景里反而特别显眼，和 Satya 同框很有反差。",
+      "prompt": "Create a vertical realistic iPhone selfie photo. Dorothy Gale from The Wizard of Oz with Satya Nadella in a spontaneous selfie. Dorothy has braided pigtails, blue gingham dress, innocent bright expression; Satya Nadella clearly recognizable. Business-event hallway or public interior, off-center framing, no text, no logos."
+    },
+    {
+      "source": "07-leeloo-samaltman.png",
+      "category": "movie-coser-business-selfie",
+      "categoryLabel": "电影角色×商业名人自拍",
+      "title": "Leeloo × Sam Altman 自拍",
+      "description": "Leeloo 的未来感造型和 Sam Altman 的现实商务感并排，视觉冲突非常直接。",
+      "prompt": "Create a vertical realistic iPhone selfie photo. Leeloo from The Fifth Element with Sam Altman in a spontaneous chance-encounter selfie. Leeloo has bright orange short hair, white futuristic bandage outfit, feral vulnerable expression; Sam Altman clearly recognizable. Clean upscale setting, casual awkward selfie framing, no text, no logos."
+    },
+    {
+      "source": "08-bride-jeffbezos.png",
+      "category": "movie-coser-business-selfie",
+      "categoryLabel": "电影角色×商业名人自拍",
+      "title": "The Bride × Jeff Bezos 自拍",
+      "description": "黄色战衣的新娘和 Jeff Bezos 同框，像一张非常离谱但又真实的活动抓拍。",
+      "prompt": "Create a vertical realistic iPhone selfie photo. The Bride from Kill Bill with Jeff Bezos in a casual selfie. The Bride has blonde hair, yellow combat suit, sharp intense expression; Jeff Bezos clearly recognizable. Event foyer or luxury public setting, slight motion blur and JPEG artifacts, no text, no logos."
+    },
+    {
+      "source": "09-lara-peterthiel.png",
+      "category": "movie-coser-business-selfie",
+      "categoryLabel": "电影角色×商业名人自拍",
+      "title": "Lara × Peter Thiel 自拍",
+      "description": "Lara Croft 的冒险者气质和 Peter Thiel 的冷感放在一起，形成了奇怪但稳的自拍气场。",
+      "prompt": "Create a vertical realistic iPhone selfie photo. Lara Croft from Tomb Raider with Peter Thiel in a spontaneous selfie. Lara has long brown braid, fitted adventure gear, strong athletic expression; Peter Thiel clearly recognizable. Slightly awkward arm-length framing, public venue background, no text, no logos."
+    },
+    {
+      "source": "10-harley-markcuban.png",
+      "category": "movie-coser-business-selfie",
+      "categoryLabel": "电影角色×商业名人自拍",
+      "title": "Harley × Mark Cuban 自拍",
+      "description": "哈莉奎茵的俏皮疯感把这张和 Mark Cuban 的自拍带得非常有记忆点。",
+      "prompt": "Create a vertical realistic iPhone selfie photo. Harley Quinn from Suicide Squad with Mark Cuban in a spontaneous selfie. Harley has twin tails, pink-blue dyed ends, playful chaotic expression; Mark Cuban clearly recognizable. Casual public setting, lens distortion, phone edge intrusion, no text, no logos."
+    },
+    {
+      "source": "11-katniss-oprah.png",
+      "category": "movie-coser-business-selfie",
+      "categoryLabel": "电影角色×商业名人自拍",
+      "title": "Katniss × Oprah 自拍",
+      "description": "凯妮丝的冷静坚韧和 Oprah 的公开场合松弛感放在一张自拍里，反差但不违和。",
+      "prompt": "Create a vertical realistic iPhone selfie photo. Katniss Everdeen from The Hunger Games with Oprah Winfrey in a spontaneous selfie. Katniss has dark side braid, dark utilitarian outfit, stoic resilient expression; Oprah clearly recognizable. Public indoor setting, realistic phone selfie flaws, no text, no logos."
+    },
+    {
+      "source": "12-wednesday-zhangyiming.png",
+      "category": "movie-coser-business-selfie",
+      "categoryLabel": "电影角色×商业名人自拍",
+      "title": "Wednesday × 张一鸣 自拍",
+      "description": "星期三和张一鸣这组最妙的是气质差异特别大，但自拍感却很成立。",
+      "prompt": "Create a vertical realistic iPhone selfie photo. Wednesday Addams with Zhang Yiming in a casual chance encounter selfie. Wednesday has black braids, pale cold expression, black dress or uniform; Zhang Yiming clearly recognizable in modern clothing. Conference or museum-style setting, awkward crop, no text, no logos."
+    },
+    {
+      "source": "13-cruella-melindafrenchgates.png",
+      "category": "movie-coser-business-selfie",
+      "categoryLabel": "电影角色×商业名人自拍",
+      "title": "Cruella × Melinda French Gates 自拍",
+      "description": "Cruella 的戏剧性黑白造型把这张自拍的存在感直接拉满。",
+      "prompt": "Create a vertical realistic iPhone selfie photo. Cruella de Vil with Melinda French Gates in a spontaneous selfie. Cruella has split black-and-white hair, dramatic monochrome fashion, theatrical expression; Melinda French Gates clearly recognizable. Public gala or upscale interior, mild JPEG artifacts, no text, no logos."
+    },
+    {
+      "source": "14-nina-melanieperkins.png",
+      "category": "movie-coser-business-selfie",
+      "categoryLabel": "电影角色×商业名人自拍",
+      "title": "Nina × Melanie Perkins 自拍",
+      "description": "Nina Sayers 的脆弱感和 Melanie Perkins 的现代创业者气质混在一起，出奇地顺。",
+      "prompt": "Create a vertical realistic iPhone selfie photo. Nina Sayers from Black Swan with Melanie Perkins in a spontaneous selfie. Nina has ballerina bun, black swan eye makeup, fragile obsessive expression; Melanie Perkins clearly recognizable. Public indoor venue, imperfect crop, natural selfie feel, no text, no logos."
+    },
+    {
+      "source": "15-neytiri-ponyma.png",
+      "category": "movie-coser-business-selfie",
+      "categoryLabel": "电影角色×商业名人自拍",
+      "title": "Neytiri × Pony Ma 自拍",
+      "description": "Neytiri 和 Pony Ma 的组合特别离谱，但画面如果做成随手自拍就会很有传播感。",
+      "prompt": "Create a vertical realistic iPhone selfie photo. Neytiri from Avatar with Pony Ma in a spontaneous selfie. Neytiri has blue Na’vi skin, yellow catlike eyes, long dark braids with beads, tribal styling; Pony Ma clearly recognizable in realistic modern clothing. Upscale public setting, arm-length selfie perspective, slight blur and compression, no text, no logos."
+    }
+  ]
+}

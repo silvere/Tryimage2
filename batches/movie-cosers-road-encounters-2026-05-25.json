@@ -1,0 +1,127 @@
+{
+  "theme": "经典电影角色的 Coser，像在城市街头路上偶遇时顺手拍下来的抓拍照",
+  "batchId": "movie-cosers-road-encounters-2026-05-25",
+  "createdAt": "2026-05-25T09:20:00+08:00",
+  "items": [
+    {
+      "source": "01-leia.png",
+      "category": "movie-coser-street",
+      "categoryLabel": "电影角色路遇 Coser",
+      "title": "莱娅公主路遇抓拍",
+      "description": "《星球大战》莱娅公主，双侧发髻和白色经典造型在城市街头依然一眼可认。",
+      "prompt": "一张随意用 iPhone 拍摄的快照，路上偶遇《星球大战》莱娅公主 coser。双侧发髻、白色经典造型、坚毅高贵气质高度还原；城市街头、商场外沿街或人行道场景，边走边拍，主体不居中，前景有路人或护栏轻微遮挡，轻微动态模糊、JPEG 压缩感、微信抓拍质感，自然路遇，不是摆拍，无文字无 logo。"
+    },
+    {
+      "source": "02-hermione.png",
+      "category": "movie-coser-street",
+      "categoryLabel": "电影角色路遇 Coser",
+      "title": "赫敏街头回头瞬间",
+      "description": "赫敏·格兰杰的蓬松棕发、学院风围巾和聪明倔强的神态，被做成了很自然的街头偶遇照。",
+      "prompt": "一张随意用 iPhone 拍摄的快照，路上偶遇《哈利·波特》赫敏·格兰杰 coser。蓬松棕色长发、学院围巾或校服结构忠实、聪明倔强气质明显；街头或地铁口周边，主体略偏，像边走边放大拍下，前景有手机边缘或路人遮挡，轻微镜头污渍、动态模糊、JPEG 伪影，自然抓拍，无文字无 logo。"
+    },
+    {
+      "source": "03-mathilda.png",
+      "category": "movie-coser-street",
+      "categoryLabel": "电影角色路遇 Coser",
+      "title": "玛蒂尔达路边警觉一瞥",
+      "description": "短发、choker 和早熟警惕的气质，让这张玛蒂尔达 coser 偶遇照很有角色味。",
+      "prompt": "一张随意用 iPhone 拍摄的快照，路上偶遇《这个杀手不太冷》玛蒂尔达 coser。短发或齐肩发、choker 项圈、少女却早熟警惕的气质高度还原；城市街边、夜晚街区或商场外，构图别扭、轻微裁切，前景有肩膀或购物袋虚焦遮挡，自然抓拍，无文字无 logo。"
+    },
+    {
+      "source": "04-mia-wallace.png",
+      "category": "movie-coser-street",
+      "categoryLabel": "电影角色路遇 Coser",
+      "title": "Mia Wallace 街区冷感抓拍",
+      "description": "黑色齐刘海短发和极简黑白造型，把 Mia Wallace 的冷感危险气质带到了现实街头。",
+      "prompt": "一张随意用 iPhone 拍摄的快照，路上偶遇《低俗小说》Mia Wallace coser。黑色齐刘海短发、白衬衫黑裤或极简黑白造型、冷感又危险的气质非常明确；街区或商场外沿街，画面稍倾斜、焦点略偏、前景有共享单车或路人遮挡，像微信里随手发的一张抓拍，无文字无 logo。"
+    },
+    {
+      "source": "05-holly.png",
+      "category": "movie-coser-street",
+      "categoryLabel": "电影角色路遇 Coser",
+      "title": "Holly Golightly 城市优雅错位",
+      "description": "高盘发、珍珠和黑色小礼服，在真实街景里显得既优雅又带一点疏离感。",
+      "prompt": "一张随意用 iPhone 拍摄的快照，路上偶遇《蒂凡尼的早餐》Holly Golightly coser。高盘发、黑色小礼服、长手套、珍珠项链与墨镜元素高度还原；城市人行道或酒店外，主体不在正中，裁切略 awkward，轻微镜头脏污和 JPEG 压缩感，像真实路遇，无文字无 logo。"
+    },
+    {
+      "source": "06-dorothy.png",
+      "category": "movie-coser-street",
+      "categoryLabel": "电影角色路遇 Coser",
+      "title": "Dorothy 街头轻回头",
+      "description": "双麻花辫和蓝白格裙把 Dorothy 的少女感完整带了出来，放在现实街头有反差。",
+      "prompt": "一张随意用 iPhone 拍摄的快照，路上偶遇《绿野仙踪》Dorothy Gale coser。双麻花辫、蓝白格裙、纯真明亮神态明显；人行道或地铁口场景，边走边拍，构图不工整，前景有手臂或栏杆轻微遮挡，轻微运动模糊，真实抓拍，无文字无 logo。"
+    },
+    {
+      "source": "07-leeloo.png",
+      "category": "movie-coser-street",
+      "categoryLabel": "电影角色路遇 Coser",
+      "title": "Leeloo 夜街高辨识度路遇",
+      "description": "亮橙短发和未来感白色绷带式服装，让 Leeloo 在现实街头依然像突然闯进来的角色。",
+      "prompt": "一张随意用 iPhone 拍摄的快照，路上偶遇《第五元素》Leeloo coser。亮橙色短发、未来感白色绷带式服装结构高度忠实、野性又脆弱的气质明显；夜晚街区或商场外，混合光源，略偏焦，前景有路人或手机边缘挡住部分画面，真实抓拍，无文字无 logo。"
+    },
+    {
+      "source": "08-the-bride.png",
+      "category": "movie-coser-street",
+      "categoryLabel": "电影角色路遇 Coser",
+      "title": "新娘战衣街头瞬间",
+      "description": "黄色战衣和凌厉气质很抢眼，但整张图仍然保留了路遇抓拍该有的随意感。",
+      "prompt": "一张随意用 iPhone 拍摄的快照，路上偶遇《杀死比尔》The Bride coser。金色头发、黄色战衣结构忠实、凌厉危险的气质强烈；城市街角或夜晚路边，主体略被裁掉一部分，前景有肩膀或护栏虚焦遮挡，轻微动态模糊与 JPEG 颗粒，像自然抓拍，无文字无 logo。"
+    },
+    {
+      "source": "09-lara.png",
+      "category": "movie-coser-street",
+      "categoryLabel": "电影角色路遇 Coser",
+      "title": "劳拉克劳馥商场外沿街偶遇",
+      "description": "长辫、工装感和强悍的冒险者气质，让 Lara 这一张非常像现实里的高质量 cosplay 路遇。",
+      "prompt": "一张随意用 iPhone 拍摄的快照，路上偶遇《古墓丽影》Lara Croft coser。棕色长辫、高辨识度背心与工装风结构、强悍冒险者气质高度还原；商场外沿街或城市街头，略带手持晃动和微信压缩感，前景有路边设施轻微遮挡，自然抓拍，无文字无 logo。"
+    },
+    {
+      "source": "10-harley.png",
+      "category": "movie-coser-street",
+      "categoryLabel": "电影角色路遇 Coser",
+      "title": "哈莉奎茵街头乱入感",
+      "description": "双马尾和粉蓝发尾在现实街景里特别有辨识度，既疯感又俏皮。",
+      "prompt": "一张随意用 iPhone 拍摄的快照，路上偶遇《自杀小队》Harley Quinn coser。双马尾、粉蓝染色发尾、夸张妆容和高辨识度街头风服装结构高度忠实；街区或夜晚商圈，轻微倾斜构图、前景有行人或自行车挡住一点，像随手抓拍，无文字无 logo。"
+    },
+    {
+      "source": "11-katniss.png",
+      "category": "movie-coser-street",
+      "categoryLabel": "电影角色路遇 Coser",
+      "title": "凯妮丝冷静路遇照",
+      "description": "深色长辫和坚韧克制的气质让凯妮丝这一张有很强的现实感。",
+      "prompt": "一张随意用 iPhone 拍摄的快照，路上偶遇《饥饿游戏》Katniss Everdeen coser。深色长辫、Mockingjay 风格深色战斗服或夹克结构忠实、坚韧冷静气质明显；城市边走边拍场景，主体不居中，略微偏焦和动态模糊，前景有路人肩膀或手臂挡住一角，自然抓拍，无文字无 logo。"
+    },
+    {
+      "source": "12-wednesday.png",
+      "category": "movie-coser-street",
+      "categoryLabel": "电影角色路遇 Coser",
+      "title": "星期三阴郁街拍错位感",
+      "description": "黑色双辫和冷淡神情非常到位，放进现实街景后那种阴郁气质更强了。",
+      "prompt": "一张随意用 iPhone 拍摄的快照，路上偶遇 Wednesday Addams coser。黑色双辫、苍白冷淡神情、黑色校服或连衣裙结构忠实、阴郁克制气质明显；地铁口或商场外，构图 awkward，背景有人流轻微模糊，前景有手机边缘或栏杆遮挡，真实抓拍，无文字无 logo。"
+    },
+    {
+      "source": "13-cruella.png",
+      "category": "movie-coser-street",
+      "categoryLabel": "电影角色路遇 Coser",
+      "title": "Cruella 黑白发色街头出场",
+      "description": "黑白分半发色和戏剧化造型很强，但整张还是被控制在自然路遇的范围里。",
+      "prompt": "一张随意用 iPhone 拍摄的快照，路上偶遇《101忠狗》Cruella de Vil coser。黑白分半发色、夸张皮草或戏剧性黑白服装结构高度忠实、狂妄张扬的气质明显；城市街边或高端商圈外，轻微裁切、镜头污渍、JPEG 压缩感，自然抓拍，无文字无 logo。"
+    },
+    {
+      "source": "14-nina.png",
+      "category": "movie-coser-street",
+      "categoryLabel": "电影角色路遇 Coser",
+      "title": "Nina Sayers 路边脆弱感抓拍",
+      "description": "芭蕾发髻和黑天鹅妆让这张 Nina Sayers 很有角色张力，脆弱感也在。",
+      "prompt": "一张随意用 iPhone 拍摄的快照，路上偶遇《黑天鹅》Nina Sayers coser。芭蕾发髻、黑天鹅舞台妆或黑色练功服风格、脆弱偏执气质高度还原；路边或夜晚街区，略带运动模糊和偏焦，前景有路人或购物袋遮挡，自然抓拍，无文字无 logo。"
+    },
+    {
+      "source": "15-neytiri.png",
+      "category": "movie-coser-street",
+      "categoryLabel": "电影角色路遇 Coser",
+      "title": "Neytiri 现实街景反差偶遇",
+      "description": "蓝色纳美人皮肤和部落饰品在现实街头里有很强的反差，但依然是明显的 Neytiri。",
+      "prompt": "一张随意用 iPhone 拍摄的快照，路上偶遇《阿凡达》Neytiri coser。蓝色纳美人皮肤、长辫与部落饰品、纳美族服装结构忠实、野性敏锐气质明显；现实城市街头或夜间街区，主体不居中，前景有路人或手机边缘遮挡，轻微动态模糊、镜头脏污和微信抓拍质感，无文字无 logo。"
+    }
+  ]
+}

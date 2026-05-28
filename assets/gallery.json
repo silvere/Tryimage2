@@ -1,7 +1,7 @@
 {
   "site": {
     "title": "OpenAI image2 视觉实验",
-    "subtitle": "962 张传播向 AI 海报",
+    "subtitle": "992 张传播向 AI 海报",
     "headline": "OpenAI image2 视觉实验",
     "intro": "每一批图片围绕一个临时主题生成，并按当次最合适的 category 归档；可以是反差创意、真实场景、产品概念、人物叙事或任何新的视觉方向。",
     "coverImage": "assets/contact_sheet_image2.jpg",
@@ -346,6 +346,14 @@
     {
       "id": "line-art",
       "label": "线条哲学艺术"
+    },
+    {
+      "id": "movie-coser-street",
+      "label": "电影角色路遇 Coser"
+    },
+    {
+      "id": "movie-coser-business-selfie",
+      "label": "电影角色×商业名人自拍"
     }
   ],
   "batches": [
@@ -797,6 +805,18 @@
       "id": "infinite-lines-shapes-philosophical-art-2026-05-24",
       "theme": "那些错综复杂、成千上万的线条和形状组合成的图片，艺术冲击力，美轮美奂，耐看而又有哲学气息",
       "createdAt": "2026-05-24T18:15:15.164238",
+      "count": 15
+    },
+    {
+      "id": "movie-cosers-road-encounters-2026-05-25",
+      "theme": "经典电影角色的 Coser，像在城市街头路上偶遇时顺手拍下来的抓拍照",
+      "createdAt": "2026-05-25T09:20:00+08:00",
+      "count": 15
+    },
+    {
+      "id": "movie-cosers-business-selfies-2026-05-25",
+      "theme": "经典电影角色 Coser 和当今商业名人的双人合影自拍，像活动现场偶遇随手拍",
+      "createdAt": "2026-05-25T09:50:00+08:00",
       "count": 15
     }
   ],
@@ -11367,6 +11387,336 @@
       "thumb": "assets/thumbs/infinite-lines-shapes-philosophical-art-2026-05-24/15_月下理性织锦.png",
       "description": "像织锦、星图和数学构图叠合而成的终章画面，冷静、华丽且很耐看。",
       "prompt": "breathtaking philosophical line art tapestry, moonlit composition combining star maps, woven patterns, mathematical forms and endless fine linework, calm yet magnificent, elegant silver-blue palette, ultra detailed, no text, no logos"
+    },
+    {
+      "id": "movie-cosers-road-encounters-2026-05-25_01_莱娅公主路遇抓拍",
+      "batch": "movie-cosers-road-encounters-2026-05-25",
+      "category": "movie-coser-street",
+      "number": "01",
+      "title": "莱娅公主路遇抓拍",
+      "image": "assets/images/movie-cosers-road-encounters-2026-05-25/01_莱娅公主路遇抓拍.png",
+      "thumb": "assets/thumbs/movie-cosers-road-encounters-2026-05-25/01_莱娅公主路遇抓拍.png",
+      "description": "《星球大战》莱娅公主，双侧发髻和白色经典造型在城市街头依然一眼可认。",
+      "prompt": "一张随意用 iPhone 拍摄的快照，路上偶遇《星球大战》莱娅公主 coser。双侧发髻、白色经典造型、坚毅高贵气质高度还原；城市街头、商场外沿街或人行道场景，边走边拍，主体不居中，前景有路人或护栏轻微遮挡，轻微动态模糊、JPEG 压缩感、微信抓拍质感，自然路遇，不是摆拍，无文字无 logo。"
+    },
+    {
+      "id": "movie-cosers-road-encounters-2026-05-25_02_赫敏街头回头瞬间",
+      "batch": "movie-cosers-road-encounters-2026-05-25",
+      "category": "movie-coser-street",
+      "number": "02",
+      "title": "赫敏街头回头瞬间",
+      "image": "assets/images/movie-cosers-road-encounters-2026-05-25/02_赫敏街头回头瞬间.png",
+      "thumb": "assets/thumbs/movie-cosers-road-encounters-2026-05-25/02_赫敏街头回头瞬间.png",
+      "description": "赫敏·格兰杰的蓬松棕发、学院风围巾和聪明倔强的神态，被做成了很自然的街头偶遇照。",
+      "prompt": "一张随意用 iPhone 拍摄的快照，路上偶遇《哈利·波特》赫敏·格兰杰 coser。蓬松棕色长发、学院围巾或校服结构忠实、聪明倔强气质明显；街头或地铁口周边，主体略偏，像边走边放大拍下，前景有手机边缘或路人遮挡，轻微镜头污渍、动态模糊、JPEG 伪影，自然抓拍，无文字无 logo。"
+    },
+    {
+      "id": "movie-cosers-road-encounters-2026-05-25_03_玛蒂尔达路边警觉一瞥",
+      "batch": "movie-cosers-road-encounters-2026-05-25",
+      "category": "movie-coser-street",
+      "number": "03",
+      "title": "玛蒂尔达路边警觉一瞥",
+      "image": "assets/images/movie-cosers-road-encounters-2026-05-25/03_玛蒂尔达路边警觉一瞥.png",
+      "thumb": "assets/thumbs/movie-cosers-road-encounters-2026-05-25/03_玛蒂尔达路边警觉一瞥.png",
+      "description": "短发、choker 和早熟警惕的气质，让这张玛蒂尔达 coser 偶遇照很有角色味。",
+      "prompt": "一张随意用 iPhone 拍摄的快照，路上偶遇《这个杀手不太冷》玛蒂尔达 coser。短发或齐肩发、choker 项圈、少女却早熟警惕的气质高度还原；城市街边、夜晚街区或商场外，构图别扭、轻微裁切，前景有肩膀或购物袋虚焦遮挡，自然抓拍，无文字无 logo。"
+    },
+    {
+      "id": "movie-cosers-road-encounters-2026-05-25_04_mia-wallace-街区冷感抓拍",
+      "batch": "movie-cosers-road-encounters-2026-05-25",
+      "category": "movie-coser-street",
+      "number": "04",
+      "title": "Mia Wallace 街区冷感抓拍",
+      "image": "assets/images/movie-cosers-road-encounters-2026-05-25/04_mia-wallace-街区冷感抓拍.png",
+      "thumb": "assets/thumbs/movie-cosers-road-encounters-2026-05-25/04_mia-wallace-街区冷感抓拍.png",
+      "description": "黑色齐刘海短发和极简黑白造型，把 Mia Wallace 的冷感危险气质带到了现实街头。",
+      "prompt": "一张随意用 iPhone 拍摄的快照，路上偶遇《低俗小说》Mia Wallace coser。黑色齐刘海短发、白衬衫黑裤或极简黑白造型、冷感又危险的气质非常明确；街区或商场外沿街，画面稍倾斜、焦点略偏、前景有共享单车或路人遮挡，像微信里随手发的一张抓拍，无文字无 logo。"
+    },
+    {
+      "id": "movie-cosers-road-encounters-2026-05-25_05_holly-golightly-城市优雅错位",
+      "batch": "movie-cosers-road-encounters-2026-05-25",
+      "category": "movie-coser-street",
+      "number": "05",
+      "title": "Holly Golightly 城市优雅错位",
+      "image": "assets/images/movie-cosers-road-encounters-2026-05-25/05_holly-golightly-城市优雅错位.png",
+      "thumb": "assets/thumbs/movie-cosers-road-encounters-2026-05-25/05_holly-golightly-城市优雅错位.png",
+      "description": "高盘发、珍珠和黑色小礼服，在真实街景里显得既优雅又带一点疏离感。",
+      "prompt": "一张随意用 iPhone 拍摄的快照，路上偶遇《蒂凡尼的早餐》Holly Golightly coser。高盘发、黑色小礼服、长手套、珍珠项链与墨镜元素高度还原；城市人行道或酒店外，主体不在正中，裁切略 awkward，轻微镜头脏污和 JPEG 压缩感，像真实路遇，无文字无 logo。"
+    },
+    {
+      "id": "movie-cosers-road-encounters-2026-05-25_06_dorothy-街头轻回头",
+      "batch": "movie-cosers-road-encounters-2026-05-25",
+      "category": "movie-coser-street",
+      "number": "06",
+      "title": "Dorothy 街头轻回头",
+      "image": "assets/images/movie-cosers-road-encounters-2026-05-25/06_dorothy-街头轻回头.png",
+      "thumb": "assets/thumbs/movie-cosers-road-encounters-2026-05-25/06_dorothy-街头轻回头.png",
+      "description": "双麻花辫和蓝白格裙把 Dorothy 的少女感完整带了出来，放在现实街头有反差。",
+      "prompt": "一张随意用 iPhone 拍摄的快照，路上偶遇《绿野仙踪》Dorothy Gale coser。双麻花辫、蓝白格裙、纯真明亮神态明显；人行道或地铁口场景，边走边拍，构图不工整，前景有手臂或栏杆轻微遮挡，轻微运动模糊，真实抓拍，无文字无 logo。"
+    },
+    {
+      "id": "movie-cosers-road-encounters-2026-05-25_07_leeloo-夜街高辨识度路遇",
+      "batch": "movie-cosers-road-encounters-2026-05-25",
+      "category": "movie-coser-street",
+      "number": "07",
+      "title": "Leeloo 夜街高辨识度路遇",
+      "image": "assets/images/movie-cosers-road-encounters-2026-05-25/07_leeloo-夜街高辨识度路遇.png",
+      "thumb": "assets/thumbs/movie-cosers-road-encounters-2026-05-25/07_leeloo-夜街高辨识度路遇.png",
+      "description": "亮橙短发和未来感白色绷带式服装，让 Leeloo 在现实街头依然像突然闯进来的角色。",
+      "prompt": "一张随意用 iPhone 拍摄的快照，路上偶遇《第五元素》Leeloo coser。亮橙色短发、未来感白色绷带式服装结构高度忠实、野性又脆弱的气质明显；夜晚街区或商场外，混合光源，略偏焦，前景有路人或手机边缘挡住部分画面，真实抓拍，无文字无 logo。"
+    },
+    {
+      "id": "movie-cosers-road-encounters-2026-05-25_08_新娘战衣街头瞬间",
+      "batch": "movie-cosers-road-encounters-2026-05-25",
+      "category": "movie-coser-street",
+      "number": "08",
+      "title": "新娘战衣街头瞬间",
+      "image": "assets/images/movie-cosers-road-encounters-2026-05-25/08_新娘战衣街头瞬间.png",
+      "thumb": "assets/thumbs/movie-cosers-road-encounters-2026-05-25/08_新娘战衣街头瞬间.png",
+      "description": "黄色战衣和凌厉气质很抢眼，但整张图仍然保留了路遇抓拍该有的随意感。",
+      "prompt": "一张随意用 iPhone 拍摄的快照，路上偶遇《杀死比尔》The Bride coser。金色头发、黄色战衣结构忠实、凌厉危险的气质强烈；城市街角或夜晚路边，主体略被裁掉一部分，前景有肩膀或护栏虚焦遮挡，轻微动态模糊与 JPEG 颗粒，像自然抓拍，无文字无 logo。"
+    },
+    {
+      "id": "movie-cosers-road-encounters-2026-05-25_09_劳拉克劳馥商场外沿街偶遇",
+      "batch": "movie-cosers-road-encounters-2026-05-25",
+      "category": "movie-coser-street",
+      "number": "09",
+      "title": "劳拉克劳馥商场外沿街偶遇",
+      "image": "assets/images/movie-cosers-road-encounters-2026-05-25/09_劳拉克劳馥商场外沿街偶遇.png",
+      "thumb": "assets/thumbs/movie-cosers-road-encounters-2026-05-25/09_劳拉克劳馥商场外沿街偶遇.png",
+      "description": "长辫、工装感和强悍的冒险者气质，让 Lara 这一张非常像现实里的高质量 cosplay 路遇。",
+      "prompt": "一张随意用 iPhone 拍摄的快照，路上偶遇《古墓丽影》Lara Croft coser。棕色长辫、高辨识度背心与工装风结构、强悍冒险者气质高度还原；商场外沿街或城市街头，略带手持晃动和微信压缩感，前景有路边设施轻微遮挡，自然抓拍，无文字无 logo。"
+    },
+    {
+      "id": "movie-cosers-road-encounters-2026-05-25_10_哈莉奎茵街头乱入感",
+      "batch": "movie-cosers-road-encounters-2026-05-25",
+      "category": "movie-coser-street",
+      "number": "10",
+      "title": "哈莉奎茵街头乱入感",
+      "image": "assets/images/movie-cosers-road-encounters-2026-05-25/10_哈莉奎茵街头乱入感.png",
+      "thumb": "assets/thumbs/movie-cosers-road-encounters-2026-05-25/10_哈莉奎茵街头乱入感.png",
+      "description": "双马尾和粉蓝发尾在现实街景里特别有辨识度，既疯感又俏皮。",
+      "prompt": "一张随意用 iPhone 拍摄的快照，路上偶遇《自杀小队》Harley Quinn coser。双马尾、粉蓝染色发尾、夸张妆容和高辨识度街头风服装结构高度忠实；街区或夜晚商圈，轻微倾斜构图、前景有行人或自行车挡住一点，像随手抓拍，无文字无 logo。"
+    },
+    {
+      "id": "movie-cosers-road-encounters-2026-05-25_11_凯妮丝冷静路遇照",
+      "batch": "movie-cosers-road-encounters-2026-05-25",
+      "category": "movie-coser-street",
+      "number": "11",
+      "title": "凯妮丝冷静路遇照",
+      "image": "assets/images/movie-cosers-road-encounters-2026-05-25/11_凯妮丝冷静路遇照.png",
+      "thumb": "assets/thumbs/movie-cosers-road-encounters-2026-05-25/11_凯妮丝冷静路遇照.png",
+      "description": "深色长辫和坚韧克制的气质让凯妮丝这一张有很强的现实感。",
+      "prompt": "一张随意用 iPhone 拍摄的快照，路上偶遇《饥饿游戏》Katniss Everdeen coser。深色长辫、Mockingjay 风格深色战斗服或夹克结构忠实、坚韧冷静气质明显；城市边走边拍场景，主体不居中，略微偏焦和动态模糊，前景有路人肩膀或手臂挡住一角，自然抓拍，无文字无 logo。"
+    },
+    {
+      "id": "movie-cosers-road-encounters-2026-05-25_12_星期三阴郁街拍错位感",
+      "batch": "movie-cosers-road-encounters-2026-05-25",
+      "category": "movie-coser-street",
+      "number": "12",
+      "title": "星期三阴郁街拍错位感",
+      "image": "assets/images/movie-cosers-road-encounters-2026-05-25/12_星期三阴郁街拍错位感.png",
+      "thumb": "assets/thumbs/movie-cosers-road-encounters-2026-05-25/12_星期三阴郁街拍错位感.png",
+      "description": "黑色双辫和冷淡神情非常到位，放进现实街景后那种阴郁气质更强了。",
+      "prompt": "一张随意用 iPhone 拍摄的快照，路上偶遇 Wednesday Addams coser。黑色双辫、苍白冷淡神情、黑色校服或连衣裙结构忠实、阴郁克制气质明显；地铁口或商场外，构图 awkward，背景有人流轻微模糊，前景有手机边缘或栏杆遮挡，真实抓拍，无文字无 logo。"
+    },
+    {
+      "id": "movie-cosers-road-encounters-2026-05-25_13_cruella-黑白发色街头出场",
+      "batch": "movie-cosers-road-encounters-2026-05-25",
+      "category": "movie-coser-street",
+      "number": "13",
+      "title": "Cruella 黑白发色街头出场",
+      "image": "assets/images/movie-cosers-road-encounters-2026-05-25/13_cruella-黑白发色街头出场.png",
+      "thumb": "assets/thumbs/movie-cosers-road-encounters-2026-05-25/13_cruella-黑白发色街头出场.png",
+      "description": "黑白分半发色和戏剧化造型很强，但整张还是被控制在自然路遇的范围里。",
+      "prompt": "一张随意用 iPhone 拍摄的快照，路上偶遇《101忠狗》Cruella de Vil coser。黑白分半发色、夸张皮草或戏剧性黑白服装结构高度忠实、狂妄张扬的气质明显；城市街边或高端商圈外，轻微裁切、镜头污渍、JPEG 压缩感，自然抓拍，无文字无 logo。"
+    },
+    {
+      "id": "movie-cosers-road-encounters-2026-05-25_14_nina-sayers-路边脆弱感抓拍",
+      "batch": "movie-cosers-road-encounters-2026-05-25",
+      "category": "movie-coser-street",
+      "number": "14",
+      "title": "Nina Sayers 路边脆弱感抓拍",
+      "image": "assets/images/movie-cosers-road-encounters-2026-05-25/14_nina-sayers-路边脆弱感抓拍.png",
+      "thumb": "assets/thumbs/movie-cosers-road-encounters-2026-05-25/14_nina-sayers-路边脆弱感抓拍.png",
+      "description": "芭蕾发髻和黑天鹅妆让这张 Nina Sayers 很有角色张力，脆弱感也在。",
+      "prompt": "一张随意用 iPhone 拍摄的快照，路上偶遇《黑天鹅》Nina Sayers coser。芭蕾发髻、黑天鹅舞台妆或黑色练功服风格、脆弱偏执气质高度还原；路边或夜晚街区，略带运动模糊和偏焦，前景有路人或购物袋遮挡，自然抓拍，无文字无 logo。"
+    },
+    {
+      "id": "movie-cosers-road-encounters-2026-05-25_15_neytiri-现实街景反差偶遇",
+      "batch": "movie-cosers-road-encounters-2026-05-25",
+      "category": "movie-coser-street",
+      "number": "15",
+      "title": "Neytiri 现实街景反差偶遇",
+      "image": "assets/images/movie-cosers-road-encounters-2026-05-25/15_neytiri-现实街景反差偶遇.png",
+      "thumb": "assets/thumbs/movie-cosers-road-encounters-2026-05-25/15_neytiri-现实街景反差偶遇.png",
+      "description": "蓝色纳美人皮肤和部落饰品在现实街头里有很强的反差，但依然是明显的 Neytiri。",
+      "prompt": "一张随意用 iPhone 拍摄的快照，路上偶遇《阿凡达》Neytiri coser。蓝色纳美人皮肤、长辫与部落饰品、纳美族服装结构忠实、野性敏锐气质明显；现实城市街头或夜间街区，主体不居中，前景有路人或手机边缘遮挡，轻微动态模糊、镜头脏污和微信抓拍质感，无文字无 logo。"
+    },
+    {
+      "id": "movie-cosers-business-selfies-2026-05-25_01_leia-jensen-huang-自拍",
+      "batch": "movie-cosers-business-selfies-2026-05-25",
+      "category": "movie-coser-business-selfie",
+      "number": "01",
+      "title": "Leia × Jensen Huang 自拍",
+      "image": "assets/images/movie-cosers-business-selfies-2026-05-25/01_leia-jensen-huang-自拍.png",
+      "thumb": "assets/thumbs/movie-cosers-business-selfies-2026-05-25/01_leia-jensen-huang-自拍.png",
+      "description": "莱娅公主和黄仁勋同框的随手自拍，既像活动偶遇，也保留了很强的角色识别度。",
+      "prompt": "Create a vertical realistic iPhone selfie photo. Princess Leia from Star Wars with Jensen Huang in a casual chance encounter selfie. Leia has iconic side-bun hairstyle, white princess outfit, dignified resilient expression; Jensen Huang is clearly recognizable in realistic modern clothing. Arm-length selfie perspective, slightly awkward crop, upscale public setting, mild motion blur, JPEG artifacts, no text, no logos."
+    },
+    {
+      "id": "movie-cosers-business-selfies-2026-05-25_02_hermione-bill-gates-自拍",
+      "batch": "movie-cosers-business-selfies-2026-05-25",
+      "category": "movie-coser-business-selfie",
+      "number": "02",
+      "title": "Hermione × Bill Gates 自拍",
+      "image": "assets/images/movie-cosers-business-selfies-2026-05-25/02_hermione-bill-gates-自拍.png",
+      "thumb": "assets/thumbs/movie-cosers-business-selfies-2026-05-25/02_hermione-bill-gates-自拍.png",
+      "description": "赫敏和比尔·盖茨的自拍组合很出人意料，但角色和人物都能一眼认出来。",
+      "prompt": "Create a vertical realistic iPhone selfie photo. Hermione Granger from Harry Potter with Bill Gates in a spontaneous two-person selfie. Hermione has wavy brown hair, school scarf or wizard-academic styling, smart determined expression; Bill Gates clearly recognizable, natural modern appearance. Slight lens distortion, casual conference or public setting, no text, no logos."
+    },
+    {
+      "id": "movie-cosers-business-selfies-2026-05-25_03_mathilda-elon-musk-自拍",
+      "batch": "movie-cosers-business-selfies-2026-05-25",
+      "category": "movie-coser-business-selfie",
+      "number": "03",
+      "title": "Mathilda × Elon Musk 自拍",
+      "image": "assets/images/movie-cosers-business-selfies-2026-05-25/03_mathilda-elon-musk-自拍.png",
+      "thumb": "assets/thumbs/movie-cosers-business-selfies-2026-05-25/03_mathilda-elon-musk-自拍.png",
+      "description": "玛蒂尔达的警觉气质和马斯克的现实感放在同一张自拍里，反差感很强。",
+      "prompt": "Create a vertical realistic iPhone selfie photo. Mathilda from Leon: The Professional with Elon Musk in a spontaneous real-world selfie. Mathilda has short bob or shoulder-length hair, choker, guarded precocious expression; Elon Musk clearly recognizable. Casual event or city setting, imperfect composition, slight motion blur, JPEG artifacts, no text, no logos."
+    },
+    {
+      "id": "movie-cosers-business-selfies-2026-05-25_04_mia-wallace-bernard-arnault-自拍",
+      "batch": "movie-cosers-business-selfies-2026-05-25",
+      "category": "movie-coser-business-selfie",
+      "number": "04",
+      "title": "Mia Wallace × Bernard Arnault 自拍",
+      "image": "assets/images/movie-cosers-business-selfies-2026-05-25/04_mia-wallace-bernard-arnault-自拍.png",
+      "thumb": "assets/thumbs/movie-cosers-business-selfies-2026-05-25/04_mia-wallace-bernard-arnault-自拍.png",
+      "description": "Mia Wallace 的冷感和 Bernard Arnault 的正式感放在一起，像一张奇怪但可信的活动现场自拍。",
+      "prompt": "Create a vertical realistic iPhone selfie photo. Mia Wallace from Pulp Fiction with Bernard Arnault in a casual two-person selfie. Mia has black bob with bangs, white shirt and black styling, cool dangerous expression; Bernard Arnault clearly recognizable in realistic modern clothing. Hotel or gala setting, slight crop awkwardness, no text, no logos."
+    },
+    {
+      "id": "movie-cosers-business-selfies-2026-05-25_05_holly-tim-cook-自拍",
+      "batch": "movie-cosers-business-selfies-2026-05-25",
+      "category": "movie-coser-business-selfie",
+      "number": "05",
+      "title": "Holly × Tim Cook 自拍",
+      "image": "assets/images/movie-cosers-business-selfies-2026-05-25/05_holly-tim-cook-自拍.png",
+      "thumb": "assets/thumbs/movie-cosers-business-selfies-2026-05-25/05_holly-tim-cook-自拍.png",
+      "description": "Holly Golightly 的优雅和 Tim Cook 的日常感混在一张自拍里，意外地很自然。",
+      "prompt": "Create a vertical realistic iPhone selfie photo. Holly Golightly from Breakfast at Tiffanys with Tim Cook in a casual selfie. Holly has elegant updo, black dress, pearls, sophisticated aloof expression; Tim Cook clearly recognizable and naturally posed. Upscale public interior, slight JPEG compression, no text, no logos."
+    },
+    {
+      "id": "movie-cosers-business-selfies-2026-05-25_06_dorothy-satya-nadella-自拍",
+      "batch": "movie-cosers-business-selfies-2026-05-25",
+      "category": "movie-coser-business-selfie",
+      "number": "06",
+      "title": "Dorothy × Satya Nadella 自拍",
+      "image": "assets/images/movie-cosers-business-selfies-2026-05-25/06_dorothy-satya-nadella-自拍.png",
+      "thumb": "assets/thumbs/movie-cosers-business-selfies-2026-05-25/06_dorothy-satya-nadella-自拍.png",
+      "description": "Dorothy 的蓝白格裙在现代活动场景里反而特别显眼，和 Satya 同框很有反差。",
+      "prompt": "Create a vertical realistic iPhone selfie photo. Dorothy Gale from The Wizard of Oz with Satya Nadella in a spontaneous selfie. Dorothy has braided pigtails, blue gingham dress, innocent bright expression; Satya Nadella clearly recognizable. Business-event hallway or public interior, off-center framing, no text, no logos."
+    },
+    {
+      "id": "movie-cosers-business-selfies-2026-05-25_07_leeloo-sam-altman-自拍",
+      "batch": "movie-cosers-business-selfies-2026-05-25",
+      "category": "movie-coser-business-selfie",
+      "number": "07",
+      "title": "Leeloo × Sam Altman 自拍",
+      "image": "assets/images/movie-cosers-business-selfies-2026-05-25/07_leeloo-sam-altman-自拍.png",
+      "thumb": "assets/thumbs/movie-cosers-business-selfies-2026-05-25/07_leeloo-sam-altman-自拍.png",
+      "description": "Leeloo 的未来感造型和 Sam Altman 的现实商务感并排，视觉冲突非常直接。",
+      "prompt": "Create a vertical realistic iPhone selfie photo. Leeloo from The Fifth Element with Sam Altman in a spontaneous chance-encounter selfie. Leeloo has bright orange short hair, white futuristic bandage outfit, feral vulnerable expression; Sam Altman clearly recognizable. Clean upscale setting, casual awkward selfie framing, no text, no logos."
+    },
+    {
+      "id": "movie-cosers-business-selfies-2026-05-25_08_the-bride-jeff-bezos-自拍",
+      "batch": "movie-cosers-business-selfies-2026-05-25",
+      "category": "movie-coser-business-selfie",
+      "number": "08",
+      "title": "The Bride × Jeff Bezos 自拍",
+      "image": "assets/images/movie-cosers-business-selfies-2026-05-25/08_the-bride-jeff-bezos-自拍.png",
+      "thumb": "assets/thumbs/movie-cosers-business-selfies-2026-05-25/08_the-bride-jeff-bezos-自拍.png",
+      "description": "黄色战衣的新娘和 Jeff Bezos 同框，像一张非常离谱但又真实的活动抓拍。",
+      "prompt": "Create a vertical realistic iPhone selfie photo. The Bride from Kill Bill with Jeff Bezos in a casual selfie. The Bride has blonde hair, yellow combat suit, sharp intense expression; Jeff Bezos clearly recognizable. Event foyer or luxury public setting, slight motion blur and JPEG artifacts, no text, no logos."
+    },
+    {
+      "id": "movie-cosers-business-selfies-2026-05-25_09_lara-peter-thiel-自拍",
+      "batch": "movie-cosers-business-selfies-2026-05-25",
+      "category": "movie-coser-business-selfie",
+      "number": "09",
+      "title": "Lara × Peter Thiel 自拍",
+      "image": "assets/images/movie-cosers-business-selfies-2026-05-25/09_lara-peter-thiel-自拍.png",
+      "thumb": "assets/thumbs/movie-cosers-business-selfies-2026-05-25/09_lara-peter-thiel-自拍.png",
+      "description": "Lara Croft 的冒险者气质和 Peter Thiel 的冷感放在一起，形成了奇怪但稳的自拍气场。",
+      "prompt": "Create a vertical realistic iPhone selfie photo. Lara Croft from Tomb Raider with Peter Thiel in a spontaneous selfie. Lara has long brown braid, fitted adventure gear, strong athletic expression; Peter Thiel clearly recognizable. Slightly awkward arm-length framing, public venue background, no text, no logos."
+    },
+    {
+      "id": "movie-cosers-business-selfies-2026-05-25_10_harley-mark-cuban-自拍",
+      "batch": "movie-cosers-business-selfies-2026-05-25",
+      "category": "movie-coser-business-selfie",
+      "number": "10",
+      "title": "Harley × Mark Cuban 自拍",
+      "image": "assets/images/movie-cosers-business-selfies-2026-05-25/10_harley-mark-cuban-自拍.png",
+      "thumb": "assets/thumbs/movie-cosers-business-selfies-2026-05-25/10_harley-mark-cuban-自拍.png",
+      "description": "哈莉奎茵的俏皮疯感把这张和 Mark Cuban 的自拍带得非常有记忆点。",
+      "prompt": "Create a vertical realistic iPhone selfie photo. Harley Quinn from Suicide Squad with Mark Cuban in a spontaneous selfie. Harley has twin tails, pink-blue dyed ends, playful chaotic expression; Mark Cuban clearly recognizable. Casual public setting, lens distortion, phone edge intrusion, no text, no logos."
+    },
+    {
+      "id": "movie-cosers-business-selfies-2026-05-25_11_katniss-oprah-自拍",
+      "batch": "movie-cosers-business-selfies-2026-05-25",
+      "category": "movie-coser-business-selfie",
+      "number": "11",
+      "title": "Katniss × Oprah 自拍",
+      "image": "assets/images/movie-cosers-business-selfies-2026-05-25/11_katniss-oprah-自拍.png",
+      "thumb": "assets/thumbs/movie-cosers-business-selfies-2026-05-25/11_katniss-oprah-自拍.png",
+      "description": "凯妮丝的冷静坚韧和 Oprah 的公开场合松弛感放在一张自拍里，反差但不违和。",
+      "prompt": "Create a vertical realistic iPhone selfie photo. Katniss Everdeen from The Hunger Games with Oprah Winfrey in a spontaneous selfie. Katniss has dark side braid, dark utilitarian outfit, stoic resilient expression; Oprah clearly recognizable. Public indoor setting, realistic phone selfie flaws, no text, no logos."
+    },
+    {
+      "id": "movie-cosers-business-selfies-2026-05-25_12_wednesday-张一鸣-自拍",
+      "batch": "movie-cosers-business-selfies-2026-05-25",
+      "category": "movie-coser-business-selfie",
+      "number": "12",
+      "title": "Wednesday × 张一鸣 自拍",
+      "image": "assets/images/movie-cosers-business-selfies-2026-05-25/12_wednesday-张一鸣-自拍.png",
+      "thumb": "assets/thumbs/movie-cosers-business-selfies-2026-05-25/12_wednesday-张一鸣-自拍.png",
+      "description": "星期三和张一鸣这组最妙的是气质差异特别大，但自拍感却很成立。",
+      "prompt": "Create a vertical realistic iPhone selfie photo. Wednesday Addams with Zhang Yiming in a casual chance encounter selfie. Wednesday has black braids, pale cold expression, black dress or uniform; Zhang Yiming clearly recognizable in modern clothing. Conference or museum-style setting, awkward crop, no text, no logos."
+    },
+    {
+      "id": "movie-cosers-business-selfies-2026-05-25_13_cruella-melinda-french-gates-自拍",
+      "batch": "movie-cosers-business-selfies-2026-05-25",
+      "category": "movie-coser-business-selfie",
+      "number": "13",
+      "title": "Cruella × Melinda French Gates 自拍",
+      "image": "assets/images/movie-cosers-business-selfies-2026-05-25/13_cruella-melinda-french-gates-自拍.png",
+      "thumb": "assets/thumbs/movie-cosers-business-selfies-2026-05-25/13_cruella-melinda-french-gates-自拍.png",
+      "description": "Cruella 的戏剧性黑白造型把这张自拍的存在感直接拉满。",
+      "prompt": "Create a vertical realistic iPhone selfie photo. Cruella de Vil with Melinda French Gates in a spontaneous selfie. Cruella has split black-and-white hair, dramatic monochrome fashion, theatrical expression; Melinda French Gates clearly recognizable. Public gala or upscale interior, mild JPEG artifacts, no text, no logos."
+    },
+    {
+      "id": "movie-cosers-business-selfies-2026-05-25_14_nina-melanie-perkins-自拍",
+      "batch": "movie-cosers-business-selfies-2026-05-25",
+      "category": "movie-coser-business-selfie",
+      "number": "14",
+      "title": "Nina × Melanie Perkins 自拍",
+      "image": "assets/images/movie-cosers-business-selfies-2026-05-25/14_nina-melanie-perkins-自拍.png",
+      "thumb": "assets/thumbs/movie-cosers-business-selfies-2026-05-25/14_nina-melanie-perkins-自拍.png",
+      "description": "Nina Sayers 的脆弱感和 Melanie Perkins 的现代创业者气质混在一起，出奇地顺。",
+      "prompt": "Create a vertical realistic iPhone selfie photo. Nina Sayers from Black Swan with Melanie Perkins in a spontaneous selfie. Nina has ballerina bun, black swan eye makeup, fragile obsessive expression; Melanie Perkins clearly recognizable. Public indoor venue, imperfect crop, natural selfie feel, no text, no logos."
+    },
+    {
+      "id": "movie-cosers-business-selfies-2026-05-25_15_neytiri-pony-ma-自拍",
+      "batch": "movie-cosers-business-selfies-2026-05-25",
+      "category": "movie-coser-business-selfie",
+      "number": "15",
+      "title": "Neytiri × Pony Ma 自拍",
+      "image": "assets/images/movie-cosers-business-selfies-2026-05-25/15_neytiri-pony-ma-自拍.png",
+      "thumb": "assets/thumbs/movie-cosers-business-selfies-2026-05-25/15_neytiri-pony-ma-自拍.png",
+      "description": "Neytiri 和 Pony Ma 的组合特别离谱，但画面如果做成随手自拍就会很有传播感。",
+      "prompt": "Create a vertical realistic iPhone selfie photo. Neytiri from Avatar with Pony Ma in a spontaneous selfie. Neytiri has blue Na’vi skin, yellow catlike eyes, long dark braids with beads, tribal styling; Pony Ma clearly recognizable in realistic modern clothing. Upscale public setting, arm-length selfie perspective, slight blur and compression, no text, no logos."
     }
   ]
 }
