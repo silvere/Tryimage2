@@ -1,0 +1,127 @@
+{
+  "theme": "用纸做的大师级别的启迪人思考的艺术工艺品",
+  "batchId": "museum-grade-paper-contemplative-art-objects-2026-05-29",
+  "createdAt": "2026-05-29",
+  "items": [
+    {
+      "source": "01_paper_orbit_reading_lamp.png",
+      "category": "paper-contemplative-art-objects",
+      "categoryLabel": "纸艺启思器物",
+      "title": "轨道式纸艺阅读灯",
+      "description": "层层手工棉纸经热压弯折后形成轨道般环绕灯罩，让光线像被思想慢慢梳理过一样柔和、集中，适合真正长时间阅读。",
+      "prompt": "高端 editorial 纪实摄影风，安静阅读室内，一盏轨道式纸艺阅读灯放在胡桃木边几上，灯罩由多层手工棉纸与纸浆复合板精密叠压成连续弧面，暖光照亮一把扶手椅和摊开的无字书页，背景有亚麻窗帘与深色墙面，真实可居住，博物馆级工艺质感，横向构图，材质细节清晰，避免可读文字，避免logo，避免科幻感，避免过度摆拍"
+    },
+    {
+      "source": "02_paper_shoji_study_screen.png",
+      "category": "paper-contemplative-art-objects",
+      "categoryLabel": "纸艺启思器物",
+      "title": "密褶纸屏书房隔断",
+      "description": "半透纸屏通过疏密不同的折褶控制视线与光线，把工作区和静思区分开，也把空间节奏变得更克制。",
+      "prompt": "纪录片式室内摄影，现代书房与会客区之间展开一件密褶纸屏隔断，采用手工和纸与蜂窝纸芯结构，折面从宽到窄渐变，透出朦胧自然光，前景有低矮沙发和小茶几，后景是简洁书桌与台灯，真实高级住宅或画廊附属阅读空间，横向构图，光影层次丰富，避免可读书脊文字，避免logo，强调纸材纤维与边缘工艺"
+    },
+    {
+      "source": "03_paper_archive_console.png",
+      "category": "paper-contemplative-art-objects",
+      "categoryLabel": "纸艺启思器物",
+      "title": "纸壳拱廊玄关收纳柜",
+      "description": "拱券般起伏的柜门由硬化纸层构成，把日常收纳做成像展陈装置一样郑重，却仍然服务于钥匙、手套和雨伞这些真实生活物件。",
+      "prompt": "高端家居杂志风，住宅玄关内，一只纸壳拱廊收纳柜靠墙摆放，柜体由多层纤维纸板和手工纸面覆层构成，柜门呈连续拱形起伏，石质托盘里放无品牌钥匙与手套，旁边倚靠一把素色长柄雨伞，门外自然光照入，浅色矿物地面，真实生活痕迹，横向构图，博物馆级纸艺家具感，避免文字和logo"
+    },
+    {
+      "source": "04_paper_folding_lectern.png",
+      "category": "paper-contemplative-art-objects",
+      "categoryLabel": "纸艺启思器物",
+      "title": "折页式纸艺诵读架",
+      "description": "像一本被放大并立起的书，折页结构让阅读、抄写和展示同时成立，带有近乎仪式性的专注感。",
+      "prompt": "博物馆级 editorial 摄影，静谧书写室桌面，一件折页式纸艺诵读架支撑着无字空白纸页，主体由厚手工纸板与折叠纸梁结构构成，桌上有陶制笔洗、木铅笔和折叠眼镜，晨间侧光照亮纸张纤维，背景克制朴素，横向构图，真实可用的学习器物，避免可读文字，避免logo，避免抽象雕塑化"
+    },
+    {
+      "source": "05_paper_ritual_tea_tray.png",
+      "category": "paper-contemplative-art-objects",
+      "categoryLabel": "纸艺启思器物",
+      "title": "层岩纸艺茶仪托盘",
+      "description": "多层纸浆板像地层一样围合出浅浅台面，承托茶杯与水迹，日常泡茶因此多出一点沉思和停顿。",
+      "prompt": "纪录片式生活摄影，安静茶室或画廊附属休息区，一只层岩纸艺茶仪托盘放在低桌中央，由多层压制纸浆板雕琢出地层般边缘，托盘上有素陶茶壶、两只茶杯和少量水痕，无任何品牌文字，侧面自然光柔和，空间留白充足，横向构图，真实可触可用，强调纸材被精细封护后的温润哑光质感，避免logo"
+    },
+    {
+      "source": "06_paper_honeycomb_wall_sconce.png",
+      "category": "paper-contemplative-art-objects",
+      "categoryLabel": "纸艺启思器物",
+      "title": "蜂巢纸壁灯",
+      "description": "纸蜂巢结构在点亮后显出细密呼吸感，让一段普通走廊像突然拥有了缓慢思考的节拍。",
+      "prompt": "高端室内纪实摄影，长走廊墙面安装一组蜂巢纸壁灯，灯罩由阻燃蜂窝纸芯与半透明手工纸构成，暖光穿透细密孔隙形成均匀阴影，地面为石材或微水泥，尽头有低柜与陶器，真实住宅或精品酒店式画廊空间，横向构图，强调透视与节奏，避免可读文字，避免logo，真实材质不过度商业化"
+    },
+    {
+      "source": "07_paper_accordion_side_table.png",
+      "category": "paper-contemplative-art-objects",
+      "categoryLabel": "纸艺启思器物",
+      "title": "手风琴纸边几",
+      "description": "可伸缩的纸褶结构让边几像一段被暂停的动作，既能承托杯盏和书册，也在视觉上提醒人重新理解支撑与重量。",
+      "prompt": "设计公寓客厅场景，一张手风琴纸边几置于沙发旁，桌体由高密度折叠纸结构与纸面层压外壳构成，顶部放一只陶杯和一本封面无字画册，阴天漫射光从落地窗进入，沙发、地毯和墙面保持克制中性色，横向构图，真实家居 editorial 风，材质细节鲜明，避免logo和可读文字"
+    },
+    {
+      "source": "08_paper_meditation_stool.png",
+      "category": "paper-contemplative-art-objects",
+      "categoryLabel": "纸艺启思器物",
+      "title": "纸叠静坐凳",
+      "description": "厚实纸层像年轮般堆叠成稳固坐面，把短暂静坐变成一种与材料共同呼吸的体验。",
+      "prompt": "纪录片式摄影，安静冥想角落，一只纸叠静坐凳放在亚麻地垫上，凳体由多层棉纸板和纸浆复合层压成厚实圆角体量，旁边有素色披巾与一只浅陶钵，晨光穿过纱帘投下柔和阴影，空间像真实住宅中的静思角或瑜伽室，横向构图，博物馆级工艺感，避免人物正脸，避免文字和logo"
+    },
+    {
+      "source": "09_paper_drafting_caddy.png",
+      "category": "paper-contemplative-art-objects",
+      "categoryLabel": "纸艺启思器物",
+      "title": "纸构制图文具匣",
+      "description": "像微型建筑模型一样展开的纸制收纳匣，把尺、笔、夹子各归其位，令桌面秩序本身成为一种思维方式。",
+      "prompt": "高端工作室 editorial 摄影，一件纸构制图文具匣在大书桌上半展开，主体由硬化纤维纸板、折叠纸肋和包边纸带组成，分区收纳木尺、铅笔、金属夹与素色卡片，无任何文字标识，背景可见模糊材料样本和台灯，下午自然侧光，横向构图，真实设计师工作环境，避免logo，强调纸艺结构的精准与可用性"
+    },
+    {
+      "source": "10_paper_bedside_lantern.png",
+      "category": "paper-contemplative-art-objects",
+      "categoryLabel": "纸艺启思器物",
+      "title": "褶幕纸床头灯",
+      "description": "像一件小型幕布装置，层层纸褶过滤掉刺眼直光，让夜晚阅读和入睡前的短暂停留都更安静。",
+      "prompt": "夜晚卧室场景，床边一盏褶幕纸床头灯发出温暖低照度光线，灯罩由多层半透明和纸精细折叠成垂幕状，床品为米灰亚麻，床头柜上有眼镜盒与无字小册，墙面与织物细节克制高级，横向构图，真实住宅摄影，强调纸材透光与褶皱阴影，避免可读文字，避免logo，避免样板房僵硬感"
+    },
+    {
+      "source": "11_paper_gallery_bench_storage.png",
+      "category": "paper-contemplative-art-objects",
+      "categoryLabel": "纸艺启思器物",
+      "title": "纸梁储物长凳",
+      "description": "长凳底部的纸梁结构同时承担承重与收纳，把毛毯、画册和随手物隐藏在秩序之中，像一件可以进入美术馆的家具。",
+      "prompt": "画廊附属休息区或住宅走廊，一张纸梁储物长凳沿墙摆放，主体由层压纸梁与手工纸面构成，坐面下方开放式储物格里放折叠毛毯和封面无字画册，墙上留白，地面为浅色石材，午后斜光投下清晰阴影，横向构图，纪实 editorial 风，真实可用，避免可读文字与logo"
+    },
+    {
+      "source": "12_paper_fold_map_case.png",
+      "category": "paper-contemplative-art-objects",
+      "categoryLabel": "纸艺启思器物",
+      "title": "折景纸地图匣",
+      "description": "本是用来安放地图、信件或作品稿的纸匣，被做得像可展开的小型建筑，让整理信息这件事带有审视世界的意味。",
+      "prompt": "高端静物与环境结合摄影，书房大桌上一只折景纸地图匣完全展开，采用多层档案级纸板、纸铰链和精细包边，内部放无字空白图纸、信封和照片卡，旁边有放大镜与镇纸，窗侧冷静自然光，背景为木架与灰墙，横向构图，博物馆保存级工艺感，避免任何可读文字，避免logo"
+    },
+    {
+      "source": "13_paper_lotus_offering_table.png",
+      "category": "paper-contemplative-art-objects",
+      "categoryLabel": "纸艺启思器物",
+      "title": "莲瓣纸供物小几",
+      "description": "这件小几像介于家具与仪式器之间的存在，适合放置香器、石子、花枝或一杯水，让日常角落拥有被郑重对待的理由。",
+      "prompt": "纪录片式室内摄影，宁静角落里一张莲瓣纸供物小几靠墙摆放，桌体由压制纸浆与手工纸层塑形成层层外展的莲瓣轮廓，上面放一只小陶香器、一枝简洁花材和一杯清水，无可读文字，背景是灰泥墙与木地板，柔和晨光进入，横向构图，真实可存在于住宅或画廊沉思空间，避免logo"
+    },
+    {
+      "source": "14_paper_roll_blind_partition.png",
+      "category": "paper-contemplative-art-objects",
+      "categoryLabel": "纸艺启思器物",
+      "title": "卷轴纸帘隔屏",
+      "description": "可升降的纸帘把开敞空间分成不同的精神温度，既像家具也像轻建筑，适合书写、会客和独处之间的切换。",
+      "prompt": "现代住宅或创意工作室内景，一件卷轴纸帘隔屏从天花缓缓垂下，采用强化和纸与细密纸骨结构，半透明帘面在前景形成柔和层次，后方可见书桌、椅子和落地灯，空间真实不空洞，傍晚自然光与室内暖光并存，横向构图，编辑摄影质感，避免可读文字，避免logo，强调纸帘可用性与建筑感"
+    },
+    {
+      "source": "15_paper_ceremony_cabinet.png",
+      "category": "paper-contemplative-art-objects",
+      "categoryLabel": "纸艺启思器物",
+      "title": "纸艺仪式器柜",
+      "description": "像一只沉静的私人祭坛，却被克制地做成日常柜体，用来安放茶器、香具、石头或珍藏小物，使收藏行为本身带有思辨意味。",
+      "prompt": "博物馆级家居 editorial 摄影，一只纸艺仪式器柜立于客厅或阅读室角落，柜体由厚层压纸板、折角纸门与内置柔光照明组成，柜门半开露出陶杯、香盒、石头与折叠布件，无文字无品牌，墙面与地面简洁克制，光线安静而庄重，横向构图，真实高级，强调纸制家具的可触、可藏、可凝视属性，避免抽象装置化"
+    }
+  ]
+}
