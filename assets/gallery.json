@@ -1,7 +1,7 @@
 {
   "site": {
     "title": "OpenAI image2 视觉实验",
-    "subtitle": "1022 张传播向 AI 海报",
+    "subtitle": "1032 张传播向 AI 海报",
     "headline": "OpenAI image2 视觉实验",
     "intro": "每一批图片围绕一个临时主题生成，并按当次最合适的 category 归档；可以是反差创意、真实场景、产品概念、人物叙事或任何新的视觉方向。",
     "coverImage": "assets/contact_sheet_image2.jpg",
@@ -838,6 +838,12 @@
       "theme": "用纸做的大师级别的启迪人思考的艺术工艺品",
       "createdAt": "2026-05-29",
       "count": 15
+    },
+    {
+      "id": "paper-contemplative-art-objects-detail-studies-2026-05-29",
+      "theme": "纸艺启思器物细部：层染、纤维与透光结构中的沉思日常",
+      "createdAt": "2026-05-29",
+      "count": 10
     }
   ],
   "items": [
@@ -12067,6 +12073,116 @@
       "thumb": "assets/thumbs/museum-grade-paper-contemplative-art-objects-2026-05-29/15_纸艺仪式器柜.png",
       "description": "像一只沉静的私人祭坛，却被克制地做成日常柜体，用来安放茶器、香具、石头或珍藏小物，使收藏行为本身带有思辨意味。",
       "prompt": "博物馆级家居 editorial 摄影，一只纸艺仪式器柜立于客厅或阅读室角落，柜体由厚层压纸板、折角纸门与内置柔光照明组成，柜门半开露出陶杯、香盒、石头与折叠布件，无文字无品牌，墙面与地面简洁克制，光线安静而庄重，横向构图，真实高级，强调纸制家具的可触、可藏、可凝视属性，避免抽象装置化"
+    },
+    {
+      "id": "paper-contemplative-art-objects-detail-studies-2026-05-29_01_层压纸缘阅读灯细部",
+      "batch": "paper-contemplative-art-objects-detail-studies-2026-05-29",
+      "category": "paper-contemplative-art-objects",
+      "number": "01",
+      "title": "层压纸缘阅读灯细部",
+      "image": "assets/images/paper-contemplative-art-objects-detail-studies-2026-05-29/01_层压纸缘阅读灯细部.png",
+      "thumb": "assets/thumbs/paper-contemplative-art-objects-detail-studies-2026-05-29/01_层压纸缘阅读灯细部.png",
+      "description": "近距离呈现一盏纸艺阅读灯灯罩下缘的层压结构，手工棉纸、染色纸层与封护边缘清晰可见，光线穿过薄厚不同的纸面，显出安静而克制的使用痕迹。",
+      "prompt": "高端 editorial 与博物馆级静物摄影，横向构图，近距离拍摄一盏可真实使用的纸艺阅读灯局部，重点展示灯罩下缘的多层纸张层压、纤维断面、细微手工包边、浅赭与灰白的染色层次、半透明纸面透出的暖光，主体仍明确是一件灯具并置于安静阅读角的真实环境中，可见胡桃木桌角与模糊书页但无可读文字，不要 logos，不要抽象纹理样片感，真实材料行为，光线柔和，细节高级克制"
+    },
+    {
+      "id": "paper-contemplative-art-objects-detail-studies-2026-05-29_02_半透折屏转角细部",
+      "batch": "paper-contemplative-art-objects-detail-studies-2026-05-29",
+      "category": "paper-contemplative-art-objects",
+      "number": "02",
+      "title": "半透折屏转角细部",
+      "image": "assets/images/paper-contemplative-art-objects-detail-studies-2026-05-29/02_半透折屏转角细部.png",
+      "thumb": "assets/thumbs/paper-contemplative-art-objects-detail-studies-2026-05-29/02_半透折屏转角细部.png",
+      "description": "镜头靠近一件纸屏风的转角折面，薄纸与骨架之间的张力、纤维起伏和透光变化被完整看见，既像家具构件，也像安静空间中的呼吸装置。",
+      "prompt": "博物馆级室内摄影，横向构图，中近景聚焦一件半透明纸屏风的转角与折褶细部，展示和纸纤维、手工折线、纸骨支撑、边缘贴合、冷暖自然光穿透后的层次变化，前景与背景保持真实室内语境，可见地面、墙角与一张低矮座椅但不喧宾夺主，主体必须读作可使用的空间隔屏，不是抽象褶皱，不要可读文字，不要 logo，真实高级材料表现"
+    },
+    {
+      "id": "paper-contemplative-art-objects-detail-studies-2026-05-29_03_手染档案匣盒盖细部",
+      "batch": "paper-contemplative-art-objects-detail-studies-2026-05-29",
+      "category": "paper-contemplative-art-objects",
+      "number": "03",
+      "title": "手染档案匣盒盖细部",
+      "image": "assets/images/paper-contemplative-art-objects-detail-studies-2026-05-29/03_手染档案匣盒盖细部.png",
+      "thumb": "assets/thumbs/paper-contemplative-art-objects-detail-studies-2026-05-29/03_手染档案匣盒盖细部.png",
+      "description": "一只纸构档案匣的盒盖半掀开，手染渐变、封边、压痕与纤维纸板厚度被近距离看到，像保存思想与时间的器物，而不是普通包装。",
+      "prompt": "高端 museum-grade 产品摄影，横向构图，近距离拍摄一只可用于收藏图稿的纸艺档案匣盒盖与盒身接缝，强调手工染色形成的灰蓝到茶褐渐变、厚纸板断面纤维、精细压痕、包边纸带、盒角手作连接与轻微磨损，盒内隐约露出无字空白纸张，环境为安静书房桌面，真实可用，避免任何可读文字与 logo，不要变成纯材质样本"
+    },
+    {
+      "id": "paper-contemplative-art-objects-detail-studies-2026-05-29_04_压纹纸茶盘边沿细部",
+      "batch": "paper-contemplative-art-objects-detail-studies-2026-05-29",
+      "category": "paper-contemplative-art-objects",
+      "number": "04",
+      "title": "压纹纸茶盘边沿细部",
+      "image": "assets/images/paper-contemplative-art-objects-detail-studies-2026-05-29/04_压纹纸茶盘边沿细部.png",
+      "thumb": "assets/thumbs/paper-contemplative-art-objects-detail-studies-2026-05-29/04_压纹纸茶盘边沿细部.png",
+      "description": "纸艺茶盘的边沿在中近景中显示出压纹、层积与封护后的防水质感，杯底留下轻微水迹，让纸材的脆弱与被驯服后的日常使用感同时成立。",
+      "prompt": "纪录片式高端静物摄影，横向构图，中近景拍摄一件纸艺茶盘的边沿与局部台面，重点表现压纹纸面、层层叠压的边界、微微起伏的手工纹理、温润哑光封护层、浅水痕与陶杯接触处的真实反应，背景为低桌与宁静茶室环境，主体必须明确是一件正在使用的茶盘，不是抽象纸纹，不要可读文字，不要 logo，真实材料与博物馆级工艺感"
+    },
+    {
+      "id": "paper-contemplative-art-objects-detail-studies-2026-05-29_05_纤维缝接长凳接口细部",
+      "batch": "paper-contemplative-art-objects-detail-studies-2026-05-29",
+      "category": "paper-contemplative-art-objects",
+      "number": "05",
+      "title": "纤维缝接长凳接口细部",
+      "image": "assets/images/paper-contemplative-art-objects-detail-studies-2026-05-29/05_纤维缝接长凳接口细部.png",
+      "thumb": "assets/thumbs/paper-contemplative-art-objects-detail-studies-2026-05-29/05_纤维缝接长凳接口细部.png",
+      "description": "纸艺长凳的转角与坐面接口被拉近，能看见不同纤维纸层、手工缝接带和加固结构，显出一种安静但可靠的承重逻辑。",
+      "prompt": "高端家具 editorial 摄影，横向构图，近距离呈现纸艺储物长凳的坐面转角与结构接口，展示厚层纤维纸板、纸面覆层、手工缝接或绑接加固、边缘层压断面、浅米灰与烟褐色的材质组合，环境是真实住宅或画廊休息区，可见石地面和折叠毯一角，主体清楚是可坐可靠的家具，不是实验样品，无可读文字，无 logo，真实光影与材料受力感"
+    },
+    {
+      "id": "paper-contemplative-art-objects-detail-studies-2026-05-29_06_彩层折页诵读架书脊细部",
+      "batch": "paper-contemplative-art-objects-detail-studies-2026-05-29",
+      "category": "paper-contemplative-art-objects",
+      "number": "06",
+      "title": "彩层折页诵读架书脊细部",
+      "image": "assets/images/paper-contemplative-art-objects-detail-studies-2026-05-29/06_彩层折页诵读架书脊细部.png",
+      "thumb": "assets/thumbs/paper-contemplative-art-objects-detail-studies-2026-05-29/06_彩层折页诵读架书脊细部.png",
+      "description": "折页式纸艺诵读架在转折处呈现出多色纸层的截面，像一本被放大的无字书，层层色阶与压折痕迹让它同时拥有器物性与沉思感。",
+      "prompt": "博物馆级 editorial 摄影，横向构图，中近景拍摄纸艺诵读架的折页转轴与侧边，重点表现多层彩色纸板叠压后的截面、压折痕、手工对齐的细微误差、局部压纹与哑光封层，主体仍要明确是一件支撑阅读的诵读架，桌面可见无字空白页、木铅笔和陶器一角，避免任何可读文字与 logo，不要做成纯抽象色层切片，真实可用、克制、高级"
+    },
+    {
+      "id": "paper-contemplative-art-objects-detail-studies-2026-05-29_07_透光褶幕床头灯细部",
+      "batch": "paper-contemplative-art-objects-detail-studies-2026-05-29",
+      "category": "paper-contemplative-art-objects",
+      "number": "07",
+      "title": "透光褶幕床头灯细部",
+      "image": "assets/images/paper-contemplative-art-objects-detail-studies-2026-05-29/07_透光褶幕床头灯细部.png",
+      "thumb": "assets/thumbs/paper-contemplative-art-objects-detail-studies-2026-05-29/07_透光褶幕床头灯细部.png",
+      "description": "床头灯的褶幕纸罩在近距离下显出半透明纤维、染色晕层与柔和光线，像夜间空间里一段被慢慢展开的呼吸。",
+      "prompt": "高端住宅摄影，横向构图，近距离拍摄纸艺床头灯的褶幕灯罩局部，展示半透明纸纤维、淡粉灰与米白手染过渡、褶皱阴影、边缘封护、内层暖光穿透后的真实明暗变化，背景保留床头柜、亚麻床品和眼镜盒等克制生活元素但无文字，主体必须读作真实床头灯而非抽象光影研究，不要 logo，不要可读文字，博物馆级材料细节"
+    },
+    {
+      "id": "paper-contemplative-art-objects-detail-studies-2026-05-29_08_压印地图匣纸铰链细部",
+      "batch": "paper-contemplative-art-objects-detail-studies-2026-05-29",
+      "category": "paper-contemplative-art-objects",
+      "number": "08",
+      "title": "压印地图匣纸铰链细部",
+      "image": "assets/images/paper-contemplative-art-objects-detail-studies-2026-05-29/08_压印地图匣纸铰链细部.png",
+      "thumb": "assets/thumbs/paper-contemplative-art-objects-detail-studies-2026-05-29/08_压印地图匣纸铰链细部.png",
+      "description": "纸地图匣展开时的纸铰链与折角被放大观看，能看见压印纹、层纸韧性和手工连接方式，既精密又保留人为痕迹。",
+      "prompt": "高端 archive object 摄影，横向构图，中近景聚焦纸艺地图匣展开状态下的纸铰链、折角和盒盖内侧，突出压印纹理、纸层厚薄变化、柔韧连接、手工贴合痕迹与微妙阴影，盒内可见无字图纸与照片卡边缘但无可读信息，环境为安静书桌和侧向自然光，主体仍是可使用的收纳器物，不是解构样本，无 logo，无可读文字，真实工艺逻辑"
+    },
+    {
+      "id": "paper-contemplative-art-objects-detail-studies-2026-05-29_09_染色静坐凳切缘细部",
+      "batch": "paper-contemplative-art-objects-detail-studies-2026-05-29",
+      "category": "paper-contemplative-art-objects",
+      "number": "09",
+      "title": "染色静坐凳切缘细部",
+      "image": "assets/images/paper-contemplative-art-objects-detail-studies-2026-05-29/09_染色静坐凳切缘细部.png",
+      "thumb": "assets/thumbs/paper-contemplative-art-objects-detail-studies-2026-05-29/09_染色静坐凳切缘细部.png",
+      "description": "纸叠静坐凳的圆角切缘显露出手染纸层、年轮般的叠积与细微磨圆处理，近距离看像时间沉积，远看仍是一件可坐的安静器物。",
+      "prompt": "博物馆级家具细节摄影，横向构图，近距离呈现纸叠静坐凳的圆角边缘与坐面过渡，重点表现手工染色纸层形成的深浅梯度、像年轮一样的层积断面、边角磨圆、轻微压痕与真实坐具尺度，环境为冥想角落或安静住宅空间，可见亚麻垫与灰泥墙面，主体明确是一张可坐的纸艺静坐凳，不要抽象纹理图，不要可读文字，不要 logo"
+    },
+    {
+      "id": "paper-contemplative-art-objects-detail-studies-2026-05-29_10_纸艺提梁器手作接点细部",
+      "batch": "paper-contemplative-art-objects-detail-studies-2026-05-29",
+      "category": "paper-contemplative-art-objects",
+      "number": "10",
+      "title": "纸艺提梁器手作接点细部",
+      "image": "assets/images/paper-contemplative-art-objects-detail-studies-2026-05-29/10_纸艺提梁器手作接点细部.png",
+      "thumb": "assets/thumbs/paper-contemplative-art-objects-detail-studies-2026-05-29/10_纸艺提梁器手作接点细部.png",
+      "description": "一件纸艺供物器或收纳器的提梁与器身接点被拉近观看，纸绳、层纸、胶合与包覆关系清晰可辨，透露出手工制作的耐心与节制。",
+      "prompt": "高端 editorial 静物摄影，横向构图，中近景拍摄一件纸艺供物器或纸艺收纳器的提梁连接处，突出纸绳缠绕、层压纸身、手工胶合接点、包覆边缘、压痕、浅墨灰与自然纸色的材质对比，器物置于安静台面或供物小几上，旁边有石子或陶器作为语境但不过度抢戏，主体必须清楚是一件可提拿可陈设的 contemplative object，不是抽象工艺样本，无可读文字，无 logo，真实材料行为"
     }
   ]
 }
