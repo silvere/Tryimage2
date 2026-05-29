@@ -1,7 +1,7 @@
 {
   "site": {
     "title": "OpenAI image2 视觉实验",
-    "subtitle": "992 张传播向 AI 海报",
+    "subtitle": "1007 张传播向 AI 海报",
     "headline": "OpenAI image2 视觉实验",
     "intro": "每一批图片围绕一个临时主题生成，并按当次最合适的 category 归档；可以是反差创意、真实场景、产品概念、人物叙事或任何新的视觉方向。",
     "coverImage": "assets/contact_sheet_image2.jpg",
@@ -354,6 +354,10 @@
     {
       "id": "movie-coser-business-selfie",
       "label": "电影角色×商业名人自拍"
+    },
+    {
+      "id": "bamboo-functional-art",
+      "label": "竹编顶级艺术品，也有实用价值"
     }
   ],
   "batches": [
@@ -817,6 +821,12 @@
       "id": "movie-cosers-business-selfies-2026-05-25",
       "theme": "经典电影角色 Coser 和当今商业名人的双人合影自拍，像活动现场偶遇随手拍",
       "createdAt": "2026-05-25T09:50:00+08:00",
+      "count": 15
+    },
+    {
+      "id": "museum-grade-bamboo-weaving-functional-art-2026-05-29",
+      "theme": "竹编顶级艺术品，也有实用价值",
+      "createdAt": "2026-05-29",
       "count": 15
     }
   ],
@@ -11717,6 +11727,171 @@
       "thumb": "assets/thumbs/movie-cosers-business-selfies-2026-05-25/15_neytiri-pony-ma-自拍.png",
       "description": "Neytiri 和 Pony Ma 的组合特别离谱，但画面如果做成随手自拍就会很有传播感。",
       "prompt": "Create a vertical realistic iPhone selfie photo. Neytiri from Avatar with Pony Ma in a spontaneous selfie. Neytiri has blue Na’vi skin, yellow catlike eyes, long dark braids with beads, tribal styling; Pony Ma clearly recognizable in realistic modern clothing. Upscale public setting, arm-length selfie perspective, slight blur and compression, no text, no logos."
+    },
+    {
+      "id": "museum-grade-bamboo-weaving-functional-art-2026-05-29_01_悬弧竹编休憩椅",
+      "batch": "museum-grade-bamboo-weaving-functional-art-2026-05-29",
+      "category": "bamboo-functional-art",
+      "number": "01",
+      "title": "悬弧竹编休憩椅",
+      "image": "assets/images/museum-grade-bamboo-weaving-functional-art-2026-05-29/01_悬弧竹编休憩椅.png",
+      "thumb": "assets/thumbs/museum-grade-bamboo-weaving-functional-art-2026-05-29/01_悬弧竹编休憩椅.png",
+      "description": "大幅弯折的细密竹编在黑胡桃框架上形成悬浮躺面，这是一件像美术馆雕塑一样优雅、却真正适合午后阅读的休憩椅。",
+      "prompt": "高端家居杂志风，现代住宅落地窗边，一张悬弧造型竹编休憩椅，细密手工竹篾编织形成连续曲面，黑胡桃木骨架，旁边有打开的无字画册和一条亚麻披毯，午后自然侧光穿过窗纱，在地面投下柔和阴影，空间克制、安静、真实可居住，广角横构图，材质细节清晰，博物馆级工艺感，避免logo，避免可读文字，避免摆拍感过强"
+    },
+    {
+      "id": "museum-grade-bamboo-weaving-functional-art-2026-05-29_02_穹顶竹编吊灯",
+      "batch": "museum-grade-bamboo-weaving-functional-art-2026-05-29",
+      "category": "bamboo-functional-art",
+      "number": "02",
+      "title": "穹顶竹编吊灯",
+      "image": "assets/images/museum-grade-bamboo-weaving-functional-art-2026-05-29/02_穹顶竹编吊灯.png",
+      "thumb": "assets/thumbs/museum-grade-bamboo-weaving-functional-art-2026-05-29/02_穹顶竹编吊灯.png",
+      "description": "层层放射的竹编穹顶把餐桌上方的光线过滤得温润细腻，让照明本身成为空间的主角。",
+      "prompt": "设计公寓餐厅场景，一盏大型穹顶竹编吊灯悬挂在长餐桌上方，灯罩由不同宽度竹篾密织和疏织过渡，发出温暖漫射光，桌面摆放陶盘、透明玻璃杯、亚麻餐巾，椅子简洁，傍晚蓝调时刻，室内暖光与窗外冷光对比明显，横向构图，真实生活痕迹，高级编辑摄影，避免文字，避免logo，避免过度商业广告感"
+    },
+    {
+      "id": "museum-grade-bamboo-weaving-functional-art-2026-05-29_03_雕塑感竹编中岛高凳",
+      "batch": "museum-grade-bamboo-weaving-functional-art-2026-05-29",
+      "category": "bamboo-functional-art",
+      "number": "03",
+      "title": "雕塑感竹编中岛高凳",
+      "image": "assets/images/museum-grade-bamboo-weaving-functional-art-2026-05-29/03_雕塑感竹编中岛高凳.png",
+      "thumb": "assets/thumbs/museum-grade-bamboo-weaving-functional-art-2026-05-29/03_雕塑感竹编中岛高凳.png",
+      "description": "高凳的收腰轮廓像一组当代雕塑，但坐面与脚踏比例经过精准推敲，确实为长时间停留而设计。",
+      "prompt": "高端开放式厨房，中岛前摆放两只雕塑感竹编高凳，竹编坐面与包覆侧面呈收腰曲线，黄铜脚踏细节，浅灰石材台面、哑光木柜门、晨间自然光，台面上有咖啡杯和水果碗但无文字包装，镜头略低机位强调体量和结构，真实住宅空间，设计杂志风，避免logo与人物正脸"
+    },
+    {
+      "id": "museum-grade-bamboo-weaving-functional-art-2026-05-29_04_折屏式竹编隔断",
+      "batch": "museum-grade-bamboo-weaving-functional-art-2026-05-29",
+      "category": "bamboo-functional-art",
+      "number": "04",
+      "title": "折屏式竹编隔断",
+      "image": "assets/images/museum-grade-bamboo-weaving-functional-art-2026-05-29/04_折屏式竹编隔断.png",
+      "thumb": "assets/thumbs/museum-grade-bamboo-weaving-functional-art-2026-05-29/04_折屏式竹编隔断.png",
+      "description": "半透竹编屏风用细微密度变化划分客厅与书房，使隔断既有建筑感，也保留光线与呼吸。",
+      "prompt": "宽阔住宅套间，折屏式竹编隔断在客厅与书写区之间展开，竹编纹理从稀疏到紧密渐变，木框纤细精致，后方隐约可见书桌和落地灯，前景有低矮沙发与地毯，午后斜阳照出编织投影，横向室内摄影，空间层次丰富，真实高端居住感，避免可读书脊文字，避免logo"
+    },
+    {
+      "id": "museum-grade-bamboo-weaving-functional-art-2026-05-29_05_拱廊竹编玄关柜",
+      "batch": "museum-grade-bamboo-weaving-functional-art-2026-05-29",
+      "category": "bamboo-functional-art",
+      "number": "05",
+      "title": "拱廊竹编玄关柜",
+      "image": "assets/images/museum-grade-bamboo-weaving-functional-art-2026-05-29/05_拱廊竹编玄关柜.png",
+      "thumb": "assets/thumbs/museum-grade-bamboo-weaving-functional-art-2026-05-29/05_拱廊竹编玄关柜.png",
+      "description": "拱券般起伏的柜门把收纳做得像展览装置，鞋履、雨伞和随手物都被安静藏在温润的竹编之后。",
+      "prompt": "高级住宅玄关，拱廊造型竹编玄关柜靠墙摆放，柜门为连续弧拱竹编面，顶部有石质台面，旁边一把长柄雨伞、托盘内钥匙和无品牌皮手套，门外自然光从半开的入户门照入，地面为浅色石材，场景真实可用，横构图，细节高级，避免文字，避免logo，避免空洞样板间感"
+    },
+    {
+      "id": "museum-grade-bamboo-weaving-functional-art-2026-05-29_06_立体编骨洗衣篮",
+      "batch": "museum-grade-bamboo-weaving-functional-art-2026-05-29",
+      "category": "bamboo-functional-art",
+      "number": "06",
+      "title": "立体编骨洗衣篮",
+      "image": "assets/images/museum-grade-bamboo-weaving-functional-art-2026-05-29/06_立体编骨洗衣篮.png",
+      "thumb": "assets/thumbs/museum-grade-bamboo-weaving-functional-art-2026-05-29/06_立体编骨洗衣篮.png",
+      "description": "洗衣篮通过外露竹骨与深浅编法呈现轻盈体量，哪怕放在卧室角落也像一件完整作品。",
+      "prompt": "主卧与衣帽间过渡区域，一只高挑立体编骨竹编洗衣篮放在软包长凳旁，篮内露出少量白色棉麻衣物，竹骨结构清晰，编织有明暗层次，柔和晨光从窗边进入，床尾、地毯、衣柜形成生活场景，横向拍摄，真实质感，高端生活方式杂志风，避免人物、logo、文字标签"
+    },
+    {
+      "id": "museum-grade-bamboo-weaving-functional-art-2026-05-29_07_卷面竹编床头柜",
+      "batch": "museum-grade-bamboo-weaving-functional-art-2026-05-29",
+      "category": "bamboo-functional-art",
+      "number": "07",
+      "title": "卷面竹编床头柜",
+      "image": "assets/images/museum-grade-bamboo-weaving-functional-art-2026-05-29/07_卷面竹编床头柜.png",
+      "thumb": "assets/thumbs/museum-grade-bamboo-weaving-functional-art-2026-05-29/07_卷面竹编床头柜.png",
+      "description": "可滑开的卷面竹编柜门让床头收纳动作变得有仪式感，像触碰一件会回应光影的手工器物。",
+      "prompt": "安静卧室夜景，一只卷面竹编床头柜置于床边，柜门半滑开露出书本边角与眼镜盒，无可读文字，柜体为烟熏木与细密竹编结合，上方一盏暖色小台灯，床品为米灰色亚麻，局部低照度光影高级克制，横向构图，真实室内摄影，避免品牌标识与样板房僵硬感"
+    },
+    {
+      "id": "museum-grade-bamboo-weaving-functional-art-2026-05-29_08_双层竹编茶具推车",
+      "batch": "museum-grade-bamboo-weaving-functional-art-2026-05-29",
+      "category": "bamboo-functional-art",
+      "number": "08",
+      "title": "双层竹编茶具推车",
+      "image": "assets/images/museum-grade-bamboo-weaving-functional-art-2026-05-29/08_双层竹编茶具推车.png",
+      "thumb": "assets/thumbs/museum-grade-bamboo-weaving-functional-art-2026-05-29/08_双层竹编茶具推车.png",
+      "description": "推车的编织托层像把竹艺语言带入服务动线，让端茶递水也带有收藏级器物的气场。",
+      "prompt": "会客厅内，一辆双层竹编茶具推车停在沙发与窗边之间，下层放热水壶与茶叶罐，上层有陶壶和茶杯，推手为弯木，轮子低调精致，人物只出现一只刚放下茶杯的手，环境为现代中性客厅，下午柔光，横向编辑摄影，功能明确，真实不浮夸，避免logo，避免可读文字"
+    },
+    {
+      "id": "museum-grade-bamboo-weaving-functional-art-2026-05-29_09_羽片竹编壁灯",
+      "batch": "museum-grade-bamboo-weaving-functional-art-2026-05-29",
+      "category": "bamboo-functional-art",
+      "number": "09",
+      "title": "羽片竹编壁灯",
+      "image": "assets/images/museum-grade-bamboo-weaving-functional-art-2026-05-29/09_羽片竹编壁灯.png",
+      "thumb": "assets/thumbs/museum-grade-bamboo-weaving-functional-art-2026-05-29/09_羽片竹编壁灯.png",
+      "description": "壁灯以层叠羽片状竹编包裹光源，既照亮走廊，也把普通墙面变成一段有节奏的光影陈列。",
+      "prompt": "长走廊空间，墙面安装一排羽片状竹编壁灯，灯光透过层叠竹片形成细腻阴影，地面为微水泥或石材，尽头有低矮边柜和一件陶器，画面强调透视和节奏感，傍晚室内暖光，横向构图，设计酒店或高级住宅氛围，真实材质，避免文字与logo"
+    },
+    {
+      "id": "museum-grade-bamboo-weaving-functional-art-2026-05-29_10_书报收纳长凳",
+      "batch": "museum-grade-bamboo-weaving-functional-art-2026-05-29",
+      "category": "bamboo-functional-art",
+      "number": "10",
+      "title": "书报收纳长凳",
+      "image": "assets/images/museum-grade-bamboo-weaving-functional-art-2026-05-29/10_书报收纳长凳.png",
+      "thumb": "assets/thumbs/museum-grade-bamboo-weaving-functional-art-2026-05-29/10_书报收纳长凳.png",
+      "description": "长凳底部的开放式竹编兜袋把杂志与毛毯收纳进结构本身，让家具兼具展示、坐卧与整理功能。",
+      "prompt": "客厅窗前，一张书报收纳长凳沿墙摆放，坐面为厚实软垫，底部是连续竹编收纳兜，放有折叠毛毯和几本封面无字杂志，旁边有绿植和落地窗，阴天自然漫射光，镜头平视，横构图，生活化但高级，细节真实，避免logo，避免过度极简空场"
+    },
+    {
+      "id": "museum-grade-bamboo-weaving-functional-art-2026-05-29_11_高足竹编果盘",
+      "batch": "museum-grade-bamboo-weaving-functional-art-2026-05-29",
+      "category": "bamboo-functional-art",
+      "number": "11",
+      "title": "高足竹编果盘",
+      "image": "assets/images/museum-grade-bamboo-weaving-functional-art-2026-05-29/11_高足竹编果盘.png",
+      "thumb": "assets/thumbs/museum-grade-bamboo-weaving-functional-art-2026-05-29/11_高足竹编果盘.png",
+      "description": "果盘以高足器的庄重比例被重新演绎，日常盛放水果时依然保有展陈般的隆重感。",
+      "prompt": "开放式餐厨空间中景，岛台中央摆放一只高足竹编果盘，盘中放柑橘、梨和葡萄，编织纹理细密，足部结构像小型雕塑，背景有模糊的水槽、橱柜与晨间光线，不是纯静物而是完整生活空间，横向构图，真实高级，避免品牌包装、文字、logo"
+    },
+    {
+      "id": "museum-grade-bamboo-weaving-functional-art-2026-05-29_12_提梁竹编野餐盒",
+      "batch": "museum-grade-bamboo-weaving-functional-art-2026-05-29",
+      "category": "bamboo-functional-art",
+      "number": "12",
+      "title": "提梁竹编野餐盒",
+      "image": "assets/images/museum-grade-bamboo-weaving-functional-art-2026-05-29/12_提梁竹编野餐盒.png",
+      "thumb": "assets/thumbs/museum-grade-bamboo-weaving-functional-art-2026-05-29/12_提梁竹编野餐盒.png",
+      "description": "提梁与分层内盒让这件竹编器物兼具便携与陈列属性，从室内餐边柜到户外草地都同样成立。",
+      "prompt": "傍晚庭院草地或石台旁，一只提梁竹编野餐盒被打开，内部有分层收纳的陶杯、小盘、餐布与面包水果，无任何包装文字，盒体结构精细，旁边放一件薄外套，光线温暖自然，横向场景摄影，像设计杂志外拍，真实可用、不过分浪漫化，避免logo与夸张野餐布置"
+    },
+    {
+      "id": "museum-grade-bamboo-weaving-functional-art-2026-05-29_13_拱顶竹编宠物窝",
+      "batch": "museum-grade-bamboo-weaving-functional-art-2026-05-29",
+      "category": "bamboo-functional-art",
+      "number": "13",
+      "title": "拱顶竹编宠物窝",
+      "image": "assets/images/museum-grade-bamboo-weaving-functional-art-2026-05-29/13_拱顶竹编宠物窝.png",
+      "thumb": "assets/thumbs/museum-grade-bamboo-weaving-functional-art-2026-05-29/13_拱顶竹编宠物窝.png",
+      "description": "宠物窝以拱顶编壳包裹柔软内垫，让陪伴动物的日常用品也拥有雕塑建筑般的完整体面。",
+      "prompt": "客厅一角，拱顶竹编宠物窝靠近沙发摆放，内部有一只安静蜷卧的浅色猫或小型犬，窝体编织均匀、入口弧线优雅，地面铺羊毛地毯，旁边有低桌和柔和落地灯，夜晚室内暖光，横向构图，生活感自然，高端家居 editorial，避免品牌宠物用品和文字"
+    },
+    {
+      "id": "museum-grade-bamboo-weaving-functional-art-2026-05-29_14_编框竹艺浴巾梯",
+      "batch": "museum-grade-bamboo-weaving-functional-art-2026-05-29",
+      "category": "bamboo-functional-art",
+      "number": "14",
+      "title": "编框竹艺浴巾梯",
+      "image": "assets/images/museum-grade-bamboo-weaving-functional-art-2026-05-29/14_编框竹艺浴巾梯.png",
+      "thumb": "assets/thumbs/museum-grade-bamboo-weaving-functional-art-2026-05-29/14_编框竹艺浴巾梯.png",
+      "description": "浴巾架以竹编框面和弧形扶梯结合，把功能性的晾挂动作转化成一段非常克制的空间装饰。",
+      "prompt": "高端浴室，编框竹艺浴巾梯靠在浅色石墙边，挂着两条厚实白色浴巾，地面有少量水汽反光，浴缸边缘与磨砂玻璃若隐若现，晨间清爽自然光，横向室内摄影，材质真实，空间洁净但不冰冷，突出竹编在湿润环境中的温润对比，避免文字、logo、过度酒店宣传感"
+    },
+    {
+      "id": "museum-grade-bamboo-weaving-functional-art-2026-05-29_15_折臂竹编工作灯",
+      "batch": "museum-grade-bamboo-weaving-functional-art-2026-05-29",
+      "category": "bamboo-functional-art",
+      "number": "15",
+      "title": "折臂竹编工作灯",
+      "image": "assets/images/museum-grade-bamboo-weaving-functional-art-2026-05-29/15_折臂竹编工作灯.png",
+      "thumb": "assets/thumbs/museum-grade-bamboo-weaving-functional-art-2026-05-29/15_折臂竹编工作灯.png",
+      "description": "竹编灯罩与金属折臂的组合让工作灯既像一件桌面装置，也能提供真正可用的专注照明。",
+      "prompt": "设计师书房或工作室桌面场景，一盏折臂竹编工作灯从桌边伸出，灯罩为细密竹编小穹顶，暖光精准落在素描纸、木尺和陶笔筒上，无可读文字，背景可见层架与模糊材料样本，夜晚室内局部照明，横构图，真实编辑风，兼具工艺、功能和收藏气质，避免logo，避免人物正脸，避免科幻感"
     }
   ]
 }
