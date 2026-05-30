@@ -1,0 +1,87 @@
+{
+  "theme": "秦始皇的一天艺术展：帝王日常器物细节",
+  "batchId": "qin-shihuang-a-day-art-exhibition-2026-05-30",
+  "createdAt": "2026-05-30",
+  "items": [
+    {
+      "source": "01_dawn_bedchamber_objects.png",
+      "category": "历史器物叙事",
+      "categoryLabel": "历史器物叙事",
+      "title": "黎明寝殿器物",
+      "description": "始皇醒来前的寝殿一角，漆木榻、青铜灯、玉佩、木履与洗漱铜盆在晨光里排布得极其克制，重点展示帝王清晨空间里的日常物件秩序。",
+      "prompt": "museum-grade cinematic historical interior, horizontal composition, dawn in Qin dynasty imperial bedchamber before the emperor fully rises, focus on daily objects not grand spectacle: low lacquered wooden bed with woven mat, dim bronze oil lamp with fading flame, folded black robe, jade pendants, belt hook, wooden shoes, bronze wash basin and ewer, linen towel, dark screen, faint cold morning light entering through window, rich material detail of bronze patina lacquer wood silk hemp bamboo, realistic archaeology-inspired Qin dynasty setting, quiet power, no fantasy, no readable text, no logos"
+    },
+    {
+      "source": "02_morning_washing_bronze_ewer.png",
+      "category": "历史器物叙事",
+      "categoryLabel": "历史器物叙事",
+      "title": "清晨洗漱铜匜注水",
+      "description": "青铜匜向洗手器缓慢注水，黑色袖口、漆盘、木梳与发冠配件一起构成帝王清晨最私人也最考究的生活器具场景。",
+      "prompt": "high-end editorial historical still life with partial human presence, horizontal composition, morning washing ritual in Qin dynasty palace, close view of bronze ewer pouring water into bronze basin, black sleeve edge and attendant hand only, lacquer tray, wooden comb, bone comb, crown accessories, folded cloth, ripples of water catching early sunlight, obsessive detail on bronze surfaces water reflections lacquer finish and grooming tools, intimate imperial daily life, realistic ancient Chinese archaeology aesthetics, no fantasy glow, no readable text, no logos"
+    },
+    {
+      "source": "03_breakfast_table_lacquerware.png",
+      "category": "历史器物叙事",
+      "categoryLabel": "历史器物叙事",
+      "title": "帝王早食长案",
+      "description": "俯拍一张秦代长案上的早餐布局：漆盒、陶碗、青铜小鼎、耳杯、箸、谷物、肉羹与果品，让器物密度本身成为主角。",
+      "prompt": "museum-quality top-down food and object photography, Qin dynasty imperial breakfast table on a long wooden desk, richly arranged lacquer boxes, pottery bowls, small bronze ding vessel, ear cups, chopsticks, spoon, steamed millet, meat broth, dried meat, fruit, salt dishes, orderly ceremonial placement, tactile textures of lacquer bronze pottery grain and cloth, elegant but lived-in, strong archaeological realism, horizontal composition, no readable text, no logos, no modern food styling"
+    },
+    {
+      "source": "04_desk_of_empire_bamboo_slips.png",
+      "category": "历史器物叙事",
+      "categoryLabel": "历史器物叙事",
+      "title": "案头上的帝国",
+      "description": "竹简、印玺、封泥、地图卷轴与铜镇纸铺满木案，把帝国治理浓缩成一张书案上的器物语言。",
+      "prompt": "cinematic museum-grade desk still life, horizontal composition, Qin dynasty imperial administrative desk before morning court, bamboo slips stacked and half opened, imperial seal, clay sealings, map scroll, bronze paperweights, brush, ink tools, wooden desk with worn edges, directional light revealing grain and dust, the feeling that an empire is organized through objects on a table, highly detailed bamboo cords lacquer wood bronze clay silk, realistic historical setting, no readable text, no logos, no fantasy"
+    },
+    {
+      "source": "05_chariot_departure_wheel_harness.png",
+      "category": "历史器物叙事",
+      "categoryLabel": "历史器物叙事",
+      "title": "御车出行前一刻",
+      "description": "镜头贴近秦制马车的车轮、青铜马具、皮革缰绳与侍从扶车动作，表现帝王出门前那一瞬间的高压秩序。",
+      "prompt": "historical cinematic close-range scene, horizontal composition, just before Qin emperor's chariot departs the palace gate, focus on daily transport details: wooden wheel spokes, bronze horse fittings, leather reins, carriage rail, attendant hand steadying the step, dust and wheel ruts on the ground, banners only partially seen, tense orderly atmosphere, rich material detail of leather wood bronze woven cords, archaeology-inspired realistic Qin dynasty court transport, not a battle scene, no readable text, no logos"
+    },
+    {
+      "source": "06_armory_storage_bronze_weapons.png",
+      "category": "历史器物叙事",
+      "categoryLabel": "历史器物叙事",
+      "title": "午间巡看兵器库",
+      "description": "整齐收纳的青铜剑、弩机、箭箙、甲片与木箱在高窗冷光下显得像被精密管理的日常用品，强调帝国武力的仓储美学。",
+      "prompt": "museum-grade documentary interior, horizontal composition, Qin dynasty armory storage during midday inspection, neat racks of bronze swords, crossbows, arrow quivers, lamellar armor plates, labeled-looking but unreadable storage boxes, hemp cords, wooden stands, cool light from high window, strong emphasis on orderly storage and object management rather than combat, tactile detail of bronze blades wood racks leather bindings and dust, realistic ancient arsenal aesthetics, no readable text, no logos"
+    },
+    {
+      "source": "07_afternoon_bamboo_slip_closeup.png",
+      "category": "历史器物叙事",
+      "categoryLabel": "历史器物叙事",
+      "title": "午后批简手部特写",
+      "description": "手指翻动竹简、笔尖沾墨、封泥压痕与桌案边缘的磨损被拉到很近，像在看帝国运转时最细小却最关键的动作。",
+      "prompt": "extreme close historical editorial photography, horizontal composition, afternoon review of bamboo slips in Qin dynasty palace, close-up of fingers turning bamboo slips, brush tip touching ink, fresh dark strokes, clay seal impression, sleeve pressing against worn wooden desk edge, intimate hand-and-object focus, obsessive detail on bamboo cords ink texture clay cracks wood wear and textile folds, realistic museum advertising style, no readable text, no logos, no fantasy"
+    },
+    {
+      "source": "08_evening_banquet_setup_lamps.png",
+      "category": "历史器物叙事",
+      "categoryLabel": "历史器物叙事",
+      "title": "傍晚宴前灯火与酒器",
+      "description": "宫灯刚点起，漆案上青铜樽、耳杯、果盒与乐器静静等待，画的是宴会开始前最安静也最华贵的器物时刻。",
+      "prompt": "warm cinematic palace still life, horizontal composition, evening before a Qin imperial banquet begins, lit bronze lamp tree, lacquer table, bronze wine vessel, ear cups, fruit box, silk strings instrument resting to one side, empty席位 feeling without showing crowd, golden firelight and deep black-red palette, emphasis on arranged daily ceremonial objects before people arrive, exquisite texture of lacquer bronze silk fruit and woven mats, realistic archaeology-inspired historical atmosphere, no readable text, no logos"
+    },
+    {
+      "source": "09_night_map_elixir_desk.png",
+      "category": "历史器物叙事",
+      "categoryLabel": "历史器物叙事",
+      "title": "夜读方术与地图",
+      "description": "深夜孤灯下，竹简、地图、药匣、小鼎与玉瓶杂陈在桌上，表现秦始皇掌控天下却仍难以安睡的焦虑时刻。",
+      "prompt": "moody night historical interior, horizontal composition, Qin emperor studying late at night under a single bronze lamp, bamboo slips, maps, small medicine box, ritual vessel, jade bottle, sealings and scroll case scattered in controlled disorder, dramatic shadows and insomnia atmosphere, focus on objects that suggest control, longevity obsession and imperial anxiety, rich detail in lamp flame bronze bamboo silk wood jade and dark room texture, realistic and restrained, no fantasy magic effects, no readable text, no logos"
+    },
+    {
+      "source": "10_before_sleep_crown_and_lamp.png",
+      "category": "历史器物叙事",
+      "categoryLabel": "历史器物叙事",
+      "title": "就寝前的退场桌面",
+      "description": "熄灯前的余烬照着摘下的冠、半卷竹简、玉佩、半杯酒与脱下的木履，让整组图在器物留下的静默中收尾。",
+      "prompt": "museum-grade cinematic ending scene, horizontal composition, Qin dynasty imperial chamber just before sleep, nearly extinguished bronze lamp, removed crown and crown ties, half-rolled bamboo slips, jade pendant, half-finished wine cup, folded robe, wooden shoes beside mat, dark quiet room with black, bronze and muted gold palette, focus on the objects left behind after power retreats for the night, deeply tactile lacquer bronze jade bamboo textile wood details, realistic historical atmosphere, no readable text, no logos"
+    }
+  ]
+}
