@@ -1,0 +1,127 @@
+{
+  "theme": "那些鬼灭之刃精美绝伦的二创漫画，视觉和故事兼备",
+  "items": [
+    {
+      "source": "01_snowy_mountain_departure.png",
+      "category": "热血动漫叙事",
+      "categoryLabel": "热血动漫叙事",
+      "title": "雪山启程",
+      "description": "风雪压过山路，少年背着木箱踏入漫长夜途，故事从失去与守护同时开始。",
+      "prompt": "visually stunning fanmade comic illustration inspired by Demon Slayer / Kimetsu no Yaiba, a young swordsman beginning a journey through a snowy mountain path at dawn, carrying a wooden box on his back, footprints in deep snow, bare winter trees, cold blue light, sorrow and determination, cinematic storytelling composition, intricate clothing folds, frost on fabric and hair, richly detailed environment, emotional manga atmosphere, dynamic depth, no readable text, no logos"
+    },
+    {
+      "source": "02_wisteria_rest_evening.png",
+      "category": "热血动漫叙事",
+      "categoryLabel": "热血动漫叙事",
+      "title": "紫藤花下的短暂歇息",
+      "description": "夜色温柔落下，紫藤庭院里的灯火与热茶，让残酷旅程第一次有了喘息。",
+      "prompt": "beautiful fanmade manga illustration inspired by Demon Slayer / Kimetsu no Yaiba, evening rest beneath blooming wisteria at a traditional wooden estate, warm lantern glow, teacups, travel gear set aside, a weary swordsman and his quiet companion resting in fragile peace, petals drifting in the air, strong storytelling, lush garden detail, polished anime-comic aesthetic, layered lighting, serene but melancholy mood, no readable text, no logos"
+    },
+    {
+      "source": "03_final_selection_fog_forest.png",
+      "category": "热血动漫叙事",
+      "categoryLabel": "热血动漫叙事",
+      "title": "迷雾试炼林",
+      "description": "被薄雾吞没的山林里，试炼尚未开始，紧张感已经从树影和呼吸间蔓延开来。",
+      "prompt": "masterpiece fanmade comic art inspired by Demon Slayer / Kimetsu no Yaiba, eerie mountain forest during a deadly selection trial, pale fog winding between ancient cedar trunks, young candidates in varied haori silhouettes standing apart, moonlight filtering through branches, suspenseful pre-battle stillness, strong narrative framing, highly detailed leaves bark moss stones and worn sandals, atmospheric and visually rich, no readable text, no logos"
+    },
+    {
+      "source": "04_first_breathing_strike.png",
+      "category": "热血动漫叙事",
+      "categoryLabel": "热血动漫叙事",
+      "title": "初次呼吸斩击",
+      "description": "刀光划开黑夜的一瞬，胆怯与决意终于在同一具身体里完成对撞。",
+      "prompt": "high-impact fanmade manga illustration inspired by Demon Slayer / Kimetsu no Yaiba, first successful breathing-style sword strike in the dark forest, fluid water-like energy arc around a katana, fierce expression, motion-blurred demon silhouette recoiling, wet ground reflecting moonlight, explosive composition, dramatic perspective, intense storytelling, exquisite detail in blade steel, splashing mud, torn sleeves, and surrounding trees, no readable text, no logos"
+    },
+    {
+      "source": "05_butterfly_estate_recovery.png",
+      "category": "热血动漫叙事",
+      "categoryLabel": "热血动漫叙事",
+      "title": "蝶屋静养时刻",
+      "description": "伤口被包扎，午后的光穿过纸门，温柔与疼痛一起提醒着战斗并未结束。",
+      "prompt": "elegant fanmade comic illustration inspired by Demon Slayer / Kimetsu no Yaiba, recovery scene inside a traditional healing estate, soft afternoon sunlight through shoji screens, bandaged swordsman seated on futon, medicine trays, folded haori, butterfly motifs in decor, gentle caretaking atmosphere, intimate storytelling, refined linework, rich environmental detail in tatami texture wood grain ceramic bowls and cloth wraps, no readable text, no logos"
+    },
+    {
+      "source": "06_mugen_train_night_platform.png",
+      "category": "热血动漫叙事",
+      "categoryLabel": "热血动漫叙事",
+      "title": "夜站与蒸汽列车",
+      "description": "煤烟、月台与将启程的身影交织出不祥预感，热血故事开始走向更深的黑夜。",
+      "prompt": "cinematic fanmade manga artwork inspired by Demon Slayer / Kimetsu no Yaiba, nighttime train platform with a looming steam locomotive, drifting smoke, lantern reflections on wet stone, demon slayers preparing to board, capes moving in the wind, anticipation mixed with dread, strong narrative tension, lavish detail in iron machinery, wooden benches, luggage straps, uniforms, and steam haze, no readable text, no logos"
+    },
+    {
+      "source": "07_flame_pillar_corridor.png",
+      "category": "热血动漫叙事",
+      "categoryLabel": "热血动漫叙事",
+      "title": "炎柱回眸",
+      "description": "炽热如火的背影站在车厢尽头，只一个回眸，就足以点燃全篇的英雄气。",
+      "prompt": "stunning fanmade comic illustration inspired by Demon Slayer / Kimetsu no Yaiba, a flame-themed elite swordsman standing in a train corridor turning back with confident warmth, blazing hair, firelit reflections on polished wood, other passengers sleeping in soft shadow, heroic presence, emotional foreshadowing, richly detailed carriage interior, cinematic framing, dynamic cloth and sword design, no readable text, no logos"
+    },
+    {
+      "source": "08_dream_shards_sadness.png",
+      "category": "热血动漫叙事",
+      "categoryLabel": "热血动漫叙事",
+      "title": "梦境碎片",
+      "description": "温柔旧梦像玻璃一样悬在半空，越美丽越让人明白醒来后的残酷。",
+      "prompt": "emotional fanmade manga illustration inspired by Demon Slayer / Kimetsu no Yaiba, surreal dream sequence breaking apart into floating luminous fragments, a young swordsman reaching toward lost family memories, train seats dissolving into darkness, delicate glow, sorrowful expression, poetic storytelling, layered composition, fine detail in shards, fabric, tears, and light particles, haunting yet beautiful atmosphere, no readable text, no logos"
+    },
+    {
+      "source": "09_burning_field_last_stand.png",
+      "category": "热血动漫叙事",
+      "categoryLabel": "热血动漫叙事",
+      "title": "烈焰原野的死战",
+      "description": "火光吞没荒野，伤痕与怒吼在夜里燃烧成最悲壮的一页。",
+      "prompt": "epic fanmade comic splash art inspired by Demon Slayer / Kimetsu no Yaiba, desperate last stand in a burning field at night, flame-themed swordsman clashing with a powerful demon, sparks and embers everywhere, shattered earth, wounded bodies, fierce expressions, tragic heroism, cinematic action composition, extremely detailed firelight on armor, bloodless battle damage, grass, smoke, and blade reflections, no readable text, no logos"
+    },
+    {
+      "source": "10_dawn_grief_silent_road.png",
+      "category": "热血动漫叙事",
+      "categoryLabel": "热血动漫叙事",
+      "title": "黎明后的沉默长路",
+      "description": "战后无人说话，晨曦落在破损羽织和满地灰烬上，悲伤比胜负更重。",
+      "prompt": "poignant fanmade manga illustration inspired by Demon Slayer / Kimetsu no Yaiba, silent aftermath at dawn after a devastating battle, surviving slayers kneeling on a scorched roadside, ashes drifting in pale sunrise, torn haori, abandoned sword wrapping, grief and exhaustion, quiet cinematic storytelling, rich environmental detail in burned grass, smoke residue, footprints, and cool morning light, no readable text, no logos"
+    },
+    {
+      "source": "11_entertainment_district_lantern_alley.png",
+      "category": "热血动漫叙事",
+      "categoryLabel": "热血动漫叙事",
+      "title": "花街灯影潜行",
+      "description": "霓彩灯笼与狭窄巷道美得危险，繁华表面下潜伏着最锋利的恶意。",
+      "prompt": "gorgeous fanmade comic illustration inspired by Demon Slayer / Kimetsu no Yaiba, stealth mission in a vibrant entertainment district at night, narrow alleys, hanging lanterns, silk curtains, tiled roofs, hidden watchers in shadow, richly ornamented architecture, seductive yet menacing mood, strong story composition with layered foreground and background action hints, highly detailed textures and lighting, no readable text, no logos"
+    },
+    {
+      "source": "12_rooftop_duo_blades_moon.png",
+      "category": "热血动漫叙事",
+      "categoryLabel": "热血动漫叙事",
+      "title": "月下双刃交错",
+      "description": "屋脊之间风声猎猎，两道身影在月色下默契配合，把热血与信任推向顶点。",
+      "prompt": "dynamic fanmade manga action illustration inspired by Demon Slayer / Kimetsu no Yaiba, two demon slayers fighting back-to-back across moonlit rooftops, dual blades flashing, broken tiles flying, ribbons of motion, giant moon behind drifting clouds, coordinated teamwork, thrilling storytelling, refined anatomy and motion, exquisite detail in roof textures, garments, weapon hilts, and night atmosphere, no readable text, no logos"
+    },
+    {
+      "source": "13_swordsmith_village_scarlet_forge.png",
+      "category": "热血动漫叙事",
+      "categoryLabel": "热血动漫叙事",
+      "title": "锻刀村赤焰工坊",
+      "description": "炉火照亮钢铁与面具，战斗之外的匠人与兵器，也成为这部漫画不可替代的灵魂。",
+      "prompt": "richly detailed fanmade comic illustration inspired by Demon Slayer / Kimetsu no Yaiba, swordsmith village forge glowing scarlet at night, masked smiths working around a blazing furnace, unfinished katana, sparks, hammers, stacked charcoal, a wounded slayer watching in gratitude, strong worldbuilding and storytelling, luxurious environmental detail, dramatic warm light against deep shadows, no readable text, no logos"
+    },
+    {
+      "source": "14_mist_and_love_before_battle.png",
+      "category": "热血动漫叙事",
+      "categoryLabel": "热血动漫叙事",
+      "title": "决战前的霞与恋",
+      "description": "薄雾与花瓣同时掠过庭院，不同性格的强者并肩而立，决战前的平静反而更令人紧张。",
+      "prompt": "visually stunning fanmade manga illustration inspired by Demon Slayer / Kimetsu no Yaiba, calm before a major battle in a garden courtyard, a mist-themed swordsman and a love-themed swordswoman standing apart yet united, drifting petals and soft haze, polished armor and unique blades, poised expressions, emotionally charged stillness, detailed stone path, trees, fabric patterns, and evening sky, no readable text, no logos"
+    },
+    {
+      "source": "15_sunrise_final_walk.png",
+      "category": "热血动漫叙事",
+      "categoryLabel": "热血动漫叙事",
+      "title": "朝阳下的归途",
+      "description": "最后的晨光照在幸存者身上，疲惫、伤痕与新生并存，整组故事在希望中收束。",
+      "prompt": "masterpiece fanmade comic illustration inspired by Demon Slayer / Kimetsu no Yaiba, final sunrise after a long war, surviving companions walking together along a mountain path, bandaged but peaceful, golden light breaking through clouds, wild grass moving in the wind, emotional closure, strong sense of earned hope, panoramic storytelling composition, exceptionally rich detail in landscape, clothing wear, scabbards, and atmosphere, no readable text, no logos"
+    }
+  ],
+  "batchId": "demon-slayer-fanmade-comic-masterpieces-2026-05-31",
+  "createdAt": "2026-05-31"
+}
