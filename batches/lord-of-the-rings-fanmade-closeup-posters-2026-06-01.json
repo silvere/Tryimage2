@@ -1,0 +1,127 @@
+{
+  "theme": "那些精美绝伦的指环王二创，15张特写海报风格",
+  "items": [
+    {
+      "source": "01_frodo_ring_reflection.png",
+      "category": "奇幻史诗角色海报",
+      "categoryLabel": "奇幻史诗角色海报",
+      "title": "魔戒映瞳",
+      "description": "佛罗多近距离凝视至尊魔戒，金光照进瞳孔，命运与诱惑同时落在脸上。",
+      "prompt": "masterpiece fanmade poster illustration inspired by The Lord of the Rings, extreme close-up portrait of Frodo Baggins holding the One Ring near his face, the gold ring reflecting inside his wide eyes, delicate hobbit features, worn travel cloak, subtle dirt and sweat, dark blurred Mordor-like background, cinematic gold and shadow lighting, highly detailed skin texture, emotional expression, collector-grade fantasy poster, no readable text, no logos"
+    },
+    {
+      "source": "02_gandalf_lamp_and_staff.png",
+      "category": "奇幻史诗角色海报",
+      "categoryLabel": "奇幻史诗角色海报",
+      "title": "灰袍燃灯",
+      "description": "甘道夫半身特写站在暗处，法杖与提灯交出两重微光，像暴风雨前最后的秩序。",
+      "prompt": "masterpiece epic fantasy poster illustration, close-up portrait of an elderly grey-robed wizard with weathered face, silver beard and intense eyes, one hand gripping a glowing staff, the other holding a warm lantern, cold blue darkness around him, ancient robe texture, cinematic contrast between moonlight and firelight, richly detailed wrinkles, hair and fabric, intimate collector-grade poster composition, high fantasy film atmosphere, no readable text, no logos"
+    },
+    {
+      "source": "03_aragorn_before_crowning.png",
+      "category": "奇幻史诗角色海报",
+      "categoryLabel": "奇幻史诗角色海报",
+      "title": "王者前夜",
+      "description": "阿拉贡尚未加冕，发丝湿冷，手扶安都瑞尔，脸上是克制而沉重的王者感。",
+      "prompt": "premium epic fantasy poster art, close-up portrait of a rugged returning king before coronation, dark stubble, damp hair, hand resting on the hilt of a reforged royal sword, subtle silver crown motif still in shadow, deep blue-grey battlefield atmosphere behind him, heroic but restrained expression, dramatic rim light, highly detailed leather armor, sword steel and cloak texture, collector edition fantasy poster, no readable text, no logos"
+    },
+    {
+      "source": "04_legolas_leaf_and_bow.png",
+      "category": "奇幻史诗角色海报",
+      "categoryLabel": "奇幻史诗角色海报",
+      "title": "林地银光",
+      "description": "莱戈拉斯侧颜特写与弓弦、叶影交叠，精灵的冷与美几乎像月光雕出来。",
+      "prompt": "beautiful high fantasy close-up poster, side-profile portrait of an immortal woodland archer prince with luminous elven features, long pale golden hair, bowstring crossing the frame, forest leaves and silver moonlight softly blurred behind him, elegant calm gaze, cool emerald and silver palette, exquisite skin, hair and armor detailing, ethereal woodland atmosphere, refined fantasy poster aesthetic, no readable text, no logos"
+    },
+    {
+      "source": "05_arwen_evening_tears.png",
+      "category": "奇幻史诗角色海报",
+      "categoryLabel": "奇幻史诗角色海报",
+      "title": "暮色泪光",
+      "description": "亚玟额饰、泪光与暮色金雾叠在一起，爱情与离别感被压进一张脸里。",
+      "prompt": "gorgeous epic fantasy poster, intimate close-up portrait of an elven princess at dusk, tear-bright eyes, elegant silver forehead jewelry, flowing dark hair touched by amber twilight, soft elven embroidery at the collar, blurred luminous valley-city glow in the background, romantic sorrow, delicate skin and fabric detail, cinematic feminine poster composition, no readable text, no logos"
+    },
+    {
+      "source": "06_galadriel_mirror_power.png",
+      "category": "奇幻史诗角色海报",
+      "categoryLabel": "奇幻史诗角色海报",
+      "title": "镜中威压",
+      "description": "凯兰崔尔正面近景，双目发亮，像在静止中把神性与危险同时推到极限。",
+      "prompt": "masterpiece fanmade character poster inspired by The Lord of the Rings, front-facing close-up of Galadriel with radiant eyes and flowing silver hair, pale luminous skin, subtle magical aura like ripples from the Mirror of Galadriel, cool white and icy blue light, expression both serene and terrifying, highly detailed hair, jewelry and translucent fabric, sacred and dangerous fantasy atmosphere, no readable text, no logos"
+    },
+    {
+      "source": "07_gollum_precious_whisper.png",
+      "category": "奇幻史诗角色海报",
+      "categoryLabel": "奇幻史诗角色海报",
+      "title": "咕噜低语",
+      "description": "咕噜蜷着手守住魔戒，病态珍爱感和潮湿眼神一起把画面抓得很紧。",
+      "prompt": "high-impact fanmade close-up poster inspired by The Lord of the Rings, Gollum crouched in darkness clutching the One Ring close to his mouth, gaunt face, wet haunted eyes, thin fingers, cave-like black background, the ring casting eerie golden light onto clammy skin, obsessive fragile expression, extreme facial detail, disturbing yet mesmerizing fantasy poster style, no readable text, no logos"
+    },
+    {
+      "source": "08_sauron_eye_in_flame.png",
+      "category": "奇幻史诗角色海报",
+      "categoryLabel": "奇幻史诗角色海报",
+      "title": "熔金之眼",
+      "description": "索伦之眼不做大全景，只做压迫到屏幕外的近景，让火焰像一只活体瞳孔。",
+      "prompt": "epic fanmade dark fantasy poster inspired by The Lord of the Rings, extreme close-up of the Eye of Sauron filling the frame, molten iris textures, living fire, jagged black tower metal shapes barely visible around the blazing pupil, infernal orange and black palette, overwhelming surveillance and doom, abstract yet detailed cinematic composition, collector-grade villain poster, no readable text, no logos"
+    },
+    {
+      "source": "09_witch_king_black_helm.png",
+      "category": "奇幻史诗角色海报",
+      "categoryLabel": "奇幻史诗角色海报",
+      "title": "黑袍王者",
+      "description": "戒灵王几乎被黑暗吞没，只留尖锐头盔与冷火般的双眼。",
+      "prompt": "dark masterpiece fanmade poster inspired by The Lord of the Rings, close-up portrait of the Witch-king of Angmar, spiked iron helm emerging from pure black shadow, faint red spectral glow in the eye slits, torn black hood, cold mist and battle ash, brutal metal texture and ominous negative space, intimidating minimalist villain composition, no readable text, no logos"
+    },
+    {
+      "source": "10_boromir_broken_horn.png",
+      "category": "奇幻史诗角色海报",
+      "categoryLabel": "奇幻史诗角色海报",
+      "title": "破角残光",
+      "description": "波罗莫带伤抬头，手里的破碎号角和脸上的血痕一起让悲壮感冲满画面。",
+      "prompt": "emotional fanmade fantasy poster inspired by The Lord of the Rings, close-up portrait of Boromir wounded in battle, blood-streaked cheek, broken horn of Gondor in hand, heavy fur and armor catching low sunset light, exhausted but noble eyes, blurred forest battlefield behind, tragic heroism, intricate detail in metal, leather, hair and skin, cinematic sorrowful poster style, no readable text, no logos"
+    },
+    {
+      "source": "11_eowyn_unmasked_defiance.png",
+      "category": "奇幻史诗角色海报",
+      "categoryLabel": "奇幻史诗角色海报",
+      "title": "无名者之怒",
+      "description": "伊欧玟半掀头盔近景，冷白皮甲和决绝眼神一起撑起女性英雄的锋利感。",
+      "prompt": "striking fanmade character poster inspired by The Lord of the Rings, close-up portrait of Eowyn after lifting part of her helm, fierce determined gaze, windblown pale hair, steel sword edge cutting diagonally across the foreground, cold battlefield fog and pale dawn light, elegant armor details, restrained bloodless intensity, heroic feminine power, premium fantasy poster composition, no readable text, no logos"
+    },
+    {
+      "source": "12_saruman_corrupted_white.png",
+      "category": "奇幻史诗角色海报",
+      "categoryLabel": "奇幻史诗角色海报",
+      "title": "白塔堕落",
+      "description": "萨鲁曼面容苍老而冷峻，白袍边缘被阴影吞噬，整张图像一场高贵腐化。",
+      "prompt": "elegant dark fanmade poster inspired by The Lord of the Rings, close-up portrait of Saruman the White with severe expression, aged face, long white hair and beard, white robes fading into smoky shadow, polished staff with subtle blackened corruption patterns, Orthanc-like darkness behind him, cold ivory and charcoal palette, richly detailed fabric and facial texture, fallen wisdom atmosphere, no readable text, no logos"
+    },
+    {
+      "source": "13_gimli_steel_and_braids.png",
+      "category": "奇幻史诗角色海报",
+      "categoryLabel": "奇幻史诗角色海报",
+      "title": "钢光胡辫",
+      "description": "金雳的战盔、胡辫和斧刃反光都用特写吃满画面，粗粝感非常有收藏价值。",
+      "prompt": "richly detailed fanmade poster inspired by The Lord of the Rings, close-up portrait of Gimli son of Gloin, braided beard with metal clasps, heavy dwarven helm, polished axe blade reflecting torchlight near the frame, rugged skin and proud expression, warm forge-like amber light against dark stone shadow, luxurious metalwork texture, compact powerful fantasy poster aesthetic, no readable text, no logos"
+    },
+    {
+      "source": "14_samwise_star_of_hope.png",
+      "category": "奇幻史诗角色海报",
+      "categoryLabel": "奇幻史诗角色海报",
+      "title": "守护微光",
+      "description": "山姆疲惫、脏污、发红的脸近距离出现，但手里的光让整张图仍然温柔。",
+      "prompt": "poignant fanmade close-up poster inspired by The Lord of the Rings, Samwise Gamgee exhausted and dirt-streaked, face close to camera, cupping a small elvish light in both hands, eyes full of loyalty and hope, dark rocky Mordor-like background fading away, warm glow on cracked skin and worn cloak, intimate emotional realism, highly detailed fantasy poster illustration, no readable text, no logos"
+    },
+    {
+      "source": "15_return_of_the_king_collage.png",
+      "category": "奇幻史诗角色海报",
+      "categoryLabel": "奇幻史诗角色海报",
+      "title": "终章圣物",
+      "description": "最后一张改成更稳的终章象征海报，用魔戒、王冠、白树与重铸之剑收束整组气氛。",
+      "prompt": "collector-edition epic fantasy finale poster, dramatic close-up of a glowing golden ring suspended above a reforged royal sword, with a silver crown, a white tree emblem, drifting embers and deep midnight-blue shadow behind it, luxurious metal texture, sacred final chapter atmosphere, gold silver blue and black palette, premium cinematic fantasy poster design, highly detailed and elegant, no readable text, no logos"
+    }
+  ],
+  "batchId": "lord-of-the-rings-fanmade-closeup-posters-2026-06-01",
+  "createdAt": "2026-06-01"
+}

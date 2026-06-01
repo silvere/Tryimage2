@@ -1,7 +1,7 @@
 {
   "site": {
     "title": "OpenAI image2 视觉实验",
-    "subtitle": "1072 张传播向 AI 海报",
+    "subtitle": "1087 张传播向 AI 海报",
     "headline": "OpenAI image2 视觉实验",
     "intro": "每一批图片围绕一个临时主题生成，并按当次最合适的 category 归档；可以是反差创意、真实场景、产品概念、人物叙事或任何新的视觉方向。",
     "coverImage": "assets/contact_sheet_image2.jpg",
@@ -370,6 +370,10 @@
     {
       "id": "热血动漫叙事",
       "label": "热血动漫叙事"
+    },
+    {
+      "id": "奇幻史诗角色海报",
+      "label": "奇幻史诗角色海报"
     }
   ],
   "batches": [
@@ -869,6 +873,12 @@
       "id": "demon-slayer-fanmade-comic-masterpieces-2026-05-31",
       "theme": "那些鬼灭之刃精美绝伦的二创漫画，视觉和故事兼备",
       "createdAt": "2026-05-31",
+      "count": 15
+    },
+    {
+      "id": "lord-of-the-rings-fanmade-closeup-posters-2026-06-01",
+      "theme": "那些精美绝伦的指环王二创，15张特写海报风格",
+      "createdAt": "2026-06-01",
       "count": 15
     }
   ],
@@ -12649,6 +12659,171 @@
       "thumb": "assets/thumbs/demon-slayer-fanmade-comic-masterpieces-2026-05-31/15_朝阳下的归途.png",
       "description": "最后的晨光照在幸存者身上，疲惫、伤痕与新生并存，整组故事在希望中收束。",
       "prompt": "masterpiece fanmade comic illustration inspired by Demon Slayer / Kimetsu no Yaiba, final sunrise after a long war, surviving companions walking together along a mountain path, bandaged but peaceful, golden light breaking through clouds, wild grass moving in the wind, emotional closure, strong sense of earned hope, panoramic storytelling composition, exceptionally rich detail in landscape, clothing wear, scabbards, and atmosphere, no readable text, no logos"
+    },
+    {
+      "id": "lord-of-the-rings-fanmade-closeup-posters-2026-06-01_01_魔戒映瞳",
+      "batch": "lord-of-the-rings-fanmade-closeup-posters-2026-06-01",
+      "category": "奇幻史诗角色海报",
+      "number": "01",
+      "title": "魔戒映瞳",
+      "image": "assets/images/lord-of-the-rings-fanmade-closeup-posters-2026-06-01/01_魔戒映瞳.png",
+      "thumb": "assets/thumbs/lord-of-the-rings-fanmade-closeup-posters-2026-06-01/01_魔戒映瞳.png",
+      "description": "佛罗多近距离凝视至尊魔戒，金光照进瞳孔，命运与诱惑同时落在脸上。",
+      "prompt": "masterpiece fanmade poster illustration inspired by The Lord of the Rings, extreme close-up portrait of Frodo Baggins holding the One Ring near his face, the gold ring reflecting inside his wide eyes, delicate hobbit features, worn travel cloak, subtle dirt and sweat, dark blurred Mordor-like background, cinematic gold and shadow lighting, highly detailed skin texture, emotional expression, collector-grade fantasy poster, no readable text, no logos"
+    },
+    {
+      "id": "lord-of-the-rings-fanmade-closeup-posters-2026-06-01_02_灰袍燃灯",
+      "batch": "lord-of-the-rings-fanmade-closeup-posters-2026-06-01",
+      "category": "奇幻史诗角色海报",
+      "number": "02",
+      "title": "灰袍燃灯",
+      "image": "assets/images/lord-of-the-rings-fanmade-closeup-posters-2026-06-01/02_灰袍燃灯.png",
+      "thumb": "assets/thumbs/lord-of-the-rings-fanmade-closeup-posters-2026-06-01/02_灰袍燃灯.png",
+      "description": "甘道夫半身特写站在暗处，法杖与提灯交出两重微光，像暴风雨前最后的秩序。",
+      "prompt": "masterpiece epic fantasy poster illustration, close-up portrait of an elderly grey-robed wizard with weathered face, silver beard and intense eyes, one hand gripping a glowing staff, the other holding a warm lantern, cold blue darkness around him, ancient robe texture, cinematic contrast between moonlight and firelight, richly detailed wrinkles, hair and fabric, intimate collector-grade poster composition, high fantasy film atmosphere, no readable text, no logos"
+    },
+    {
+      "id": "lord-of-the-rings-fanmade-closeup-posters-2026-06-01_03_王者前夜",
+      "batch": "lord-of-the-rings-fanmade-closeup-posters-2026-06-01",
+      "category": "奇幻史诗角色海报",
+      "number": "03",
+      "title": "王者前夜",
+      "image": "assets/images/lord-of-the-rings-fanmade-closeup-posters-2026-06-01/03_王者前夜.png",
+      "thumb": "assets/thumbs/lord-of-the-rings-fanmade-closeup-posters-2026-06-01/03_王者前夜.png",
+      "description": "阿拉贡尚未加冕，发丝湿冷，手扶安都瑞尔，脸上是克制而沉重的王者感。",
+      "prompt": "premium epic fantasy poster art, close-up portrait of a rugged returning king before coronation, dark stubble, damp hair, hand resting on the hilt of a reforged royal sword, subtle silver crown motif still in shadow, deep blue-grey battlefield atmosphere behind him, heroic but restrained expression, dramatic rim light, highly detailed leather armor, sword steel and cloak texture, collector edition fantasy poster, no readable text, no logos"
+    },
+    {
+      "id": "lord-of-the-rings-fanmade-closeup-posters-2026-06-01_04_林地银光",
+      "batch": "lord-of-the-rings-fanmade-closeup-posters-2026-06-01",
+      "category": "奇幻史诗角色海报",
+      "number": "04",
+      "title": "林地银光",
+      "image": "assets/images/lord-of-the-rings-fanmade-closeup-posters-2026-06-01/04_林地银光.png",
+      "thumb": "assets/thumbs/lord-of-the-rings-fanmade-closeup-posters-2026-06-01/04_林地银光.png",
+      "description": "莱戈拉斯侧颜特写与弓弦、叶影交叠，精灵的冷与美几乎像月光雕出来。",
+      "prompt": "beautiful high fantasy close-up poster, side-profile portrait of an immortal woodland archer prince with luminous elven features, long pale golden hair, bowstring crossing the frame, forest leaves and silver moonlight softly blurred behind him, elegant calm gaze, cool emerald and silver palette, exquisite skin, hair and armor detailing, ethereal woodland atmosphere, refined fantasy poster aesthetic, no readable text, no logos"
+    },
+    {
+      "id": "lord-of-the-rings-fanmade-closeup-posters-2026-06-01_05_暮色泪光",
+      "batch": "lord-of-the-rings-fanmade-closeup-posters-2026-06-01",
+      "category": "奇幻史诗角色海报",
+      "number": "05",
+      "title": "暮色泪光",
+      "image": "assets/images/lord-of-the-rings-fanmade-closeup-posters-2026-06-01/05_暮色泪光.png",
+      "thumb": "assets/thumbs/lord-of-the-rings-fanmade-closeup-posters-2026-06-01/05_暮色泪光.png",
+      "description": "亚玟额饰、泪光与暮色金雾叠在一起，爱情与离别感被压进一张脸里。",
+      "prompt": "gorgeous epic fantasy poster, intimate close-up portrait of an elven princess at dusk, tear-bright eyes, elegant silver forehead jewelry, flowing dark hair touched by amber twilight, soft elven embroidery at the collar, blurred luminous valley-city glow in the background, romantic sorrow, delicate skin and fabric detail, cinematic feminine poster composition, no readable text, no logos"
+    },
+    {
+      "id": "lord-of-the-rings-fanmade-closeup-posters-2026-06-01_06_镜中威压",
+      "batch": "lord-of-the-rings-fanmade-closeup-posters-2026-06-01",
+      "category": "奇幻史诗角色海报",
+      "number": "06",
+      "title": "镜中威压",
+      "image": "assets/images/lord-of-the-rings-fanmade-closeup-posters-2026-06-01/06_镜中威压.png",
+      "thumb": "assets/thumbs/lord-of-the-rings-fanmade-closeup-posters-2026-06-01/06_镜中威压.png",
+      "description": "凯兰崔尔正面近景，双目发亮，像在静止中把神性与危险同时推到极限。",
+      "prompt": "masterpiece fanmade character poster inspired by The Lord of the Rings, front-facing close-up of Galadriel with radiant eyes and flowing silver hair, pale luminous skin, subtle magical aura like ripples from the Mirror of Galadriel, cool white and icy blue light, expression both serene and terrifying, highly detailed hair, jewelry and translucent fabric, sacred and dangerous fantasy atmosphere, no readable text, no logos"
+    },
+    {
+      "id": "lord-of-the-rings-fanmade-closeup-posters-2026-06-01_07_咕噜低语",
+      "batch": "lord-of-the-rings-fanmade-closeup-posters-2026-06-01",
+      "category": "奇幻史诗角色海报",
+      "number": "07",
+      "title": "咕噜低语",
+      "image": "assets/images/lord-of-the-rings-fanmade-closeup-posters-2026-06-01/07_咕噜低语.png",
+      "thumb": "assets/thumbs/lord-of-the-rings-fanmade-closeup-posters-2026-06-01/07_咕噜低语.png",
+      "description": "咕噜蜷着手守住魔戒，病态珍爱感和潮湿眼神一起把画面抓得很紧。",
+      "prompt": "high-impact fanmade close-up poster inspired by The Lord of the Rings, Gollum crouched in darkness clutching the One Ring close to his mouth, gaunt face, wet haunted eyes, thin fingers, cave-like black background, the ring casting eerie golden light onto clammy skin, obsessive fragile expression, extreme facial detail, disturbing yet mesmerizing fantasy poster style, no readable text, no logos"
+    },
+    {
+      "id": "lord-of-the-rings-fanmade-closeup-posters-2026-06-01_08_熔金之眼",
+      "batch": "lord-of-the-rings-fanmade-closeup-posters-2026-06-01",
+      "category": "奇幻史诗角色海报",
+      "number": "08",
+      "title": "熔金之眼",
+      "image": "assets/images/lord-of-the-rings-fanmade-closeup-posters-2026-06-01/08_熔金之眼.png",
+      "thumb": "assets/thumbs/lord-of-the-rings-fanmade-closeup-posters-2026-06-01/08_熔金之眼.png",
+      "description": "索伦之眼不做大全景，只做压迫到屏幕外的近景，让火焰像一只活体瞳孔。",
+      "prompt": "epic fanmade dark fantasy poster inspired by The Lord of the Rings, extreme close-up of the Eye of Sauron filling the frame, molten iris textures, living fire, jagged black tower metal shapes barely visible around the blazing pupil, infernal orange and black palette, overwhelming surveillance and doom, abstract yet detailed cinematic composition, collector-grade villain poster, no readable text, no logos"
+    },
+    {
+      "id": "lord-of-the-rings-fanmade-closeup-posters-2026-06-01_09_黑袍王者",
+      "batch": "lord-of-the-rings-fanmade-closeup-posters-2026-06-01",
+      "category": "奇幻史诗角色海报",
+      "number": "09",
+      "title": "黑袍王者",
+      "image": "assets/images/lord-of-the-rings-fanmade-closeup-posters-2026-06-01/09_黑袍王者.png",
+      "thumb": "assets/thumbs/lord-of-the-rings-fanmade-closeup-posters-2026-06-01/09_黑袍王者.png",
+      "description": "戒灵王几乎被黑暗吞没，只留尖锐头盔与冷火般的双眼。",
+      "prompt": "dark masterpiece fanmade poster inspired by The Lord of the Rings, close-up portrait of the Witch-king of Angmar, spiked iron helm emerging from pure black shadow, faint red spectral glow in the eye slits, torn black hood, cold mist and battle ash, brutal metal texture and ominous negative space, intimidating minimalist villain composition, no readable text, no logos"
+    },
+    {
+      "id": "lord-of-the-rings-fanmade-closeup-posters-2026-06-01_10_破角残光",
+      "batch": "lord-of-the-rings-fanmade-closeup-posters-2026-06-01",
+      "category": "奇幻史诗角色海报",
+      "number": "10",
+      "title": "破角残光",
+      "image": "assets/images/lord-of-the-rings-fanmade-closeup-posters-2026-06-01/10_破角残光.png",
+      "thumb": "assets/thumbs/lord-of-the-rings-fanmade-closeup-posters-2026-06-01/10_破角残光.png",
+      "description": "波罗莫带伤抬头，手里的破碎号角和脸上的血痕一起让悲壮感冲满画面。",
+      "prompt": "emotional fanmade fantasy poster inspired by The Lord of the Rings, close-up portrait of Boromir wounded in battle, blood-streaked cheek, broken horn of Gondor in hand, heavy fur and armor catching low sunset light, exhausted but noble eyes, blurred forest battlefield behind, tragic heroism, intricate detail in metal, leather, hair and skin, cinematic sorrowful poster style, no readable text, no logos"
+    },
+    {
+      "id": "lord-of-the-rings-fanmade-closeup-posters-2026-06-01_11_无名者之怒",
+      "batch": "lord-of-the-rings-fanmade-closeup-posters-2026-06-01",
+      "category": "奇幻史诗角色海报",
+      "number": "11",
+      "title": "无名者之怒",
+      "image": "assets/images/lord-of-the-rings-fanmade-closeup-posters-2026-06-01/11_无名者之怒.png",
+      "thumb": "assets/thumbs/lord-of-the-rings-fanmade-closeup-posters-2026-06-01/11_无名者之怒.png",
+      "description": "伊欧玟半掀头盔近景，冷白皮甲和决绝眼神一起撑起女性英雄的锋利感。",
+      "prompt": "striking fanmade character poster inspired by The Lord of the Rings, close-up portrait of Eowyn after lifting part of her helm, fierce determined gaze, windblown pale hair, steel sword edge cutting diagonally across the foreground, cold battlefield fog and pale dawn light, elegant armor details, restrained bloodless intensity, heroic feminine power, premium fantasy poster composition, no readable text, no logos"
+    },
+    {
+      "id": "lord-of-the-rings-fanmade-closeup-posters-2026-06-01_12_白塔堕落",
+      "batch": "lord-of-the-rings-fanmade-closeup-posters-2026-06-01",
+      "category": "奇幻史诗角色海报",
+      "number": "12",
+      "title": "白塔堕落",
+      "image": "assets/images/lord-of-the-rings-fanmade-closeup-posters-2026-06-01/12_白塔堕落.png",
+      "thumb": "assets/thumbs/lord-of-the-rings-fanmade-closeup-posters-2026-06-01/12_白塔堕落.png",
+      "description": "萨鲁曼面容苍老而冷峻，白袍边缘被阴影吞噬，整张图像一场高贵腐化。",
+      "prompt": "elegant dark fanmade poster inspired by The Lord of the Rings, close-up portrait of Saruman the White with severe expression, aged face, long white hair and beard, white robes fading into smoky shadow, polished staff with subtle blackened corruption patterns, Orthanc-like darkness behind him, cold ivory and charcoal palette, richly detailed fabric and facial texture, fallen wisdom atmosphere, no readable text, no logos"
+    },
+    {
+      "id": "lord-of-the-rings-fanmade-closeup-posters-2026-06-01_13_钢光胡辫",
+      "batch": "lord-of-the-rings-fanmade-closeup-posters-2026-06-01",
+      "category": "奇幻史诗角色海报",
+      "number": "13",
+      "title": "钢光胡辫",
+      "image": "assets/images/lord-of-the-rings-fanmade-closeup-posters-2026-06-01/13_钢光胡辫.png",
+      "thumb": "assets/thumbs/lord-of-the-rings-fanmade-closeup-posters-2026-06-01/13_钢光胡辫.png",
+      "description": "金雳的战盔、胡辫和斧刃反光都用特写吃满画面，粗粝感非常有收藏价值。",
+      "prompt": "richly detailed fanmade poster inspired by The Lord of the Rings, close-up portrait of Gimli son of Gloin, braided beard with metal clasps, heavy dwarven helm, polished axe blade reflecting torchlight near the frame, rugged skin and proud expression, warm forge-like amber light against dark stone shadow, luxurious metalwork texture, compact powerful fantasy poster aesthetic, no readable text, no logos"
+    },
+    {
+      "id": "lord-of-the-rings-fanmade-closeup-posters-2026-06-01_14_守护微光",
+      "batch": "lord-of-the-rings-fanmade-closeup-posters-2026-06-01",
+      "category": "奇幻史诗角色海报",
+      "number": "14",
+      "title": "守护微光",
+      "image": "assets/images/lord-of-the-rings-fanmade-closeup-posters-2026-06-01/14_守护微光.png",
+      "thumb": "assets/thumbs/lord-of-the-rings-fanmade-closeup-posters-2026-06-01/14_守护微光.png",
+      "description": "山姆疲惫、脏污、发红的脸近距离出现，但手里的光让整张图仍然温柔。",
+      "prompt": "poignant fanmade close-up poster inspired by The Lord of the Rings, Samwise Gamgee exhausted and dirt-streaked, face close to camera, cupping a small elvish light in both hands, eyes full of loyalty and hope, dark rocky Mordor-like background fading away, warm glow on cracked skin and worn cloak, intimate emotional realism, highly detailed fantasy poster illustration, no readable text, no logos"
+    },
+    {
+      "id": "lord-of-the-rings-fanmade-closeup-posters-2026-06-01_15_终章圣物",
+      "batch": "lord-of-the-rings-fanmade-closeup-posters-2026-06-01",
+      "category": "奇幻史诗角色海报",
+      "number": "15",
+      "title": "终章圣物",
+      "image": "assets/images/lord-of-the-rings-fanmade-closeup-posters-2026-06-01/15_终章圣物.png",
+      "thumb": "assets/thumbs/lord-of-the-rings-fanmade-closeup-posters-2026-06-01/15_终章圣物.png",
+      "description": "最后一张改成更稳的终章象征海报，用魔戒、王冠、白树与重铸之剑收束整组气氛。",
+      "prompt": "collector-edition epic fantasy finale poster, dramatic close-up of a glowing golden ring suspended above a reforged royal sword, with a silver crown, a white tree emblem, drifting embers and deep midnight-blue shadow behind it, luxurious metal texture, sacred final chapter atmosphere, gold silver blue and black palette, premium cinematic fantasy poster design, highly detailed and elegant, no readable text, no logos"
     }
   ]
 }
