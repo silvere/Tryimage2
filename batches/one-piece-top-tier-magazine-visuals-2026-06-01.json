@@ -1,0 +1,127 @@
+{
+  "theme": "一个顶级的海贼王杂志里面的15张精美绝伦的图文",
+  "items": [
+    {
+      "source": "01_straw_hat_cover_burst.png",
+      "category": "热血动漫杂志大片",
+      "categoryLabel": "热血动漫杂志大片",
+      "title": "伟大航路封面",
+      "description": "草帽少年站在风暴与阳光交界处，作为整本杂志的开场封面页。",
+      "prompt": "luxury anime magazine cover illustration inspired by One Piece, a straw-hat pirate captain standing at the bow of a ship facing a radiant horizon over the Grand Line, red open jacket, confident grin, ocean spray, storm clouds breaking into sunlight, explosive editorial composition, leave elegant clean negative space for masthead and cover lines, highly detailed manga-anime painting, premium glossy magazine feel, no readable text, no logos"
+    },
+    {
+      "source": "02_swordsman_steel_feature.png",
+      "category": "热血动漫杂志大片",
+      "categoryLabel": "热血动漫杂志大片",
+      "title": "三刀之锋",
+      "description": "冷色金属与绿色刀意把剑士专题做成一张锋利的双页人物大片。",
+      "prompt": "premium anime editorial illustration inspired by One Piece, a green-haired three-sword pirate swordsman in dramatic close-up, coat moving in sea wind, crossed katana and steel reflections, deep emerald energy arcs, intense scarred gaze, dark stormy background with ocean mist, fashion-magazine feature layout composition with clear areas for headline and side captions, collector-grade manga painting, no readable text, no logos"
+    },
+    {
+      "source": "03_navigator_weather_room.png",
+      "category": "热血动漫杂志大片",
+      "categoryLabel": "热血动漫杂志大片",
+      "title": "天气女王",
+      "description": "航海士与天候棒、海图、雷云一起构成华丽而聪明的时尚专题页。",
+      "prompt": "stunning anime magazine spread inspired by One Piece, a glamorous pirate navigator inside a chart room filled with maps, log poses, glass instruments and storm-light, orange hair flowing, elegant weather staff in hand, lightning and glowing sky patterns around her, luxurious editorial framing with clean space for feature title and pull quote, richly detailed nautical interior, no readable text, no logos"
+    },
+    {
+      "source": "04_sniper_long_range_story.png",
+      "category": "热血动漫杂志大片",
+      "categoryLabel": "热血动漫杂志大片",
+      "title": "远距神射",
+      "description": "狙击手专题用高空视角、弹弓张力和荒岛风感做出极强故事性。",
+      "prompt": "high-end anime editorial page inspired by One Piece, a long-nosed pirate sniper perched high above a chaotic island battlefield, giant slingshot drawn back, goggles, layered utility gear, dramatic depth looking down toward sea cliffs and distant ships, golden dusk light, adventurous magazine feature composition with structured negative space for article blocks, detailed manga illustration, no readable text, no logos"
+    },
+    {
+      "source": "05_cook_fire_kick_kitchen.png",
+      "category": "热血动漫杂志大片",
+      "categoryLabel": "热血动漫杂志大片",
+      "title": "黑足火焰",
+      "description": "厨师页把厨房火焰、优雅西装和战斗动作混成奢华男性时装海报。",
+      "prompt": "fashion-forward anime magazine illustration inspired by One Piece, a blond pirate cook in a sharp suit executing a blazing kick inside a luxurious ship kitchen, blue fire and orange flame reflecting on copper pans, cigarettes glow, elegant posture, dynamic diagonal composition, premium editorial layout with clear space for headline and small captions, glossy high-detail manga painting, no readable text, no logos"
+    },
+    {
+      "source": "06_doctor_snow_miracle.png",
+      "category": "热血动漫杂志大片",
+      "categoryLabel": "热血动漫杂志大片",
+      "title": "雪国船医",
+      "description": "萌感与神圣感兼具的一页，用雪山和樱色医学奇迹打开情绪层次。",
+      "prompt": "beautiful emotional anime magazine page inspired by One Piece, a small reindeer pirate doctor in a snowy mountain setting with pink blossom-like miracle particles swirling around, medical bag, winter fur hat, warm compassionate eyes, icy blue and sakura palette, whimsical yet moving composition, leave elegant article space for title and short sidebar, richly detailed fantasy manga style, no readable text, no logos"
+    },
+    {
+      "source": "07_archaeologist_dark_library.png",
+      "category": "热血动漫杂志大片",
+      "categoryLabel": "热血动漫杂志大片",
+      "title": "失落正文",
+      "description": "考古学者在黑金图书馆和古代正文之间呈现出成熟神秘的知识系大片。",
+      "prompt": "luxurious dark anime editorial illustration inspired by One Piece, a poised pirate archaeologist in an ancient shadowy library, black hair, elegant posture, old stone tablets, glowing blue inscriptions, candles and dust in the air, mature mysterious beauty, magazine feature spread composition with reserved negative space for title and body copy, rich texture and dramatic light, no readable text, no logos"
+    },
+    {
+      "source": "08_shipwright_dock_sparks.png",
+      "category": "热血动漫杂志大片",
+      "categoryLabel": "热血动漫杂志大片",
+      "title": "船坞改造",
+      "description": "船工主题页用机械肌肉、焊火和巨舰曲线做出工业热血感。",
+      "prompt": "premium anime magazine feature inspired by One Piece, a cyborg pirate shipwright in a vast dockyard workshop beside a fantastical lion-prowed ship, welding sparks, huge tools, blue steel shadows, muscular silhouette, roaring industrial energy, editorial composition with strong headline zone and caption space, hyper-detailed mechanical and wooden textures, no readable text, no logos"
+    },
+    {
+      "source": "09_musician_moon_violin.png",
+      "category": "热血动漫杂志大片",
+      "categoryLabel": "热血动漫杂志大片",
+      "title": "月下灵魂曲",
+      "description": "骷髅音乐家页走优雅诡丽路线，像高级文化杂志的人物封面。",
+      "prompt": "elegant surreal anime editorial illustration inspired by One Piece, a living skeleton pirate musician performing beneath moonlight on a ship deck, violin and cane, formal suit, rose petals, deep indigo sky, ghostly musical energy, stylish and aristocratic magazine portrait composition with clean areas for article typography, detailed linework and dramatic contrast, no readable text, no logos"
+    },
+    {
+      "source": "10_helmsman_whale_current.png",
+      "category": "热血动漫杂志大片",
+      "categoryLabel": "热血动漫杂志大片",
+      "title": "掌舵深流",
+      "description": "舵手页把巨浪、鲸影与厚重人物体量结合成史诗纪录片般的专题。",
+      "prompt": "epic anime magazine spread inspired by One Piece, a massive whale-shark pirate helmsman steering through towering black-blue currents, spray exploding, giant wheel, glimpses of sea beasts below, stoic heroic face, documentary-meets-fashion editorial composition with ample clean text zones, richly detailed ocean motion and skin texture, no readable text, no logos"
+    },
+    {
+      "source": "11_thousand_sunny_luxury_spread.png",
+      "category": "热血动漫杂志大片",
+      "categoryLabel": "热血动漫杂志大片",
+      "title": "阳光号特刊",
+      "description": "整船专题像一本设计杂志，既拍船体外观也拍冒险生活方式。",
+      "prompt": "top-tier anime lifestyle magazine spread inspired by One Piece, a magnificent lion-prowed pirate ship cutting through crystal water under bright sky, layered deck details, flags, ropes, citrus trees on deck, playful crew silhouettes in the distance, architectural editorial framing with spacious clean zones for feature title and design notes, crisp luxurious manga painting, no readable text, no logos"
+    },
+    {
+      "source": "12_emperors_black_gold_wall.png",
+      "category": "热血动漫杂志大片",
+      "categoryLabel": "热血动漫杂志大片",
+      "title": "四皇压境",
+      "description": "黑金配色的势力专题页，用墙一样的压迫感做出真正的大刊气场。",
+      "prompt": "dark prestige anime editorial illustration inspired by One Piece, a monumental wall of pirate emperor silhouettes and symbols looming over a burning sea horizon, black, crimson and gold palette, overwhelming power hierarchy, crowns, cloaks, smoke and distant thunder, luxury magazine feature composition with strong central art and clean margins for analysis text, highly detailed and cinematic, no readable text, no logos"
+    },
+    {
+      "source": "13_devil_fruit_glass_archive.png",
+      "category": "热血动漫杂志大片",
+      "categoryLabel": "热血动漫杂志大片",
+      "title": "恶魔果实档案",
+      "description": "像高端艺术展图录一样，把果实、玻璃柜和神秘研究感做得很贵。",
+      "prompt": "collector-grade anime magazine infographic-style illustration inspired by One Piece, a dramatic archive room displaying exotic devil fruits in glass cases, strange swirls, botanical labels implied but left blank, moody museum lighting, velvet shadows, scholars' tools and sketches on tables, premium editorial layout with generous clean spaces for headings and notes, exquisite detailed painting, no readable text, no logos"
+    },
+    {
+      "source": "14_final_battle_red_sky.png",
+      "category": "热血动漫杂志大片",
+      "categoryLabel": "热血动漫杂志大片",
+      "title": "终局之战",
+      "description": "年度大战回顾页强调少年意志和红天裂光，适合做杂志高潮部分。",
+      "prompt": "explosive anime magazine climax spread inspired by One Piece, a rubber-powered pirate captain launching into a final strike beneath a torn red sky, colossal energy rings, shattered stone, wind, smoke and lightning, heroic determination, dynamic cinematic composition with stylish reserved areas for big headline and recap text, premium manga-art finish, no readable text, no logos"
+    },
+    {
+      "source": "15_legend_treasure_epilogue.png",
+      "category": "热血动漫杂志大片",
+      "categoryLabel": "热血动漫杂志大片",
+      "title": "传奇终章",
+      "description": "最后一页用宝藏、日出、旧地图和王者感收束整本杂志的余韵。",
+      "prompt": "luxury anime magazine finale illustration inspired by One Piece, legendary treasure chamber opening toward a sunrise sea, ancient map fragments, weathered straw hat, glowing gold, broken chains, distant final island silhouette, epic sense of wonder and closure, elegant editorial end-page composition with blank areas for epilogue text, richly detailed premium manga painting, no readable text, no logos"
+    }
+  ],
+  "batchId": "one-piece-top-tier-magazine-visuals-2026-06-01",
+  "createdAt": "2026-06-01"
+}

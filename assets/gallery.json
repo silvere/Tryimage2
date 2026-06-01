@@ -1,7 +1,7 @@
 {
   "site": {
     "title": "OpenAI image2 视觉实验",
-    "subtitle": "1087 张传播向 AI 海报",
+    "subtitle": "1102 张传播向 AI 海报",
     "headline": "OpenAI image2 视觉实验",
     "intro": "每一批图片围绕一个临时主题生成，并按当次最合适的 category 归档；可以是反差创意、真实场景、产品概念、人物叙事或任何新的视觉方向。",
     "coverImage": "assets/contact_sheet_image2.jpg",
@@ -374,6 +374,10 @@
     {
       "id": "奇幻史诗角色海报",
       "label": "奇幻史诗角色海报"
+    },
+    {
+      "id": "热血动漫杂志大片",
+      "label": "热血动漫杂志大片"
     }
   ],
   "batches": [
@@ -878,6 +882,12 @@
     {
       "id": "lord-of-the-rings-fanmade-closeup-posters-2026-06-01",
       "theme": "那些精美绝伦的指环王二创，15张特写海报风格",
+      "createdAt": "2026-06-01",
+      "count": 15
+    },
+    {
+      "id": "one-piece-top-tier-magazine-visuals-2026-06-01",
+      "theme": "一个顶级的海贼王杂志里面的15张精美绝伦的图文",
       "createdAt": "2026-06-01",
       "count": 15
     }
@@ -12824,6 +12834,171 @@
       "thumb": "assets/thumbs/lord-of-the-rings-fanmade-closeup-posters-2026-06-01/15_终章圣物.png",
       "description": "最后一张改成更稳的终章象征海报，用魔戒、王冠、白树与重铸之剑收束整组气氛。",
       "prompt": "collector-edition epic fantasy finale poster, dramatic close-up of a glowing golden ring suspended above a reforged royal sword, with a silver crown, a white tree emblem, drifting embers and deep midnight-blue shadow behind it, luxurious metal texture, sacred final chapter atmosphere, gold silver blue and black palette, premium cinematic fantasy poster design, highly detailed and elegant, no readable text, no logos"
+    },
+    {
+      "id": "one-piece-top-tier-magazine-visuals-2026-06-01_01_伟大航路封面",
+      "batch": "one-piece-top-tier-magazine-visuals-2026-06-01",
+      "category": "热血动漫杂志大片",
+      "number": "01",
+      "title": "伟大航路封面",
+      "image": "assets/images/one-piece-top-tier-magazine-visuals-2026-06-01/01_伟大航路封面.png",
+      "thumb": "assets/thumbs/one-piece-top-tier-magazine-visuals-2026-06-01/01_伟大航路封面.png",
+      "description": "草帽少年站在风暴与阳光交界处，作为整本杂志的开场封面页。",
+      "prompt": "luxury anime magazine cover illustration inspired by One Piece, a straw-hat pirate captain standing at the bow of a ship facing a radiant horizon over the Grand Line, red open jacket, confident grin, ocean spray, storm clouds breaking into sunlight, explosive editorial composition, leave elegant clean negative space for masthead and cover lines, highly detailed manga-anime painting, premium glossy magazine feel, no readable text, no logos"
+    },
+    {
+      "id": "one-piece-top-tier-magazine-visuals-2026-06-01_02_三刀之锋",
+      "batch": "one-piece-top-tier-magazine-visuals-2026-06-01",
+      "category": "热血动漫杂志大片",
+      "number": "02",
+      "title": "三刀之锋",
+      "image": "assets/images/one-piece-top-tier-magazine-visuals-2026-06-01/02_三刀之锋.png",
+      "thumb": "assets/thumbs/one-piece-top-tier-magazine-visuals-2026-06-01/02_三刀之锋.png",
+      "description": "冷色金属与绿色刀意把剑士专题做成一张锋利的双页人物大片。",
+      "prompt": "premium anime editorial illustration inspired by One Piece, a green-haired three-sword pirate swordsman in dramatic close-up, coat moving in sea wind, crossed katana and steel reflections, deep emerald energy arcs, intense scarred gaze, dark stormy background with ocean mist, fashion-magazine feature layout composition with clear areas for headline and side captions, collector-grade manga painting, no readable text, no logos"
+    },
+    {
+      "id": "one-piece-top-tier-magazine-visuals-2026-06-01_03_天气女王",
+      "batch": "one-piece-top-tier-magazine-visuals-2026-06-01",
+      "category": "热血动漫杂志大片",
+      "number": "03",
+      "title": "天气女王",
+      "image": "assets/images/one-piece-top-tier-magazine-visuals-2026-06-01/03_天气女王.png",
+      "thumb": "assets/thumbs/one-piece-top-tier-magazine-visuals-2026-06-01/03_天气女王.png",
+      "description": "航海士与天候棒、海图、雷云一起构成华丽而聪明的时尚专题页。",
+      "prompt": "stunning anime magazine spread inspired by One Piece, a glamorous pirate navigator inside a chart room filled with maps, log poses, glass instruments and storm-light, orange hair flowing, elegant weather staff in hand, lightning and glowing sky patterns around her, luxurious editorial framing with clean space for feature title and pull quote, richly detailed nautical interior, no readable text, no logos"
+    },
+    {
+      "id": "one-piece-top-tier-magazine-visuals-2026-06-01_04_远距神射",
+      "batch": "one-piece-top-tier-magazine-visuals-2026-06-01",
+      "category": "热血动漫杂志大片",
+      "number": "04",
+      "title": "远距神射",
+      "image": "assets/images/one-piece-top-tier-magazine-visuals-2026-06-01/04_远距神射.png",
+      "thumb": "assets/thumbs/one-piece-top-tier-magazine-visuals-2026-06-01/04_远距神射.png",
+      "description": "狙击手专题用高空视角、弹弓张力和荒岛风感做出极强故事性。",
+      "prompt": "high-end anime editorial page inspired by One Piece, a long-nosed pirate sniper perched high above a chaotic island battlefield, giant slingshot drawn back, goggles, layered utility gear, dramatic depth looking down toward sea cliffs and distant ships, golden dusk light, adventurous magazine feature composition with structured negative space for article blocks, detailed manga illustration, no readable text, no logos"
+    },
+    {
+      "id": "one-piece-top-tier-magazine-visuals-2026-06-01_05_黑足火焰",
+      "batch": "one-piece-top-tier-magazine-visuals-2026-06-01",
+      "category": "热血动漫杂志大片",
+      "number": "05",
+      "title": "黑足火焰",
+      "image": "assets/images/one-piece-top-tier-magazine-visuals-2026-06-01/05_黑足火焰.png",
+      "thumb": "assets/thumbs/one-piece-top-tier-magazine-visuals-2026-06-01/05_黑足火焰.png",
+      "description": "厨师页把厨房火焰、优雅西装和战斗动作混成奢华男性时装海报。",
+      "prompt": "fashion-forward anime magazine illustration inspired by One Piece, a blond pirate cook in a sharp suit executing a blazing kick inside a luxurious ship kitchen, blue fire and orange flame reflecting on copper pans, cigarettes glow, elegant posture, dynamic diagonal composition, premium editorial layout with clear space for headline and small captions, glossy high-detail manga painting, no readable text, no logos"
+    },
+    {
+      "id": "one-piece-top-tier-magazine-visuals-2026-06-01_06_雪国船医",
+      "batch": "one-piece-top-tier-magazine-visuals-2026-06-01",
+      "category": "热血动漫杂志大片",
+      "number": "06",
+      "title": "雪国船医",
+      "image": "assets/images/one-piece-top-tier-magazine-visuals-2026-06-01/06_雪国船医.png",
+      "thumb": "assets/thumbs/one-piece-top-tier-magazine-visuals-2026-06-01/06_雪国船医.png",
+      "description": "萌感与神圣感兼具的一页，用雪山和樱色医学奇迹打开情绪层次。",
+      "prompt": "beautiful emotional anime magazine page inspired by One Piece, a small reindeer pirate doctor in a snowy mountain setting with pink blossom-like miracle particles swirling around, medical bag, winter fur hat, warm compassionate eyes, icy blue and sakura palette, whimsical yet moving composition, leave elegant article space for title and short sidebar, richly detailed fantasy manga style, no readable text, no logos"
+    },
+    {
+      "id": "one-piece-top-tier-magazine-visuals-2026-06-01_07_失落正文",
+      "batch": "one-piece-top-tier-magazine-visuals-2026-06-01",
+      "category": "热血动漫杂志大片",
+      "number": "07",
+      "title": "失落正文",
+      "image": "assets/images/one-piece-top-tier-magazine-visuals-2026-06-01/07_失落正文.png",
+      "thumb": "assets/thumbs/one-piece-top-tier-magazine-visuals-2026-06-01/07_失落正文.png",
+      "description": "考古学者在黑金图书馆和古代正文之间呈现出成熟神秘的知识系大片。",
+      "prompt": "luxurious dark anime editorial illustration inspired by One Piece, a poised pirate archaeologist in an ancient shadowy library, black hair, elegant posture, old stone tablets, glowing blue inscriptions, candles and dust in the air, mature mysterious beauty, magazine feature spread composition with reserved negative space for title and body copy, rich texture and dramatic light, no readable text, no logos"
+    },
+    {
+      "id": "one-piece-top-tier-magazine-visuals-2026-06-01_08_船坞改造",
+      "batch": "one-piece-top-tier-magazine-visuals-2026-06-01",
+      "category": "热血动漫杂志大片",
+      "number": "08",
+      "title": "船坞改造",
+      "image": "assets/images/one-piece-top-tier-magazine-visuals-2026-06-01/08_船坞改造.png",
+      "thumb": "assets/thumbs/one-piece-top-tier-magazine-visuals-2026-06-01/08_船坞改造.png",
+      "description": "船工主题页用机械肌肉、焊火和巨舰曲线做出工业热血感。",
+      "prompt": "premium anime magazine feature inspired by One Piece, a cyborg pirate shipwright in a vast dockyard workshop beside a fantastical lion-prowed ship, welding sparks, huge tools, blue steel shadows, muscular silhouette, roaring industrial energy, editorial composition with strong headline zone and caption space, hyper-detailed mechanical and wooden textures, no readable text, no logos"
+    },
+    {
+      "id": "one-piece-top-tier-magazine-visuals-2026-06-01_09_月下灵魂曲",
+      "batch": "one-piece-top-tier-magazine-visuals-2026-06-01",
+      "category": "热血动漫杂志大片",
+      "number": "09",
+      "title": "月下灵魂曲",
+      "image": "assets/images/one-piece-top-tier-magazine-visuals-2026-06-01/09_月下灵魂曲.png",
+      "thumb": "assets/thumbs/one-piece-top-tier-magazine-visuals-2026-06-01/09_月下灵魂曲.png",
+      "description": "骷髅音乐家页走优雅诡丽路线，像高级文化杂志的人物封面。",
+      "prompt": "elegant surreal anime editorial illustration inspired by One Piece, a living skeleton pirate musician performing beneath moonlight on a ship deck, violin and cane, formal suit, rose petals, deep indigo sky, ghostly musical energy, stylish and aristocratic magazine portrait composition with clean areas for article typography, detailed linework and dramatic contrast, no readable text, no logos"
+    },
+    {
+      "id": "one-piece-top-tier-magazine-visuals-2026-06-01_10_掌舵深流",
+      "batch": "one-piece-top-tier-magazine-visuals-2026-06-01",
+      "category": "热血动漫杂志大片",
+      "number": "10",
+      "title": "掌舵深流",
+      "image": "assets/images/one-piece-top-tier-magazine-visuals-2026-06-01/10_掌舵深流.png",
+      "thumb": "assets/thumbs/one-piece-top-tier-magazine-visuals-2026-06-01/10_掌舵深流.png",
+      "description": "舵手页把巨浪、鲸影与厚重人物体量结合成史诗纪录片般的专题。",
+      "prompt": "epic anime magazine spread inspired by One Piece, a massive whale-shark pirate helmsman steering through towering black-blue currents, spray exploding, giant wheel, glimpses of sea beasts below, stoic heroic face, documentary-meets-fashion editorial composition with ample clean text zones, richly detailed ocean motion and skin texture, no readable text, no logos"
+    },
+    {
+      "id": "one-piece-top-tier-magazine-visuals-2026-06-01_11_阳光号特刊",
+      "batch": "one-piece-top-tier-magazine-visuals-2026-06-01",
+      "category": "热血动漫杂志大片",
+      "number": "11",
+      "title": "阳光号特刊",
+      "image": "assets/images/one-piece-top-tier-magazine-visuals-2026-06-01/11_阳光号特刊.png",
+      "thumb": "assets/thumbs/one-piece-top-tier-magazine-visuals-2026-06-01/11_阳光号特刊.png",
+      "description": "整船专题像一本设计杂志，既拍船体外观也拍冒险生活方式。",
+      "prompt": "top-tier anime lifestyle magazine spread inspired by One Piece, a magnificent lion-prowed pirate ship cutting through crystal water under bright sky, layered deck details, flags, ropes, citrus trees on deck, playful crew silhouettes in the distance, architectural editorial framing with spacious clean zones for feature title and design notes, crisp luxurious manga painting, no readable text, no logos"
+    },
+    {
+      "id": "one-piece-top-tier-magazine-visuals-2026-06-01_12_四皇压境",
+      "batch": "one-piece-top-tier-magazine-visuals-2026-06-01",
+      "category": "热血动漫杂志大片",
+      "number": "12",
+      "title": "四皇压境",
+      "image": "assets/images/one-piece-top-tier-magazine-visuals-2026-06-01/12_四皇压境.png",
+      "thumb": "assets/thumbs/one-piece-top-tier-magazine-visuals-2026-06-01/12_四皇压境.png",
+      "description": "黑金配色的势力专题页，用墙一样的压迫感做出真正的大刊气场。",
+      "prompt": "dark prestige anime editorial illustration inspired by One Piece, a monumental wall of pirate emperor silhouettes and symbols looming over a burning sea horizon, black, crimson and gold palette, overwhelming power hierarchy, crowns, cloaks, smoke and distant thunder, luxury magazine feature composition with strong central art and clean margins for analysis text, highly detailed and cinematic, no readable text, no logos"
+    },
+    {
+      "id": "one-piece-top-tier-magazine-visuals-2026-06-01_13_恶魔果实档案",
+      "batch": "one-piece-top-tier-magazine-visuals-2026-06-01",
+      "category": "热血动漫杂志大片",
+      "number": "13",
+      "title": "恶魔果实档案",
+      "image": "assets/images/one-piece-top-tier-magazine-visuals-2026-06-01/13_恶魔果实档案.png",
+      "thumb": "assets/thumbs/one-piece-top-tier-magazine-visuals-2026-06-01/13_恶魔果实档案.png",
+      "description": "像高端艺术展图录一样，把果实、玻璃柜和神秘研究感做得很贵。",
+      "prompt": "collector-grade anime magazine infographic-style illustration inspired by One Piece, a dramatic archive room displaying exotic devil fruits in glass cases, strange swirls, botanical labels implied but left blank, moody museum lighting, velvet shadows, scholars' tools and sketches on tables, premium editorial layout with generous clean spaces for headings and notes, exquisite detailed painting, no readable text, no logos"
+    },
+    {
+      "id": "one-piece-top-tier-magazine-visuals-2026-06-01_14_终局之战",
+      "batch": "one-piece-top-tier-magazine-visuals-2026-06-01",
+      "category": "热血动漫杂志大片",
+      "number": "14",
+      "title": "终局之战",
+      "image": "assets/images/one-piece-top-tier-magazine-visuals-2026-06-01/14_终局之战.png",
+      "thumb": "assets/thumbs/one-piece-top-tier-magazine-visuals-2026-06-01/14_终局之战.png",
+      "description": "年度大战回顾页强调少年意志和红天裂光，适合做杂志高潮部分。",
+      "prompt": "explosive anime magazine climax spread inspired by One Piece, a rubber-powered pirate captain launching into a final strike beneath a torn red sky, colossal energy rings, shattered stone, wind, smoke and lightning, heroic determination, dynamic cinematic composition with stylish reserved areas for big headline and recap text, premium manga-art finish, no readable text, no logos"
+    },
+    {
+      "id": "one-piece-top-tier-magazine-visuals-2026-06-01_15_传奇终章",
+      "batch": "one-piece-top-tier-magazine-visuals-2026-06-01",
+      "category": "热血动漫杂志大片",
+      "number": "15",
+      "title": "传奇终章",
+      "image": "assets/images/one-piece-top-tier-magazine-visuals-2026-06-01/15_传奇终章.png",
+      "thumb": "assets/thumbs/one-piece-top-tier-magazine-visuals-2026-06-01/15_传奇终章.png",
+      "description": "最后一页用宝藏、日出、旧地图和王者感收束整本杂志的余韵。",
+      "prompt": "luxury anime magazine finale illustration inspired by One Piece, legendary treasure chamber opening toward a sunrise sea, ancient map fragments, weathered straw hat, glowing gold, broken chains, distant final island silhouette, epic sense of wonder and closure, elegant editorial end-page composition with blank areas for epilogue text, richly detailed premium manga painting, no readable text, no logos"
     }
   ]
 }
