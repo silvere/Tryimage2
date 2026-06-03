@@ -1,7 +1,7 @@
 {
   "site": {
     "title": "OpenAI image2 视觉实验",
-    "subtitle": "1102 张传播向 AI 海报",
+    "subtitle": "1137 张传播向 AI 海报",
     "headline": "OpenAI image2 视觉实验",
     "intro": "每一批图片围绕一个临时主题生成，并按当次最合适的 category 归档；可以是反差创意、真实场景、产品概念、人物叙事或任何新的视觉方向。",
     "coverImage": "assets/contact_sheet_image2.jpg",
@@ -378,6 +378,18 @@
     {
       "id": "热血动漫杂志大片",
       "label": "热血动漫杂志大片"
+    },
+    {
+      "id": "classic-novel-sketch",
+      "label": "经典文学速写"
+    },
+    {
+      "id": "luxury-object-minimalism",
+      "label": "极简奢侈器物"
+    },
+    {
+      "id": "symmetry-architecture",
+      "label": "对称秩序美学"
     }
   ],
   "batches": [
@@ -889,6 +901,24 @@
       "id": "one-piece-top-tier-magazine-visuals-2026-06-01",
       "theme": "一个顶级的海贼王杂志里面的15张精美绝伦的图文",
       "createdAt": "2026-06-01",
+      "count": 15
+    },
+    {
+      "id": "xiyouji-sketch-pen-wash-2026-06-02",
+      "theme": "西游记速写 / 钢笔淡彩人物与场景特写",
+      "createdAt": "2026-06-02",
+      "count": 10
+    },
+    {
+      "id": "minimal-jewelry-monochrome-2026-06-02",
+      "theme": "极简一物一色 / 性冷淡留白的珠宝首饰艺术品",
+      "createdAt": "2026-06-02",
+      "count": 10
+    },
+    {
+      "id": "symmetry-obsessive-aesthetics-2026-06-02",
+      "theme": "对称强迫症美学：建筑、阶梯、货架的完美对称构图",
+      "createdAt": "2026-06-02",
       "count": 15
     }
   ],
@@ -12999,6 +13029,391 @@
       "thumb": "assets/thumbs/one-piece-top-tier-magazine-visuals-2026-06-01/15_传奇终章.png",
       "description": "最后一页用宝藏、日出、旧地图和王者感收束整本杂志的余韵。",
       "prompt": "luxury anime magazine finale illustration inspired by One Piece, legendary treasure chamber opening toward a sunrise sea, ancient map fragments, weathered straw hat, glowing gold, broken chains, distant final island silhouette, epic sense of wonder and closure, elegant editorial end-page composition with blank areas for epilogue text, richly detailed premium manga painting, no readable text, no logos"
+    },
+    {
+      "id": "xiyouji-sketch-pen-wash-2026-06-02_01_孙悟空特写",
+      "batch": "xiyouji-sketch-pen-wash-2026-06-02",
+      "category": "classic-novel-sketch",
+      "number": "01",
+      "title": "孙悟空特写",
+      "image": "assets/images/xiyouji-sketch-pen-wash-2026-06-02/01_孙悟空特写.jpg",
+      "thumb": "assets/thumbs/xiyouji-sketch-pen-wash-2026-06-02/01_孙悟空特写.png",
+      "description": "金箍、火眼金睛与桀骜眼神被压进一张速写式近景里，线条凌厉，淡彩克制，像旧画册里的英雄页。",
+      "prompt": "中国速写/钢笔淡彩风格，孙悟空特写，金箍、火眼金睛、肩扛金箍棒，眼神桀骜机敏，细致钢笔线稿与透明淡彩晕染，宣纸纹理，人物聚焦，无文字无水印。"
+    },
+    {
+      "id": "xiyouji-sketch-pen-wash-2026-06-02_02_唐僧特写",
+      "batch": "xiyouji-sketch-pen-wash-2026-06-02",
+      "category": "classic-novel-sketch",
+      "number": "02",
+      "title": "唐僧特写",
+      "image": "assets/images/xiyouji-sketch-pen-wash-2026-06-02/02_唐僧特写.jpg",
+      "thumb": "assets/thumbs/xiyouji-sketch-pen-wash-2026-06-02/02_唐僧特写.png",
+      "description": "僧袍、佛珠与克制神情在留白中显得格外安静，把取经路上的信念感压缩成一张近肖像。",
+      "prompt": "中国速写/钢笔淡彩风格，唐僧人物特写，僧袍、佛珠、平静坚定神情，细致钢笔线稿，透明淡彩，东方古典气质，高审美插画，无文字无水印。"
+    },
+    {
+      "id": "xiyouji-sketch-pen-wash-2026-06-02_03_猪八戒特写",
+      "batch": "xiyouji-sketch-pen-wash-2026-06-02",
+      "category": "classic-novel-sketch",
+      "number": "03",
+      "title": "猪八戒特写",
+      "image": "assets/images/xiyouji-sketch-pen-wash-2026-06-02/03_猪八戒特写.jpg",
+      "thumb": "assets/thumbs/xiyouji-sketch-pen-wash-2026-06-02/03_猪八戒特写.png",
+      "description": "钉耙、耳廓与半戏谑半疲惫的表情让这张画带着人物烟火气，像故事里最接地气的一页。",
+      "prompt": "中国速写/钢笔淡彩风格，猪八戒人物特写，九齿钉耙、夸张耳廓、复杂表情，线稿清晰，淡彩晕染，具有叙事性，无文字无水印。"
+    },
+    {
+      "id": "xiyouji-sketch-pen-wash-2026-06-02_04_沙悟净特写",
+      "batch": "xiyouji-sketch-pen-wash-2026-06-02",
+      "category": "classic-novel-sketch",
+      "number": "04",
+      "title": "沙悟净特写",
+      "image": "assets/images/xiyouji-sketch-pen-wash-2026-06-02/04_沙悟净特写.jpg",
+      "thumb": "assets/thumbs/xiyouji-sketch-pen-wash-2026-06-02/04_沙悟净特写.png",
+      "description": "沉稳的肩背、朴拙兵器与耐心眼神让画面像一块压舱石，给整组图提供了厚重感。",
+      "prompt": "中国速写/钢笔淡彩风格，沙悟净人物特写，沉稳强壮、兵器在侧、神情忠厚坚毅，纸本质感，留白自然，无文字无水印。"
+    },
+    {
+      "id": "xiyouji-sketch-pen-wash-2026-06-02_05_白龙马特写",
+      "batch": "xiyouji-sketch-pen-wash-2026-06-02",
+      "category": "classic-novel-sketch",
+      "number": "05",
+      "title": "白龙马特写",
+      "image": "assets/images/xiyouji-sketch-pen-wash-2026-06-02/05_白龙马特写.jpg",
+      "thumb": "assets/thumbs/xiyouji-sketch-pen-wash-2026-06-02/05_白龙马特写.png",
+      "description": "鬃毛被风掀起，白马侧脸在山影和旅尘之间显得圣洁又英气，是整组里最轻盈的一张。",
+      "prompt": "中国速写/钢笔淡彩风格，白龙马侧脸特写，鬃毛被风扬起，旅途尘土与山影映衬，英气圣洁，透明淡彩与钢笔线稿结合，无文字无水印。"
+    },
+    {
+      "id": "xiyouji-sketch-pen-wash-2026-06-02_06_大闹天宫场景特写",
+      "batch": "xiyouji-sketch-pen-wash-2026-06-02",
+      "category": "classic-novel-sketch",
+      "number": "06",
+      "title": "大闹天宫场景特写",
+      "image": "assets/images/xiyouji-sketch-pen-wash-2026-06-02/06_大闹天宫场景特写.jpg",
+      "thumb": "assets/thumbs/xiyouji-sketch-pen-wash-2026-06-02/06_大闹天宫场景特写.png",
+      "description": "把混战浓缩成一张近景戏剧画面，笔触急促，云气和兵器交错，像传奇最热烈的一页。",
+      "prompt": "中国速写/钢笔淡彩风格，大闹天宫场景特写，近景戏剧冲突、云气与兵器交错、电影感叙事，钢笔线条与淡彩融合，无文字无水印。"
+    },
+    {
+      "id": "xiyouji-sketch-pen-wash-2026-06-02_07_三打白骨精场景特写",
+      "batch": "xiyouji-sketch-pen-wash-2026-06-02",
+      "category": "classic-novel-sketch",
+      "number": "07",
+      "title": "三打白骨精场景特写",
+      "image": "assets/images/xiyouji-sketch-pen-wash-2026-06-02/07_三打白骨精场景特写.jpg",
+      "thumb": "assets/thumbs/xiyouji-sketch-pen-wash-2026-06-02/07_三打白骨精场景特写.png",
+      "description": "人物与妖气的张力被压缩在一个瞬间里，既有戏剧性，也保留了纸上速写的呼吸感。",
+      "prompt": "中国速写/钢笔淡彩风格，三打白骨精场景特写，人物与妖气对峙，戏剧性强，细致线稿与透明晕染并存，无文字无水印。"
+    },
+    {
+      "id": "xiyouji-sketch-pen-wash-2026-06-02_08_火焰山场景特写",
+      "batch": "xiyouji-sketch-pen-wash-2026-06-02",
+      "category": "classic-novel-sketch",
+      "number": "08",
+      "title": "火焰山场景特写",
+      "image": "assets/images/xiyouji-sketch-pen-wash-2026-06-02/08_火焰山场景特写.jpg",
+      "thumb": "assets/thumbs/xiyouji-sketch-pen-wash-2026-06-02/08_火焰山场景特写.png",
+      "description": "热浪、山体与人物关系都被处理得克制而有力度，像旧连环画里最有温度的一页。",
+      "prompt": "中国速写/钢笔淡彩风格，火焰山场景特写，热浪、山体、人物近景构图，电影感与叙事性兼具，无文字无水印。"
+    },
+    {
+      "id": "xiyouji-sketch-pen-wash-2026-06-02_09_铁扇公主特写",
+      "batch": "xiyouji-sketch-pen-wash-2026-06-02",
+      "category": "classic-novel-sketch",
+      "number": "09",
+      "title": "铁扇公主特写",
+      "image": "assets/images/xiyouji-sketch-pen-wash-2026-06-02/09_铁扇公主特写.jpg",
+      "thumb": "assets/thumbs/xiyouji-sketch-pen-wash-2026-06-02/09_铁扇公主特写.png",
+      "description": "羽扇、侧脸与衣纹形成很强的节奏感，兼具古典人物画和杂志插页的精致感。",
+      "prompt": "中国速写/钢笔淡彩风格，铁扇公主人物特写，羽扇、侧脸、古典服饰细节，钢笔线稿精致，淡彩透明，无文字无水印。"
+    },
+    {
+      "id": "xiyouji-sketch-pen-wash-2026-06-02_10_雷音寺场景特写",
+      "batch": "xiyouji-sketch-pen-wash-2026-06-02",
+      "category": "classic-novel-sketch",
+      "number": "10",
+      "title": "雷音寺场景特写",
+      "image": "assets/images/xiyouji-sketch-pen-wash-2026-06-02/10_雷音寺场景特写.jpg",
+      "thumb": "assets/thumbs/xiyouji-sketch-pen-wash-2026-06-02/10_雷音寺场景特写.png",
+      "description": "云中佛寺与前景仰望的取经师徒形成庄严收束，是整组图最适合做结尾页的一张。",
+      "prompt": "中国速写/钢笔淡彩风格，雷音寺场景特写，云中金色佛寺显现，师徒在前景仰望，庄严神圣，叙事性强，无文字无水印。"
+    },
+    {
+      "id": "minimal-jewelry-monochrome-2026-06-02_01_帝王绿翡翠戒指",
+      "batch": "minimal-jewelry-monochrome-2026-06-02",
+      "category": "luxury-object-minimalism",
+      "number": "01",
+      "title": "帝王绿翡翠戒指",
+      "image": "assets/images/minimal-jewelry-monochrome-2026-06-02/01_帝王绿翡翠戒指.jpg",
+      "thumb": "assets/thumbs/minimal-jewelry-monochrome-2026-06-02/01_帝王绿翡翠戒指.png",
+      "description": "深祖母绿背景与单一主物形成极度克制的博物馆陈列感，整张图几乎只靠材质与留白说话。",
+      "prompt": "极简一物一色，帝王绿翡翠戒指，深祖母绿色调背景，同色系，大片留白，museum-grade luxury still life，无文字无杂物。"
+    },
+    {
+      "id": "minimal-jewelry-monochrome-2026-06-02_02_鸽血红红宝石项链",
+      "batch": "minimal-jewelry-monochrome-2026-06-02",
+      "category": "luxury-object-minimalism",
+      "number": "02",
+      "title": "鸽血红红宝石项链",
+      "image": "assets/images/minimal-jewelry-monochrome-2026-06-02/02_鸽血红红宝石项链.jpg",
+      "thumb": "assets/thumbs/minimal-jewelry-monochrome-2026-06-02/02_鸽血红红宝石项链.png",
+      "description": "深红单色底让项链像悬在一片静默里，贵气来自节制，而不是堆砌。",
+      "prompt": "极简一物一色，鸽血红红宝石项链，深红单色背景，巨大留白，冷静高级，无文字无杂物。"
+    },
+    {
+      "id": "minimal-jewelry-monochrome-2026-06-02_03_稀世蓝钻胸针",
+      "batch": "minimal-jewelry-monochrome-2026-06-02",
+      "category": "luxury-object-minimalism",
+      "number": "03",
+      "title": "稀世蓝钻胸针",
+      "image": "assets/images/minimal-jewelry-monochrome-2026-06-02/03_稀世蓝钻胸针.jpg",
+      "thumb": "assets/thumbs/minimal-jewelry-monochrome-2026-06-02/03_稀世蓝钻胸针.png",
+      "description": "冷蓝色场域把宝石的冰感推到最前面，像一张奢侈品年鉴里的孤物标本。",
+      "prompt": "极简一物一色，稀世蓝钻胸针，冷蓝单色背景，画面极简，留白巨大，premium editorial aesthetic，无文字。"
+    },
+    {
+      "id": "minimal-jewelry-monochrome-2026-06-02_04_满色翡翠手镯",
+      "batch": "minimal-jewelry-monochrome-2026-06-02",
+      "category": "luxury-object-minimalism",
+      "number": "04",
+      "title": "满色翡翠手镯",
+      "image": "assets/images/minimal-jewelry-monochrome-2026-06-02/04_满色翡翠手镯.jpg",
+      "thumb": "assets/thumbs/minimal-jewelry-monochrome-2026-06-02/04_满色翡翠手镯.png",
+      "description": "玉青背景与手镯自身颜色压得很准，视觉上像把昂贵这件事降到了最低音。",
+      "prompt": "极简一物一色，满色翡翠手镯，玉青绿色单色背景，性冷淡构图，沉静高级，无文字无杂物。"
+    },
+    {
+      "id": "minimal-jewelry-monochrome-2026-06-02_05_博物馆级珍珠冠冕",
+      "batch": "minimal-jewelry-monochrome-2026-06-02",
+      "category": "luxury-object-minimalism",
+      "number": "05",
+      "title": "博物馆级珍珠冠冕",
+      "image": "assets/images/minimal-jewelry-monochrome-2026-06-02/05_博物馆级珍珠冠冕.jpg",
+      "thumb": "assets/thumbs/minimal-jewelry-monochrome-2026-06-02/05_博物馆级珍珠冠冕.png",
+      "description": "暖白背景让珠光和金属边缘显得很轻，像一页几乎没有声音的王室存档。",
+      "prompt": "极简一物一色，博物馆级珍珠冠冕，暖白象牙色背景，同色系极简构图，大面积留白，无文字。"
+    },
+    {
+      "id": "minimal-jewelry-monochrome-2026-06-02_06_克什米尔蓝宝石吊坠",
+      "batch": "minimal-jewelry-monochrome-2026-06-02",
+      "category": "luxury-object-minimalism",
+      "number": "06",
+      "title": "克什米尔蓝宝石吊坠",
+      "image": "assets/images/minimal-jewelry-monochrome-2026-06-02/06_克什米尔蓝宝石吊坠.jpg",
+      "thumb": "assets/thumbs/minimal-jewelry-monochrome-2026-06-02/06_克什米尔蓝宝石吊坠.png",
+      "description": "雾蓝底衬把吊坠的珍贵感处理得很安静，没有任何多余炫耀。",
+      "prompt": "极简一物一色，克什米尔蓝宝石吊坠，雾蓝单色背景，克制、安静、珍贵，巨大留白，无文字。"
+    },
+    {
+      "id": "minimal-jewelry-monochrome-2026-06-02_07_黑欧泊戒指",
+      "batch": "minimal-jewelry-monochrome-2026-06-02",
+      "category": "luxury-object-minimalism",
+      "number": "07",
+      "title": "黑欧泊戒指",
+      "image": "assets/images/minimal-jewelry-monochrome-2026-06-02/07_黑欧泊戒指.jpg",
+      "thumb": "assets/thumbs/minimal-jewelry-monochrome-2026-06-02/07_黑欧泊戒指.png",
+      "description": "深墨背景把火彩压到几乎只剩一口亮光，整张图有收藏级的冷峻感。",
+      "prompt": "极简一物一色，黑欧泊戒指，深墨色背景，电光火彩被克制呈现，极简留白，无文字。"
+    },
+    {
+      "id": "minimal-jewelry-monochrome-2026-06-02_08_神秘镶嵌红宝石艺术胸针",
+      "batch": "minimal-jewelry-monochrome-2026-06-02",
+      "category": "luxury-object-minimalism",
+      "number": "08",
+      "title": "神秘镶嵌红宝石艺术胸针",
+      "image": "assets/images/minimal-jewelry-monochrome-2026-06-02/08_神秘镶嵌红宝石艺术胸针.jpg",
+      "thumb": "assets/thumbs/minimal-jewelry-monochrome-2026-06-02/08_神秘镶嵌红宝石艺术胸针.png",
+      "description": "酒红背景与胸针之间没有多余剧情，只有工艺、色泽与孤立出来的昂贵。",
+      "prompt": "极简一物一色，神秘镶嵌红宝石艺术胸针，酒红单色背景，博物馆级艺术品质感，无文字无杂物。"
+    },
+    {
+      "id": "minimal-jewelry-monochrome-2026-06-02_09_装饰艺术风钻石手链",
+      "batch": "minimal-jewelry-monochrome-2026-06-02",
+      "category": "luxury-object-minimalism",
+      "number": "09",
+      "title": "装饰艺术风钻石手链",
+      "image": "assets/images/minimal-jewelry-monochrome-2026-06-02/09_装饰艺术风钻石手链.jpg",
+      "thumb": "assets/thumbs/minimal-jewelry-monochrome-2026-06-02/09_装饰艺术风钻石手链.png",
+      "description": "银灰底和几何秩序把这张图做得很像高级珠宝版式里的冷感样本。",
+      "prompt": "极简一物一色，装饰艺术风钻石手链，银灰单色背景，秩序几何与极简留白，premium luxury still life，无文字。"
+    },
+    {
+      "id": "minimal-jewelry-monochrome-2026-06-02_10_金丝工艺皇家冠饰",
+      "batch": "minimal-jewelry-monochrome-2026-06-02",
+      "category": "luxury-object-minimalism",
+      "number": "10",
+      "title": "金丝工艺皇家冠饰",
+      "image": "assets/images/minimal-jewelry-monochrome-2026-06-02/10_金丝工艺皇家冠饰.jpg",
+      "thumb": "assets/thumbs/minimal-jewelry-monochrome-2026-06-02/10_金丝工艺皇家冠饰.png",
+      "description": "淡金米色背景把古典做得很轻，像一件被高规格保存下来的王室器物。",
+      "prompt": "极简一物一色，金丝工艺皇家冠饰，淡金米色背景，古典但极简，大片留白，无文字无杂物。"
+    },
+    {
+      "id": "symmetry-obsessive-aesthetics-2026-06-02_01_宏伟大理石阶梯",
+      "batch": "symmetry-obsessive-aesthetics-2026-06-02",
+      "category": "symmetry-architecture",
+      "number": "01",
+      "title": "宏伟大理石阶梯",
+      "image": "assets/images/symmetry-obsessive-aesthetics-2026-06-02/01_宏伟大理石阶梯.jpg",
+      "thumb": "assets/thumbs/symmetry-obsessive-aesthetics-2026-06-02/01_宏伟大理石阶梯.png",
+      "description": "重复台阶向远方推进，整张图靠正中秩序带来压迫式的震撼。",
+      "prompt": "对称强迫症美学，宏伟大理石阶梯，完美正中对称，重复台阶延伸到远方，建筑摄影感，无文字无人。"
+    },
+    {
+      "id": "symmetry-obsessive-aesthetics-2026-06-02_02_粗野主义建筑长廊",
+      "batch": "symmetry-obsessive-aesthetics-2026-06-02",
+      "category": "symmetry-architecture",
+      "number": "02",
+      "title": "粗野主义建筑长廊",
+      "image": "assets/images/symmetry-obsessive-aesthetics-2026-06-02/02_粗野主义建筑长廊.jpg",
+      "thumb": "assets/thumbs/symmetry-obsessive-aesthetics-2026-06-02/02_粗野主义建筑长廊.png",
+      "description": "混凝土、阴影与重复结构一起把空间压缩成一条极冷的中轴线。",
+      "prompt": "对称强迫症美学，粗野主义建筑长廊，完美正中对称，混凝土重复结构，冷峻压迫，无文字无人。"
+    },
+    {
+      "id": "symmetry-obsessive-aesthetics-2026-06-02_03_高耸图书馆书架",
+      "batch": "symmetry-obsessive-aesthetics-2026-06-02",
+      "category": "symmetry-architecture",
+      "number": "03",
+      "title": "高耸图书馆书架",
+      "image": "assets/images/symmetry-obsessive-aesthetics-2026-06-02/03_高耸图书馆书架.jpg",
+      "thumb": "assets/thumbs/symmetry-obsessive-aesthetics-2026-06-02/03_高耸图书馆书架.png",
+      "description": "书脊和层架把视觉秩序堆到极致，是最典型的强迫症式满足。",
+      "prompt": "对称强迫症美学，高耸图书馆书架，左右绝对对称，书脊重复排列，视觉秩序强烈，无文字无人。"
+    },
+    {
+      "id": "symmetry-obsessive-aesthetics-2026-06-02_04_地铁双向扶梯与站厅",
+      "batch": "symmetry-obsessive-aesthetics-2026-06-02",
+      "category": "symmetry-architecture",
+      "number": "04",
+      "title": "地铁双向扶梯与站厅",
+      "image": "assets/images/symmetry-obsessive-aesthetics-2026-06-02/04_地铁双向扶梯与站厅.jpg",
+      "thumb": "assets/thumbs/symmetry-obsessive-aesthetics-2026-06-02/04_地铁双向扶梯与站厅.png",
+      "description": "灯光、扶梯与中轴线把公共空间做出了近乎机械的整齐感。",
+      "prompt": "对称强迫症美学，地铁双向扶梯与站厅，完美轴对称，灯光与线条重复排列，无文字无人。"
+    },
+    {
+      "id": "symmetry-obsessive-aesthetics-2026-06-02_05_仓储货架纵深透视",
+      "batch": "symmetry-obsessive-aesthetics-2026-06-02",
+      "category": "symmetry-architecture",
+      "number": "05",
+      "title": "仓储货架纵深透视",
+      "image": "assets/images/symmetry-obsessive-aesthetics-2026-06-02/05_仓储货架纵深透视.jpg",
+      "thumb": "assets/thumbs/symmetry-obsessive-aesthetics-2026-06-02/05_仓储货架纵深透视.png",
+      "description": "箱体与货架的重复让仓储空间变成了一种视觉上的纪律。",
+      "prompt": "对称强迫症美学，仓储货架纵深透视，整齐重复箱体，极致对称与秩序感，无文字无人。"
+    },
+    {
+      "id": "symmetry-obsessive-aesthetics-2026-06-02_06_宫殿柱廊",
+      "batch": "symmetry-obsessive-aesthetics-2026-06-02",
+      "category": "symmetry-architecture",
+      "number": "06",
+      "title": "宫殿柱廊",
+      "image": "assets/images/symmetry-obsessive-aesthetics-2026-06-02/06_宫殿柱廊.jpg",
+      "thumb": "assets/thumbs/symmetry-obsessive-aesthetics-2026-06-02/06_宫殿柱廊.png",
+      "description": "柱列与消失点共同制造庄严感，古典建筑在这里像一种严格算法。",
+      "prompt": "对称强迫症美学，宫殿柱廊，柱子等距重复，中央消失点，庄严对称，无文字无人。"
+    },
+    {
+      "id": "symmetry-obsessive-aesthetics-2026-06-02_07_日本公寓外部楼梯与走廊",
+      "batch": "symmetry-obsessive-aesthetics-2026-06-02",
+      "category": "symmetry-architecture",
+      "number": "07",
+      "title": "日本公寓外部楼梯与走廊",
+      "image": "assets/images/symmetry-obsessive-aesthetics-2026-06-02/07_日本公寓外部楼梯与走廊.jpg",
+      "thumb": "assets/thumbs/symmetry-obsessive-aesthetics-2026-06-02/07_日本公寓外部楼梯与走廊.png",
+      "description": "门窗、楼梯和栏杆的重复把日常住宅拍出了规训美感。",
+      "prompt": "对称强迫症美学，日本公寓外部楼梯与走廊，严格对称，重复门窗与栏杆，无文字无人。"
+    },
+    {
+      "id": "symmetry-obsessive-aesthetics-2026-06-02_08_清真寺连续拱门",
+      "batch": "symmetry-obsessive-aesthetics-2026-06-02",
+      "category": "symmetry-architecture",
+      "number": "08",
+      "title": "清真寺连续拱门",
+      "image": "assets/images/symmetry-obsessive-aesthetics-2026-06-02/08_清真寺连续拱门.jpg",
+      "thumb": "assets/thumbs/symmetry-obsessive-aesthetics-2026-06-02/08_清真寺连续拱门.png",
+      "description": "拱门像节拍器一样重复，光影把空间修整得无比纯净。",
+      "prompt": "对称强迫症美学，清真寺连续拱门，完美镜像对称，光影节奏感强，无文字无人。"
+    },
+    {
+      "id": "symmetry-obsessive-aesthetics-2026-06-02_09_现代停车楼层",
+      "batch": "symmetry-obsessive-aesthetics-2026-06-02",
+      "category": "symmetry-architecture",
+      "number": "09",
+      "title": "现代停车楼层",
+      "image": "assets/images/symmetry-obsessive-aesthetics-2026-06-02/09_现代停车楼层.jpg",
+      "thumb": "assets/thumbs/symmetry-obsessive-aesthetics-2026-06-02/09_现代停车楼层.png",
+      "description": "立柱、车位线和顶灯共同组成工业化时代最直白的整齐感。",
+      "prompt": "对称强迫症美学，现代停车楼层，立柱、车位线、顶灯重复，几何秩序震撼，无文字无人。"
+    },
+    {
+      "id": "symmetry-obsessive-aesthetics-2026-06-02_10_玻璃办公中庭",
+      "batch": "symmetry-obsessive-aesthetics-2026-06-02",
+      "category": "symmetry-architecture",
+      "number": "10",
+      "title": "玻璃办公中庭",
+      "image": "assets/images/symmetry-obsessive-aesthetics-2026-06-02/10_玻璃办公中庭.jpg",
+      "thumb": "assets/thumbs/symmetry-obsessive-aesthetics-2026-06-02/10_玻璃办公中庭.png",
+      "description": "窗格和桥廊让这张图像一张未来办公空间的秩序剖面。",
+      "prompt": "对称强迫症美学，玻璃办公中庭，桥廊与窗格绝对对称，未来感强，无文字无人。"
+    },
+    {
+      "id": "symmetry-obsessive-aesthetics-2026-06-02_11_超市货架通道",
+      "batch": "symmetry-obsessive-aesthetics-2026-06-02",
+      "category": "symmetry-architecture",
+      "number": "11",
+      "title": "超市货架通道",
+      "image": "assets/images/symmetry-obsessive-aesthetics-2026-06-02/11_超市货架通道.jpg",
+      "thumb": "assets/thumbs/symmetry-obsessive-aesthetics-2026-06-02/11_超市货架通道.png",
+      "description": "最日常的消费空间被拍出一种异常上瘾的规整快感。",
+      "prompt": "对称强迫症美学，超市货架通道，商品密集重复排列，中央构图绝对对称，无文字无人。"
+    },
+    {
+      "id": "symmetry-obsessive-aesthetics-2026-06-02_12_美术馆楼梯大厅",
+      "batch": "symmetry-obsessive-aesthetics-2026-06-02",
+      "category": "symmetry-architecture",
+      "number": "12",
+      "title": "美术馆楼梯大厅",
+      "image": "assets/images/symmetry-obsessive-aesthetics-2026-06-02/12_美术馆楼梯大厅.jpg",
+      "thumb": "assets/thumbs/symmetry-obsessive-aesthetics-2026-06-02/12_美术馆楼梯大厅.png",
+      "description": "台阶、扶手和墙面切分几乎像几何命题一样精确。",
+      "prompt": "对称强迫症美学，美术馆楼梯大厅，台阶、扶手、墙面分割完美对称，极简震撼，无文字无人。"
+    },
+    {
+      "id": "symmetry-obsessive-aesthetics-2026-06-02_13_数据中心机柜排布",
+      "batch": "symmetry-obsessive-aesthetics-2026-06-02",
+      "category": "symmetry-architecture",
+      "number": "13",
+      "title": "数据中心机柜排布",
+      "image": "assets/images/symmetry-obsessive-aesthetics-2026-06-02/13_数据中心机柜排布.jpg",
+      "thumb": "assets/thumbs/symmetry-obsessive-aesthetics-2026-06-02/13_数据中心机柜排布.png",
+      "description": "冷蓝灯和机柜阵列把数字世界的秩序感变成了实物景观。",
+      "prompt": "对称强迫症美学，数据中心机柜排布，冷蓝灯光，纵深与重复形成秩序美，无文字无人。"
+    },
+    {
+      "id": "symmetry-obsessive-aesthetics-2026-06-02_14_酒店走廊",
+      "batch": "symmetry-obsessive-aesthetics-2026-06-02",
+      "category": "symmetry-architecture",
+      "number": "14",
+      "title": "酒店走廊",
+      "image": "assets/images/symmetry-obsessive-aesthetics-2026-06-02/14_酒店走廊.jpg",
+      "thumb": "assets/thumbs/symmetry-obsessive-aesthetics-2026-06-02/14_酒店走廊.png",
+      "description": "房门与壁灯一字排开，像把无数个夜晚装进同一条轴线。",
+      "prompt": "对称强迫症美学，酒店走廊房门与壁灯重复，中央透视点，绝对整齐，无文字无人。"
+    },
+    {
+      "id": "symmetry-obsessive-aesthetics-2026-06-02_15_巴洛克穹顶大厅",
+      "batch": "symmetry-obsessive-aesthetics-2026-06-02",
+      "category": "symmetry-architecture",
+      "number": "15",
+      "title": "巴洛克穹顶大厅",
+      "image": "assets/images/symmetry-obsessive-aesthetics-2026-06-02/15_巴洛克穹顶大厅.jpg",
+      "thumb": "assets/thumbs/symmetry-obsessive-aesthetics-2026-06-02/15_巴洛克穹顶大厅.png",
+      "description": "繁复装饰却保持严格镜像，是整组里最华丽也最失控地整齐的一张。",
+      "prompt": "对称强迫症美学，巴洛克穹顶大厅，繁复装饰却严格轴对称，视觉冲击极强，无文字无人。"
     }
   ]
 }

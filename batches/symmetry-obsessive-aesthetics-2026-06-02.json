@@ -1,0 +1,127 @@
+{
+  "theme": "对称强迫症美学：建筑、阶梯、货架的完美对称构图",
+  "batchId": "symmetry-obsessive-aesthetics-2026-06-02",
+  "createdAt": "2026-06-02",
+  "items": [
+    {
+      "source": "01_grand_marble_staircase.jpg",
+      "category": "symmetry-architecture",
+      "categoryLabel": "对称秩序美学",
+      "title": "宏伟大理石阶梯",
+      "description": "重复台阶向远方推进，整张图靠正中秩序带来压迫式的震撼。",
+      "prompt": "对称强迫症美学，宏伟大理石阶梯，完美正中对称，重复台阶延伸到远方，建筑摄影感，无文字无人。"
+    },
+    {
+      "source": "02_brutalist_corridor.jpg",
+      "category": "symmetry-architecture",
+      "categoryLabel": "对称秩序美学",
+      "title": "粗野主义建筑长廊",
+      "description": "混凝土、阴影与重复结构一起把空间压缩成一条极冷的中轴线。",
+      "prompt": "对称强迫症美学，粗野主义建筑长廊，完美正中对称，混凝土重复结构，冷峻压迫，无文字无人。"
+    },
+    {
+      "source": "03_library_bookshelves.jpg",
+      "category": "symmetry-architecture",
+      "categoryLabel": "对称秩序美学",
+      "title": "高耸图书馆书架",
+      "description": "书脊和层架把视觉秩序堆到极致，是最典型的强迫症式满足。",
+      "prompt": "对称强迫症美学，高耸图书馆书架，左右绝对对称，书脊重复排列，视觉秩序强烈，无文字无人。"
+    },
+    {
+      "source": "04_subway_escalators.jpg",
+      "category": "symmetry-architecture",
+      "categoryLabel": "对称秩序美学",
+      "title": "地铁双向扶梯与站厅",
+      "description": "灯光、扶梯与中轴线把公共空间做出了近乎机械的整齐感。",
+      "prompt": "对称强迫症美学，地铁双向扶梯与站厅，完美轴对称，灯光与线条重复排列，无文字无人。"
+    },
+    {
+      "source": "05_warehouse_shelves.jpg",
+      "category": "symmetry-architecture",
+      "categoryLabel": "对称秩序美学",
+      "title": "仓储货架纵深透视",
+      "description": "箱体与货架的重复让仓储空间变成了一种视觉上的纪律。",
+      "prompt": "对称强迫症美学，仓储货架纵深透视，整齐重复箱体，极致对称与秩序感，无文字无人。"
+    },
+    {
+      "source": "06_palace_colonnade.jpg",
+      "category": "symmetry-architecture",
+      "categoryLabel": "对称秩序美学",
+      "title": "宫殿柱廊",
+      "description": "柱列与消失点共同制造庄严感，古典建筑在这里像一种严格算法。",
+      "prompt": "对称强迫症美学，宫殿柱廊，柱子等距重复，中央消失点，庄严对称，无文字无人。"
+    },
+    {
+      "source": "07_japanese_apartment_stairs.jpg",
+      "category": "symmetry-architecture",
+      "categoryLabel": "对称秩序美学",
+      "title": "日本公寓外部楼梯与走廊",
+      "description": "门窗、楼梯和栏杆的重复把日常住宅拍出了规训美感。",
+      "prompt": "对称强迫症美学，日本公寓外部楼梯与走廊，严格对称，重复门窗与栏杆，无文字无人。"
+    },
+    {
+      "source": "08_mosque_arches.jpg",
+      "category": "symmetry-architecture",
+      "categoryLabel": "对称秩序美学",
+      "title": "清真寺连续拱门",
+      "description": "拱门像节拍器一样重复，光影把空间修整得无比纯净。",
+      "prompt": "对称强迫症美学，清真寺连续拱门，完美镜像对称，光影节奏感强，无文字无人。"
+    },
+    {
+      "source": "09_modern_parking_garage.jpg",
+      "category": "symmetry-architecture",
+      "categoryLabel": "对称秩序美学",
+      "title": "现代停车楼层",
+      "description": "立柱、车位线和顶灯共同组成工业化时代最直白的整齐感。",
+      "prompt": "对称强迫症美学，现代停车楼层，立柱、车位线、顶灯重复，几何秩序震撼，无文字无人。"
+    },
+    {
+      "source": "10_glass_office_atrium.jpg",
+      "category": "symmetry-architecture",
+      "categoryLabel": "对称秩序美学",
+      "title": "玻璃办公中庭",
+      "description": "窗格和桥廊让这张图像一张未来办公空间的秩序剖面。",
+      "prompt": "对称强迫症美学，玻璃办公中庭，桥廊与窗格绝对对称，未来感强，无文字无人。"
+    },
+    {
+      "source": "11_supermarket_aisle.jpg",
+      "category": "symmetry-architecture",
+      "categoryLabel": "对称秩序美学",
+      "title": "超市货架通道",
+      "description": "最日常的消费空间被拍出一种异常上瘾的规整快感。",
+      "prompt": "对称强迫症美学，超市货架通道，商品密集重复排列，中央构图绝对对称，无文字无人。"
+    },
+    {
+      "source": "12_museum_stair_hall.jpg",
+      "category": "symmetry-architecture",
+      "categoryLabel": "对称秩序美学",
+      "title": "美术馆楼梯大厅",
+      "description": "台阶、扶手和墙面切分几乎像几何命题一样精确。",
+      "prompt": "对称强迫症美学，美术馆楼梯大厅，台阶、扶手、墙面分割完美对称，极简震撼，无文字无人。"
+    },
+    {
+      "source": "13_data_center_rows.jpg",
+      "category": "symmetry-architecture",
+      "categoryLabel": "对称秩序美学",
+      "title": "数据中心机柜排布",
+      "description": "冷蓝灯和机柜阵列把数字世界的秩序感变成了实物景观。",
+      "prompt": "对称强迫症美学，数据中心机柜排布，冷蓝灯光，纵深与重复形成秩序美，无文字无人。"
+    },
+    {
+      "source": "14_hotel_corridor.jpg",
+      "category": "symmetry-architecture",
+      "categoryLabel": "对称秩序美学",
+      "title": "酒店走廊",
+      "description": "房门与壁灯一字排开，像把无数个夜晚装进同一条轴线。",
+      "prompt": "对称强迫症美学，酒店走廊房门与壁灯重复，中央透视点，绝对整齐，无文字无人。"
+    },
+    {
+      "source": "15_baroque_ceiling_hall.jpg",
+      "category": "symmetry-architecture",
+      "categoryLabel": "对称秩序美学",
+      "title": "巴洛克穹顶大厅",
+      "description": "繁复装饰却保持严格镜像，是整组里最华丽也最失控地整齐的一张。",
+      "prompt": "对称强迫症美学，巴洛克穹顶大厅，繁复装饰却严格轴对称，视觉冲击极强，无文字无人。"
+    }
+  ]
+}

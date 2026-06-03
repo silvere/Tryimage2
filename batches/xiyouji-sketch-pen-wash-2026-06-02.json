@@ -1,0 +1,87 @@
+{
+  "theme": "西游记速写 / 钢笔淡彩人物与场景特写",
+  "batchId": "xiyouji-sketch-pen-wash-2026-06-02",
+  "createdAt": "2026-06-02",
+  "items": [
+    {
+      "source": "01_sun_wukong.jpg",
+      "category": "classic-novel-sketch",
+      "categoryLabel": "经典文学速写",
+      "title": "孙悟空特写",
+      "description": "金箍、火眼金睛与桀骜眼神被压进一张速写式近景里，线条凌厉，淡彩克制，像旧画册里的英雄页。",
+      "prompt": "中国速写/钢笔淡彩风格，孙悟空特写，金箍、火眼金睛、肩扛金箍棒，眼神桀骜机敏，细致钢笔线稿与透明淡彩晕染，宣纸纹理，人物聚焦，无文字无水印。"
+    },
+    {
+      "source": "02_tang_sanzang.jpg",
+      "category": "classic-novel-sketch",
+      "categoryLabel": "经典文学速写",
+      "title": "唐僧特写",
+      "description": "僧袍、佛珠与克制神情在留白中显得格外安静，把取经路上的信念感压缩成一张近肖像。",
+      "prompt": "中国速写/钢笔淡彩风格，唐僧人物特写，僧袍、佛珠、平静坚定神情，细致钢笔线稿，透明淡彩，东方古典气质，高审美插画，无文字无水印。"
+    },
+    {
+      "source": "03_zhu_bajie.jpg",
+      "category": "classic-novel-sketch",
+      "categoryLabel": "经典文学速写",
+      "title": "猪八戒特写",
+      "description": "钉耙、耳廓与半戏谑半疲惫的表情让这张画带着人物烟火气，像故事里最接地气的一页。",
+      "prompt": "中国速写/钢笔淡彩风格，猪八戒人物特写，九齿钉耙、夸张耳廓、复杂表情，线稿清晰，淡彩晕染，具有叙事性，无文字无水印。"
+    },
+    {
+      "source": "04_sha_wujing.jpg",
+      "category": "classic-novel-sketch",
+      "categoryLabel": "经典文学速写",
+      "title": "沙悟净特写",
+      "description": "沉稳的肩背、朴拙兵器与耐心眼神让画面像一块压舱石，给整组图提供了厚重感。",
+      "prompt": "中国速写/钢笔淡彩风格，沙悟净人物特写，沉稳强壮、兵器在侧、神情忠厚坚毅，纸本质感，留白自然，无文字无水印。"
+    },
+    {
+      "source": "05_white_dragon_horse.jpg",
+      "category": "classic-novel-sketch",
+      "categoryLabel": "经典文学速写",
+      "title": "白龙马特写",
+      "description": "鬃毛被风掀起，白马侧脸在山影和旅尘之间显得圣洁又英气，是整组里最轻盈的一张。",
+      "prompt": "中国速写/钢笔淡彩风格，白龙马侧脸特写，鬃毛被风扬起，旅途尘土与山影映衬，英气圣洁，透明淡彩与钢笔线稿结合，无文字无水印。"
+    },
+    {
+      "source": "06_havoc_in_heaven.jpg",
+      "category": "classic-novel-sketch",
+      "categoryLabel": "经典文学速写",
+      "title": "大闹天宫场景特写",
+      "description": "把混战浓缩成一张近景戏剧画面，笔触急促，云气和兵器交错，像传奇最热烈的一页。",
+      "prompt": "中国速写/钢笔淡彩风格，大闹天宫场景特写，近景戏剧冲突、云气与兵器交错、电影感叙事，钢笔线条与淡彩融合，无文字无水印。"
+    },
+    {
+      "source": "07_white_bone_demon.jpg",
+      "category": "classic-novel-sketch",
+      "categoryLabel": "经典文学速写",
+      "title": "三打白骨精场景特写",
+      "description": "人物与妖气的张力被压缩在一个瞬间里，既有戏剧性，也保留了纸上速写的呼吸感。",
+      "prompt": "中国速写/钢笔淡彩风格，三打白骨精场景特写，人物与妖气对峙，戏剧性强，细致线稿与透明晕染并存，无文字无水印。"
+    },
+    {
+      "source": "08_flaming_mountain.jpg",
+      "category": "classic-novel-sketch",
+      "categoryLabel": "经典文学速写",
+      "title": "火焰山场景特写",
+      "description": "热浪、山体与人物关系都被处理得克制而有力度，像旧连环画里最有温度的一页。",
+      "prompt": "中国速写/钢笔淡彩风格，火焰山场景特写，热浪、山体、人物近景构图，电影感与叙事性兼具，无文字无水印。"
+    },
+    {
+      "source": "09_princess_iron_fan.jpg",
+      "category": "classic-novel-sketch",
+      "categoryLabel": "经典文学速写",
+      "title": "铁扇公主特写",
+      "description": "羽扇、侧脸与衣纹形成很强的节奏感，兼具古典人物画和杂志插页的精致感。",
+      "prompt": "中国速写/钢笔淡彩风格，铁扇公主人物特写，羽扇、侧脸、古典服饰细节，钢笔线稿精致，淡彩透明，无文字无水印。"
+    },
+    {
+      "source": "10_thunderclap_monastery.jpg",
+      "category": "classic-novel-sketch",
+      "categoryLabel": "经典文学速写",
+      "title": "雷音寺场景特写",
+      "description": "云中佛寺与前景仰望的取经师徒形成庄严收束，是整组图最适合做结尾页的一张。",
+      "prompt": "中国速写/钢笔淡彩风格，雷音寺场景特写，云中金色佛寺显现，师徒在前景仰望，庄严神圣，叙事性强，无文字无水印。"
+    }
+  ]
+}

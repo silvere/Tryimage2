@@ -1,0 +1,87 @@
+{
+  "theme": "极简一物一色 / 性冷淡留白的珠宝首饰艺术品",
+  "batchId": "minimal-jewelry-monochrome-2026-06-02",
+  "createdAt": "2026-06-02",
+  "items": [
+    {
+      "source": "01_imperial_emerald_ring.jpg",
+      "category": "luxury-object-minimalism",
+      "categoryLabel": "极简奢侈器物",
+      "title": "帝王绿翡翠戒指",
+      "description": "深祖母绿背景与单一主物形成极度克制的博物馆陈列感，整张图几乎只靠材质与留白说话。",
+      "prompt": "极简一物一色，帝王绿翡翠戒指，深祖母绿色调背景，同色系，大片留白，museum-grade luxury still life，无文字无杂物。"
+    },
+    {
+      "source": "02_pigeon_blood_ruby_necklace.jpg",
+      "category": "luxury-object-minimalism",
+      "categoryLabel": "极简奢侈器物",
+      "title": "鸽血红红宝石项链",
+      "description": "深红单色底让项链像悬在一片静默里，贵气来自节制，而不是堆砌。",
+      "prompt": "极简一物一色，鸽血红红宝石项链，深红单色背景，巨大留白，冷静高级，无文字无杂物。"
+    },
+    {
+      "source": "03_blue_diamond_brooch.jpg",
+      "category": "luxury-object-minimalism",
+      "categoryLabel": "极简奢侈器物",
+      "title": "稀世蓝钻胸针",
+      "description": "冷蓝色场域把宝石的冰感推到最前面，像一张奢侈品年鉴里的孤物标本。",
+      "prompt": "极简一物一色，稀世蓝钻胸针，冷蓝单色背景，画面极简，留白巨大，premium editorial aesthetic，无文字。"
+    },
+    {
+      "source": "04_imperial_jade_bangle.jpg",
+      "category": "luxury-object-minimalism",
+      "categoryLabel": "极简奢侈器物",
+      "title": "满色翡翠手镯",
+      "description": "玉青背景与手镯自身颜色压得很准，视觉上像把昂贵这件事降到了最低音。",
+      "prompt": "极简一物一色，满色翡翠手镯，玉青绿色单色背景，性冷淡构图，沉静高级，无文字无杂物。"
+    },
+    {
+      "source": "05_mikimoto_pearl_tiara.jpg",
+      "category": "luxury-object-minimalism",
+      "categoryLabel": "极简奢侈器物",
+      "title": "博物馆级珍珠冠冕",
+      "description": "暖白背景让珠光和金属边缘显得很轻，像一页几乎没有声音的王室存档。",
+      "prompt": "极简一物一色，博物馆级珍珠冠冕，暖白象牙色背景，同色系极简构图，大面积留白，无文字。"
+    },
+    {
+      "source": "06_sapphire_pendant.jpg",
+      "category": "luxury-object-minimalism",
+      "categoryLabel": "极简奢侈器物",
+      "title": "克什米尔蓝宝石吊坠",
+      "description": "雾蓝底衬把吊坠的珍贵感处理得很安静，没有任何多余炫耀。",
+      "prompt": "极简一物一色，克什米尔蓝宝石吊坠，雾蓝单色背景，克制、安静、珍贵，巨大留白，无文字。"
+    },
+    {
+      "source": "07_black_opal_ring.jpg",
+      "category": "luxury-object-minimalism",
+      "categoryLabel": "极简奢侈器物",
+      "title": "黑欧泊戒指",
+      "description": "深墨背景把火彩压到几乎只剩一口亮光，整张图有收藏级的冷峻感。",
+      "prompt": "极简一物一色，黑欧泊戒指，深墨色背景，电光火彩被克制呈现，极简留白，无文字。"
+    },
+    {
+      "source": "08_van_cleef_style_mystery_set_clip.jpg",
+      "category": "luxury-object-minimalism",
+      "categoryLabel": "极简奢侈器物",
+      "title": "神秘镶嵌红宝石艺术胸针",
+      "description": "酒红背景与胸针之间没有多余剧情，只有工艺、色泽与孤立出来的昂贵。",
+      "prompt": "极简一物一色，神秘镶嵌红宝石艺术胸针，酒红单色背景，博物馆级艺术品质感，无文字无杂物。"
+    },
+    {
+      "source": "09_art_deco_diamond_bracelet.jpg",
+      "category": "luxury-object-minimalism",
+      "categoryLabel": "极简奢侈器物",
+      "title": "装饰艺术风钻石手链",
+      "description": "银灰底和几何秩序把这张图做得很像高级珠宝版式里的冷感样本。",
+      "prompt": "极简一物一色，装饰艺术风钻石手链，银灰单色背景，秩序几何与极简留白，premium luxury still life，无文字。"
+    },
+    {
+      "source": "10_gold_filigree_crown_jewel.jpg",
+      "category": "luxury-object-minimalism",
+      "categoryLabel": "极简奢侈器物",
+      "title": "金丝工艺皇家冠饰",
+      "description": "淡金米色背景把古典做得很轻，像一件被高规格保存下来的王室器物。",
+      "prompt": "极简一物一色，金丝工艺皇家冠饰，淡金米色背景，古典但极简，大片留白，无文字无杂物。"
+    }
+  ]
+}
