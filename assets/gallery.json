@@ -1,7 +1,7 @@
 {
   "site": {
     "title": "OpenAI image2 视觉实验",
-    "subtitle": "1152 张传播向 AI 海报",
+    "subtitle": "1167 张传播向 AI 海报",
     "headline": "OpenAI image2 视觉实验",
     "intro": "每一批图片围绕一个临时主题生成，并按当次最合适的 category 归档；可以是反差创意、真实场景、产品概念、人物叙事或任何新的视觉方向。",
     "coverImage": "assets/contact_sheet_image2.jpg",
@@ -394,6 +394,10 @@
     {
       "id": "surreal-collage",
       "label": "超现实拼贴"
+    },
+    {
+      "id": "historical-landmarks-hidden-moments",
+      "label": "历史地标幕后复原"
     }
   ],
   "batches": [
@@ -928,6 +932,12 @@
     {
       "id": "surreal-collage-memory-hooks-2026-06-04",
       "theme": "超现实拼贴：不相关元素违和组合，脑洞构图，强记忆点",
+      "createdAt": "2026-06-04",
+      "count": 15
+    },
+    {
+      "id": "landmarks-hidden-side-historical-reconstructions-2026-06-04",
+      "theme": "世界地标的“另一面”：鲜为人知的历史照片复原",
       "createdAt": "2026-06-04",
       "count": 15
     }
@@ -13589,6 +13599,171 @@
       "thumb": "assets/thumbs/surreal-collage-memory-hooks-2026-06-04/15_电话听筒开出花园.png",
       "description": "老式电话听筒里涌出鲜花、蝴蝶和草坪。",
       "prompt": "超现实拼贴风，一部奶油色老式电话放在空白桌面上，听筒裂开，内部涌出繁盛花园：郁金香、野草、小蝴蝶和湿润泥土，电话线像藤蔓蜿蜒延伸，复古工业设计与自然生命爆发形成鲜明对比，色彩饱和，封面感强，无文字，无logo"
+    },
+    {
+      "id": "landmarks-hidden-side-historical-reconstructions-2026-06-04_01_埃菲尔铁塔施工半空",
+      "batch": "landmarks-hidden-side-historical-reconstructions-2026-06-04",
+      "category": "historical-landmarks-hidden-moments",
+      "number": "01",
+      "title": "埃菲尔铁塔施工半空",
+      "image": "assets/images/landmarks-hidden-side-historical-reconstructions-2026-06-04/01_埃菲尔铁塔施工半空.png",
+      "thumb": "assets/thumbs/landmarks-hidden-side-historical-reconstructions-2026-06-04/01_埃菲尔铁塔施工半空.png",
+      "description": "巴黎铁塔尚未封顶时的高空铆接现场。",
+      "prompt": "1888年巴黎，埃菲尔铁塔施工到中段未封顶，巨大的铁梁骨架直插灰蓝色天空，木制脚手架、蒸汽起重设备、铆钉工人在高空平台上作业，工人穿19世纪末欧洲工装、帽子和皮靴，脚下是尚未成为旅游胜地的城市街区，空气里有金属粉尘和晨雾，纪实摄影、编辑部档案照片复原风格，真实铁锈与铸铁质感，非棕褐色调，冷静自然光，强烈地标诞生前气息，无可读文字，无标志。"
+    },
+    {
+      "id": "landmarks-hidden-side-historical-reconstructions-2026-06-04_02_自由女神像分装运输",
+      "batch": "landmarks-hidden-side-historical-reconstructions-2026-06-04",
+      "category": "historical-landmarks-hidden-moments",
+      "number": "02",
+      "title": "自由女神像分装运输",
+      "image": "assets/images/landmarks-hidden-side-historical-reconstructions-2026-06-04/02_自由女神像分装运输.png",
+      "thumb": "assets/thumbs/landmarks-hidden-side-historical-reconstructions-2026-06-04/02_自由女神像分装运输.png",
+      "description": "雕像部件在港口装箱待运的幕后一刻。",
+      "prompt": "1885年法国港口，自由女神像被拆分运输前的装箱现场，巨大的铜质手臂、火炬和面部部件平码头木箱旁，吊臂、绳索、码头工人和工程师忙碌穿梭，海面微冷，木板、帆布、铆钉箱和潮湿石岸细节清晰，纪录片式历史照片复原，真实铜材与木箱纹理，非棕褐色调，阴天自然色彩，呈现传奇地标还只是货运部件的反差感，无可读文字，无标志。"
+    },
+    {
+      "id": "landmarks-hidden-side-historical-reconstructions-2026-06-04_03_长城夯土筑墙现场",
+      "batch": "landmarks-hidden-side-historical-reconstructions-2026-06-04",
+      "category": "historical-landmarks-hidden-moments",
+      "number": "03",
+      "title": "长城夯土筑墙现场",
+      "image": "assets/images/landmarks-hidden-side-historical-reconstructions-2026-06-04/03_长城夯土筑墙现场.png",
+      "thumb": "assets/thumbs/landmarks-hidden-side-historical-reconstructions-2026-06-04/03_长城夯土筑墙现场.png",
+      "description": "边塞山脊上尚未完工的长城工地。",
+      "prompt": "明代北方山岭，长城一段正在修筑中，未完工的墙体露出夯土和石块层次，木制脚手架顺山势攀爬，工匠、民夫、驮队在狭窄山道搬运石料，风沙轻起，远处群山苍冷，近景可见木夯、竹篮、粗麻绳等真实工具，历史纪实照片复原风格，材质真实，不做泛黄旧照片效果，以自然冷暖平衡色表现世界奇观尚在被一块块垒起的现场感，无可读文字，无标志。"
+    },
+    {
+      "id": "landmarks-hidden-side-historical-reconstructions-2026-06-04_04_金字塔考古修复搭架",
+      "batch": "landmarks-hidden-side-historical-reconstructions-2026-06-04",
+      "category": "historical-landmarks-hidden-moments",
+      "number": "04",
+      "title": "金字塔考古修复搭架",
+      "image": "assets/images/landmarks-hidden-side-historical-reconstructions-2026-06-04/04_金字塔考古修复搭架.png",
+      "thumb": "assets/thumbs/landmarks-hidden-side-historical-reconstructions-2026-06-04/04_金字塔考古修复搭架.png",
+      "description": "古老奇迹在近代修复中的陌生画面。",
+      "prompt": "20世纪早期吉萨，高大的金字塔一角搭着木制修复架与绳索滑轮，考古人员、石匠和当地劳工在清理风沙、搬运石块，脚下有散落工具、木箱和石屑，天空明亮干燥，沙地与石灰岩表面细节锐利，像罕见新闻摄影重现，非棕褐色调，真实中性色彩，突出永恒古迹也曾处于修整与维护中的日常状态，无可读文字，无标志。"
+    },
+    {
+      "id": "landmarks-hidden-side-historical-reconstructions-2026-06-04_05_泰姬陵脚手架大修",
+      "batch": "landmarks-hidden-side-historical-reconstructions-2026-06-04",
+      "category": "historical-landmarks-hidden-moments",
+      "number": "05",
+      "title": "泰姬陵脚手架大修",
+      "image": "assets/images/landmarks-hidden-side-historical-reconstructions-2026-06-04/05_泰姬陵脚手架大修.png",
+      "thumb": "assets/thumbs/landmarks-hidden-side-historical-reconstructions-2026-06-04/05_泰姬陵脚手架大修.png",
+      "description": "白色陵寝被维修结构半遮蔽的短暂时刻。",
+      "prompt": "殖民时期印度，泰姬陵外立面局部维护中，大面积竹制脚手架包裹着白色大理石穹顶与拱门，石匠在高处修补花纹和接缝，地面堆放石料、灰浆桶、木梯，晨光柔和，空气中有河岸湿意，纪实编辑风历史照片复原，真实大理石、竹架与灰浆材质，不用复古褐色滤镜，呈现世界最优雅建筑也有被工事覆盖的幕后阶段，无可读文字，无标志。"
+    },
+    {
+      "id": "landmarks-hidden-side-historical-reconstructions-2026-06-04_06_悉尼歌剧院壳体初成",
+      "batch": "landmarks-hidden-side-historical-reconstructions-2026-06-04",
+      "category": "historical-landmarks-hidden-moments",
+      "number": "06",
+      "title": "悉尼歌剧院壳体初成",
+      "image": "assets/images/landmarks-hidden-side-historical-reconstructions-2026-06-04/06_悉尼歌剧院壳体初成.png",
+      "thumb": "assets/thumbs/landmarks-hidden-side-historical-reconstructions-2026-06-04/06_悉尼歌剧院壳体初成.png",
+      "description": "标志性白帆尚未完整闭合的施工场景。",
+      "prompt": "1960年代悉尼港，歌剧院施工中的壳体结构刚刚成形，巨大混凝土肋骨和未铺完的白色外壳片交错，塔吊悬停，工人在高空平台安装构件，港湾里有工作船而非游客船，天空清透，海风明显，新闻摄影般的历史复原风格，真实混凝土、钢材、陶瓷板质感，自然偏冷色调，不做棕褐色，强调未来城市象征仍像一座实验性的工地，无可读文字，无标志。"
+    },
+    {
+      "id": "landmarks-hidden-side-historical-reconstructions-2026-06-04_07_金门大桥猫道作业",
+      "batch": "landmarks-hidden-side-historical-reconstructions-2026-06-04",
+      "category": "historical-landmarks-hidden-moments",
+      "number": "07",
+      "title": "金门大桥猫道作业",
+      "image": "assets/images/landmarks-hidden-side-historical-reconstructions-2026-06-04/07_金门大桥猫道作业.png",
+      "thumb": "assets/thumbs/landmarks-hidden-side-historical-reconstructions-2026-06-04/07_金门大桥猫道作业.png",
+      "description": "桥面铺设前，悬索之间的惊险施工。",
+      "prompt": "1930年代旧金山，金门大桥建设期间，主缆已立起但桥面尚未完整铺设，悬挂在高空的临时猫道横跨浓雾，工人系着简易安全装备在钢索间搬运材料，海峡寒风猛烈，远处岸线模糊，近景是粗钢缆、木踏板、工具袋和铆接火花，纪实历史照片复原，真实工业材质，非棕褐色调，冷雾环境强烈突出著名地标在最危险阶段的幕后劳动，无可读文字，无标志。"
+    },
+    {
+      "id": "landmarks-hidden-side-historical-reconstructions-2026-06-04_08_帝国大厦钢骨冲天",
+      "batch": "landmarks-hidden-side-historical-reconstructions-2026-06-04",
+      "category": "historical-landmarks-hidden-moments",
+      "number": "08",
+      "title": "帝国大厦钢骨冲天",
+      "image": "assets/images/landmarks-hidden-side-historical-reconstructions-2026-06-04/08_帝国大厦钢骨冲天.png",
+      "thumb": "assets/thumbs/landmarks-hidden-side-historical-reconstructions-2026-06-04/08_帝国大厦钢骨冲天.png",
+      "description": "摩天楼尚未封顶时的骨架与工人午歇。",
+      "prompt": "1931年纽约，帝国大厦还处于钢结构裸露阶段，层层钢梁向天空叠升，工人在高处钢梁上短暂休息、搬运铆钉和工具，街面仍可见施工马车与早期卡车并存，尘土、烟雾、城市峡谷感明显，像报社档案照片被高清复原，真实钢材、皮革、混凝土和工装细节，自然中性偏冷色，不做泛黄处理，强调传奇天际线诞生前的粗粝现实，无可读文字，无标志。"
+    },
+    {
+      "id": "landmarks-hidden-side-historical-reconstructions-2026-06-04_09_大本钟钟面未装",
+      "batch": "landmarks-hidden-side-historical-reconstructions-2026-06-04",
+      "category": "historical-landmarks-hidden-moments",
+      "number": "09",
+      "title": "大本钟钟面未装",
+      "image": "assets/images/landmarks-hidden-side-historical-reconstructions-2026-06-04/09_大本钟钟面未装.png",
+      "thumb": "assets/thumbs/landmarks-hidden-side-historical-reconstructions-2026-06-04/09_大本钟钟面未装.png",
+      "description": "钟塔内部机械装配中的罕见角度。",
+      "prompt": "19世纪中期伦敦，大本钟钟塔施工后期，巨大钟面开口尚未完全安装，塔内外布满脚手架和滑轮，钟表工匠与建筑工人围绕齿轮、钟摆和铸铁框架忙碌，薄雾中的泰晤士河与议会建筑若隐若现，编辑部纪实历史照片复原风格，真实石材、铜件、机油和木架细节，非棕褐色调，冷灰伦敦天光，呈现时间地标在尚未开始报时之前的气质，无可读文字，无标志。"
+    },
+    {
+      "id": "landmarks-hidden-side-historical-reconstructions-2026-06-04_10_圣家堂塔尖吊装",
+      "batch": "landmarks-hidden-side-historical-reconstructions-2026-06-04",
+      "category": "historical-landmarks-hidden-moments",
+      "number": "10",
+      "title": "圣家堂塔尖吊装",
+      "image": "assets/images/landmarks-hidden-side-historical-reconstructions-2026-06-04/10_圣家堂塔尖吊装.png",
+      "thumb": "assets/thumbs/landmarks-hidden-side-historical-reconstructions-2026-06-04/10_圣家堂塔尖吊装.png",
+      "description": "巴塞罗那圣家堂在建中的垂直工地。",
+      "prompt": "20世纪早期巴塞罗那，圣家堂部分塔尖仍在建造中，复杂石雕立面与裸露施工平台并存，绳索吊机缓慢提升石块，石匠在脚手架上雕刻构件，地面散落模板、碎石和灰浆桶，阳光照出石材温暖颗粒感，纪录片式历史复原摄影，不使用棕褐色调，真实砂岩、木材和粉尘材质，强调神圣地标尚是连续多年未完工的劳动现场，无可读文字，无标志。"
+    },
+    {
+      "id": "landmarks-hidden-side-historical-reconstructions-2026-06-04_11_拉什莫尔山炸药雕刻",
+      "batch": "landmarks-hidden-side-historical-reconstructions-2026-06-04",
+      "category": "historical-landmarks-hidden-moments",
+      "number": "11",
+      "title": "拉什莫尔山炸药雕刻",
+      "image": "assets/images/landmarks-hidden-side-historical-reconstructions-2026-06-04/11_拉什莫尔山炸药雕刻.png",
+      "thumb": "assets/thumbs/landmarks-hidden-side-historical-reconstructions-2026-06-04/11_拉什莫尔山炸药雕刻.png",
+      "description": "总统头像成形前的峭壁施工瞬间。",
+      "prompt": "1930年代南达科他州，拉什莫尔山纪念碑雕刻中，巨大花岗岩峭壁上只有粗略轮廓，工人悬吊在座椅和钢缆上钻孔、布置小型爆破，山脚有压缩机、工具箱和碎石堆，天空高远清澈，灰白岩粉漂浮，新闻纪录摄影复原风格，真实岩石、钢索、工装和机械质感，非棕褐色，呈现著名面孔尚未清晰出现时的工程暴力与精度，无可读文字，无标志。"
+    },
+    {
+      "id": "landmarks-hidden-side-historical-reconstructions-2026-06-04_12_基督像构件上山",
+      "batch": "landmarks-hidden-side-historical-reconstructions-2026-06-04",
+      "category": "historical-landmarks-hidden-moments",
+      "number": "12",
+      "title": "基督像构件上山",
+      "image": "assets/images/landmarks-hidden-side-historical-reconstructions-2026-06-04/12_基督像构件上山.png",
+      "thumb": "assets/thumbs/landmarks-hidden-side-historical-reconstructions-2026-06-04/12_基督像构件上山.png",
+      "description": "里约山顶雕像装配前的运输过程。",
+      "prompt": "1920年代里约热内卢，基督像建设阶段，大型石材和雕像外壳部件通过山间轨道与人力被运往山顶，工人、工程师和搬运队在陡坡间协调吊运，远处海湾与城市尚显朦胧，近景可见轨道车、麻绳、脚手板、混凝土基座，纪实历史照片复原风格，真实石材和热带山体植被质感，自然色彩不做棕褐色，突出神像出现之前只是艰难的山地工程，无可读文字，无标志。"
+    },
+    {
+      "id": "landmarks-hidden-side-historical-reconstructions-2026-06-04_13_胡佛水坝浇筑巨坑",
+      "batch": "landmarks-hidden-side-historical-reconstructions-2026-06-04",
+      "category": "historical-landmarks-hidden-moments",
+      "number": "13",
+      "title": "胡佛水坝浇筑巨坑",
+      "image": "assets/images/landmarks-hidden-side-historical-reconstructions-2026-06-04/13_胡佛水坝浇筑巨坑.png",
+      "thumb": "assets/thumbs/landmarks-hidden-side-historical-reconstructions-2026-06-04/13_胡佛水坝浇筑巨坑.png",
+      "description": "大坝尚未拦水时的庞大混凝土工地。",
+      "prompt": "1930年代美国西部，胡佛水坝建设中，峡谷里尚未蓄水，巨大的弧形坝体只完成部分高度，分层浇筑的混凝土块、缆索吊车、模板和成群工人充满画面，岩壁干燥炽热，阴影锋利，像政府工程档案照片高清复原，真实混凝土、钢筋、木模板与尘土细节，非棕褐色调，强调如今宏伟平静的地标曾是轰鸣不止的巨型工地，无可读文字，无标志。"
+    },
+    {
+      "id": "landmarks-hidden-side-historical-reconstructions-2026-06-04_14_伦敦塔桥液压测试",
+      "batch": "landmarks-hidden-side-historical-reconstructions-2026-06-04",
+      "category": "historical-landmarks-hidden-moments",
+      "number": "14",
+      "title": "伦敦塔桥液压测试",
+      "image": "assets/images/landmarks-hidden-side-historical-reconstructions-2026-06-04/14_伦敦塔桥液压测试.png",
+      "thumb": "assets/thumbs/landmarks-hidden-side-historical-reconstructions-2026-06-04/14_伦敦塔桥液压测试.png",
+      "description": "开桥前的机械调试与工人巡检。",
+      "prompt": "19世纪末伦敦塔桥启用前测试阶段，桥面可开启结构部分抬起，蒸汽与液压设备正在调试，工人在钢架和机械室间检查齿轮、油缸与铆钉连接，河面冷灰，沿岸仍带工业码头气息，编辑纪实历史照片复原风格，真实钢结构、石塔、蒸汽潮湿感，非棕褐色调，呈现浪漫名桥在面向公众之前更像一台复杂机器的反差，无可读文字，无标志。"
+    },
+    {
+      "id": "landmarks-hidden-side-historical-reconstructions-2026-06-04_15_罗马斗兽场夜间加固",
+      "batch": "landmarks-hidden-side-historical-reconstructions-2026-06-04",
+      "category": "historical-landmarks-hidden-moments",
+      "number": "15",
+      "title": "罗马斗兽场夜间加固",
+      "image": "assets/images/landmarks-hidden-side-historical-reconstructions-2026-06-04/15_罗马斗兽场夜间加固.png",
+      "thumb": "assets/thumbs/landmarks-hidden-side-historical-reconstructions-2026-06-04/15_罗马斗兽场夜间加固.png",
+      "description": "古迹在现代保护工程中的静默现场。",
+      "prompt": "20世纪中期罗马，斗兽场局部夜间加固作业，拱券间架设金属支撑与临时木平台，考古保护人员在便携灯光下检查裂缝、搬运石块和加固构件，湿润石地反射冷白灯光，远处城市安静，画面像罕见档案新闻照片被真实复原，材质强调古石、铁件、灰尘与阴影，非棕褐色调，突出永恒废墟并非静止不变，而是在被一代代修补维持，无可读文字，无标志。"
     }
   ]
 }
