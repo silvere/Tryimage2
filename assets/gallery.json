@@ -1,7 +1,7 @@
 {
   "site": {
     "title": "OpenAI image2 视觉实验",
-    "subtitle": "1137 张传播向 AI 海报",
+    "subtitle": "1152 张传播向 AI 海报",
     "headline": "OpenAI image2 视觉实验",
     "intro": "每一批图片围绕一个临时主题生成，并按当次最合适的 category 归档；可以是反差创意、真实场景、产品概念、人物叙事或任何新的视觉方向。",
     "coverImage": "assets/contact_sheet_image2.jpg",
@@ -390,6 +390,10 @@
     {
       "id": "symmetry-architecture",
       "label": "对称秩序美学"
+    },
+    {
+      "id": "surreal-collage",
+      "label": "超现实拼贴"
     }
   ],
   "batches": [
@@ -919,6 +923,12 @@
       "id": "symmetry-obsessive-aesthetics-2026-06-02",
       "theme": "对称强迫症美学：建筑、阶梯、货架的完美对称构图",
       "createdAt": "2026-06-02",
+      "count": 15
+    },
+    {
+      "id": "surreal-collage-memory-hooks-2026-06-04",
+      "theme": "超现实拼贴：不相关元素违和组合，脑洞构图，强记忆点",
+      "createdAt": "2026-06-04",
       "count": 15
     }
   ],
@@ -13414,6 +13424,171 @@
       "thumb": "assets/thumbs/symmetry-obsessive-aesthetics-2026-06-02/15_巴洛克穹顶大厅.png",
       "description": "繁复装饰却保持严格镜像，是整组里最华丽也最失控地整齐的一张。",
       "prompt": "对称强迫症美学，巴洛克穹顶大厅，繁复装饰却严格轴对称，视觉冲击极强，无文字无人。"
+    },
+    {
+      "id": "surreal-collage-memory-hooks-2026-06-04_01_云层里游鱼的电梯井",
+      "batch": "surreal-collage-memory-hooks-2026-06-04",
+      "category": "surreal-collage",
+      "number": "01",
+      "title": "云层里游鱼的电梯井",
+      "image": "assets/images/surreal-collage-memory-hooks-2026-06-04/01_云层里游鱼的电梯井.png",
+      "thumb": "assets/thumbs/surreal-collage-memory-hooks-2026-06-04/01_云层里游鱼的电梯井.png",
+      "description": "高楼电梯井通向云海，鱼群在云中穿行。",
+      "prompt": "超现实拼贴风，竖版构图，打开的高楼电梯井直接通向厚重云海，几条银色金枪鱼像在海里一样游过云层，电梯门半开，冷白金属与柔软云朵强烈反差，广角近景，杂志摄影感，真实材质拼贴，光影戏剧化，高视觉冲击，无文字，无logo"
+    },
+    {
+      "id": "surreal-collage-memory-hooks-2026-06-04_02_手掌长出整座城市",
+      "batch": "surreal-collage-memory-hooks-2026-06-04",
+      "category": "surreal-collage",
+      "number": "02",
+      "title": "手掌长出整座城市",
+      "image": "assets/images/surreal-collage-memory-hooks-2026-06-04/02_手掌长出整座城市.png",
+      "thumb": "assets/thumbs/surreal-collage-memory-hooks-2026-06-04/02_手掌长出整座城市.png",
+      "description": "巨大手掌托起街区，楼房从皮肤里生长。",
+      "prompt": "超现实拼贴风，特写一只朝上的巨大手掌悬在空中，掌心和手指缝里长出密集摩天楼、路灯和小街道，皮肤纹理与混凝土建筑无缝结合，背景是极简蓝天，构图干净但冲突强烈，时尚大片质感，写实拼贴，高对比，无文字，无logo"
+    },
+    {
+      "id": "surreal-collage-memory-hooks-2026-06-04_03_沙漠里的客厅海浪",
+      "batch": "surreal-collage-memory-hooks-2026-06-04",
+      "category": "surreal-collage",
+      "number": "03",
+      "title": "沙漠里的客厅海浪",
+      "image": "assets/images/surreal-collage-memory-hooks-2026-06-04/03_沙漠里的客厅海浪.png",
+      "thumb": "assets/thumbs/surreal-collage-memory-hooks-2026-06-04/03_沙漠里的客厅海浪.png",
+      "description": "普通客厅中央掀起海浪，沙丘围住沙发。",
+      "prompt": "超现实拼贴风，一个现代客厅被放置在沙漠中央，米色沙发前的茶几位置突然掀起一堵深蓝海浪，沙丘从地毯边缘漫入室内，吊灯安静悬挂，室内外边界荒诞错位，editorial摄影感，材质清晰，强记忆点，无文字，无logo"
+    },
+    {
+      "id": "surreal-collage-memory-hooks-2026-06-04_04_月亮被拉链拉开",
+      "batch": "surreal-collage-memory-hooks-2026-06-04",
+      "category": "surreal-collage",
+      "number": "04",
+      "title": "月亮被拉链拉开",
+      "image": "assets/images/surreal-collage-memory-hooks-2026-06-04/04_月亮被拉链拉开.png",
+      "thumb": "assets/thumbs/surreal-collage-memory-hooks-2026-06-04/04_月亮被拉链拉开.png",
+      "description": "夜空月亮像外套一样被拉开，露出白天云层。",
+      "prompt": "超现实拼贴风，巨大满月悬在夜空中央，月球表面被一只金属拉链从中间拉开，里面不是岩石而是明亮白昼天空和蓬松白云，深夜城市天台作为前景，冷暖反差明显，视觉中心强，写实拼贴，时尚海报感，无文字，无logo"
+    },
+    {
+      "id": "surreal-collage-memory-hooks-2026-06-04_05_鲸鱼停靠在地铁站",
+      "batch": "surreal-collage-memory-hooks-2026-06-04",
+      "category": "surreal-collage",
+      "number": "05",
+      "title": "鲸鱼停靠在地铁站",
+      "image": "assets/images/surreal-collage-memory-hooks-2026-06-04/05_鲸鱼停靠在地铁站.png",
+      "thumb": "assets/thumbs/surreal-collage-memory-hooks-2026-06-04/05_鲸鱼停靠在地铁站.png",
+      "description": "地铁月台像港口，鲸鱼缓慢进站。",
+      "prompt": "超现实拼贴风，地下地铁站月台上，一头巨大的蓝鲸像列车一样缓慢靠站，车灯位置变成鲸眼，乘客尺度极小，地面有微弱积水反光，荧光灯照亮鲸鱼皮肤，工业空间与海洋生物违和结合，电影感，高冲击，无文字，无logo"
+    },
+    {
+      "id": "surreal-collage-memory-hooks-2026-06-04_06_雨伞下倒挂森林",
+      "batch": "surreal-collage-memory-hooks-2026-06-04",
+      "category": "surreal-collage",
+      "number": "06",
+      "title": "雨伞下倒挂森林",
+      "image": "assets/images/surreal-collage-memory-hooks-2026-06-04/06_雨伞下倒挂森林.png",
+      "thumb": "assets/thumbs/surreal-collage-memory-hooks-2026-06-04/06_雨伞下倒挂森林.png",
+      "description": "一把黑伞撑开，里面垂下整片森林。",
+      "prompt": "超现实拼贴风，黑色雨伞悬浮在半空，伞内不是布面而是倒挂的松树林和薄雾，树木从伞骨之间向下生长，伞下站着一个渺小人物仰望，灰白背景极简，构图集中，静谧又诡异，写实拼贴，海报级视觉，无文字，无logo"
+    },
+    {
+      "id": "surreal-collage-memory-hooks-2026-06-04_07_眼睛里的环形公路",
+      "batch": "surreal-collage-memory-hooks-2026-06-04",
+      "category": "surreal-collage",
+      "number": "07",
+      "title": "眼睛里的环形公路",
+      "image": "assets/images/surreal-collage-memory-hooks-2026-06-04/07_眼睛里的环形公路.png",
+      "thumb": "assets/thumbs/surreal-collage-memory-hooks-2026-06-04/07_眼睛里的环形公路.png",
+      "description": "超大眼球中嵌着城市高架，车流绕着虹膜旋转。",
+      "prompt": "超现实拼贴风，近距离巨大人眼占满画面，虹膜位置被替换为城市环形高架桥，微小车流绕着瞳孔旋转，睫毛清晰，皮肤纹理真实，冷色霓虹夜景映在眼白上，微恐但高级，杂志封面感，强烈视觉记忆，无文字，无logo"
+    },
+    {
+      "id": "surreal-collage-memory-hooks-2026-06-04_08_冰箱门后是极地海岸",
+      "batch": "surreal-collage-memory-hooks-2026-06-04",
+      "category": "surreal-collage",
+      "number": "08",
+      "title": "冰箱门后是极地海岸",
+      "image": "assets/images/surreal-collage-memory-hooks-2026-06-04/08_冰箱门后是极地海岸.png",
+      "thumb": "assets/thumbs/surreal-collage-memory-hooks-2026-06-04/08_冰箱门后是极地海岸.png",
+      "description": "打开厨房冰箱，里面连通雪地与企鹅海岸。",
+      "prompt": "超现实拼贴风，普通家庭厨房中，一台双开门冰箱被打开，内部不是食物而是辽阔极地海岸，企鹅站在结冰边缘，冷雾从冰箱溢出到厨房地砖，橱柜与冰川形成强反差，明亮写实，广告级拼贴效果，无文字，无logo"
+    },
+    {
+      "id": "surreal-collage-memory-hooks-2026-06-04_09_红苹果里藏着卧室",
+      "batch": "surreal-collage-memory-hooks-2026-06-04",
+      "category": "surreal-collage",
+      "number": "09",
+      "title": "红苹果里藏着卧室",
+      "image": "assets/images/surreal-collage-memory-hooks-2026-06-04/09_红苹果里藏着卧室.png",
+      "thumb": "assets/thumbs/surreal-collage-memory-hooks-2026-06-04/09_红苹果里藏着卧室.png",
+      "description": "切开的苹果内部变成一间完整卧室。",
+      "prompt": "超现实拼贴风，一颗巨大的红苹果被整齐切开，果肉中间不是果核而是一间温暖卧室：床、窗帘、台灯完整嵌在苹果内部，果汁质感与棉被布料形成奇异对比，纯色背景突出主体，产品摄影般干净，记忆点极强，无文字，无logo"
+    },
+    {
+      "id": "surreal-collage-memory-hooks-2026-06-04_10_瀑布从西装口袋流出",
+      "batch": "surreal-collage-memory-hooks-2026-06-04",
+      "category": "surreal-collage",
+      "number": "10",
+      "title": "瀑布从西装口袋流出",
+      "image": "assets/images/surreal-collage-memory-hooks-2026-06-04/10_瀑布从西装口袋流出.png",
+      "thumb": "assets/thumbs/surreal-collage-memory-hooks-2026-06-04/10_瀑布从西装口袋流出.png",
+      "description": "人物西装胸袋中倾泻出整道瀑布。",
+      "prompt": "超现实拼贴风，半身肖像，一个穿深色西装的人站在岩壁前，胸前口袋像裂开的山口，白色瀑布和细小树木从口袋中奔涌而下，水花湿润布料边缘，人物表情冷静，时尚人像与自然景观冲突结合，精致写实，无文字，无logo"
+    },
+    {
+      "id": "surreal-collage-memory-hooks-2026-06-04_11_楼梯通向漂浮的荷包蛋",
+      "batch": "surreal-collage-memory-hooks-2026-06-04",
+      "category": "surreal-collage",
+      "number": "11",
+      "title": "楼梯通向漂浮的荷包蛋",
+      "image": "assets/images/surreal-collage-memory-hooks-2026-06-04/11_楼梯通向漂浮的荷包蛋.png",
+      "thumb": "assets/thumbs/surreal-collage-memory-hooks-2026-06-04/11_楼梯通向漂浮的荷包蛋.png",
+      "description": "细长楼梯直达天空中的巨大荷包蛋岛。",
+      "prompt": "超现实拼贴风，一段极长的白色楼梯从地面一直延伸到空中，尽头是漂浮的巨大荷包蛋，蛋白像云，蛋黄像发光小岛，蓝天背景纯净，人物在楼梯上显得极小，极简却荒诞，时尚广告构图，高视觉冲击，无文字，无logo"
+    },
+    {
+      "id": "surreal-collage-memory-hooks-2026-06-04_12_鹿角上晾晒海浪",
+      "batch": "surreal-collage-memory-hooks-2026-06-04",
+      "category": "surreal-collage",
+      "number": "12",
+      "title": "鹿角上晾晒海浪",
+      "image": "assets/images/surreal-collage-memory-hooks-2026-06-04/12_鹿角上晾晒海浪.png",
+      "thumb": "assets/thumbs/surreal-collage-memory-hooks-2026-06-04/12_鹿角上晾晒海浪.png",
+      "description": "优雅白鹿的鹿角变成晾衣架，海浪挂在上面。",
+      "prompt": "超现实拼贴风，一只白鹿站在浅色摄影棚中，巨大分叉鹿角上像布料一样挂着几段卷起的海浪，水滴悬停，鹿毛柔软细腻，背景极简无干扰，优雅与荒谬并存，静物时装片质感，强记忆点，无文字，无logo"
+    },
+    {
+      "id": "surreal-collage-memory-hooks-2026-06-04_13_行李箱里装着暴风雨",
+      "batch": "surreal-collage-memory-hooks-2026-06-04",
+      "category": "surreal-collage",
+      "number": "13",
+      "title": "行李箱里装着暴风雨",
+      "image": "assets/images/surreal-collage-memory-hooks-2026-06-04/13_行李箱里装着暴风雨.png",
+      "thumb": "assets/thumbs/surreal-collage-memory-hooks-2026-06-04/13_行李箱里装着暴风雨.png",
+      "description": "打开的复古行李箱释放乌云闪电与小雨。",
+      "prompt": "超现实拼贴风，一个复古硬壳行李箱摆在机场传送带上，箱子半开，里面塞满翻滚乌云、闪电和小型暴风雨，雨水沿箱边滴落到地面，周围环境冷静整洁，旅行物件与天气系统强烈错位，商业摄影质感，无文字，无logo"
+    },
+    {
+      "id": "surreal-collage-memory-hooks-2026-06-04_14_咖啡杯中的黑色日食",
+      "batch": "surreal-collage-memory-hooks-2026-06-04",
+      "category": "surreal-collage",
+      "number": "14",
+      "title": "咖啡杯中的黑色日食",
+      "image": "assets/images/surreal-collage-memory-hooks-2026-06-04/14_咖啡杯中的黑色日食.png",
+      "thumb": "assets/thumbs/surreal-collage-memory-hooks-2026-06-04/14_咖啡杯中的黑色日食.png",
+      "description": "一杯咖啡表面升起微型宇宙与日食。",
+      "prompt": "超现实拼贴风，俯拍一只白色咖啡杯，深黑咖啡液面中央出现微型日食，周围漂浮细小行星碎片与金色光环，杯边有轻微蒸汽，木桌极简干净，像高端生活方式大片，却带宇宙异象，细节真实，无文字，无logo"
+    },
+    {
+      "id": "surreal-collage-memory-hooks-2026-06-04_15_电话听筒开出花园",
+      "batch": "surreal-collage-memory-hooks-2026-06-04",
+      "category": "surreal-collage",
+      "number": "15",
+      "title": "电话听筒开出花园",
+      "image": "assets/images/surreal-collage-memory-hooks-2026-06-04/15_电话听筒开出花园.png",
+      "thumb": "assets/thumbs/surreal-collage-memory-hooks-2026-06-04/15_电话听筒开出花园.png",
+      "description": "老式电话听筒里涌出鲜花、蝴蝶和草坪。",
+      "prompt": "超现实拼贴风，一部奶油色老式电话放在空白桌面上，听筒裂开，内部涌出繁盛花园：郁金香、野草、小蝴蝶和湿润泥土，电话线像藤蔓蜿蜒延伸，复古工业设计与自然生命爆发形成鲜明对比，色彩饱和，封面感强，无文字，无logo"
     }
   ]
 }
