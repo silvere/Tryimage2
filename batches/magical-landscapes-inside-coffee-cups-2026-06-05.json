@@ -1,0 +1,127 @@
+{
+  "theme": "咖啡杯里的神奇造景",
+  "batchId": "magical-landscapes-inside-coffee-cups-2026-06-05",
+  "createdAt": "2026-06-05",
+  "items": [
+    {
+      "source": "coffeecup_snowy_village.jpg",
+      "category": "coffee-cup-magical-worlds",
+      "categoryLabel": "咖啡杯里的神奇造景",
+      "title": "雪镇暖灯",
+      "description": "一座飘雪小镇在咖啡杯里亮起温暖灯火。",
+      "prompt": "A clearly visible ceramic coffee cup containing a complete tiny snowy village, glowing cabin windows, pine trees dusted with snow, miniature bridge, gentle steam blending into winter mist, magical realism, cinematic photoreal miniature diorama, ultra-detailed, shallow depth of field, dramatic warm-vs-cool lighting, save-worthy composition, no text, no logo"
+    },
+    {
+      "source": "coffeecup_lantern_market.jpg",
+      "category": "coffee-cup-magical-worlds",
+      "categoryLabel": "咖啡杯里的神奇造景",
+      "title": "灯市夜游",
+      "description": "热闹的微型灯笼集市在杯中铺开夜色。",
+      "prompt": "A clearly visible coffee cup holding a bustling miniature lantern market at night, narrow alleys, red lanterns, tiny food stalls, glowing reflections on dark coffee surface, whimsical yet realistic, cinematic photoreal miniature diorama, rich atmosphere, high detail, magical realism, volumetric light, no readable text, no logos"
+    },
+    {
+      "source": "coffeecup_moss_forest.jpg",
+      "category": "coffee-cup-magical-worlds",
+      "categoryLabel": "咖啡杯里的神奇造景",
+      "title": "苔森秘境",
+      "description": "一片发光苔藓森林在杯中悄悄生长。",
+      "prompt": "A clearly visible porcelain coffee cup containing a lush miniature moss forest, bioluminescent spores, tiny wooden path, dew-covered ferns, hidden waterfall, self-contained tiny world inside the cup, photoreal macro miniature diorama, magical realism, cinematic lighting, highly detailed textures, no text, no logo"
+    },
+    {
+      "source": "coffeecup_desert_caravan.jpg",
+      "category": "coffee-cup-magical-worlds",
+      "categoryLabel": "咖啡杯里的神奇造景",
+      "title": "沙海驼铃",
+      "description": "金色沙丘与小小商队在杯中缓缓前行。",
+      "prompt": "A clearly visible coffee cup with a miniature desert caravan inside, rolling golden dunes, tiny camels, traders, wind-shaped ridges, oasis shimmer near the rim, self-contained world, cinematic photoreal miniature diorama, magical realism, warm sunset light, ultra-detailed, no text, no logos"
+    },
+    {
+      "source": "coffeecup_cliff_temple.jpg",
+      "category": "coffee-cup-magical-worlds",
+      "categoryLabel": "咖啡杯里的神奇造景",
+      "title": "云崖古寺",
+      "description": "悬崖古寺在杯中云雾间若隐若现。",
+      "prompt": "A clearly visible coffee cup containing a dramatic miniature cliff temple, steep stone stairs, hanging pines, clouds swirling above dark coffee, tiny prayer architecture without readable text, cinematic photoreal miniature diorama, mystical atmosphere, magical realism, detailed rock textures, no logos"
+    },
+    {
+      "source": "coffeecup_storm_harbor.jpg",
+      "category": "coffee-cup-magical-worlds",
+      "categoryLabel": "咖啡杯里的神奇造景",
+      "title": "风暴港湾",
+      "description": "暴风雨里的微型港口在杯中迎浪守灯。",
+      "prompt": "A clearly visible coffee cup holding a miniature stormy sea harbor, crashing waves curling within the cup, tiny lighthouse, fishing boats, wet rocks, lightning in the background, cinematic photoreal miniature diorama, intense magical realism, dynamic water detail, moody lighting, no text, no logo"
+    },
+    {
+      "source": "coffeecup_glowing_cave.jpg",
+      "category": "coffee-cup-magical-worlds",
+      "categoryLabel": "咖啡杯里的神奇造景",
+      "title": "萤辉洞天",
+      "description": "发光晶洞在杯中像另一颗小星球。",
+      "prompt": "A clearly visible coffee cup containing a glowing miniature crystal cave, luminous minerals, underground pool, tiny rope bridge, misty light rays, enclosed magical world inside the cup, cinematic photoreal miniature diorama, macro realism, vivid blue and violet glow, no readable text, no logos"
+    },
+    {
+      "source": "coffeecup_moon_observatory.jpg",
+      "category": "coffee-cup-magical-worlds",
+      "categoryLabel": "咖啡杯里的神奇造景",
+      "title": "月下天文台",
+      "description": "安静的微型天文台在杯中守望月色。",
+      "prompt": "A clearly visible coffee cup with a miniature moonlit observatory inside, domed telescope house, tiny stone terrace, silver moon glow, stars reflected on the liquid surface, magical realism, cinematic photoreal miniature diorama, elegant composition, ultra-detailed, no text, no logo"
+    },
+    {
+      "source": "coffeecup_rice_terraces.jpg",
+      "category": "coffee-cup-magical-worlds",
+      "categoryLabel": "咖啡杯里的神奇造景",
+      "title": "云间梯田",
+      "description": "层层梯田在杯中映出晨雾与水光。",
+      "prompt": "A clearly visible coffee cup containing miniature rice terraces, reflective water steps, tiny farmer paths, morning mist, soft sunrise, lush green gradients, self-contained tiny landscape, cinematic photoreal miniature diorama, magical realism, macro detail, no readable text, no logos"
+    },
+    {
+      "source": "coffeecup_autumn_shrine.jpg",
+      "category": "coffee-cup-magical-worlds",
+      "categoryLabel": "咖啡杯里的神奇造景",
+      "title": "枫庭神社",
+      "description": "红枫环绕的小神社在杯中迎来秋风。",
+      "prompt": "A clearly visible coffee cup holding a miniature autumn shrine, crimson maple leaves, stone lanterns, narrow path, drifting leaves above the cup, self-contained tiny world, cinematic photoreal miniature diorama, magical realism, warm seasonal color, highly detailed, no text, no logos"
+    },
+    {
+      "source": "coffeecup_floating_isles.jpg",
+      "category": "coffee-cup-magical-worlds",
+      "categoryLabel": "咖啡杯里的神奇造景",
+      "title": "浮岛晨曦",
+      "description": "几座微型浮空岛在杯中被晨光轻轻托起。",
+      "prompt": "A clearly visible coffee cup containing a fantasy miniature floating-island landscape, tiny waterfalls dropping into the cup, small cottages, suspension bridges, sunrise clouds, magical realism, cinematic photoreal miniature diorama, awe-inspiring composition, ultra-detailed, no text, no logo"
+    },
+    {
+      "source": "coffeecup_cherry_canal.jpg",
+      "category": "coffee-cup-magical-worlds",
+      "categoryLabel": "咖啡杯里的神奇造景",
+      "title": "樱河小城",
+      "description": "樱花飘落的运河小城在杯中温柔苏醒。",
+      "prompt": "A clearly visible coffee cup with a miniature canal town inside, cherry blossom petals falling, arched bridges, tiny boats, pastel dawn light, reflective water, self-contained tiny world, cinematic photoreal miniature diorama, magical realism, romantic atmosphere, no readable text, no logos"
+    },
+    {
+      "source": "coffeecup_volcanic_forge.jpg",
+      "category": "coffee-cup-magical-worlds",
+      "categoryLabel": "咖啡杯里的神奇造景",
+      "title": "熔火工坊",
+      "description": "炽热熔岩与微型锻造工坊在杯中交映。",
+      "prompt": "A clearly visible coffee cup containing a miniature volcanic forge landscape, glowing lava channels, black rock, tiny workshop, sparks and smoke, intense orange-red contrast, self-contained magical world, cinematic photoreal miniature diorama, highly detailed, dramatic lighting, no text, no logo"
+    },
+    {
+      "source": "coffeecup_coral_lagoon.jpg",
+      "category": "coffee-cup-magical-worlds",
+      "categoryLabel": "咖啡杯里的神奇造景",
+      "title": "珊瑚月湾",
+      "description": "一片梦幻珊瑚海湾在杯中泛起柔光。",
+      "prompt": "A clearly visible coffee cup holding a miniature coral lagoon world, turquoise water, colorful coral reefs, tiny island hut, moonlit shimmer, gentle translucent waves within the cup, magical realism, cinematic photoreal miniature diorama, vibrant detail, no readable text, no logos"
+    },
+    {
+      "source": "coffeecup_aurora_igloo.jpg",
+      "category": "coffee-cup-magical-worlds",
+      "categoryLabel": "咖啡杯里的神奇造景",
+      "title": "极光冰屋",
+      "description": "极光下的冰屋营地在杯中安静发亮。",
+      "prompt": "A clearly visible coffee cup containing a miniature arctic camp, tiny igloos, glowing windows, snowdrifts, polar night, aurora arching above the cup, self-contained tiny world, cinematic photoreal miniature diorama, magical realism, crisp detail, cool luminous palette, no text, no logo"
+    }
+  ]
+}
