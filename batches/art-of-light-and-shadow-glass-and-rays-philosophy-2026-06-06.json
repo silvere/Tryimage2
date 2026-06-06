@@ -1,0 +1,142 @@
+{
+  "theme": "光与影的艺术：玻璃和射线的哲学",
+  "batchId": "art-of-light-and-shadow-glass-and-rays-philosophy-2026-06-06",
+  "createdAt": "2026-06-06",
+  "items": [
+    {
+      "source": "cathedral-glass-caustic-floor.jpg",
+      "slug": "cathedral-glass-caustic-floor",
+      "category": "light-shadow-glass-rays-philosophy",
+      "categoryLabel": "光与影的艺术：玻璃和射线的哲学",
+      "title": "彩窗投影的沉思地面",
+      "description": "玻璃把光拆开以后，地面像有了思想。",
+      "prompt": "A vast stone floor inside a grand cathedral crossed by multicolored caustic light from towering stained glass, close attention to tiny dust motes, worn stone texture, elongated shadows from unseen columns, silent philosophical atmosphere about broken light becoming meaning."
+    },
+    {
+      "source": "museum-glass-corridor-rays.jpg",
+      "slug": "museum-glass-corridor-rays",
+      "category": "light-shadow-glass-rays-philosophy",
+      "categoryLabel": "光与影的艺术：玻璃和射线的哲学",
+      "title": "玻璃长廊里的射线秩序",
+      "description": "射线在透明结构中像被温柔地管理。",
+      "prompt": "A contemplative view down a monumental museum glass corridor, sharp morning rays entering at an angle, reflections multiplying across panes, pale floor shadows in strict rhythm, cool silence, modern architectural austerity, the philosophy of direction and transparency."
+    },
+    {
+      "source": "crystal-stair-prism-shadow.jpg",
+      "slug": "crystal-stair-prism-shadow",
+      "category": "light-shadow-glass-rays-philosophy",
+      "categoryLabel": "光与影的艺术：玻璃和射线的哲学",
+      "title": "水晶楼梯与棱镜阴影",
+      "description": "楼梯不只是上升，也像把光层层折叠。",
+      "prompt": "A dramatic close architectural study of crystal-like stair balustrades in a huge atrium, prismatic light splitting into subtle spectral bands across steps, deep shadow wells beneath, polished surfaces, quiet metaphysical mood, exquisite refraction details."
+    },
+    {
+      "source": "glass-roof-rainbow-ribs.jpg",
+      "slug": "glass-roof-rainbow-ribs",
+      "category": "light-shadow-glass-rays-philosophy",
+      "categoryLabel": "光与影的艺术：玻璃和射线的哲学",
+      "title": "玻璃穹顶与彩色钢肋",
+      "description": "天顶像一个理性而诗意的光学装置。",
+      "prompt": "Looking upward at a giant glass roof with elegant steel ribs, daylight bending through layered panels and casting rainbow-edged lines into the interior haze, structural clarity, sublime scale, the meeting of engineering and transcendence."
+    },
+    {
+      "source": "dark-hall-single-beam.jpg",
+      "slug": "dark-hall-single-beam",
+      "category": "light-shadow-glass-rays-philosophy",
+      "categoryLabel": "光与影的艺术：玻璃和射线的哲学",
+      "title": "暗厅中的唯一光束",
+      "description": "一束光就足够把整个空间变成哲学。",
+      "prompt": "A cavernous dark hall pierced by a single concentrated beam of light entering through high glass, thick suspended dust illuminated, long austere shadows, minimal composition, meditative emptiness, philosophical contrast between void and revelation."
+    },
+    {
+      "source": "greenhouse-fog-refraction.jpg",
+      "slug": "greenhouse-fog-refraction",
+      "category": "light-shadow-glass-rays-philosophy",
+      "categoryLabel": "光与影的艺术：玻璃和射线的哲学",
+      "title": "温室雾气中的折射",
+      "description": "潮湿玻璃把柔光变得更像呼吸。",
+      "prompt": "Inside a monumental glasshouse with thin fog and condensation, sun rays refracting through wet panes and iron frames, soft botanical silhouettes reduced to shadow shapes, droplets glowing, tactile glass surface, a serene essay on softness and geometry."
+    },
+    {
+      "source": "glass-table-knife-edge-light.jpg",
+      "slug": "glass-table-knife-edge-light",
+      "category": "light-shadow-glass-rays-philosophy",
+      "categoryLabel": "光与影的艺术：玻璃和射线的哲学",
+      "title": "玻璃台面上的刀锋光",
+      "description": "光在边缘停住时，会显得异常冷静。",
+      "prompt": "A close still-architectural composition of a large glass table or platform in a minimalist hall, knife-edge sunlight traveling through beveled transparent edges, razor-sharp shadow lines across stone, subtle internal reflections, philosophical precision and restraint."
+    },
+    {
+      "source": "observatory-lens-sunset.jpg",
+      "slug": "observatory-lens-sunset",
+      "category": "light-shadow-glass-rays-philosophy",
+      "categoryLabel": "光与影的艺术：玻璃和射线的哲学",
+      "title": "观测镜片与黄昏余照",
+      "description": "镜片既看世界，也重新制造世界。",
+      "prompt": "A poetic close-up of gigantic observatory lenses and protective glass at sunset, amber rays catching curved surfaces, layered reflections, faint dust, shadowed machinery around the edges, intimate optics inside a monumental scientific space, contemplative and sublime."
+    },
+    {
+      "source": "subway-glass-partition-neon.jpg",
+      "slug": "subway-glass-partition-neon",
+      "category": "light-shadow-glass-rays-philosophy",
+      "categoryLabel": "光与影的艺术：玻璃和射线的哲学",
+      "title": "站台玻璃与霓虹反射",
+      "description": "现代光线在玻璃上有一种冷静的命运感。",
+      "prompt": "A large underground station or transit hall with glass partitions catching cold neon reflections, streaks of artificial light, receding shadows, slight haze, urban philosophical stillness, no people dominating the frame, only architecture, light, and reflection logic."
+    },
+    {
+      "source": "archive-case-afternoon-rays.jpg",
+      "slug": "archive-case-afternoon-rays",
+      "category": "light-shadow-glass-rays-philosophy",
+      "categoryLabel": "光与影的艺术：玻璃和射线的哲学",
+      "title": "档案柜玻璃上的下午光",
+      "description": "历史被玻璃隔开后，光变得格外克制。",
+      "prompt": "Antique archive display cases in a huge reading room, afternoon rays grazing old glass doors, soft reflections, muted wood, narrow shadows between cabinets, the philosophy of memory, preservation, and distance expressed through light behavior."
+    },
+    {
+      "source": "spiral-window-shadow-math.jpg",
+      "slug": "spiral-window-shadow-math",
+      "category": "light-shadow-glass-rays-philosophy",
+      "categoryLabel": "光与影的艺术：玻璃和射线的哲学",
+      "title": "旋窗投影的数学感",
+      "description": "阴影像在地面上写下看不见的公式。",
+      "prompt": "A monumental circular or spiral window casting mathematically precise shadow arcs onto a pale floor, glass subtly tinting the light, huge surrounding wall in darkness, austere abstract beauty, geometry becoming emotion."
+    },
+    {
+      "source": "glass-bridge-over-waterlines.jpg",
+      "slug": "glass-bridge-over-waterlines",
+      "category": "light-shadow-glass-rays-philosophy",
+      "categoryLabel": "光与影的艺术：玻璃和射线的哲学",
+      "title": "水上玻璃桥的流动线条",
+      "description": "透明与倒影让空间像在犹豫。",
+      "prompt": "A serene glass bridge over still water inside a vast architectural complex, reflected rays vibrating under the transparent surface, delicate linear shadows, pale atmosphere, minimal and philosophical, with attention to the tension between solidity and disappearance."
+    },
+    {
+      "source": "prayer-room-mirror-light.jpg",
+      "slug": "prayer-room-mirror-light",
+      "category": "light-shadow-glass-rays-philosophy",
+      "categoryLabel": "光与影的艺术：玻璃和射线的哲学",
+      "title": "静室镜面与侧光",
+      "description": "镜面不是为了照见人，而是照见光。",
+      "prompt": "A contemplative prayer-room-like chamber with mirrored glass panels and restrained side light, long bands of reflection, deep blue-gray shadows, almost no decoration, spiritual stillness, the philosophical idea of light seeing itself."
+    },
+    {
+      "source": "fractured-window-storm-rays.jpg",
+      "slug": "fractured-window-storm-rays",
+      "category": "light-shadow-glass-rays-philosophy",
+      "categoryLabel": "光与影的艺术：玻璃和射线的哲学",
+      "title": "裂窗与暴风射线",
+      "description": "破碎玻璃让光显得更诚实。",
+      "prompt": "A huge storm-darkened interior with a fractured but elegant window surface, strong white rays breaking through irregular glass pieces, jagged reflections on the floor, wind-driven dust, dramatic chiaroscuro, beauty found in damaged transparency."
+    },
+    {
+      "source": "night-gallery-glass-firelight.jpg",
+      "slug": "night-gallery-glass-firelight",
+      "category": "light-shadow-glass-rays-philosophy",
+      "categoryLabel": "光与影的艺术：玻璃和射线的哲学",
+      "title": "夜展厅玻璃与火色残光",
+      "description": "夜里最后一点暖光，让玻璃像在思考。",
+      "prompt": "A night gallery interior of grand scale where warm residual firelike light glows through tall glass partitions, deep indigo shadows, faint reflections layered into darkness, exquisite material calm, a final philosophical image about light fading but not ending."
+    }
+  ]
+}
