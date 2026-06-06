@@ -1,0 +1,142 @@
+{
+  "theme": "大型建筑细节里的风神美感",
+  "batchId": "wind-god-beauty-in-grand-architecture-details-2026-06-06",
+  "createdAt": "2026-06-06",
+  "items": [
+    {
+      "source": "bronze-gate-hinge.jpg",
+      "slug": "bronze-gate-hinge",
+      "category": "monumental-architecture-wind-details",
+      "categoryLabel": "大型建筑细节里的风神美感",
+      "title": "铜门铰链与穿堂风",
+      "description": "巨门细节在风里显出一种像神意般的力量。",
+      "prompt": "Extreme close view of an enormous bronze gate hinge on a temple-scale entrance, verdigris, hammered metal, tiny scratches, silk prayer ribbons snapping in a corridor draft, low golden side light, drifting dust, the scale of the unseen building implied by colossal joinery and shadowed stone beyond."
+    },
+    {
+      "source": "stone-eave-corner.jpg",
+      "slug": "stone-eave-corner",
+      "category": "monumental-architecture-wind-details",
+      "categoryLabel": "大型建筑细节里的风神美感",
+      "title": "飞檐转角的风压",
+      "description": "屋檐的一角把整座建筑的呼吸都收紧了。",
+      "prompt": "Close-up of a monumental stone eave corner high above a palace courtyard, carved layers, weather-softened edges, wind compressing dark storm clouds around the roofline, white fabric streamers and rain spray pulled sideways, tactile stone grain, austere divine atmosphere."
+    },
+    {
+      "source": "dome-coffer-light.jpg",
+      "slug": "dome-coffer-light",
+      "category": "monumental-architecture-wind-details",
+      "categoryLabel": "大型建筑细节里的风神美感",
+      "title": "穹顶格槽里的气流",
+      "description": "穹顶深处的光和风像在缓慢说话。",
+      "prompt": "Upward-looking detail study inside a gigantic dome, focusing on coffers, fine cracks, gold leaf remnants, and shafts of cold light where high air currents stir suspended dust into spirals, solemn silence, immense scale suggested by repeating geometry fading into shadow."
+    },
+    {
+      "source": "column-base-leaves.jpg",
+      "slug": "column-base-leaves",
+      "category": "monumental-architecture-wind-details",
+      "categoryLabel": "大型建筑细节里的风神美感",
+      "title": "柱脚与旋叶",
+      "description": "风从地面卷起细叶，让石柱显得更高更神圣。",
+      "prompt": "Low-angle close view of the base of a colossal column in a grand civic hall, chiseled stone foot, hairline erosion, fallen leaves and pale dust caught in a circular gust around the pedestal, soft overcast light, intimate texture with overwhelming vertical power."
+    },
+    {
+      "source": "window-tracery-mist.jpg",
+      "slug": "window-tracery-mist",
+      "category": "monumental-architecture-wind-details",
+      "categoryLabel": "大型建筑细节里的风神美感",
+      "title": "花窗石纹与冷雾",
+      "description": "风把雾送进窗洞，细节像被重新雕了一遍。",
+      "prompt": "Tight composition on gothic tracery of a massive cathedral window, wet stone lacework, mist being pushed through the opening by strong cold wind, beads of moisture, dark interior behind, pale dawn light outlining every carved edge, reverent and severe."
+    },
+    {
+      "source": "stair-balustrade-shadow.jpg",
+      "slug": "stair-balustrade-shadow",
+      "category": "monumental-architecture-wind-details",
+      "categoryLabel": "大型建筑细节里的风神美感",
+      "title": "大阶栏杆的阴影风",
+      "description": "风掠过台阶时，阴影都像有了速度。",
+      "prompt": "Detail painting of a monumental stair balustrade in a vast government building, polished stone worn by decades, long diagonal shadows, gusts moving a forgotten silk scarf and fine grit over the steps, crisp geometry, quiet authority, elegant cinematic realism."
+    },
+    {
+      "source": "roof-tile-ridge.jpg",
+      "slug": "roof-tile-ridge",
+      "category": "monumental-architecture-wind-details",
+      "categoryLabel": "大型建筑细节里的风神美感",
+      "title": "屋脊瓦鳞与高空风",
+      "description": "屋脊最细小的瓦片，也有凌空立神的气势。",
+      "prompt": "Macro-to-medium view of roof ridge tiles on an enormous historic hall, glazed ceramic scales, moss in seams, violent high-altitude wind combing through hanging tassels and scattering fine rain, sky occupying half the frame, each small tile feeling epic and ceremonial."
+    },
+    {
+      "source": "brass-door-knocker.jpg",
+      "slug": "brass-door-knocker",
+      "category": "monumental-architecture-wind-details",
+      "categoryLabel": "大型建筑细节里的风神美感",
+      "title": "黄铜门环的回响",
+      "description": "门环静止不动，却像刚被风神敲过。",
+      "prompt": "Close-up of a giant brass door knocker on a fortress-scale wooden door, aged brass sheen, micro dents, dark lacquered grain, cold wind pushing thin rain across the surface, dramatic side light, the unseen building behind it suggested by enormous proportions and resonance."
+    },
+    {
+      "source": "buttress-rain-runoff.jpg",
+      "slug": "buttress-rain-runoff",
+      "category": "monumental-architecture-wind-details",
+      "categoryLabel": "大型建筑细节里的风神美感",
+      "title": "扶壁上的雨水轨迹",
+      "description": "一面扶壁接住了整场风雨的力。",
+      "prompt": "Close detail of a flying buttress on a huge cathedral exterior during rain, water runoff tracing channels over ancient stone, wind bending runoff into silver streaks, lichen and carved seams sharply visible, steel-gray sky, majestic weathered beauty."
+    },
+    {
+      "source": "skylight-ribs-clouds.jpg",
+      "slug": "skylight-ribs-clouds",
+      "category": "monumental-architecture-wind-details",
+      "categoryLabel": "大型建筑细节里的风神美感",
+      "title": "天窗钢肋与流云",
+      "description": "钢与云在高处相遇，显出一种现代神性。",
+      "prompt": "Architectural close-up of steel ribs beneath a gigantic museum skylight, condensation, bolts, translucent glass, fast-moving clouds casting shifting light bands, the sensation of high air pressure and modern grandeur, restrained color palette, pristine detail."
+    },
+    {
+      "source": "marble-arch-veil.jpg",
+      "slug": "marble-arch-veil",
+      "category": "monumental-architecture-wind-details",
+      "categoryLabel": "大型建筑细节里的风神美感",
+      "title": "大理石拱洞与薄纱",
+      "description": "一缕布在拱洞里被风托起，像建筑自己在呼吸。",
+      "prompt": "Close study of the inner curve of a monumental marble arch, translucent pale fabric caught and lifted by crosswind, cool marble veining, softened reflected light, shallow mist in the background, sensual material detail with sacred calm."
+    },
+    {
+      "source": "gutter-gargoyle-spray.jpg",
+      "slug": "gutter-gargoyle-spray",
+      "category": "monumental-architecture-wind-details",
+      "categoryLabel": "大型建筑细节里的风神美感",
+      "title": "排水兽口的飞沫",
+      "description": "最边缘的排水口，也有一种惊人的神像感。",
+      "prompt": "Hyper-detailed close-up of a gargoyle-like rain spout on a monumental roof edge, wet stone mouth blasting wind-torn spray into open air, mineral stains, chipped contours, thunderlight behind, intense elemental energy captured in a single architectural fragment."
+    },
+    {
+      "source": "ceiling-beam-paint.jpg",
+      "slug": "ceiling-beam-paint",
+      "category": "monumental-architecture-wind-details",
+      "categoryLabel": "大型建筑细节里的风神美感",
+      "title": "梁底彩绘与暗流",
+      "description": "看似静止的梁底，其实被看不见的气流轻轻推着。",
+      "prompt": "Ceiling-detail painting of decorated beams deep inside a colossal ceremonial hall, faded pigments, minute cracks, strips of hanging cloth barely moving in invisible upper air currents, filtered amber light, richly tactile surfaces, quiet divine tension."
+    },
+    {
+      "source": "bridge-chain-anchor.jpg",
+      "slug": "bridge-chain-anchor",
+      "category": "monumental-architecture-wind-details",
+      "categoryLabel": "大型建筑细节里的风神美感",
+      "title": "悬桥锚链的风鸣",
+      "description": "钢链的细节里藏着整座巨桥的咆哮。",
+      "prompt": "Close-up on an enormous suspension bridge anchor chain and riveted plate, dark steel, salt residue, moisture, fierce wind vibrating loose cable threads and blowing harbor mist through the frame, industrial monumentality elevated into near-mythic beauty."
+    },
+    {
+      "source": "lantern-bracket-night.jpg",
+      "slug": "lantern-bracket-night",
+      "category": "monumental-architecture-wind-details",
+      "categoryLabel": "大型建筑细节里的风神美感",
+      "title": "夜色灯托的神性余辉",
+      "description": "巨大建筑边缘的一处灯托，像替整座城守夜。",
+      "prompt": "Night detail of an ornate lantern bracket mounted on the exterior of a monumental building, blackened bronze, tiny screws, rain pearls, warm flame-like glow against deep blue wind, banners and branches moving in the darkness, intimate object scale carrying the aura of a whole city-sized structure."
+    }
+  ]
+}
