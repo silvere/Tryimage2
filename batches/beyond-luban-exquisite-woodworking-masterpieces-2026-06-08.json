@@ -1,0 +1,142 @@
+{
+  "theme": "精美绝伦赛鲁班的木工制作品",
+  "batchId": "beyond-luban-exquisite-woodworking-masterpieces-2026-06-08",
+  "createdAt": "2026-06-08",
+  "items": [
+    {
+      "source": "cloud-tenon-cabinet.jpg",
+      "slug": "cloud-tenon-cabinet",
+      "category": "woodworking-masterpieces-creative-art",
+      "categoryLabel": "精美绝伦赛鲁班的木工制作品",
+      "title": "云榫秘柜",
+      "description": "像机关艺术品一样的木柜，把榫卯和云纹做到近乎神工。",
+      "prompt": "An exquisite handcrafted hardwood cabinet with impossible-looking mortise-and-tenon cloud joints, hidden drawers, carved flowing cloud motifs, polished huanghuali-like grain, museum editorial lighting, elegant Chinese artisanal atmosphere, hyper-detailed woodworking craftsmanship, creative art object, no readable text, no logos."
+    },
+    {
+      "source": "lotus-petal-screen.jpg",
+      "slug": "lotus-petal-screen",
+      "category": "woodworking-masterpieces-creative-art",
+      "categoryLabel": "精美绝伦赛鲁班的木工制作品",
+      "title": "莲瓣折屏",
+      "description": "木屏风像层层展开的莲瓣，细节轻盈得不像木头。",
+      "prompt": "A breathtaking wooden folding screen designed like unfolding lotus petals, ultra-fine carved lattice, layered rosewood and pale maple contrast, translucent handcrafted elegance, soft natural light, poetic showroom scene, artistic woodworking masterpiece, no readable text, no logos."
+    },
+    {
+      "source": "swallowtail-beam-chair.jpg",
+      "slug": "swallowtail-beam-chair",
+      "category": "woodworking-masterpieces-creative-art",
+      "categoryLabel": "精美绝伦赛鲁班的木工制作品",
+      "title": "燕尾梁椅",
+      "description": "一把椅子把建筑梁架的结构美缩进了日常器物里。",
+      "prompt": "A spectacular artisan wooden chair inspired by ancient beam structures, dramatic dovetail and swallowtail joints fully visible, deep walnut glow, sculptural yet usable form, documentary design-photography style, refined workshop background, extraordinary woodworking details, no text, no logos."
+    },
+    {
+      "source": "mountain-ridge-bookshelf.jpg",
+      "slug": "mountain-ridge-bookshelf",
+      "category": "woodworking-masterpieces-creative-art",
+      "categoryLabel": "精美绝伦赛鲁班的木工制作品",
+      "title": "山脊书阁",
+      "description": "书架像连绵山脊，榫接结构让它既稳又像山水装置。",
+      "prompt": "A monumental artisanal wooden bookshelf shaped like a mountain ridgeline, interlocking joinery, layered shelves resembling peaks and valleys, dark elm and warm cedar tones, gallery-like interior, visually striking craftsmanship, collectible design object, no readable text, no logos."
+    },
+    {
+      "source": "dragon-scale-tea-table.jpg",
+      "slug": "dragon-scale-tea-table",
+      "category": "woodworking-masterpieces-creative-art",
+      "categoryLabel": "精美绝伦赛鲁班的木工制作品",
+      "title": "龙鳞茶案",
+      "description": "茶桌表面像细密龙鳞，木纹和雕工都带着压倒性的华美。",
+      "prompt": "An opulent handcrafted wooden tea table with dragon-scale patterned surface, dense hand-carved details, rich reddish-brown hardwood, subtle brass-free pure wood construction, incense-like mood, elegant tea room atmosphere, masterpiece-level Chinese woodworking art, no readable text, no logos."
+    },
+    {
+      "source": "moon-gate-display-stand.jpg",
+      "slug": "moon-gate-display-stand",
+      "category": "woodworking-masterpieces-creative-art",
+      "categoryLabel": "精美绝伦赛鲁班的木工制作品",
+      "title": "月洞陈设架",
+      "description": "月洞门意象被做成一件陈设木架，比例安静却气度很大。",
+      "prompt": "A refined wooden display stand inspired by a Chinese moon gate, circular open center, delicate interlocked supports, flawless joinery, pale ash wood with darker edge accents, serene scholar-studio setting, collectible furniture-art object, extremely detailed craftsmanship, no readable text, no logos."
+    },
+    {
+      "source": "hundred-joints-jewelry-box.jpg",
+      "slug": "hundred-joints-jewelry-box",
+      "category": "woodworking-masterpieces-creative-art",
+      "categoryLabel": "精美绝伦赛鲁班的木工制作品",
+      "title": "百榫首饰盒",
+      "description": "一只首饰盒像榫卯技术的炫技舞台，小到边角都惊人。",
+      "prompt": "A tiny but unbelievably intricate handcrafted wooden jewelry box assembled from many visible miniature joinery techniques, sliding compartments, hidden mechanics, luxurious hardwood grain, macro design photography, precision artisan craftsmanship, creative wood art, no readable text, no logos."
+    },
+    {
+      "source": "floating-corridor-console.jpg",
+      "slug": "floating-corridor-console",
+      "category": "woodworking-masterpieces-creative-art",
+      "categoryLabel": "精美绝伦赛鲁班的木工制作品",
+      "title": "浮廊长案",
+      "description": "长案像空中回廊，被木作结构托出一种悬浮感。",
+      "prompt": "A long handcrafted wooden console table designed like a floating corridor, elongated bridge-like proportions, elegant support geometry, visible mortise-and-tenon engineering, warm matte finish, spacious architectural interior, editorial furniture photography, no text, no logos."
+    },
+    {
+      "source": "peacock-feather-lamp.jpg",
+      "slug": "peacock-feather-lamp",
+      "category": "woodworking-masterpieces-creative-art",
+      "categoryLabel": "精美绝伦赛鲁班的木工制作品",
+      "title": "雀翎木灯",
+      "description": "灯罩像孔雀尾羽展开，木片层层叠出精致的光。",
+      "prompt": "A dazzling handcrafted wooden lamp with layered feather-like slats resembling a peacock tail, warm light shining through carved wood fins, exquisite silhouette, intimate luxury interior, sculptural functional art, high-detail craftsmanship, no readable text, no logos."
+    },
+    {
+      "source": "spiral-stair-wine-rack.jpg",
+      "slug": "spiral-stair-wine-rack",
+      "category": "woodworking-masterpieces-creative-art",
+      "categoryLabel": "精美绝伦赛鲁班的木工制作品",
+      "title": "旋梯酒架",
+      "description": "酒架像一段被缩小的旋梯，把空间戏剧感做到极致。",
+      "prompt": "An extraordinary wooden wine rack built like a miniature spiral staircase, flowing curved rails, precise joinery, elegant shadow play, dark polished hardwood, dramatic editorial still life, luxury craftsmanship, creative artistic furniture design, no readable text, no logos."
+    },
+    {
+      "source": "fan-rib-daybed.jpg",
+      "slug": "fan-rib-daybed",
+      "category": "woodworking-masterpieces-creative-art",
+      "categoryLabel": "精美绝伦赛鲁班的木工制作品",
+      "title": "扇骨榻",
+      "description": "卧榻背后像撑开的扇骨，线条优雅到像画出来的。",
+      "prompt": "A luxurious handcrafted daybed with a back structure inspired by the ribs of an opening hand fan, rhythmic curved wooden members, artisanal finish, calm elite interior, graceful proportions, masterpiece Chinese woodworking design, no readable text, no logos."
+    },
+    {
+      "source": "cicada-wing-writing-desk.jpg",
+      "slug": "cicada-wing-writing-desk",
+      "category": "woodworking-masterpieces-creative-art",
+      "categoryLabel": "精美绝伦赛鲁班的木工制作品",
+      "title": "蝉翼书案",
+      "description": "案面薄得像蝉翼，但结构稳得近乎不可思议。",
+      "prompt": "An astonishing ultra-thin handcrafted writing desk appearing as light as cicada wings, impossibly slender edge profile supported by hidden joinery intelligence, premium wood grain, scholarly studio atmosphere, refined minimal luxury, extraordinary woodcraft, no readable text, no logos."
+    },
+    {
+      "source": "interlocked-pagoda-shelf.jpg",
+      "slug": "interlocked-pagoda-shelf",
+      "category": "woodworking-masterpieces-creative-art",
+      "categoryLabel": "精美绝伦赛鲁班的木工制作品",
+      "title": "锁塔层架",
+      "description": "层架如木塔层层相锁，既像建筑模型又像收藏级家具。",
+      "prompt": "A magnificent tiered wooden shelf inspired by pagoda architecture, stacked interlocking levels, rich carved details, exposed structural intelligence, warm amber lighting, museum-grade furniture photography, collectible wood art object, no readable text, no logos."
+    },
+    {
+      "source": "river-bend-bench.jpg",
+      "slug": "river-bend-bench",
+      "category": "woodworking-masterpieces-creative-art",
+      "categoryLabel": "精美绝伦赛鲁班的木工制作品",
+      "title": "河曲长凳",
+      "description": "长凳像水流转弯，一整段木作节奏感极强。",
+      "prompt": "A masterfully crafted wooden bench shaped like a bending river current, flowing organic lines controlled by rigorous joinery, mixed hardwood tones, spacious gallery interior, poetic but functional, exquisite artisanal finish, no readable text, no logos."
+    },
+    {
+      "source": "thousand-grid-canopy-bed.jpg",
+      "slug": "thousand-grid-canopy-bed",
+      "category": "woodworking-masterpieces-creative-art",
+      "categoryLabel": "精美绝伦赛鲁班的木工制作品",
+      "title": "千格拔步床",
+      "description": "床架繁复得像一个木构小宇宙，细看每格都令人惊叹。",
+      "prompt": "A stunning grand canopy bed made entirely of elaborate fine wooden lattice and mortise-and-tenon structure, thousands of tiny geometric compartments, imperial elegance, deep rosewood sheen, soft ambient room light, awe-inspiring craftsmanship, artistic furniture masterpiece, no readable text, no logos."
+    }
+  ]
+}

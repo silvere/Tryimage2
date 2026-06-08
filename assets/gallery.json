@@ -1,7 +1,7 @@
 {
   "site": {
     "title": "OpenAI image2 视觉实验",
-    "subtitle": "1227 张传播向 AI 海报",
+    "subtitle": "1242 张传播向 AI 海报",
     "headline": "OpenAI image2 视觉实验",
     "intro": "每一批图片围绕一个临时主题生成，并按当次最合适的 category 归档；可以是反差创意、真实场景、产品概念、人物叙事或任何新的视觉方向。",
     "coverImage": "assets/contact_sheet_image2.jpg",
@@ -414,6 +414,10 @@
     {
       "id": "light-shadow-glass-rays-philosophy",
       "label": "光与影的艺术：玻璃和射线的哲学"
+    },
+    {
+      "id": "woodworking-masterpieces-creative-art",
+      "label": "精美绝伦赛鲁班的木工制作品"
     }
   ],
   "batches": [
@@ -979,6 +983,12 @@
       "id": "art-of-light-and-shadow-glass-and-rays-philosophy-2026-06-06",
       "theme": "光与影的艺术：玻璃和射线的哲学",
       "createdAt": "2026-06-06",
+      "count": 15
+    },
+    {
+      "id": "beyond-luban-exquisite-woodworking-masterpieces-2026-06-08",
+      "theme": "精美绝伦赛鲁班的木工制作品",
+      "createdAt": "2026-06-08",
       "count": 15
     }
   ],
@@ -14464,6 +14474,171 @@
       "thumb": "assets/thumbs/art-of-light-and-shadow-glass-and-rays-philosophy-2026-06-06/15_night-gallery-glass-firelight.png",
       "description": "夜里最后一点暖光，让玻璃像在思考。",
       "prompt": "A night gallery interior of grand scale where warm residual firelike light glows through tall glass partitions, deep indigo shadows, faint reflections layered into darkness, exquisite material calm, a final philosophical image about light fading but not ending."
+    },
+    {
+      "id": "beyond-luban-exquisite-woodworking-masterpieces-2026-06-08_01_cloud-tenon-cabinet",
+      "batch": "beyond-luban-exquisite-woodworking-masterpieces-2026-06-08",
+      "category": "woodworking-masterpieces-creative-art",
+      "number": "01",
+      "title": "云榫秘柜",
+      "image": "assets/images/beyond-luban-exquisite-woodworking-masterpieces-2026-06-08/01_cloud-tenon-cabinet.jpg",
+      "thumb": "assets/thumbs/beyond-luban-exquisite-woodworking-masterpieces-2026-06-08/01_cloud-tenon-cabinet.png",
+      "description": "像机关艺术品一样的木柜，把榫卯和云纹做到近乎神工。",
+      "prompt": "An exquisite handcrafted hardwood cabinet with impossible-looking mortise-and-tenon cloud joints, hidden drawers, carved flowing cloud motifs, polished huanghuali-like grain, museum editorial lighting, elegant Chinese artisanal atmosphere, hyper-detailed woodworking craftsmanship, creative art object, no readable text, no logos."
+    },
+    {
+      "id": "beyond-luban-exquisite-woodworking-masterpieces-2026-06-08_02_lotus-petal-screen",
+      "batch": "beyond-luban-exquisite-woodworking-masterpieces-2026-06-08",
+      "category": "woodworking-masterpieces-creative-art",
+      "number": "02",
+      "title": "莲瓣折屏",
+      "image": "assets/images/beyond-luban-exquisite-woodworking-masterpieces-2026-06-08/02_lotus-petal-screen.jpg",
+      "thumb": "assets/thumbs/beyond-luban-exquisite-woodworking-masterpieces-2026-06-08/02_lotus-petal-screen.png",
+      "description": "木屏风像层层展开的莲瓣，细节轻盈得不像木头。",
+      "prompt": "A breathtaking wooden folding screen designed like unfolding lotus petals, ultra-fine carved lattice, layered rosewood and pale maple contrast, translucent handcrafted elegance, soft natural light, poetic showroom scene, artistic woodworking masterpiece, no readable text, no logos."
+    },
+    {
+      "id": "beyond-luban-exquisite-woodworking-masterpieces-2026-06-08_03_swallowtail-beam-chair",
+      "batch": "beyond-luban-exquisite-woodworking-masterpieces-2026-06-08",
+      "category": "woodworking-masterpieces-creative-art",
+      "number": "03",
+      "title": "燕尾梁椅",
+      "image": "assets/images/beyond-luban-exquisite-woodworking-masterpieces-2026-06-08/03_swallowtail-beam-chair.jpg",
+      "thumb": "assets/thumbs/beyond-luban-exquisite-woodworking-masterpieces-2026-06-08/03_swallowtail-beam-chair.png",
+      "description": "一把椅子把建筑梁架的结构美缩进了日常器物里。",
+      "prompt": "A spectacular artisan wooden chair inspired by ancient beam structures, dramatic dovetail and swallowtail joints fully visible, deep walnut glow, sculptural yet usable form, documentary design-photography style, refined workshop background, extraordinary woodworking details, no text, no logos."
+    },
+    {
+      "id": "beyond-luban-exquisite-woodworking-masterpieces-2026-06-08_04_mountain-ridge-bookshelf",
+      "batch": "beyond-luban-exquisite-woodworking-masterpieces-2026-06-08",
+      "category": "woodworking-masterpieces-creative-art",
+      "number": "04",
+      "title": "山脊书阁",
+      "image": "assets/images/beyond-luban-exquisite-woodworking-masterpieces-2026-06-08/04_mountain-ridge-bookshelf.jpg",
+      "thumb": "assets/thumbs/beyond-luban-exquisite-woodworking-masterpieces-2026-06-08/04_mountain-ridge-bookshelf.png",
+      "description": "书架像连绵山脊，榫接结构让它既稳又像山水装置。",
+      "prompt": "A monumental artisanal wooden bookshelf shaped like a mountain ridgeline, interlocking joinery, layered shelves resembling peaks and valleys, dark elm and warm cedar tones, gallery-like interior, visually striking craftsmanship, collectible design object, no readable text, no logos."
+    },
+    {
+      "id": "beyond-luban-exquisite-woodworking-masterpieces-2026-06-08_05_dragon-scale-tea-table",
+      "batch": "beyond-luban-exquisite-woodworking-masterpieces-2026-06-08",
+      "category": "woodworking-masterpieces-creative-art",
+      "number": "05",
+      "title": "龙鳞茶案",
+      "image": "assets/images/beyond-luban-exquisite-woodworking-masterpieces-2026-06-08/05_dragon-scale-tea-table.jpg",
+      "thumb": "assets/thumbs/beyond-luban-exquisite-woodworking-masterpieces-2026-06-08/05_dragon-scale-tea-table.png",
+      "description": "茶桌表面像细密龙鳞，木纹和雕工都带着压倒性的华美。",
+      "prompt": "An opulent handcrafted wooden tea table with dragon-scale patterned surface, dense hand-carved details, rich reddish-brown hardwood, subtle brass-free pure wood construction, incense-like mood, elegant tea room atmosphere, masterpiece-level Chinese woodworking art, no readable text, no logos."
+    },
+    {
+      "id": "beyond-luban-exquisite-woodworking-masterpieces-2026-06-08_06_moon-gate-display-stand",
+      "batch": "beyond-luban-exquisite-woodworking-masterpieces-2026-06-08",
+      "category": "woodworking-masterpieces-creative-art",
+      "number": "06",
+      "title": "月洞陈设架",
+      "image": "assets/images/beyond-luban-exquisite-woodworking-masterpieces-2026-06-08/06_moon-gate-display-stand.jpg",
+      "thumb": "assets/thumbs/beyond-luban-exquisite-woodworking-masterpieces-2026-06-08/06_moon-gate-display-stand.png",
+      "description": "月洞门意象被做成一件陈设木架，比例安静却气度很大。",
+      "prompt": "A refined wooden display stand inspired by a Chinese moon gate, circular open center, delicate interlocked supports, flawless joinery, pale ash wood with darker edge accents, serene scholar-studio setting, collectible furniture-art object, extremely detailed craftsmanship, no readable text, no logos."
+    },
+    {
+      "id": "beyond-luban-exquisite-woodworking-masterpieces-2026-06-08_07_hundred-joints-jewelry-box",
+      "batch": "beyond-luban-exquisite-woodworking-masterpieces-2026-06-08",
+      "category": "woodworking-masterpieces-creative-art",
+      "number": "07",
+      "title": "百榫首饰盒",
+      "image": "assets/images/beyond-luban-exquisite-woodworking-masterpieces-2026-06-08/07_hundred-joints-jewelry-box.jpg",
+      "thumb": "assets/thumbs/beyond-luban-exquisite-woodworking-masterpieces-2026-06-08/07_hundred-joints-jewelry-box.png",
+      "description": "一只首饰盒像榫卯技术的炫技舞台，小到边角都惊人。",
+      "prompt": "A tiny but unbelievably intricate handcrafted wooden jewelry box assembled from many visible miniature joinery techniques, sliding compartments, hidden mechanics, luxurious hardwood grain, macro design photography, precision artisan craftsmanship, creative wood art, no readable text, no logos."
+    },
+    {
+      "id": "beyond-luban-exquisite-woodworking-masterpieces-2026-06-08_08_floating-corridor-console",
+      "batch": "beyond-luban-exquisite-woodworking-masterpieces-2026-06-08",
+      "category": "woodworking-masterpieces-creative-art",
+      "number": "08",
+      "title": "浮廊长案",
+      "image": "assets/images/beyond-luban-exquisite-woodworking-masterpieces-2026-06-08/08_floating-corridor-console.jpg",
+      "thumb": "assets/thumbs/beyond-luban-exquisite-woodworking-masterpieces-2026-06-08/08_floating-corridor-console.png",
+      "description": "长案像空中回廊，被木作结构托出一种悬浮感。",
+      "prompt": "A long handcrafted wooden console table designed like a floating corridor, elongated bridge-like proportions, elegant support geometry, visible mortise-and-tenon engineering, warm matte finish, spacious architectural interior, editorial furniture photography, no text, no logos."
+    },
+    {
+      "id": "beyond-luban-exquisite-woodworking-masterpieces-2026-06-08_09_peacock-feather-lamp",
+      "batch": "beyond-luban-exquisite-woodworking-masterpieces-2026-06-08",
+      "category": "woodworking-masterpieces-creative-art",
+      "number": "09",
+      "title": "雀翎木灯",
+      "image": "assets/images/beyond-luban-exquisite-woodworking-masterpieces-2026-06-08/09_peacock-feather-lamp.jpg",
+      "thumb": "assets/thumbs/beyond-luban-exquisite-woodworking-masterpieces-2026-06-08/09_peacock-feather-lamp.png",
+      "description": "灯罩像孔雀尾羽展开，木片层层叠出精致的光。",
+      "prompt": "A dazzling handcrafted wooden lamp with layered feather-like slats resembling a peacock tail, warm light shining through carved wood fins, exquisite silhouette, intimate luxury interior, sculptural functional art, high-detail craftsmanship, no readable text, no logos."
+    },
+    {
+      "id": "beyond-luban-exquisite-woodworking-masterpieces-2026-06-08_10_spiral-stair-wine-rack",
+      "batch": "beyond-luban-exquisite-woodworking-masterpieces-2026-06-08",
+      "category": "woodworking-masterpieces-creative-art",
+      "number": "10",
+      "title": "旋梯酒架",
+      "image": "assets/images/beyond-luban-exquisite-woodworking-masterpieces-2026-06-08/10_spiral-stair-wine-rack.jpg",
+      "thumb": "assets/thumbs/beyond-luban-exquisite-woodworking-masterpieces-2026-06-08/10_spiral-stair-wine-rack.png",
+      "description": "酒架像一段被缩小的旋梯，把空间戏剧感做到极致。",
+      "prompt": "An extraordinary wooden wine rack built like a miniature spiral staircase, flowing curved rails, precise joinery, elegant shadow play, dark polished hardwood, dramatic editorial still life, luxury craftsmanship, creative artistic furniture design, no readable text, no logos."
+    },
+    {
+      "id": "beyond-luban-exquisite-woodworking-masterpieces-2026-06-08_11_fan-rib-daybed",
+      "batch": "beyond-luban-exquisite-woodworking-masterpieces-2026-06-08",
+      "category": "woodworking-masterpieces-creative-art",
+      "number": "11",
+      "title": "扇骨榻",
+      "image": "assets/images/beyond-luban-exquisite-woodworking-masterpieces-2026-06-08/11_fan-rib-daybed.jpg",
+      "thumb": "assets/thumbs/beyond-luban-exquisite-woodworking-masterpieces-2026-06-08/11_fan-rib-daybed.png",
+      "description": "卧榻背后像撑开的扇骨，线条优雅到像画出来的。",
+      "prompt": "A luxurious handcrafted daybed with a back structure inspired by the ribs of an opening hand fan, rhythmic curved wooden members, artisanal finish, calm elite interior, graceful proportions, masterpiece Chinese woodworking design, no readable text, no logos."
+    },
+    {
+      "id": "beyond-luban-exquisite-woodworking-masterpieces-2026-06-08_12_cicada-wing-writing-desk",
+      "batch": "beyond-luban-exquisite-woodworking-masterpieces-2026-06-08",
+      "category": "woodworking-masterpieces-creative-art",
+      "number": "12",
+      "title": "蝉翼书案",
+      "image": "assets/images/beyond-luban-exquisite-woodworking-masterpieces-2026-06-08/12_cicada-wing-writing-desk.jpg",
+      "thumb": "assets/thumbs/beyond-luban-exquisite-woodworking-masterpieces-2026-06-08/12_cicada-wing-writing-desk.png",
+      "description": "案面薄得像蝉翼，但结构稳得近乎不可思议。",
+      "prompt": "An astonishing ultra-thin handcrafted writing desk appearing as light as cicada wings, impossibly slender edge profile supported by hidden joinery intelligence, premium wood grain, scholarly studio atmosphere, refined minimal luxury, extraordinary woodcraft, no readable text, no logos."
+    },
+    {
+      "id": "beyond-luban-exquisite-woodworking-masterpieces-2026-06-08_13_interlocked-pagoda-shelf",
+      "batch": "beyond-luban-exquisite-woodworking-masterpieces-2026-06-08",
+      "category": "woodworking-masterpieces-creative-art",
+      "number": "13",
+      "title": "锁塔层架",
+      "image": "assets/images/beyond-luban-exquisite-woodworking-masterpieces-2026-06-08/13_interlocked-pagoda-shelf.jpg",
+      "thumb": "assets/thumbs/beyond-luban-exquisite-woodworking-masterpieces-2026-06-08/13_interlocked-pagoda-shelf.png",
+      "description": "层架如木塔层层相锁，既像建筑模型又像收藏级家具。",
+      "prompt": "A magnificent tiered wooden shelf inspired by pagoda architecture, stacked interlocking levels, rich carved details, exposed structural intelligence, warm amber lighting, museum-grade furniture photography, collectible wood art object, no readable text, no logos."
+    },
+    {
+      "id": "beyond-luban-exquisite-woodworking-masterpieces-2026-06-08_14_river-bend-bench",
+      "batch": "beyond-luban-exquisite-woodworking-masterpieces-2026-06-08",
+      "category": "woodworking-masterpieces-creative-art",
+      "number": "14",
+      "title": "河曲长凳",
+      "image": "assets/images/beyond-luban-exquisite-woodworking-masterpieces-2026-06-08/14_river-bend-bench.jpg",
+      "thumb": "assets/thumbs/beyond-luban-exquisite-woodworking-masterpieces-2026-06-08/14_river-bend-bench.png",
+      "description": "长凳像水流转弯，一整段木作节奏感极强。",
+      "prompt": "A masterfully crafted wooden bench shaped like a bending river current, flowing organic lines controlled by rigorous joinery, mixed hardwood tones, spacious gallery interior, poetic but functional, exquisite artisanal finish, no readable text, no logos."
+    },
+    {
+      "id": "beyond-luban-exquisite-woodworking-masterpieces-2026-06-08_15_thousand-grid-canopy-bed",
+      "batch": "beyond-luban-exquisite-woodworking-masterpieces-2026-06-08",
+      "category": "woodworking-masterpieces-creative-art",
+      "number": "15",
+      "title": "千格拔步床",
+      "image": "assets/images/beyond-luban-exquisite-woodworking-masterpieces-2026-06-08/15_thousand-grid-canopy-bed.jpg",
+      "thumb": "assets/thumbs/beyond-luban-exquisite-woodworking-masterpieces-2026-06-08/15_thousand-grid-canopy-bed.png",
+      "description": "床架繁复得像一个木构小宇宙，细看每格都令人惊叹。",
+      "prompt": "A stunning grand canopy bed made entirely of elaborate fine wooden lattice and mortise-and-tenon structure, thousands of tiny geometric compartments, imperial elegance, deep rosewood sheen, soft ambient room light, awe-inspiring craftsmanship, artistic furniture masterpiece, no readable text, no logos."
     }
   ]
 }
