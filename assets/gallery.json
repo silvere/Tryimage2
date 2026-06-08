@@ -1,7 +1,7 @@
 {
   "site": {
     "title": "OpenAI image2 视觉实验",
-    "subtitle": "1242 张传播向 AI 海报",
+    "subtitle": "1257 张传播向 AI 海报",
     "headline": "OpenAI image2 视觉实验",
     "intro": "每一批图片围绕一个临时主题生成，并按当次最合适的 category 归档；可以是反差创意、真实场景、产品概念、人物叙事或任何新的视觉方向。",
     "coverImage": "assets/contact_sheet_image2.jpg",
@@ -418,6 +418,10 @@
     {
       "id": "woodworking-masterpieces-creative-art",
       "label": "精美绝伦赛鲁班的木工制作品"
+    },
+    {
+      "id": "water-pen-painting-texture-art",
+      "label": "水笔纹理艺术"
     }
   ],
   "batches": [
@@ -988,6 +992,12 @@
     {
       "id": "beyond-luban-exquisite-woodworking-masterpieces-2026-06-08",
       "theme": "精美绝伦赛鲁班的木工制作品",
+      "createdAt": "2026-06-08",
+      "count": 15
+    },
+    {
+      "id": "divine-water-pen-texture-showcase-2026-06-08",
+      "theme": "封神的水笔绘画艺术图",
       "createdAt": "2026-06-08",
       "count": 15
     }
@@ -14639,6 +14649,171 @@
       "thumb": "assets/thumbs/beyond-luban-exquisite-woodworking-masterpieces-2026-06-08/15_thousand-grid-canopy-bed.png",
       "description": "床架繁复得像一个木构小宇宙，细看每格都令人惊叹。",
       "prompt": "A stunning grand canopy bed made entirely of elaborate fine wooden lattice and mortise-and-tenon structure, thousands of tiny geometric compartments, imperial elegance, deep rosewood sheen, soft ambient room light, awe-inspiring craftsmanship, artistic furniture masterpiece, no readable text, no logos."
+    },
+    {
+      "id": "divine-water-pen-texture-showcase-2026-06-08_01_玫瑰花瓣的水笔渗色微距",
+      "batch": "divine-water-pen-texture-showcase-2026-06-08",
+      "category": "water-pen-painting-texture-art",
+      "number": "01",
+      "title": "玫瑰花瓣的水笔渗色微距",
+      "image": "assets/images/divine-water-pen-texture-showcase-2026-06-08/01_玫瑰花瓣的水笔渗色微距.jpg",
+      "thumb": "assets/thumbs/divine-water-pen-texture-showcase-2026-06-08/01_玫瑰花瓣的水笔渗色微距.png",
+      "description": "以微距视角呈现层层叠叠的玫瑰花瓣，重点展示水性彩笔在棉纸上的渗化边缘、透明罩染与笔触转折。",
+      "prompt": "封神级水笔绘画艺术图，微距特写的玫瑰花瓣群，画面几乎被花瓣填满，水性马克笔与水彩笔混合上色，清晰可见纸张纤维、颜料晕染、边缘羽化、湿画法叠层、细密手绘线条、局部回锋笔触、半透明色层叠加，颜色为深玫红 珊瑚粉 酒红 奶白，高细节，艺术插画而非摄影，宏观近景构图，突出水笔纹理与手绘能量，无可读文字 无logo 无水印"
+    },
+    {
+      "id": "divine-water-pen-texture-showcase-2026-06-08_02_蝴蝶翅面的层染笔痕",
+      "batch": "divine-water-pen-texture-showcase-2026-06-08",
+      "category": "water-pen-painting-texture-art",
+      "number": "02",
+      "title": "蝴蝶翅面的层染笔痕",
+      "image": "assets/images/divine-water-pen-texture-showcase-2026-06-08/02_蝴蝶翅面的层染笔痕.jpg",
+      "thumb": "assets/thumbs/divine-water-pen-texture-showcase-2026-06-08/02_蝴蝶翅面的层染笔痕.png",
+      "description": "聚焦蝴蝶翅膀表面的鳞片感与彩色纹区，用水笔交叉排线、湿边扩散和局部留白构成闪烁质感。",
+      "prompt": "封神级水笔绘画艺术图，中近距离展示一只展开翅膀的蝴蝶，构图裁切到翅面纹样为主，水性笔 软头彩笔 水彩马克笔表现翅膀渐变与脉络，清楚看见交叉排线、叠色水痕、纸面颗粒、色料回流、墨线粗细变化、边缘晕开、手绘线条张力，蓝绿 金橙 紫黑配色，细节导向，艺术纸纹理明显，插画质感强，无文字 无logo 无水印"
+    },
+    {
+      "id": "divine-water-pen-texture-showcase-2026-06-08_03_浪尖飞沫的水痕爆发",
+      "batch": "divine-water-pen-texture-showcase-2026-06-08",
+      "category": "water-pen-painting-texture-art",
+      "number": "03",
+      "title": "浪尖飞沫的水痕爆发",
+      "image": "assets/images/divine-water-pen-texture-showcase-2026-06-08/03_浪尖飞沫的水痕爆发.jpg",
+      "thumb": "assets/thumbs/divine-water-pen-texture-showcase-2026-06-08/03_浪尖飞沫的水痕爆发.png",
+      "description": "选取海浪卷起的一瞬，强调水性笔在描绘浪尖泡沫、深浅海色与飞溅线条时产生的速度感与渗染层次。",
+      "prompt": "封神级水笔绘画艺术图，海浪浪尖与飞沫的近景细节，画面聚焦卷起的浪峰和破碎泡沫，使用水性颜料笔 水彩笔 勾线笔，呈现明显的湿边、泼洒感、透明洗染、笔尖扫出的白浪线、蓝青渐层、墨蓝阴影、纸张吸水纹理、边缘羽化与水痕回流，富有手绘冲击力，非风景摄影而是高质感艺术插画，细节特写，无文字 无logo 无水印"
+    },
+    {
+      "id": "divine-water-pen-texture-showcase-2026-06-08_04_峭壁苔痕与矿物色层",
+      "batch": "divine-water-pen-texture-showcase-2026-06-08",
+      "category": "water-pen-painting-texture-art",
+      "number": "04",
+      "title": "峭壁苔痕与矿物色层",
+      "image": "assets/images/divine-water-pen-texture-showcase-2026-06-08/04_峭壁苔痕与矿物色层.jpg",
+      "thumb": "assets/thumbs/divine-water-pen-texture-showcase-2026-06-08/04_峭壁苔痕与矿物色层.png",
+      "description": "把视线压近到岩壁表面，以水笔层叠制造石纹裂隙、苔藓湿痕与矿物色斑，突出粗糙纸面与渗化边界。",
+      "prompt": "封神级水笔绘画艺术图，近距离描绘海边峭壁局部岩层与苔藓纹理，构图集中在岩石切面和湿润裂缝，水性马克笔 水彩笔 墨线结合，明显可见干湿叠加、斑驳颗粒、墨色渗入纸纤维、矿物灰 赭石 苔绿 深蓝的层次洗染，保留手绘笔触与不规则边缘扩散，纸面肌理强烈，细节展示优先，艺术插画，无文字 无logo 无水印"
+    },
+    {
+      "id": "divine-water-pen-texture-showcase-2026-06-08_05_旋云中的透明罩染",
+      "batch": "divine-water-pen-texture-showcase-2026-06-08",
+      "category": "water-pen-painting-texture-art",
+      "number": "05",
+      "title": "旋云中的透明罩染",
+      "image": "assets/images/divine-water-pen-texture-showcase-2026-06-08/05_旋云中的透明罩染.jpg",
+      "thumb": "assets/thumbs/divine-water-pen-texture-showcase-2026-06-08/05_旋云中的透明罩染.png",
+      "description": "以翻卷云层为主体，利用大面积湿画法和局部线性笔触形成空气流动感，让云雾层层叠开的水痕成为主角。",
+      "prompt": "封神级水笔绘画艺术图，中近景旋涡云层与流动天光，画面充满云雾翻卷结构，水彩笔 水性刷头笔表现大面积透明罩染和局部细线勾勒，清楚展示纸纹、湿画法水痕、边缘回染、轻柔羽化、层层叠洗、笔刷扫痕，配色为灰蓝 淡紫 珍珠白 金灰，画面梦幻但强调手绘材料质感，非真实摄影，细节丰富，无文字 无logo 无水印"
+    },
+    {
+      "id": "divine-water-pen-texture-showcase-2026-06-08_06_白鹤羽层的墨水呼吸感",
+      "batch": "divine-water-pen-texture-showcase-2026-06-08",
+      "category": "water-pen-painting-texture-art",
+      "number": "06",
+      "title": "白鹤羽层的墨水呼吸感",
+      "image": "assets/images/divine-water-pen-texture-showcase-2026-06-08/06_白鹤羽层的墨水呼吸感.jpg",
+      "thumb": "assets/thumbs/divine-water-pen-texture-showcase-2026-06-08/06_白鹤羽层的墨水呼吸感.png",
+      "description": "聚焦白鹤颈部与翅羽局部，用水笔刻画羽丝、灰影与细长回锋，展现轻盈羽毛上若隐若现的晕染过渡。",
+      "prompt": "封神级水笔绘画艺术图，白鹤羽毛与颈部的中近景特写，重点是羽丝纹理与墨线节奏，使用灰黑水笔 白色留纸 水彩马克笔淡染，清晰可见细长排线、轻微渗墨、羽毛边缘的柔和扩散、纸张纤维、分层罩染与笔触呼吸感，冷白 灰蓝 银黑配色，安静而高级，艺术插画质感，细节导向，无文字 无logo 无水印"
+    },
+    {
+      "id": "divine-water-pen-texture-showcase-2026-06-08_07_虎纹与琥珀眼的笔锋张力",
+      "batch": "divine-water-pen-texture-showcase-2026-06-08",
+      "category": "water-pen-painting-texture-art",
+      "number": "07",
+      "title": "虎纹与琥珀眼的笔锋张力",
+      "image": "assets/images/divine-water-pen-texture-showcase-2026-06-08/07_虎纹与琥珀眼的笔锋张力.jpg",
+      "thumb": "assets/thumbs/divine-water-pen-texture-showcase-2026-06-08/07_虎纹与琥珀眼的笔锋张力.png",
+      "description": "用中近景刻画猛虎面部局部，重点是眼睛高光、毛流方向与橙黑条纹上的层层叠笔，表现强烈手绘能量。",
+      "prompt": "封神级水笔绘画艺术图，老虎面部局部特写，聚焦一只琥珀色眼睛与周围虎纹毛流，水性勾线笔 彩色水笔 水彩马克笔结合，展现短促有力的毛发笔触、橙金与黑褐叠色、局部湿润渗化、纸面颗粒、笔锋提按、细节堆叠，构图紧凑，充满冲击力但保持艺术插画感，非摄影，突出可见笔痕，无文字 无logo 无水印"
+    },
+    {
+      "id": "divine-water-pen-texture-showcase-2026-06-08_08_侧脸人物的水色呼吸",
+      "batch": "divine-water-pen-texture-showcase-2026-06-08",
+      "category": "water-pen-painting-texture-art",
+      "number": "08",
+      "title": "侧脸人物的水色呼吸",
+      "image": "assets/images/divine-water-pen-texture-showcase-2026-06-08/08_侧脸人物的水色呼吸.jpg",
+      "thumb": "assets/thumbs/divine-water-pen-texture-showcase-2026-06-08/08_侧脸人物的水色呼吸.png",
+      "description": "描绘一张安静而高级的侧脸肖像，以皮肤上的淡色层染、眼睫线条与发丝水痕来表现水笔绘画的细腻度。",
+      "prompt": "封神级水笔绘画艺术图，人物侧脸肖像中近景，重点展示面颊 鼻梁 眼睫 发丝的水笔层次，使用肤色系水彩笔 水性细线笔 透明叠染，清楚呈现纸张纹理、肤色晕染、边缘柔化、局部干笔线条、发丝飞白、色层呼吸感，配色为蜜桃肤 粉棕 冷灰 墨黑，优雅安静，强调手绘材料感和可见笔触，无文字 无logo 无水印"
+    },
+    {
+      "id": "divine-water-pen-texture-showcase-2026-06-08_09_丝绸褶皱上的流墨高光",
+      "batch": "divine-water-pen-texture-showcase-2026-06-08",
+      "category": "water-pen-painting-texture-art",
+      "number": "09",
+      "title": "丝绸褶皱上的流墨高光",
+      "image": "assets/images/divine-water-pen-texture-showcase-2026-06-08/09_丝绸褶皱上的流墨高光.jpg",
+      "thumb": "assets/thumbs/divine-water-pen-texture-showcase-2026-06-08/09_丝绸褶皱上的流墨高光.png",
+      "description": "把画面集中在丝绸布料的褶皱和反光转折上，通过水性笔的透明叠层表现柔滑材质与流动色带。",
+      "prompt": "封神级水笔绘画艺术图，丝绸布料褶皱的近景细节，画面以起伏折面和流光反射为主，水彩马克笔 软头水笔 精细勾线表现布料的透明叠染、冷暖渐变、笔触扫痕、边缘渗化、纸面肌理和局部高光留白，颜色可用青蓝 孔雀绿 深紫 银灰，构图抽象而华丽，突出水笔纹理与层层洗染，无文字 无logo 无水印"
+    },
+    {
+      "id": "divine-water-pen-texture-showcase-2026-06-08_10_飞檐纹饰的墨彩细部",
+      "batch": "divine-water-pen-texture-showcase-2026-06-08",
+      "category": "water-pen-painting-texture-art",
+      "number": "10",
+      "title": "飞檐纹饰的墨彩细部",
+      "image": "assets/images/divine-water-pen-texture-showcase-2026-06-08/10_飞檐纹饰的墨彩细部.jpg",
+      "thumb": "assets/thumbs/divine-water-pen-texture-showcase-2026-06-08/10_飞檐纹饰的墨彩细部.png",
+      "description": "聚焦古建筑飞檐与瓦当花纹，不讲完整建筑，而是强调水笔描绘纹饰时的线条起伏、色层沉淀与纸纹呼应。",
+      "prompt": "封神级水笔绘画艺术图，古风建筑飞檐和瓦当纹饰的中近景细节，局部裁切强调曲线与装饰图案，使用水性墨线笔 水彩笔 水性马克笔，明显可见勾线顿挫、赭红 青绿 靛蓝叠色、渗色边缘、纸纤维吸墨、层层薄染与局部干刷痕迹，传统元素被处理成高质感手绘艺术图，非建筑摄影，无文字 无logo 无水印"
+    },
+    {
+      "id": "divine-water-pen-texture-showcase-2026-06-08_11_锦鲤鳞片与水纹交映",
+      "batch": "divine-water-pen-texture-showcase-2026-06-08",
+      "category": "water-pen-painting-texture-art",
+      "number": "11",
+      "title": "锦鲤鳞片与水纹交映",
+      "image": "assets/images/divine-water-pen-texture-showcase-2026-06-08/11_锦鲤鳞片与水纹交映.jpg",
+      "thumb": "assets/thumbs/divine-water-pen-texture-showcase-2026-06-08/11_锦鲤鳞片与水纹交映.png",
+      "description": "让锦鲤的鳞片、鱼鳍和周围水纹形成交错节奏，用透明色层和流动笔线呈现鲜活的水中光感。",
+      "prompt": "封神级水笔绘画艺术图，锦鲤身体局部与水纹的近景特写，聚焦鳞片排列 鱼鳍透明感 涟漪线条，使用橙红 金白 墨蓝的水性笔和水彩马克笔，清晰展现鳞片逐片刻画、边缘晕染、纸面纹理、水波流线、颜料叠层和微妙墨色回流，视觉鲜亮而不写实摄影化，强调手绘质感，无文字 无logo 无水印"
+    },
+    {
+      "id": "divine-water-pen-texture-showcase-2026-06-08_12_孔雀翎眼的炫彩层笔",
+      "batch": "divine-water-pen-texture-showcase-2026-06-08",
+      "category": "water-pen-painting-texture-art",
+      "number": "12",
+      "title": "孔雀翎眼的炫彩层笔",
+      "image": "assets/images/divine-water-pen-texture-showcase-2026-06-08/12_孔雀翎眼的炫彩层笔.jpg",
+      "thumb": "assets/thumbs/divine-water-pen-texture-showcase-2026-06-08/12_孔雀翎眼的炫彩层笔.png",
+      "description": "近距离捕捉孔雀羽翎的眼状花纹，让蓝绿金的水笔叠色、细密放射线和纸上晕化形成奢华感。",
+      "prompt": "封神级水笔绘画艺术图，孔雀羽毛眼状花纹的超细节特写，画面被羽翎纹样填满，水性彩笔 水彩笔 细线墨笔表现蓝绿 金青 紫铜的层层染色，清楚看见放射状笔触、细密羽丝线、边缘羽化、纸纤维、透明洗染和颜料沉积，构图华丽精致，突出材料质感而非摄影真实，无文字 无logo 无水印"
+    },
+    {
+      "id": "divine-water-pen-texture-showcase-2026-06-08_13_荷叶水珠的墨绿呼吸",
+      "batch": "divine-water-pen-texture-showcase-2026-06-08",
+      "category": "water-pen-painting-texture-art",
+      "number": "13",
+      "title": "荷叶水珠的墨绿呼吸",
+      "image": "assets/images/divine-water-pen-texture-showcase-2026-06-08/13_荷叶水珠的墨绿呼吸.jpg",
+      "thumb": "assets/thumbs/divine-water-pen-texture-showcase-2026-06-08/13_荷叶水珠的墨绿呼吸.png",
+      "description": "以荷叶叶脉和停留其上的水珠为主角，强调墨绿层染、叶面肌理与水珠周围细腻的边缘控制。",
+      "prompt": "封神级水笔绘画艺术图，荷叶局部与数颗水珠的中近景细节，聚焦叶脉扩散和水珠映光，使用墨绿 青翠 灰青水彩笔与勾线笔，明显可见层层罩染、边缘渗开、叶面颗粒质感、纸张吸水纹理、细线叶脉描绘与透明留白，画面清润高级，艺术插画风格，突出水笔表现力，无文字 无logo 无水印"
+    },
+    {
+      "id": "divine-water-pen-texture-showcase-2026-06-08_14_赤狐毛尾的暖色飞笔",
+      "batch": "divine-water-pen-texture-showcase-2026-06-08",
+      "category": "water-pen-painting-texture-art",
+      "number": "14",
+      "title": "赤狐毛尾的暖色飞笔",
+      "image": "assets/images/divine-water-pen-texture-showcase-2026-06-08/14_赤狐毛尾的暖色飞笔.jpg",
+      "thumb": "assets/thumbs/divine-water-pen-texture-showcase-2026-06-08/14_赤狐毛尾的暖色飞笔.png",
+      "description": "捕捉赤狐尾巴与面部局部的柔软毛流，用暖橙、赤褐与奶白的快速笔触和淡淡渗色表现蓬松感。",
+      "prompt": "封神级水笔绘画艺术图，赤狐尾巴与脸部局部中近景，重点在毛流方向和色彩渐层，使用暖橙 赤褐 奶白 灰黑水性笔与水彩马克笔，清晰展示短线叠加、飞白、局部湿染、纸张纹理、毛边羽化、提按笔锋与层次丰富的手绘痕迹，氛围温暖灵动，非动物摄影，突出可见笔触，无文字 无logo 无水印"
+    },
+    {
+      "id": "divine-water-pen-texture-showcase-2026-06-08_15_山寺窗棂与雾气洗染",
+      "batch": "divine-water-pen-texture-showcase-2026-06-08",
+      "category": "water-pen-painting-texture-art",
+      "number": "15",
+      "title": "山寺窗棂与雾气洗染",
+      "image": "assets/images/divine-water-pen-texture-showcase-2026-06-08/15_山寺窗棂与雾气洗染.jpg",
+      "thumb": "assets/thumbs/divine-water-pen-texture-showcase-2026-06-08/15_山寺窗棂与雾气洗染.png",
+      "description": "以山中寺院的一角窗棂、石阶与雾气为结尾，保留建筑细节与湿润空气中的层层水痕，形成系列收束。",
+      "prompt": "封神级水笔绘画艺术图，山寺一角的窗棂 石阶 与缭绕雾气中近景，不画完整场景而强调局部结构和气氛，使用水性墨线笔 水彩笔 水性刷头笔，表现木结构纹理、石阶湿痕、雾气透明罩染、灰青 赭褐 淡墨层层叠洗、边缘回染、纸面纤维与可见手绘笔触，意境克制但细节充足，艺术插画而非摄影，无文字 无logo 无水印"
     }
   ]
 }
