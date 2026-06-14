@@ -1,0 +1,87 @@
+{
+  "theme": "BOSS设计草图",
+  "batchId": "boss-design-sketches-2026-06-14",
+  "createdAt": "2026-06-14",
+  "items": [
+    {
+      "source": "market-king-boss.jpg",
+      "category": "boss-design-sketches",
+      "categoryLabel": "BOSS设计草图",
+      "title": "菜市场之王",
+      "description": "把菜市场最终头目做成压迫感十足的设定稿。",
+      "prompt": "高细节铅笔BOSS设计草图，黑白灰概念设定页，主题是菜市场之王，一个由围裙 肉钩 砧板 塑料棚和灯管元素组成的巨大人形BOSS，正面主视图加局部武器细节，强壮轮廓，旧纸张质感，石墨排线浓重，有转角小视图和箭头说明感但没有可读文字，像游戏美术前期设定稿，无logo 无水印"
+    },
+    {
+      "source": "elevator-gatekeeper.jpg",
+      "category": "boss-design-sketches",
+      "categoryLabel": "BOSS设计草图",
+      "title": "电梯门守卫者",
+      "description": "都市日常最熟悉的小空间，被做成压抑机械BOSS。",
+      "prompt": "高细节铅笔BOSS设计草图，黑白灰概念设定页，电梯门守卫者BOSS，身体融合电梯门 缆线 楼层按钮 监控镜面与不锈钢轿厢，主视图威严站立，旁边有手部结构和门缝武器展开细节，纸面旧化，素描质感强，带设计师手稿气息但没有可读文字，无logo 无水印"
+    },
+    {
+      "source": "midnight-bbq-lord.jpg",
+      "category": "boss-design-sketches",
+      "categoryLabel": "BOSS设计草图",
+      "title": "深夜烧烤摊主",
+      "description": "夜色里油烟与炭火很适合暴君式BOSS。",
+      "prompt": "高细节铅笔BOSS设计草图，黑白灰概念设定页，深夜烧烤摊主BOSS，围裙 炭炉 签子 排烟扇和折叠桌被融入巨大角色造型，主视图像街头暴君，旁边有炭火核心和签子长枪细节草图，铅笔阴影厚重，旧纸张上有强烈手绘擦痕，无可读文字 无logo 无水印"
+    },
+    {
+      "source": "old-tv-colossus.jpg",
+      "category": "boss-design-sketches",
+      "categoryLabel": "BOSS设计草图",
+      "title": "老式电视机怪",
+      "description": "怀旧物件做成BOSS会很有你的味道。",
+      "prompt": "高细节铅笔BOSS设计草图，黑白灰概念设定页，老式电视机怪BOSS，身体由CRT电视 外露旋钮 天线 雪花屏和木纹机壳构成，头部是发光屏幕，四肢笨重像家电巨像，主视图清晰，附带背面散热孔和屏幕裂纹局部设计，纸张旧档案感强，纯素描，无可读文字 无logo 无水印"
+    },
+    {
+      "source": "spring-festival-gala-ghost.jpg",
+      "category": "boss-design-sketches",
+      "categoryLabel": "BOSS设计草图",
+      "title": "春晚大厅主持幽灵",
+      "description": "舞台幕布和老电视审美结合，做成幽灵BOSS。",
+      "prompt": "高细节铅笔BOSS设计草图，黑白灰概念设定页，春晚大厅主持幽灵BOSS，身体融合舞台幕布 麦克风 礼堂灯光和电视直播框架，姿态优雅却诡异，像旧时代大型晚会残影，正面主视图加头部面具和袖摆结构细节，铅笔层次细腻，旧纸感浓厚，无可读文字 无logo 无水印"
+    },
+    {
+      "source": "abandoned-amusement-clown.jpg",
+      "category": "boss-design-sketches",
+      "categoryLabel": "BOSS设计草图",
+      "title": "废弃游乐场小丑",
+      "description": "旧游乐园天生适合恐怖感BOSS。",
+      "prompt": "高细节铅笔BOSS设计草图，黑白灰概念设定页，废弃游乐场小丑BOSS，脸部像破损面具，身体混合旋转木马零件 气球 金属支架和褶皱戏服，正面主视图巨大诡异，旁边有手爪和背后装置细节，素描质感阴森，纸面脏旧，像经典游戏前期设定草稿，无可读文字 无logo 无水印"
+    },
+    {
+      "source": "internet-cafe-admin.jpg",
+      "category": "boss-design-sketches",
+      "categoryLabel": "BOSS设计草图",
+      "title": "旧电脑房管理员",
+      "description": "网吧记忆和机械感结合，很容易做出怀旧压迫。",
+      "prompt": "高细节铅笔BOSS设计草图，黑白灰概念设定页，旧电脑房管理员BOSS，身体融合老式显示器 主机箱 键盘线缆 机房椅和通风扇，头部像监视屏，姿态沉重而阴郁，主视图加线缆手臂和背部接口设计细节，石墨线条与擦痕丰富，旧纸张感强，无可读文字 无logo 无水印"
+    },
+    {
+      "source": "parcel-locker-behemoth.jpg",
+      "category": "boss-design-sketches",
+      "categoryLabel": "BOSS设计草图",
+      "title": "快递柜吞件巨兽",
+      "description": "现代生活里很容易共鸣的机械BOSS。",
+      "prompt": "高细节铅笔BOSS设计草图，黑白灰概念设定页，快递柜吞件巨兽BOSS，身体由快递柜格口 扫码面板 机械门和包裹传送结构构成，胸口像无底投递口，正面主视图压迫感强，旁边有手臂锁链和柜门开合细节，像现代都市怪物设定，铅笔素描严密，无可读文字 无logo 无水印"
+    },
+    {
+      "source": "county-ktv-queen.jpg",
+      "category": "boss-design-sketches",
+      "categoryLabel": "BOSS设计草图",
+      "title": "县城KTV女王",
+      "description": "土潮+舞台感，能做出很强人物BOSS魅力。",
+      "prompt": "高细节铅笔BOSS设计草图，黑白灰概念设定页，县城KTV女王BOSS，融合麦克风 亮片礼服 霓虹灯带 沙发卡座和酒瓶轮廓，角色既华丽又危险，主视图像歌厅统治者，旁边有高跟鞋武器和头饰结构细节，线条优雅锋利，旧纸质手稿风，无可读文字 无logo 无水印"
+    },
+    {
+      "source": "turnstile-threshold-god.jpg",
+      "category": "boss-design-sketches",
+      "categoryLabel": "BOSS设计草图",
+      "title": "闸机口阈限之神",
+      "description": "最后一张做成真正的都市阈限系BOSS收尾。",
+      "prompt": "高细节铅笔BOSS设计草图，黑白灰概念设定页，闸机口阈限之神BOSS，身体融合地铁闸机 失效车票 箭头灯 门禁感应区和拥挤通道结构，像掌控出入权限的都市神明，主视图巨大庄严，旁边有脚部机关和头冠细节，石墨排线厚重，纸张旧化，概念设定稿气质强，无可读文字 无logo 无水印"
+    }
+  ]
+}

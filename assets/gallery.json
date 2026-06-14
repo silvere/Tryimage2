@@ -1,7 +1,7 @@
 {
   "site": {
     "title": "OpenAI image2 视觉实验",
-    "subtitle": "1257 张传播向 AI 海报",
+    "subtitle": "1292 张传播向 AI 海报",
     "headline": "OpenAI image2 视觉实验",
     "intro": "每一批图片围绕一个临时主题生成，并按当次最合适的 category 归档；可以是反差创意、真实场景、产品概念、人物叙事或任何新的视觉方向。",
     "coverImage": "assets/contact_sheet_image2.jpg",
@@ -422,6 +422,18 @@
     {
       "id": "water-pen-painting-texture-art",
       "label": "水笔纹理艺术"
+    },
+    {
+      "id": "market-hero-league",
+      "label": "菜市场英雄联盟"
+    },
+    {
+      "id": "weird-everyday-object-anatomy",
+      "label": "怪异日用品解剖图"
+    },
+    {
+      "id": "boss-design-sketches",
+      "label": "BOSS设计草图"
     }
   ],
   "batches": [
@@ -1000,6 +1012,24 @@
       "theme": "封神的水笔绘画艺术图",
       "createdAt": "2026-06-08",
       "count": 15
+    },
+    {
+      "id": "market-hero-league-2026-06-14",
+      "theme": "菜市场英雄联盟",
+      "createdAt": "2026-06-14",
+      "count": 15
+    },
+    {
+      "id": "weird-everyday-object-anatomy-2026-06-14",
+      "theme": "怪异日用品解剖图",
+      "createdAt": "2026-06-14",
+      "count": 10
+    },
+    {
+      "id": "boss-design-sketches-2026-06-14",
+      "theme": "BOSS设计草图",
+      "createdAt": "2026-06-14",
+      "count": 10
     }
   ],
   "items": [
@@ -14814,6 +14844,391 @@
       "thumb": "assets/thumbs/divine-water-pen-texture-showcase-2026-06-08/15_山寺窗棂与雾气洗染.png",
       "description": "以山中寺院的一角窗棂、石阶与雾气为结尾，保留建筑细节与湿润空气中的层层水痕，形成系列收束。",
       "prompt": "封神级水笔绘画艺术图，山寺一角的窗棂 石阶 与缭绕雾气中近景，不画完整场景而强调局部结构和气氛，使用水性墨线笔 水彩笔 水性刷头笔，表现木结构纹理、石阶湿痕、雾气透明罩染、灰青 赭褐 淡墨层层叠洗、边缘回染、纸面纤维与可见手绘笔触，意境克制但细节充足，艺术插画而非摄影，无文字 无logo 无水印"
+    },
+    {
+      "id": "market-hero-league-2026-06-14_01_猪肉摊重装坦克",
+      "batch": "market-hero-league-2026-06-14",
+      "category": "market-hero-league",
+      "number": "01",
+      "title": "猪肉摊重装坦克",
+      "image": "assets/images/market-hero-league-2026-06-14/01_猪肉摊重装坦克.jpg",
+      "thumb": "assets/thumbs/market-hero-league-2026-06-14/01_猪肉摊重装坦克.png",
+      "description": "红案前的猪肉摊主像重装英雄一样镇场，围裙、剁骨刀和砧板都被做成高压装备。",
+      "prompt": "超高细节游戏海报风，中国菜市场里的英雄角色设计，猪肉摊主被塑造成重装坦克型BOSS，站在红色砧板和整齐挂肉前，厚重皮围裙像护甲，剁骨刀像巨型武器，冷白市场灯与红色肉案形成强烈对比，夸张力量感，构图像荒野乱斗级别的角色海报，动态烟尘和肉铺冷气，写实插画而非3D玩具，无可读文字 无logo 无水印"
+    },
+    {
+      "id": "market-hero-league-2026-06-14_02_海鲜摊冰霜法师",
+      "batch": "market-hero-league-2026-06-14",
+      "category": "market-hero-league",
+      "number": "02",
+      "title": "海鲜摊冰霜法师",
+      "image": "assets/images/market-hero-league-2026-06-14/02_海鲜摊冰霜法师.jpg",
+      "thumb": "assets/thumbs/market-hero-league-2026-06-14/02_海鲜摊冰霜法师.png",
+      "description": "满是冰块和海雾的海鲜摊前，鱼贩像能操控寒气的法师。",
+      "prompt": "超高细节游戏海报风，中国海鲜市场场景，海鲜摊老板被塑造成冰霜法师英雄，站在铺满碎冰的蓝色摊位前，手中扬起寒雾和冰晶，周围有鱼虾贝壳和不锈钢盆反光，市场顶灯冷蓝刺眼，服装是防水围裙和橡胶手套改造成法袍，强烈技能释放瞬间，荒野乱斗式高冲击角色海报，写实插画，无可读文字 无logo 无水印"
+    },
+    {
+      "id": "market-hero-league-2026-06-14_03_水果摊爆汁射手",
+      "batch": "market-hero-league-2026-06-14",
+      "category": "market-hero-league",
+      "number": "03",
+      "title": "水果摊爆汁射手",
+      "image": "assets/images/market-hero-league-2026-06-14/03_水果摊爆汁射手.jpg",
+      "thumb": "assets/thumbs/market-hero-league-2026-06-14/03_水果摊爆汁射手.png",
+      "description": "水果堆像弹药库，摊主像灵活射手一样从橙子和西瓜中爆发。",
+      "prompt": "超高细节游戏海报风，菜市场水果摊英雄角色，水果摊主被塑造成高机动射手，站在堆满橙子 西瓜 火龙果的摊位中央，水果切面像能量弹药，手持改装的水果分切刀和称重枪，果汁飞溅形成攻击轨迹，暖色灯光饱和鲜亮，荒野乱斗感的强动作姿态和对战气氛，写实插画，无可读文字 无logo 无水印"
+    },
+    {
+      "id": "market-hero-league-2026-06-14_04_豆腐摊白玉辅助",
+      "batch": "market-hero-league-2026-06-14",
+      "category": "market-hero-league",
+      "number": "04",
+      "title": "豆腐摊白玉辅助",
+      "image": "assets/images/market-hero-league-2026-06-14/04_豆腐摊白玉辅助.jpg",
+      "thumb": "assets/thumbs/market-hero-league-2026-06-14/04_豆腐摊白玉辅助.png",
+      "description": "白色豆腐块与蒸汽让摊位像治疗结界，角色偏辅助奶妈。",
+      "prompt": "超高细节游戏海报风，中国豆腐摊角色海报，豆腐摊老板娘被塑造成治疗辅助型英雄，站在整齐豆腐盘和热腾腾豆浆桶之间，柔白蒸汽像治疗领域，白围裙和竹筐被做成圣洁装备，动作温和却有强能量，画面干净高亮，豆腐和清水反射出奶白光泽，荒野乱斗式角色海报构图，写实插画，无可读文字 无logo 无水印"
+    },
+    {
+      "id": "market-hero-league-2026-06-14_05_香料摊毒伤控制",
+      "batch": "market-hero-league-2026-06-14",
+      "category": "market-hero-league",
+      "number": "05",
+      "title": "香料摊毒伤控制",
+      "image": "assets/images/market-hero-league-2026-06-14/05_香料摊毒伤控制.jpg",
+      "thumb": "assets/thumbs/market-hero-league-2026-06-14/05_香料摊毒伤控制.png",
+      "description": "香料粉末和干辣椒像毒雾技能，角色气质偏危险控制系。",
+      "prompt": "超高细节游戏海报风，香料摊位英雄角色，干辣椒 八角 花椒和姜黄粉堆满木盒，香料摊掌柜被塑造成毒伤控制型角色，扬手时彩色香料粉末像技能云雾爆开，深红 橙黄 棕金的高饱和配色强烈，脸部神情冷静危险，衣服和口罩像炼金术师装备，荒野乱斗风格强冲击海报，写实插画，无可读文字 无logo 无水印"
+    },
+    {
+      "id": "market-hero-league-2026-06-14_06_杀鱼师傅近战刺客",
+      "batch": "market-hero-league-2026-06-14",
+      "category": "market-hero-league",
+      "number": "06",
+      "title": "杀鱼师傅近战刺客",
+      "image": "assets/images/market-hero-league-2026-06-14/06_杀鱼师傅近战刺客.jpg",
+      "thumb": "assets/thumbs/market-hero-league-2026-06-14/06_杀鱼师傅近战刺客.png",
+      "description": "刀光和水花都很狠，适合做近战爆发型角色。",
+      "prompt": "超高细节游戏海报风，中国菜市场杀鱼档，杀鱼师傅被塑造成近战刺客角色，手持锋利杀鱼刀在水花与银色鱼鳞中高速转身，案台湿滑反光，飞溅的清水和鱼鳞形成刀锋轨迹，蓝灰冷光中带一点血色危险感，动作极强，像荒野乱斗角色技能海报，写实插画，无可读文字 无logo 无水印"
+    },
+    {
+      "id": "market-hero-league-2026-06-14_07_酱菜摊腌坛召唤师",
+      "batch": "market-hero-league-2026-06-14",
+      "category": "market-hero-league",
+      "number": "07",
+      "title": "酱菜摊腌坛召唤师",
+      "image": "assets/images/market-hero-league-2026-06-14/07_酱菜摊腌坛召唤师.jpg",
+      "thumb": "assets/thumbs/market-hero-league-2026-06-14/07_酱菜摊腌坛召唤师.png",
+      "description": "玻璃罐和腌菜坛天然有奇观感，适合做召唤系。",
+      "prompt": "超高细节游戏海报风，中国酱菜摊奇幻角色，摊位摆满透明玻璃罐与陶制腌坛，酱菜摊老板被塑造成召唤师型英雄，从坛口唤起酸黄瓜 海带丝 辣椒和蒜头形成旋转法阵，黄绿和酱褐色极具识别度，湿润玻璃反光密集，角色夸张而可信，荒野乱斗式角色海报，写实插画，无可读文字 无logo 无水印"
+    },
+    {
+      "id": "market-hero-league-2026-06-14_08_鸡蛋箱工兵",
+      "batch": "market-hero-league-2026-06-14",
+      "category": "market-hero-league",
+      "number": "08",
+      "title": "鸡蛋箱工兵",
+      "image": "assets/images/market-hero-league-2026-06-14/08_鸡蛋箱工兵.jpg",
+      "thumb": "assets/thumbs/market-hero-league-2026-06-14/08_鸡蛋箱工兵.png",
+      "description": "鸡蛋托盘和塑料筐像地雷阵，角色是布阵型工程师。",
+      "prompt": "超高细节游戏海报风，鸡蛋摊英雄角色，菜市场鸡蛋摊老板被塑造成布阵工程师，周围堆满蛋托 塑料筐和泡沫箱，圆润鸡蛋像精密炸弹和机关核心，角色戴旧手套和工作背心，正在快速布置防线，浅黄 米白和市场灰蓝色结合，构图夸张有幽默感，荒野乱斗式海报，写实插画，无可读文字 无logo 无水印"
+    },
+    {
+      "id": "market-hero-league-2026-06-14_09_青菜摊藤蔓游侠",
+      "batch": "market-hero-league-2026-06-14",
+      "category": "market-hero-league",
+      "number": "09",
+      "title": "青菜摊藤蔓游侠",
+      "image": "assets/images/market-hero-league-2026-06-14/09_青菜摊藤蔓游侠.jpg",
+      "thumb": "assets/thumbs/market-hero-league-2026-06-14/09_青菜摊藤蔓游侠.png",
+      "description": "蔬菜叶片和捆绳可以做成轻快灵动的游侠技能。",
+      "prompt": "超高细节游戏海报风，中国蔬菜摊角色，青菜摊年轻摊主被塑造成灵巧游侠，手中甩动长长葱叶和捆菜绳像藤蔓武器，周围堆满生菜 菠菜 油麦菜和湿润叶面，绿色层次丰富，动作敏捷轻盈，带一点街头英雄感，市场地面有水痕和塑料筐，荒野乱斗式高动态海报，写实插画，无可读文字 无logo 无水印"
+    },
+    {
+      "id": "market-hero-league-2026-06-14_10_米袋巨盾守卫",
+      "batch": "market-hero-league-2026-06-14",
+      "category": "market-hero-league",
+      "number": "10",
+      "title": "米袋巨盾守卫",
+      "image": "assets/images/market-hero-league-2026-06-14/10_米袋巨盾守卫.jpg",
+      "thumb": "assets/thumbs/market-hero-league-2026-06-14/10_米袋巨盾守卫.png",
+      "description": "成堆米袋适合做体型巨大的守卫型海报。",
+      "prompt": "超高细节游戏海报风，粮油摊角色海报，粮店老板被塑造成巨盾守卫英雄，站在一排高高叠起的大米袋和食用油桶前，粗麻袋像巨型盾墙，角色体格敦实稳重，双手提起沉重米袋作为武器，暖黄市场灯照出粉尘颗粒，像城防BOSS，荒野乱斗式角色海报，写实插画，无可读文字 无logo 无水印"
+    },
+    {
+      "id": "market-hero-league-2026-06-14_11_鲜花摊魅惑法系",
+      "batch": "market-hero-league-2026-06-14",
+      "category": "market-hero-league",
+      "number": "11",
+      "title": "鲜花摊魅惑法系",
+      "image": "assets/images/market-hero-league-2026-06-14/11_鲜花摊魅惑法系.jpg",
+      "thumb": "assets/thumbs/market-hero-league-2026-06-14/11_鲜花摊魅惑法系.png",
+      "description": "花束、喷雾和冷藏花桶能做成迷人又危险的法系角色。",
+      "prompt": "超高细节游戏海报风，菜市场鲜花摊角色设计，花店姐姐被塑造成魅惑法系英雄，身边是玫瑰 百合 向日葵和冷藏花桶，手持喷壶释放花雾与花瓣能量，色彩艳丽却带一点危险诱惑感，冰柜冷白光与花朵暖色形成反差，角色站姿像高人气手游立绘，荒野乱斗海报冲击感，写实插画，无可读文字 无logo 无水印"
+    },
+    {
+      "id": "market-hero-league-2026-06-14_12_菌菇摊孢子术士",
+      "batch": "market-hero-league-2026-06-14",
+      "category": "market-hero-league",
+      "number": "12",
+      "title": "菌菇摊孢子术士",
+      "image": "assets/images/market-hero-league-2026-06-14/12_菌菇摊孢子术士.jpg",
+      "thumb": "assets/thumbs/market-hero-league-2026-06-14/12_菌菇摊孢子术士.png",
+      "description": "蘑菇形态天然奇特，适合做神秘术士。",
+      "prompt": "超高细节游戏海报风，中国菌菇摊角色，菌菇摊老板被塑造成神秘术士，周围堆满香菇 杏鲍菇 金针菇和木耳，空气中漂浮微小孢子光点，角色手势像施法，暗棕 米白和冷灰色系很高级，摊位遮阳布下有低压阴影，构图神秘而有压迫感，荒野乱斗式角色海报，写实插画，无可读文字 无logo 无水印"
+    },
+    {
+      "id": "market-hero-league-2026-06-14_13_干货摊老谋军师",
+      "batch": "market-hero-league-2026-06-14",
+      "category": "market-hero-league",
+      "number": "13",
+      "title": "干货摊老谋军师",
+      "image": "assets/images/market-hero-league-2026-06-14/13_干货摊老谋军师.jpg",
+      "thumb": "assets/thumbs/market-hero-league-2026-06-14/13_干货摊老谋军师.png",
+      "description": "老掌柜和干货墙适合做谋略型军师角色。",
+      "prompt": "超高细节游戏海报风，中国干货铺英雄海报，老掌柜站在装满海带 干贝 腊肠 花生和杂粮的木格货架前，被塑造成老谋深算的军师型角色，手中算盘和纸包绳子被改造成战术工具，深棕和土黄色层次丰富，角色眼神锐利，像指挥全场的幕后大脑，荒野乱斗感海报，写实插画，无可读文字 无logo 无水印"
+    },
+    {
+      "id": "market-hero-league-2026-06-14_14_熟食摊火焰狂战",
+      "batch": "market-hero-league-2026-06-14",
+      "category": "market-hero-league",
+      "number": "14",
+      "title": "熟食摊火焰狂战",
+      "image": "assets/images/market-hero-league-2026-06-14/14_熟食摊火焰狂战.jpg",
+      "thumb": "assets/thumbs/market-hero-league-2026-06-14/14_熟食摊火焰狂战.png",
+      "description": "烟火、锅气和油光都很适合做暴躁型狂战。",
+      "prompt": "超高细节游戏海报风，中国熟食摊与现炒档角色，厨师摊主被塑造成火焰狂战士，巨大的铁锅和翻腾火焰在身后爆开，油亮叉烧 烤鸭 卤味和热菜形成视觉轰炸，角色提锅挥铲像重型近战技能释放，红橙火焰和金属反光强烈，荒野乱斗式狂暴角色海报，写实插画，无可读文字 无logo 无水印"
+    },
+    {
+      "id": "market-hero-league-2026-06-14_15_菜市场总决战群像",
+      "batch": "market-hero-league-2026-06-14",
+      "category": "market-hero-league",
+      "number": "15",
+      "title": "菜市场总决战群像",
+      "image": "assets/images/market-hero-league-2026-06-14/15_菜市场总决战群像.jpg",
+      "thumb": "assets/thumbs/market-hero-league-2026-06-14/15_菜市场总决战群像.png",
+      "description": "用菜市场门口做压轴群像，把几个阵营英雄一起拉出来。",
+      "prompt": "超高细节游戏海报风，中国老菜市场入口总决战群像海报，多个摊位英雄在狭窄市场通道里对峙冲锋，猪肉摊重装 海鲜冰法 杀鱼刺客 香料控制和青菜游侠同时入镜，塑料棚顶 灯管 水迹 地砖和叫卖气氛都很真实，色彩浓烈，构图像大型手游赛季主视觉，极强冲突感与叙事感，写实插画，无可读文字 无logo 无水印"
+    },
+    {
+      "id": "weird-everyday-object-anatomy-2026-06-14_01_防社交水杯剖面",
+      "batch": "weird-everyday-object-anatomy-2026-06-14",
+      "category": "weird-everyday-object-anatomy",
+      "number": "01",
+      "title": "防社交水杯剖面",
+      "image": "assets/images/weird-everyday-object-anatomy-2026-06-14/01_防社交水杯剖面.jpg",
+      "thumb": "assets/thumbs/weird-everyday-object-anatomy-2026-06-14/01_防社交水杯剖面.png",
+      "description": "像给社恐准备的隔离水杯，内部结构充满荒诞功能。",
+      "prompt": "高细节铅笔素描设定图，怪异日用品解剖图主题，一只防社交水杯的剖面爆炸图，展示隔音层 避视线遮板 紧急吸管 面部遮挡翻盖和蒸汽缓冲仓，旧纸张上的手绘工业设计草图，石墨铅笔线条 轻微擦痕 局部阴影 排线丰富，带箭头和编号感但没有可读文字，像发明档案馆里的怪诞产品草稿，黑白灰为主，无logo 无水印"
+    },
+    {
+      "id": "weird-everyday-object-anatomy-2026-06-14_02_打工人午睡头盔",
+      "batch": "weird-everyday-object-anatomy-2026-06-14",
+      "category": "weird-everyday-object-anatomy",
+      "number": "02",
+      "title": "打工人午睡头盔",
+      "image": "assets/images/weird-everyday-object-anatomy-2026-06-14/02_打工人午睡头盔.jpg",
+      "thumb": "assets/thumbs/weird-everyday-object-anatomy-2026-06-14/02_打工人午睡头盔.png",
+      "description": "看起来像办公室和地铁都能用的荒唐头盔。",
+      "prompt": "高细节铅笔素描设定图，怪异日用品解剖图，一顶打工人午睡头盔的剖面结构，展示折叠靠垫 隔光罩 降噪腔 颈托锁扣 口水回收垫和闹钟震动核心，像专利手稿与工业设计素描结合，纸张有折痕与年代感，石墨笔触细腻，爆炸图视角清晰，有细小示意箭头但无可读文字，无logo 无水印"
+    },
+    {
+      "id": "weird-everyday-object-anatomy-2026-06-14_03_半夜偷吃静音碗",
+      "batch": "weird-everyday-object-anatomy-2026-06-14",
+      "category": "weird-everyday-object-anatomy",
+      "number": "03",
+      "title": "半夜偷吃静音碗",
+      "image": "assets/images/weird-everyday-object-anatomy-2026-06-14/03_半夜偷吃静音碗.jpg",
+      "thumb": "assets/thumbs/weird-everyday-object-anatomy-2026-06-14/03_半夜偷吃静音碗.png",
+      "description": "像为深夜偷吃设计的静音设备，荒诞但合理。",
+      "prompt": "高细节铅笔素描设定图，怪异日用品解剖图，一个半夜偷吃静音碗的结构爆炸图，展示吸音内衬 缓冲勺槽 防碰撞边缘 零食滑道 气味锁和手指藏位，古怪但实用感强，黑白铅笔手绘，带老工程图纸气质，剖面精细，局部浓重阴影与橡皮擦痕明显，无可读文字 无logo 无水印"
+    },
+    {
+      "id": "weird-everyday-object-anatomy-2026-06-14_04_情绪感应台灯",
+      "batch": "weird-everyday-object-anatomy-2026-06-14",
+      "category": "weird-everyday-object-anatomy",
+      "number": "04",
+      "title": "情绪感应台灯",
+      "image": "assets/images/weird-everyday-object-anatomy-2026-06-14/04_情绪感应台灯.jpg",
+      "thumb": "assets/thumbs/weird-everyday-object-anatomy-2026-06-14/04_情绪感应台灯.png",
+      "description": "表面是台灯，里面像读心机器。",
+      "prompt": "高细节铅笔素描设定图，怪异日用品解剖图，一盏情绪感应台灯的剖面与局部放大图，展示感应球 颜色滤片 心情校准旋钮 电流记忆管和柔光扩散层，旧档案纸上的工业奇想发明图，铅笔排线密集，机械与家居混合，带细小标注线但无可读文字，黑白灰高级素描质感，无logo 无水印"
+    },
+    {
+      "id": "weird-everyday-object-anatomy-2026-06-14_05_迟到者自救闹钟",
+      "batch": "weird-everyday-object-anatomy-2026-06-14",
+      "category": "weird-everyday-object-anatomy",
+      "number": "05",
+      "title": "迟到者自救闹钟",
+      "image": "assets/images/weird-everyday-object-anatomy-2026-06-14/05_迟到者自救闹钟.jpg",
+      "thumb": "assets/thumbs/weird-everyday-object-anatomy-2026-06-14/05_迟到者自救闹钟.png",
+      "description": "把闹钟做成过度复杂的逃生装置。",
+      "prompt": "高细节铅笔素描设定图，怪异日用品解剖图，一台迟到者自救闹钟的复杂剖面图，展示多重弹簧 冷风喷口 滚轮逃逸脚 悬挂铃锤 时间锁和最终唤醒冲击器，像疯狂发明家的专利草稿，构图紧密，机械零件密集，铅笔阴影和透视精确，无可读文字 无logo 无水印"
+    },
+    {
+      "id": "weird-everyday-object-anatomy-2026-06-14_06_社恐专用门铃",
+      "batch": "weird-everyday-object-anatomy-2026-06-14",
+      "category": "weird-everyday-object-anatomy",
+      "number": "06",
+      "title": "社恐专用门铃",
+      "image": "assets/images/weird-everyday-object-anatomy-2026-06-14/06_社恐专用门铃.jpg",
+      "thumb": "assets/thumbs/weird-everyday-object-anatomy-2026-06-14/06_社恐专用门铃.png",
+      "description": "按门铃后不是欢迎而是优雅拒绝。",
+      "prompt": "高细节铅笔素描设定图，怪异日用品解剖图，一个社恐专用门铃的剖面爆炸图，展示访客识别镜片 自动推迟开门模块 静音缓冲垫 借口生成拨片和窥视小窗，外形像旧式门铃盒与奇怪机械结合，黑白铅笔草图，带手绘剖面箭头和齿轮细节，无可读文字 无logo 无水印"
+    },
+    {
+      "id": "weird-everyday-object-anatomy-2026-06-14_07_永远找不到的遥控器反制器",
+      "batch": "weird-everyday-object-anatomy-2026-06-14",
+      "category": "weird-everyday-object-anatomy",
+      "number": "07",
+      "title": "永远找不到的遥控器反制器",
+      "image": "assets/images/weird-everyday-object-anatomy-2026-06-14/07_永远找不到的遥控器反制器.jpg",
+      "thumb": "assets/thumbs/weird-everyday-object-anatomy-2026-06-14/07_永远找不到的遥控器反制器.png",
+      "description": "专门反过来治遥控器失踪的设备。",
+      "prompt": "高细节铅笔素描设定图，怪异日用品解剖图，一件用于追捕失踪遥控器的家庭装置剖面图，展示磁吸爪 微型探照镜 沙发缝探针 信号回声盘和滚轮底座，像20世纪发明手稿，荒诞又可信，素描排线与阴影极细致，旧纸感明显，无可读文字 无logo 无水印"
+    },
+    {
+      "id": "weird-everyday-object-anatomy-2026-06-14_08_排队占位折叠凳",
+      "batch": "weird-everyday-object-anatomy-2026-06-14",
+      "category": "weird-everyday-object-anatomy",
+      "number": "08",
+      "title": "排队占位折叠凳",
+      "image": "assets/images/weird-everyday-object-anatomy-2026-06-14/08_排队占位折叠凳.jpg",
+      "thumb": "assets/thumbs/weird-everyday-object-anatomy-2026-06-14/08_排队占位折叠凳.png",
+      "description": "一把小凳子被做成带心理战术的工具。",
+      "prompt": "高细节铅笔素描设定图，怪异日用品解剖图，一把排队占位折叠凳的解剖图，展示伸缩腿 伪装布面 零食暗格 倒计时哨片和防插队转轴，手绘工业设计素描风，俯视图与侧剖面结合，机械感和生活感同时存在，石墨线条克制精密，无可读文字 无logo 无水印"
+    },
+    {
+      "id": "weird-everyday-object-anatomy-2026-06-14_09_通勤表情遮罩风扇",
+      "batch": "weird-everyday-object-anatomy-2026-06-14",
+      "category": "weird-everyday-object-anatomy",
+      "number": "09",
+      "title": "通勤表情遮罩风扇",
+      "image": "assets/images/weird-everyday-object-anatomy-2026-06-14/09_通勤表情遮罩风扇.jpg",
+      "thumb": "assets/thumbs/weird-everyday-object-anatomy-2026-06-14/09_通勤表情遮罩风扇.png",
+      "description": "让疲惫表情和热气都能一起被处理。",
+      "prompt": "高细节铅笔素描设定图，怪异日用品解剖图，一件通勤表情遮罩风扇的剖面结构，展示半透明面罩 微风循环仓 妆容保护格 眼神遮挡片和电池仓，旧纸张铅笔设计稿，排线细致，局部透视放大，充满都市小发明幽默感，无可读文字 无logo 无水印"
+    },
+    {
+      "id": "weird-everyday-object-anatomy-2026-06-14_10_崩溃应急工具盒总图",
+      "batch": "weird-everyday-object-anatomy-2026-06-14",
+      "category": "weird-everyday-object-anatomy",
+      "number": "10",
+      "title": "崩溃应急工具盒总图",
+      "image": "assets/images/weird-everyday-object-anatomy-2026-06-14/10_崩溃应急工具盒总图.jpg",
+      "thumb": "assets/thumbs/weird-everyday-object-anatomy-2026-06-14/10_崩溃应急工具盒总图.png",
+      "description": "压轴做成一个综合型怪异工具盒。",
+      "prompt": "高细节铅笔素描设定图，怪异日用品解剖图，一只都市人崩溃应急工具盒的总装爆炸图，展示纸巾弹仓 安抚按钮 假装开会耳机 紧急糖盒 微型香气瓶和折叠遮羞板，像黑白专利图和旧时代机械手稿，构图完整，细节极多，带微小编号和示意箭头但没有可读文字，无logo 无水印"
+    },
+    {
+      "id": "boss-design-sketches-2026-06-14_01_菜市场之王",
+      "batch": "boss-design-sketches-2026-06-14",
+      "category": "boss-design-sketches",
+      "number": "01",
+      "title": "菜市场之王",
+      "image": "assets/images/boss-design-sketches-2026-06-14/01_菜市场之王.jpg",
+      "thumb": "assets/thumbs/boss-design-sketches-2026-06-14/01_菜市场之王.png",
+      "description": "把菜市场最终头目做成压迫感十足的设定稿。",
+      "prompt": "高细节铅笔BOSS设计草图，黑白灰概念设定页，主题是菜市场之王，一个由围裙 肉钩 砧板 塑料棚和灯管元素组成的巨大人形BOSS，正面主视图加局部武器细节，强壮轮廓，旧纸张质感，石墨排线浓重，有转角小视图和箭头说明感但没有可读文字，像游戏美术前期设定稿，无logo 无水印"
+    },
+    {
+      "id": "boss-design-sketches-2026-06-14_02_电梯门守卫者",
+      "batch": "boss-design-sketches-2026-06-14",
+      "category": "boss-design-sketches",
+      "number": "02",
+      "title": "电梯门守卫者",
+      "image": "assets/images/boss-design-sketches-2026-06-14/02_电梯门守卫者.jpg",
+      "thumb": "assets/thumbs/boss-design-sketches-2026-06-14/02_电梯门守卫者.png",
+      "description": "都市日常最熟悉的小空间，被做成压抑机械BOSS。",
+      "prompt": "高细节铅笔BOSS设计草图，黑白灰概念设定页，电梯门守卫者BOSS，身体融合电梯门 缆线 楼层按钮 监控镜面与不锈钢轿厢，主视图威严站立，旁边有手部结构和门缝武器展开细节，纸面旧化，素描质感强，带设计师手稿气息但没有可读文字，无logo 无水印"
+    },
+    {
+      "id": "boss-design-sketches-2026-06-14_03_深夜烧烤摊主",
+      "batch": "boss-design-sketches-2026-06-14",
+      "category": "boss-design-sketches",
+      "number": "03",
+      "title": "深夜烧烤摊主",
+      "image": "assets/images/boss-design-sketches-2026-06-14/03_深夜烧烤摊主.jpg",
+      "thumb": "assets/thumbs/boss-design-sketches-2026-06-14/03_深夜烧烤摊主.png",
+      "description": "夜色里油烟与炭火很适合暴君式BOSS。",
+      "prompt": "高细节铅笔BOSS设计草图，黑白灰概念设定页，深夜烧烤摊主BOSS，围裙 炭炉 签子 排烟扇和折叠桌被融入巨大角色造型，主视图像街头暴君，旁边有炭火核心和签子长枪细节草图，铅笔阴影厚重，旧纸张上有强烈手绘擦痕，无可读文字 无logo 无水印"
+    },
+    {
+      "id": "boss-design-sketches-2026-06-14_04_老式电视机怪",
+      "batch": "boss-design-sketches-2026-06-14",
+      "category": "boss-design-sketches",
+      "number": "04",
+      "title": "老式电视机怪",
+      "image": "assets/images/boss-design-sketches-2026-06-14/04_老式电视机怪.jpg",
+      "thumb": "assets/thumbs/boss-design-sketches-2026-06-14/04_老式电视机怪.png",
+      "description": "怀旧物件做成BOSS会很有你的味道。",
+      "prompt": "高细节铅笔BOSS设计草图，黑白灰概念设定页，老式电视机怪BOSS，身体由CRT电视 外露旋钮 天线 雪花屏和木纹机壳构成，头部是发光屏幕，四肢笨重像家电巨像，主视图清晰，附带背面散热孔和屏幕裂纹局部设计，纸张旧档案感强，纯素描，无可读文字 无logo 无水印"
+    },
+    {
+      "id": "boss-design-sketches-2026-06-14_05_春晚大厅主持幽灵",
+      "batch": "boss-design-sketches-2026-06-14",
+      "category": "boss-design-sketches",
+      "number": "05",
+      "title": "春晚大厅主持幽灵",
+      "image": "assets/images/boss-design-sketches-2026-06-14/05_春晚大厅主持幽灵.jpg",
+      "thumb": "assets/thumbs/boss-design-sketches-2026-06-14/05_春晚大厅主持幽灵.png",
+      "description": "舞台幕布和老电视审美结合，做成幽灵BOSS。",
+      "prompt": "高细节铅笔BOSS设计草图，黑白灰概念设定页，春晚大厅主持幽灵BOSS，身体融合舞台幕布 麦克风 礼堂灯光和电视直播框架，姿态优雅却诡异，像旧时代大型晚会残影，正面主视图加头部面具和袖摆结构细节，铅笔层次细腻，旧纸感浓厚，无可读文字 无logo 无水印"
+    },
+    {
+      "id": "boss-design-sketches-2026-06-14_06_废弃游乐场小丑",
+      "batch": "boss-design-sketches-2026-06-14",
+      "category": "boss-design-sketches",
+      "number": "06",
+      "title": "废弃游乐场小丑",
+      "image": "assets/images/boss-design-sketches-2026-06-14/06_废弃游乐场小丑.jpg",
+      "thumb": "assets/thumbs/boss-design-sketches-2026-06-14/06_废弃游乐场小丑.png",
+      "description": "旧游乐园天生适合恐怖感BOSS。",
+      "prompt": "高细节铅笔BOSS设计草图，黑白灰概念设定页，废弃游乐场小丑BOSS，脸部像破损面具，身体混合旋转木马零件 气球 金属支架和褶皱戏服，正面主视图巨大诡异，旁边有手爪和背后装置细节，素描质感阴森，纸面脏旧，像经典游戏前期设定草稿，无可读文字 无logo 无水印"
+    },
+    {
+      "id": "boss-design-sketches-2026-06-14_07_旧电脑房管理员",
+      "batch": "boss-design-sketches-2026-06-14",
+      "category": "boss-design-sketches",
+      "number": "07",
+      "title": "旧电脑房管理员",
+      "image": "assets/images/boss-design-sketches-2026-06-14/07_旧电脑房管理员.jpg",
+      "thumb": "assets/thumbs/boss-design-sketches-2026-06-14/07_旧电脑房管理员.png",
+      "description": "网吧记忆和机械感结合，很容易做出怀旧压迫。",
+      "prompt": "高细节铅笔BOSS设计草图，黑白灰概念设定页，旧电脑房管理员BOSS，身体融合老式显示器 主机箱 键盘线缆 机房椅和通风扇，头部像监视屏，姿态沉重而阴郁，主视图加线缆手臂和背部接口设计细节，石墨线条与擦痕丰富，旧纸张感强，无可读文字 无logo 无水印"
+    },
+    {
+      "id": "boss-design-sketches-2026-06-14_08_快递柜吞件巨兽",
+      "batch": "boss-design-sketches-2026-06-14",
+      "category": "boss-design-sketches",
+      "number": "08",
+      "title": "快递柜吞件巨兽",
+      "image": "assets/images/boss-design-sketches-2026-06-14/08_快递柜吞件巨兽.jpg",
+      "thumb": "assets/thumbs/boss-design-sketches-2026-06-14/08_快递柜吞件巨兽.png",
+      "description": "现代生活里很容易共鸣的机械BOSS。",
+      "prompt": "高细节铅笔BOSS设计草图，黑白灰概念设定页，快递柜吞件巨兽BOSS，身体由快递柜格口 扫码面板 机械门和包裹传送结构构成，胸口像无底投递口，正面主视图压迫感强，旁边有手臂锁链和柜门开合细节，像现代都市怪物设定，铅笔素描严密，无可读文字 无logo 无水印"
+    },
+    {
+      "id": "boss-design-sketches-2026-06-14_09_县城ktv女王",
+      "batch": "boss-design-sketches-2026-06-14",
+      "category": "boss-design-sketches",
+      "number": "09",
+      "title": "县城KTV女王",
+      "image": "assets/images/boss-design-sketches-2026-06-14/09_县城ktv女王.jpg",
+      "thumb": "assets/thumbs/boss-design-sketches-2026-06-14/09_县城ktv女王.png",
+      "description": "土潮+舞台感，能做出很强人物BOSS魅力。",
+      "prompt": "高细节铅笔BOSS设计草图，黑白灰概念设定页，县城KTV女王BOSS，融合麦克风 亮片礼服 霓虹灯带 沙发卡座和酒瓶轮廓，角色既华丽又危险，主视图像歌厅统治者，旁边有高跟鞋武器和头饰结构细节，线条优雅锋利，旧纸质手稿风，无可读文字 无logo 无水印"
+    },
+    {
+      "id": "boss-design-sketches-2026-06-14_10_闸机口阈限之神",
+      "batch": "boss-design-sketches-2026-06-14",
+      "category": "boss-design-sketches",
+      "number": "10",
+      "title": "闸机口阈限之神",
+      "image": "assets/images/boss-design-sketches-2026-06-14/10_闸机口阈限之神.jpg",
+      "thumb": "assets/thumbs/boss-design-sketches-2026-06-14/10_闸机口阈限之神.png",
+      "description": "最后一张做成真正的都市阈限系BOSS收尾。",
+      "prompt": "高细节铅笔BOSS设计草图，黑白灰概念设定页，闸机口阈限之神BOSS，身体融合地铁闸机 失效车票 箭头灯 门禁感应区和拥挤通道结构，像掌控出入权限的都市神明，主视图巨大庄严，旁边有脚部机关和头冠细节，石墨排线厚重，纸张旧化，概念设定稿气质强，无可读文字 无logo 无水印"
     }
   ]
 }

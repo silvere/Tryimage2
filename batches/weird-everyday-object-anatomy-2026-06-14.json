@@ -1,0 +1,87 @@
+{
+  "theme": "怪异日用品解剖图",
+  "batchId": "weird-everyday-object-anatomy-2026-06-14",
+  "createdAt": "2026-06-14",
+  "items": [
+    {
+      "source": "anti-social-cup.jpg",
+      "category": "weird-everyday-object-anatomy",
+      "categoryLabel": "怪异日用品解剖图",
+      "title": "防社交水杯剖面",
+      "description": "像给社恐准备的隔离水杯，内部结构充满荒诞功能。",
+      "prompt": "高细节铅笔素描设定图，怪异日用品解剖图主题，一只防社交水杯的剖面爆炸图，展示隔音层 避视线遮板 紧急吸管 面部遮挡翻盖和蒸汽缓冲仓，旧纸张上的手绘工业设计草图，石墨铅笔线条 轻微擦痕 局部阴影 排线丰富，带箭头和编号感但没有可读文字，像发明档案馆里的怪诞产品草稿，黑白灰为主，无logo 无水印"
+    },
+    {
+      "source": "nap-helmet.jpg",
+      "category": "weird-everyday-object-anatomy",
+      "categoryLabel": "怪异日用品解剖图",
+      "title": "打工人午睡头盔",
+      "description": "看起来像办公室和地铁都能用的荒唐头盔。",
+      "prompt": "高细节铅笔素描设定图，怪异日用品解剖图，一顶打工人午睡头盔的剖面结构，展示折叠靠垫 隔光罩 降噪腔 颈托锁扣 口水回收垫和闹钟震动核心，像专利手稿与工业设计素描结合，纸张有折痕与年代感，石墨笔触细腻，爆炸图视角清晰，有细小示意箭头但无可读文字，无logo 无水印"
+    },
+    {
+      "source": "silent-snack-bowl.jpg",
+      "category": "weird-everyday-object-anatomy",
+      "categoryLabel": "怪异日用品解剖图",
+      "title": "半夜偷吃静音碗",
+      "description": "像为深夜偷吃设计的静音设备，荒诞但合理。",
+      "prompt": "高细节铅笔素描设定图，怪异日用品解剖图，一个半夜偷吃静音碗的结构爆炸图，展示吸音内衬 缓冲勺槽 防碰撞边缘 零食滑道 气味锁和手指藏位，古怪但实用感强，黑白铅笔手绘，带老工程图纸气质，剖面精细，局部浓重阴影与橡皮擦痕明显，无可读文字 无logo 无水印"
+    },
+    {
+      "source": "mood-lamp.jpg",
+      "category": "weird-everyday-object-anatomy",
+      "categoryLabel": "怪异日用品解剖图",
+      "title": "情绪感应台灯",
+      "description": "表面是台灯，里面像读心机器。",
+      "prompt": "高细节铅笔素描设定图，怪异日用品解剖图，一盏情绪感应台灯的剖面与局部放大图，展示感应球 颜色滤片 心情校准旋钮 电流记忆管和柔光扩散层，旧档案纸上的工业奇想发明图，铅笔排线密集，机械与家居混合，带细小标注线但无可读文字，黑白灰高级素描质感，无logo 无水印"
+    },
+    {
+      "source": "self-rescue-alarm.jpg",
+      "category": "weird-everyday-object-anatomy",
+      "categoryLabel": "怪异日用品解剖图",
+      "title": "迟到者自救闹钟",
+      "description": "把闹钟做成过度复杂的逃生装置。",
+      "prompt": "高细节铅笔素描设定图，怪异日用品解剖图，一台迟到者自救闹钟的复杂剖面图，展示多重弹簧 冷风喷口 滚轮逃逸脚 悬挂铃锤 时间锁和最终唤醒冲击器，像疯狂发明家的专利草稿，构图紧密，机械零件密集，铅笔阴影和透视精确，无可读文字 无logo 无水印"
+    },
+    {
+      "source": "anti-chat-doorbell.jpg",
+      "category": "weird-everyday-object-anatomy",
+      "categoryLabel": "怪异日用品解剖图",
+      "title": "社恐专用门铃",
+      "description": "按门铃后不是欢迎而是优雅拒绝。",
+      "prompt": "高细节铅笔素描设定图，怪异日用品解剖图，一个社恐专用门铃的剖面爆炸图，展示访客识别镜片 自动推迟开门模块 静音缓冲垫 借口生成拨片和窥视小窗，外形像旧式门铃盒与奇怪机械结合，黑白铅笔草图，带手绘剖面箭头和齿轮细节，无可读文字 无logo 无水印"
+    },
+    {
+      "source": "lost-remote-finder.jpg",
+      "category": "weird-everyday-object-anatomy",
+      "categoryLabel": "怪异日用品解剖图",
+      "title": "永远找不到的遥控器反制器",
+      "description": "专门反过来治遥控器失踪的设备。",
+      "prompt": "高细节铅笔素描设定图，怪异日用品解剖图，一件用于追捕失踪遥控器的家庭装置剖面图，展示磁吸爪 微型探照镜 沙发缝探针 信号回声盘和滚轮底座，像20世纪发明手稿，荒诞又可信，素描排线与阴影极细致，旧纸感明显，无可读文字 无logo 无水印"
+    },
+    {
+      "source": "queue-saving-folding-stool.jpg",
+      "category": "weird-everyday-object-anatomy",
+      "categoryLabel": "怪异日用品解剖图",
+      "title": "排队占位折叠凳",
+      "description": "一把小凳子被做成带心理战术的工具。",
+      "prompt": "高细节铅笔素描设定图，怪异日用品解剖图，一把排队占位折叠凳的解剖图，展示伸缩腿 伪装布面 零食暗格 倒计时哨片和防插队转轴，手绘工业设计素描风，俯视图与侧剖面结合，机械感和生活感同时存在，石墨线条克制精密，无可读文字 无logo 无水印"
+    },
+    {
+      "source": "commute-face-shield-fan.jpg",
+      "category": "weird-everyday-object-anatomy",
+      "categoryLabel": "怪异日用品解剖图",
+      "title": "通勤表情遮罩风扇",
+      "description": "让疲惫表情和热气都能一起被处理。",
+      "prompt": "高细节铅笔素描设定图，怪异日用品解剖图，一件通勤表情遮罩风扇的剖面结构，展示半透明面罩 微风循环仓 妆容保护格 眼神遮挡片和电池仓，旧纸张铅笔设计稿，排线细致，局部透视放大，充满都市小发明幽默感，无可读文字 无logo 无水印"
+    },
+    {
+      "source": "breakdown-kit-final-sheet.jpg",
+      "category": "weird-everyday-object-anatomy",
+      "categoryLabel": "怪异日用品解剖图",
+      "title": "崩溃应急工具盒总图",
+      "description": "压轴做成一个综合型怪异工具盒。",
+      "prompt": "高细节铅笔素描设定图，怪异日用品解剖图，一只都市人崩溃应急工具盒的总装爆炸图，展示纸巾弹仓 安抚按钮 假装开会耳机 紧急糖盒 微型香气瓶和折叠遮羞板，像黑白专利图和旧时代机械手稿，构图完整，细节极多，带微小编号和示意箭头但没有可读文字，无logo 无水印"
+    }
+  ]
+}
