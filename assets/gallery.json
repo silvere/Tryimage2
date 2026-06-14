@@ -1,7 +1,7 @@
 {
   "site": {
     "title": "OpenAI image2 视觉实验",
-    "subtitle": "1292 张传播向 AI 海报",
+    "subtitle": "1302 张传播向 AI 海报",
     "headline": "OpenAI image2 视觉实验",
     "intro": "每一批图片围绕一个临时主题生成，并按当次最合适的 category 归档；可以是反差创意、真实场景、产品概念、人物叙事或任何新的视觉方向。",
     "coverImage": "assets/contact_sheet_image2.jpg",
@@ -434,6 +434,10 @@
     {
       "id": "boss-design-sketches",
       "label": "BOSS设计草图"
+    },
+    {
+      "id": "lost-inventions-sketch-manuscripts",
+      "label": "失落发明手稿"
     }
   ],
   "batches": [
@@ -1028,6 +1032,12 @@
     {
       "id": "boss-design-sketches-2026-06-14",
       "theme": "BOSS设计草图",
+      "createdAt": "2026-06-14",
+      "count": 10
+    },
+    {
+      "id": "lost-inventions-sketch-manuscripts-2026-06-14",
+      "theme": "失落发明的素描手稿",
       "createdAt": "2026-06-14",
       "count": 10
     }
@@ -15229,6 +15239,116 @@
       "thumb": "assets/thumbs/boss-design-sketches-2026-06-14/10_闸机口阈限之神.png",
       "description": "最后一张做成真正的都市阈限系BOSS收尾。",
       "prompt": "高细节铅笔BOSS设计草图，黑白灰概念设定页，闸机口阈限之神BOSS，身体融合地铁闸机 失效车票 箭头灯 门禁感应区和拥挤通道结构，像掌控出入权限的都市神明，主视图巨大庄严，旁边有脚部机关和头冠细节，石墨排线厚重，纸张旧化，概念设定稿气质强，无可读文字 无logo 无水印"
+    },
+    {
+      "id": "lost-inventions-sketch-manuscripts-2026-06-14_01_从未量产的家用飞行器",
+      "batch": "lost-inventions-sketch-manuscripts-2026-06-14",
+      "category": "lost-inventions-sketch-manuscripts",
+      "number": "01",
+      "title": "从未量产的家用飞行器",
+      "image": "assets/images/lost-inventions-sketch-manuscripts-2026-06-14/01_从未量产的家用飞行器.jpg",
+      "thumb": "assets/thumbs/lost-inventions-sketch-manuscripts-2026-06-14/01_从未量产的家用飞行器.png",
+      "description": "像旧时代发明家为普通家庭设计的飞行器，结构复杂又略带荒诞。",
+      "prompt": "高细节铅笔素描手稿风，失落发明档案，一台从未量产的家用飞行器设计草图，旧纸张上的黑白工业手稿，展示折叠旋翼 皮带传动 软垫座椅 手摇应急机构和家庭化机身比例，主视图配局部结构放大，石墨排线丰富，擦痕和年代感明显，像档案馆里遗失的发明原稿，无可读文字 无logo 无水印"
+    },
+    {
+      "id": "lost-inventions-sketch-manuscripts-2026-06-14_02_80年代电视改造机",
+      "batch": "lost-inventions-sketch-manuscripts-2026-06-14",
+      "category": "lost-inventions-sketch-manuscripts",
+      "number": "02",
+      "title": "80年代电视改造机",
+      "image": "assets/images/lost-inventions-sketch-manuscripts-2026-06-14/02_80年代电视改造机.jpg",
+      "thumb": "assets/thumbs/lost-inventions-sketch-manuscripts-2026-06-14/02_80年代电视改造机.png",
+      "description": "把老式电视、旋钮和机械臂改造成神秘家用装置。",
+      "prompt": "高细节铅笔素描手稿风，失落发明档案，一台1980年代电视改造机设计草图，CRT电视机身结合旋钮 天线 折叠侧板 微型机械臂和隐藏收纳仓，旧纸黑白工程手稿，主视图与局部爆炸图并置，石墨铅笔排线浓密，纸张旧化，像未公开专利原稿，无可读文字 无logo 无水印"
+    },
+    {
+      "id": "lost-inventions-sketch-manuscripts-2026-06-14_03_末日收音机",
+      "batch": "lost-inventions-sketch-manuscripts-2026-06-14",
+      "category": "lost-inventions-sketch-manuscripts",
+      "number": "03",
+      "title": "末日收音机",
+      "image": "assets/images/lost-inventions-sketch-manuscripts-2026-06-14/03_末日收音机.jpg",
+      "thumb": "assets/thumbs/lost-inventions-sketch-manuscripts-2026-06-14/03_末日收音机.png",
+      "description": "像在停电年代为避难所设计的重型收音设备。",
+      "prompt": "高细节铅笔素描手稿风，失落发明档案，一台末日收音机与应急通信装置设计草图，厚重外壳 外露线圈 折叠天线 手摇发电柄 真空管窗口和备用灯仓，旧档案纸上的黑白工业素描，主视图清晰，辅以旋钮和内部线路局部图，阴影厚重，年代感强，无可读文字 无logo 无水印"
+    },
+    {
+      "id": "lost-inventions-sketch-manuscripts-2026-06-14_04_地下城市通风装置",
+      "batch": "lost-inventions-sketch-manuscripts-2026-06-14",
+      "category": "lost-inventions-sketch-manuscripts",
+      "number": "04",
+      "title": "地下城市通风装置",
+      "image": "assets/images/lost-inventions-sketch-manuscripts-2026-06-14/04_地下城市通风装置.jpg",
+      "thumb": "assets/thumbs/lost-inventions-sketch-manuscripts-2026-06-14/04_地下城市通风装置.png",
+      "description": "像为想象中的地下城市设计的巨大空气循环机器。",
+      "prompt": "高细节铅笔素描手稿风，失落发明档案，一套地下城市通风装置设计草图，展示巨型风扇 管道阀门 过滤仓 维护梯和地底空间剖面，旧纸张黑白机械手稿，主剖面图加局部部件放大，石墨线条精密，工程感强，像遗失于城市规划局的秘密原稿，无可读文字 无logo 无水印"
+    },
+    {
+      "id": "lost-inventions-sketch-manuscripts-2026-06-14_05_梦里的自动售货机",
+      "batch": "lost-inventions-sketch-manuscripts-2026-06-14",
+      "category": "lost-inventions-sketch-manuscripts",
+      "number": "05",
+      "title": "梦里的自动售货机",
+      "image": "assets/images/lost-inventions-sketch-manuscripts-2026-06-14/05_梦里的自动售货机.jpg",
+      "thumb": "assets/thumbs/lost-inventions-sketch-manuscripts-2026-06-14/05_梦里的自动售货机.png",
+      "description": "现实与幻想之间的奇怪机器，像在旧商场里出现过。",
+      "prompt": "高细节铅笔素描手稿风，失落发明档案，一台梦境风格自动售货机设计草图，机身有倾斜货道 隐藏抽屉 曲面玻璃 摇杆选择器和奇怪齿轮结构，旧纸黑白手绘工程稿，主体完整，辅以按钮和出货口局部细节，石墨排线细腻，略带超现实但仍像真实发明手稿，无可读文字 无logo 无水印"
+    },
+    {
+      "id": "lost-inventions-sketch-manuscripts-2026-06-14_06_旧时代安防守望器",
+      "batch": "lost-inventions-sketch-manuscripts-2026-06-14",
+      "category": "lost-inventions-sketch-manuscripts",
+      "number": "06",
+      "title": "旧时代安防守望器",
+      "image": "assets/images/lost-inventions-sketch-manuscripts-2026-06-14/06_旧时代安防守望器.jpg",
+      "thumb": "assets/thumbs/lost-inventions-sketch-manuscripts-2026-06-14/06_旧时代安防守望器.png",
+      "description": "像给老宅设计的机械式安防装置，笨重但充满压迫感。",
+      "prompt": "高细节铅笔素描手稿风，失落发明档案，一台旧时代安防守望器设计草图，机械观察镜 旋转底座 铃铛触发臂 多层防护罩和墙面安装结构清晰可见，黑白石墨手稿，主视图与侧视图并列，旧纸张有折痕和擦写痕迹，像老宅发明家的防盗专利原稿，无可读文字 无logo 无水印"
+    },
+    {
+      "id": "lost-inventions-sketch-manuscripts-2026-06-14_07_异想天开的折叠书房家具",
+      "batch": "lost-inventions-sketch-manuscripts-2026-06-14",
+      "category": "lost-inventions-sketch-manuscripts",
+      "number": "07",
+      "title": "异想天开的折叠书房家具",
+      "image": "assets/images/lost-inventions-sketch-manuscripts-2026-06-14/07_异想天开的折叠书房家具.jpg",
+      "thumb": "assets/thumbs/lost-inventions-sketch-manuscripts-2026-06-14/07_异想天开的折叠书房家具.png",
+      "description": "书桌、梯子和收纳结构被折叠进一个离奇整体。",
+      "prompt": "高细节铅笔素描手稿风，失落发明档案，一套异想天开的折叠书房家具设计草图，书桌 梯架 抽屉 转轴 灯架和隐藏书柜被整合进一件复杂装置，旧纸黑白工业手稿，主视图配展开步骤小图，石墨排线丰富，像未量产家居发明的原始草稿，无可读文字 无logo 无水印"
+    },
+    {
+      "id": "lost-inventions-sketch-manuscripts-2026-06-14_08_暴雨水能采集机",
+      "batch": "lost-inventions-sketch-manuscripts-2026-06-14",
+      "category": "lost-inventions-sketch-manuscripts",
+      "number": "08",
+      "title": "暴雨水能采集机",
+      "image": "assets/images/lost-inventions-sketch-manuscripts-2026-06-14/08_暴雨水能采集机.jpg",
+      "thumb": "assets/thumbs/lost-inventions-sketch-manuscripts-2026-06-14/08_暴雨水能采集机.png",
+      "description": "像为多雨城市设计的古怪能源机器。",
+      "prompt": "高细节铅笔素描手稿风，失落发明档案，一台暴雨水能采集机设计草图，屋顶导水槽 旋转叶轮 储水仓 压力表和发电耦合结构细节清晰，旧纸黑白机械手稿，带少量剖面视图和连接节点放大，石墨阴影强烈，工程幻想感浓厚，无可读文字 无logo 无水印"
+    },
+    {
+      "id": "lost-inventions-sketch-manuscripts-2026-06-14_09_记忆档案投映仪",
+      "batch": "lost-inventions-sketch-manuscripts-2026-06-14",
+      "category": "lost-inventions-sketch-manuscripts",
+      "number": "09",
+      "title": "记忆档案投映仪",
+      "image": "assets/images/lost-inventions-sketch-manuscripts-2026-06-14/09_记忆档案投映仪.jpg",
+      "thumb": "assets/thumbs/lost-inventions-sketch-manuscripts-2026-06-14/09_记忆档案投映仪.png",
+      "description": "像研究所试图把人类记忆投映出来的古怪机器。",
+      "prompt": "高细节铅笔素描手稿风，失落发明档案，一台记忆档案投映仪设计草图，卷轴仓 镜片组 投映头 接线底座和椅背固定器组成复杂装置，黑白石墨工程手稿，主视图庄重，周边有局部镜头和底座结构小图，旧档案纸氛围强，像秘密研究所遗失原稿，无可读文字 无logo 无水印"
+    },
+    {
+      "id": "lost-inventions-sketch-manuscripts-2026-06-14_10_便携式天气剧场",
+      "batch": "lost-inventions-sketch-manuscripts-2026-06-14",
+      "category": "lost-inventions-sketch-manuscripts",
+      "number": "10",
+      "title": "便携式天气剧场",
+      "image": "assets/images/lost-inventions-sketch-manuscripts-2026-06-14/10_便携式天气剧场.jpg",
+      "thumb": "assets/thumbs/lost-inventions-sketch-manuscripts-2026-06-14/10_便携式天气剧场.png",
+      "description": "像能把云、雨、风都缩进箱体里的奇特装置，适合作压轴。",
+      "prompt": "高细节铅笔素描手稿风，失落发明档案，一台便携式天气剧场设计草图，手提箱式机身内含微型风室 雨幕喷孔 云雾仓 折叠幕板和控制拨杆，旧纸张黑白发明手稿，构图完整，主图与局部剖面结合，石墨排线细密，既梦幻又像真实机械发明，像遗失展览手稿压轴页，无可读文字 无logo 无水印"
     }
   ]
 }

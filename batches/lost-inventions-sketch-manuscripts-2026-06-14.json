@@ -1,0 +1,87 @@
+{
+  "theme": "失落发明的素描手稿",
+  "batchId": "lost-inventions-sketch-manuscripts-2026-06-14",
+  "createdAt": "2026-06-14",
+  "items": [
+    {
+      "source": "home-flying-device.jpg",
+      "category": "lost-inventions-sketch-manuscripts",
+      "categoryLabel": "失落发明手稿",
+      "title": "从未量产的家用飞行器",
+      "description": "像旧时代发明家为普通家庭设计的飞行器，结构复杂又略带荒诞。",
+      "prompt": "高细节铅笔素描手稿风，失落发明档案，一台从未量产的家用飞行器设计草图，旧纸张上的黑白工业手稿，展示折叠旋翼 皮带传动 软垫座椅 手摇应急机构和家庭化机身比例，主视图配局部结构放大，石墨排线丰富，擦痕和年代感明显，像档案馆里遗失的发明原稿，无可读文字 无logo 无水印"
+    },
+    {
+      "source": "tv-transform-console.jpg",
+      "category": "lost-inventions-sketch-manuscripts",
+      "categoryLabel": "失落发明手稿",
+      "title": "80年代电视改造机",
+      "description": "把老式电视、旋钮和机械臂改造成神秘家用装置。",
+      "prompt": "高细节铅笔素描手稿风，失落发明档案，一台1980年代电视改造机设计草图，CRT电视机身结合旋钮 天线 折叠侧板 微型机械臂和隐藏收纳仓，旧纸黑白工程手稿，主视图与局部爆炸图并置，石墨铅笔排线浓密，纸张旧化，像未公开专利原稿，无可读文字 无logo 无水印"
+    },
+    {
+      "source": "doomsday-radio.jpg",
+      "category": "lost-inventions-sketch-manuscripts",
+      "categoryLabel": "失落发明手稿",
+      "title": "末日收音机",
+      "description": "像在停电年代为避难所设计的重型收音设备。",
+      "prompt": "高细节铅笔素描手稿风，失落发明档案，一台末日收音机与应急通信装置设计草图，厚重外壳 外露线圈 折叠天线 手摇发电柄 真空管窗口和备用灯仓，旧档案纸上的黑白工业素描，主视图清晰，辅以旋钮和内部线路局部图，阴影厚重，年代感强，无可读文字 无logo 无水印"
+    },
+    {
+      "source": "underground-ventilator.jpg",
+      "category": "lost-inventions-sketch-manuscripts",
+      "categoryLabel": "失落发明手稿",
+      "title": "地下城市通风装置",
+      "description": "像为想象中的地下城市设计的巨大空气循环机器。",
+      "prompt": "高细节铅笔素描手稿风，失落发明档案，一套地下城市通风装置设计草图，展示巨型风扇 管道阀门 过滤仓 维护梯和地底空间剖面，旧纸张黑白机械手稿，主剖面图加局部部件放大，石墨线条精密，工程感强，像遗失于城市规划局的秘密原稿，无可读文字 无logo 无水印"
+    },
+    {
+      "source": "dream-vending-machine.jpg",
+      "category": "lost-inventions-sketch-manuscripts",
+      "categoryLabel": "失落发明手稿",
+      "title": "梦里的自动售货机",
+      "description": "现实与幻想之间的奇怪机器，像在旧商场里出现过。",
+      "prompt": "高细节铅笔素描手稿风，失落发明档案，一台梦境风格自动售货机设计草图，机身有倾斜货道 隐藏抽屉 曲面玻璃 摇杆选择器和奇怪齿轮结构，旧纸黑白手绘工程稿，主体完整，辅以按钮和出货口局部细节，石墨排线细腻，略带超现实但仍像真实发明手稿，无可读文字 无logo 无水印"
+    },
+    {
+      "source": "home-security-watcher.jpg",
+      "category": "lost-inventions-sketch-manuscripts",
+      "categoryLabel": "失落发明手稿",
+      "title": "旧时代安防守望器",
+      "description": "像给老宅设计的机械式安防装置，笨重但充满压迫感。",
+      "prompt": "高细节铅笔素描手稿风，失落发明档案，一台旧时代安防守望器设计草图，机械观察镜 旋转底座 铃铛触发臂 多层防护罩和墙面安装结构清晰可见，黑白石墨手稿，主视图与侧视图并列，旧纸张有折痕和擦写痕迹，像老宅发明家的防盗专利原稿，无可读文字 无logo 无水印"
+    },
+    {
+      "source": "folding-library-furniture.jpg",
+      "category": "lost-inventions-sketch-manuscripts",
+      "categoryLabel": "失落发明手稿",
+      "title": "异想天开的折叠书房家具",
+      "description": "书桌、梯子和收纳结构被折叠进一个离奇整体。",
+      "prompt": "高细节铅笔素描手稿风，失落发明档案，一套异想天开的折叠书房家具设计草图，书桌 梯架 抽屉 转轴 灯架和隐藏书柜被整合进一件复杂装置，旧纸黑白工业手稿，主视图配展开步骤小图，石墨排线丰富，像未量产家居发明的原始草稿，无可读文字 无logo 无水印"
+    },
+    {
+      "source": "storm-water-harvester.jpg",
+      "category": "lost-inventions-sketch-manuscripts",
+      "categoryLabel": "失落发明手稿",
+      "title": "暴雨水能采集机",
+      "description": "像为多雨城市设计的古怪能源机器。",
+      "prompt": "高细节铅笔素描手稿风，失落发明档案，一台暴雨水能采集机设计草图，屋顶导水槽 旋转叶轮 储水仓 压力表和发电耦合结构细节清晰，旧纸黑白机械手稿，带少量剖面视图和连接节点放大，石墨阴影强烈，工程幻想感浓厚，无可读文字 无logo 无水印"
+    },
+    {
+      "source": "memory-archive-projector.jpg",
+      "category": "lost-inventions-sketch-manuscripts",
+      "categoryLabel": "失落发明手稿",
+      "title": "记忆档案投映仪",
+      "description": "像研究所试图把人类记忆投映出来的古怪机器。",
+      "prompt": "高细节铅笔素描手稿风，失落发明档案，一台记忆档案投映仪设计草图，卷轴仓 镜片组 投映头 接线底座和椅背固定器组成复杂装置，黑白石墨工程手稿，主视图庄重，周边有局部镜头和底座结构小图，旧档案纸氛围强，像秘密研究所遗失原稿，无可读文字 无logo 无水印"
+    },
+    {
+      "source": "portable-weather-theater.jpg",
+      "category": "lost-inventions-sketch-manuscripts",
+      "categoryLabel": "失落发明手稿",
+      "title": "便携式天气剧场",
+      "description": "像能把云、雨、风都缩进箱体里的奇特装置，适合作压轴。",
+      "prompt": "高细节铅笔素描手稿风，失落发明档案，一台便携式天气剧场设计草图，手提箱式机身内含微型风室 雨幕喷孔 云雾仓 折叠幕板和控制拨杆，旧纸张黑白发明手稿，构图完整，主图与局部剖面结合，石墨排线细密，既梦幻又像真实机械发明，像遗失展览手稿压轴页，无可读文字 无logo 无水印"
+    }
+  ]
+}
