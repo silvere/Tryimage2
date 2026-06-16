@@ -1,0 +1,87 @@
+{
+  "theme": "雾中街头时装大片",
+  "batchId": "fashion-foggy-street-puffy-editorial-2026-06-16",
+  "createdAt": "2026-06-16",
+  "items": [
+    {
+      "source": "pink-vinyl-mascot-suit.jpg",
+      "category": "fashion-foggy-street-puffy-editorial",
+      "categoryLabel": "雾中街头时装大片",
+      "title": "雾街粉色充气主角",
+      "description": "把经典充气轮廓和雾夜街道结合成一张真正能做封面的时装大片。",
+      "prompt": "fashion photography, full-body front central view, androgynous model wearing an oversized translucent pink fluffy vinyl inflatable suit inspired by vintage mascot volume, standing alone in a deep foggy empty street, wet asphalt reflections, cinematic sodium streetlights, hyper-realistic material texture, 35mm film look, Chinese city at night, strong editorial composition, no readable text, no logos, no watermark"
+    },
+    {
+      "source": "white-quilted-runway-guardian.jpg",
+      "category": "fashion-foggy-street-puffy-editorial",
+      "categoryLabel": "雾中街头时装大片",
+      "title": "白色绗缝守夜人",
+      "description": "把冬夜街头做成高级成衣秀场的静止一帧。",
+      "prompt": "high-fashion editorial photo, full-body figure in a sculptural white quilted inflated coat with oversized padded sleeves and cocoon silhouette, standing in a deserted fog-filled street alley, blue-grey night haze, subtle backlight through mist, realistic fabric detail, cinematic fashion campaign, shot on 35mm film, no readable text, no logos, no watermark"
+    },
+    {
+      "source": "silver-puffer-crosswalk.jpg",
+      "category": "fashion-foggy-street-puffy-editorial",
+      "categoryLabel": "雾中街头时装大片",
+      "title": "银色横道充气行者",
+      "description": "让日常斑马线有未来旧梦一样的高级感。",
+      "prompt": "editorial fashion photography, full-body model crossing an empty wet crosswalk in a reflective silver puffer and inflated vinyl trousers, heavy urban fog, lonely street lamps, cinematic reflections, realistic street documentary meets luxury fashion, front-dominant composition, detailed materials, no readable text, no logos, no watermark"
+    },
+    {
+      "source": "peach-fur-bus-stop.jpg",
+      "category": "fashion-foggy-street-puffy-editorial",
+      "categoryLabel": "雾中街头时装大片",
+      "title": "桃雾候车亭造型",
+      "description": "候车亭这种普通空间最适合出反差大片。",
+      "prompt": "cinematic fashion editorial, full-body model at an abandoned bus stop, wearing a peach translucent faux-fur and inflatable hybrid couture look, padded rounded shoulders, fog swallowing the background, empty street, moody practical lighting, realistic skin and garment texture, 35mm film still quality, no readable text, no logos, no watermark"
+    },
+    {
+      "source": "black-latex-cloud-coat.jpg",
+      "category": "fashion-foggy-street-puffy-editorial",
+      "categoryLabel": "雾中街头时装大片",
+      "title": "黑色云团长外套",
+      "description": "把压迫感和奢侈感放到同一条雾街里。",
+      "prompt": "luxury fashion editorial photo, full-body front-facing figure in a black latex cloud-like inflated coat, oversized volume, standing in a broad foggy avenue with dim storefront light bleeding through mist, cinematic dark palette, hyper-real textures, serious runway attitude, photographed like a magazine cover, no readable text, no logos, no watermark"
+    },
+    {
+      "source": "mint-inflated-parka-under-neon.jpg",
+      "category": "fashion-foggy-street-puffy-editorial",
+      "categoryLabel": "雾中街头时装大片",
+      "title": "霓虹下的薄荷膨胀派克",
+      "description": "霓虹和薄荷色会让整组更有小红书封面感。",
+      "prompt": "fashion campaign photography, full-body model under weak neon glow, wearing a mint green inflated parka with glossy translucent layered volume, empty foggy side street, wet pavement, cinematic night air, realistic editorial styling, subtle northern-city chill, 35mm film texture, no readable text, no logos, no watermark"
+    },
+    {
+      "source": "red-balloon-couture-corner.jpg",
+      "category": "fashion-foggy-street-puffy-editorial",
+      "categoryLabel": "雾中街头时装大片",
+      "title": "红气球廓形街角大片",
+      "description": "给这组补一张更张扬也更适合抓眼球的红色主图。",
+      "prompt": "bold editorial fashion photo, full-body figure in a dramatic red balloon-like couture silhouette with vinyl gloss and plush texture, isolated at a foggy street corner, cinematic urban emptiness, street mist lit from behind, magazine-cover framing, realistic high-fashion details, no readable text, no logos, no watermark"
+    },
+    {
+      "source": "lavender-soft-armor-underpass.jpg",
+      "category": "fashion-foggy-street-puffy-editorial",
+      "categoryLabel": "雾中街头时装大片",
+      "title": "高架桥下的薰衣草软甲",
+      "description": "桥下空间会把服装体积感撑得更强。",
+      "prompt": "high-end fashion editorial, full-body model beneath a city overpass in a lavender padded soft-armor outfit with inflated ribs and plush panels, deep fog, cold concrete, reflected street light, documentary realism mixed with couture, sharp material detail, no readable text, no logos, no watermark"
+    },
+    {
+      "source": "amber-inflatable-cape-lane.jpg",
+      "category": "fashion-foggy-street-puffy-editorial",
+      "categoryLabel": "雾中街头时装大片",
+      "title": "琥珀色充气斗篷小路",
+      "description": "做一张更安静更像电影静帧的版本。",
+      "prompt": "cinematic fashion still, full-body figure in an amber translucent inflatable cape and soft sculptural layers, standing in a narrow empty lane filled with fog, dim tungsten glow, realistic damp walls and asphalt, emotionally distant luxury editorial mood, 35mm analog texture, no readable text, no logos, no watermark"
+    },
+    {
+      "source": "ice-blue-puffer-cathedral-street.jpg",
+      "category": "fashion-foggy-street-puffy-editorial",
+      "categoryLabel": "雾中街头时装大片",
+      "title": "冰蓝羽绒圣堂街景",
+      "description": "最后一张拉到更庄严一点，像时装大片收尾。",
+      "prompt": "prestige fashion editorial photography, full-body model in an ice-blue monumental puffer gown with inflated cathedral-like volume, centered in a fog-covered boulevard, distant lamps fading into haze, wet reflective ground, hyper-real texture, solemn cinematic composition, luxury magazine finale image, no readable text, no logos, no watermark"
+    }
+  ]
+}

@@ -1,7 +1,7 @@
 {
   "site": {
     "title": "OpenAI image2 视觉实验",
-    "subtitle": "1302 张传播向 AI 海报",
+    "subtitle": "1322 张传播向 AI 海报",
     "headline": "OpenAI image2 视觉实验",
     "intro": "每一批图片围绕一个临时主题生成，并按当次最合适的 category 归档；可以是反差创意、真实场景、产品概念、人物叙事或任何新的视觉方向。",
     "coverImage": "assets/contact_sheet_image2.jpg",
@@ -438,6 +438,14 @@
     {
       "id": "lost-inventions-sketch-manuscripts",
       "label": "失落发明手稿"
+    },
+    {
+      "id": "fashion-foggy-street-puffy-editorial",
+      "label": "雾中街头时装大片"
+    },
+    {
+      "id": "northern-colossus-cinematic-red-gray",
+      "label": "北方巨像电影感凝视"
     }
   ],
   "batches": [
@@ -1039,6 +1047,18 @@
       "id": "lost-inventions-sketch-manuscripts-2026-06-14",
       "theme": "失落发明的素描手稿",
       "createdAt": "2026-06-14",
+      "count": 10
+    },
+    {
+      "id": "fashion-foggy-street-puffy-editorial-2026-06-16",
+      "theme": "雾中街头时装大片",
+      "createdAt": "2026-06-16",
+      "count": 10
+    },
+    {
+      "id": "northern-colossus-cinematic-red-gray-2026-06-16",
+      "theme": "北方巨像电影感凝视",
+      "createdAt": "2026-06-16",
       "count": 10
     }
   ],
@@ -15349,6 +15369,226 @@
       "thumb": "assets/thumbs/lost-inventions-sketch-manuscripts-2026-06-14/10_便携式天气剧场.png",
       "description": "像能把云、雨、风都缩进箱体里的奇特装置，适合作压轴。",
       "prompt": "高细节铅笔素描手稿风，失落发明档案，一台便携式天气剧场设计草图，手提箱式机身内含微型风室 雨幕喷孔 云雾仓 折叠幕板和控制拨杆，旧纸张黑白发明手稿，构图完整，主图与局部剖面结合，石墨排线细密，既梦幻又像真实机械发明，像遗失展览手稿压轴页，无可读文字 无logo 无水印"
+    },
+    {
+      "id": "fashion-foggy-street-puffy-editorial-2026-06-16_01_雾街粉色充气主角",
+      "batch": "fashion-foggy-street-puffy-editorial-2026-06-16",
+      "category": "fashion-foggy-street-puffy-editorial",
+      "number": "01",
+      "title": "雾街粉色充气主角",
+      "image": "assets/images/fashion-foggy-street-puffy-editorial-2026-06-16/01_雾街粉色充气主角.jpg",
+      "thumb": "assets/thumbs/fashion-foggy-street-puffy-editorial-2026-06-16/01_雾街粉色充气主角.png",
+      "description": "把经典充气轮廓和雾夜街道结合成一张真正能做封面的时装大片。",
+      "prompt": "fashion photography, full-body front central view, androgynous model wearing an oversized translucent pink fluffy vinyl inflatable suit inspired by vintage mascot volume, standing alone in a deep foggy empty street, wet asphalt reflections, cinematic sodium streetlights, hyper-realistic material texture, 35mm film look, Chinese city at night, strong editorial composition, no readable text, no logos, no watermark"
+    },
+    {
+      "id": "fashion-foggy-street-puffy-editorial-2026-06-16_02_白色绗缝守夜人",
+      "batch": "fashion-foggy-street-puffy-editorial-2026-06-16",
+      "category": "fashion-foggy-street-puffy-editorial",
+      "number": "02",
+      "title": "白色绗缝守夜人",
+      "image": "assets/images/fashion-foggy-street-puffy-editorial-2026-06-16/02_白色绗缝守夜人.jpg",
+      "thumb": "assets/thumbs/fashion-foggy-street-puffy-editorial-2026-06-16/02_白色绗缝守夜人.png",
+      "description": "把冬夜街头做成高级成衣秀场的静止一帧。",
+      "prompt": "high-fashion editorial photo, full-body figure in a sculptural white quilted inflated coat with oversized padded sleeves and cocoon silhouette, standing in a deserted fog-filled street alley, blue-grey night haze, subtle backlight through mist, realistic fabric detail, cinematic fashion campaign, shot on 35mm film, no readable text, no logos, no watermark"
+    },
+    {
+      "id": "fashion-foggy-street-puffy-editorial-2026-06-16_03_银色横道充气行者",
+      "batch": "fashion-foggy-street-puffy-editorial-2026-06-16",
+      "category": "fashion-foggy-street-puffy-editorial",
+      "number": "03",
+      "title": "银色横道充气行者",
+      "image": "assets/images/fashion-foggy-street-puffy-editorial-2026-06-16/03_银色横道充气行者.jpg",
+      "thumb": "assets/thumbs/fashion-foggy-street-puffy-editorial-2026-06-16/03_银色横道充气行者.png",
+      "description": "让日常斑马线有未来旧梦一样的高级感。",
+      "prompt": "editorial fashion photography, full-body model crossing an empty wet crosswalk in a reflective silver puffer and inflated vinyl trousers, heavy urban fog, lonely street lamps, cinematic reflections, realistic street documentary meets luxury fashion, front-dominant composition, detailed materials, no readable text, no logos, no watermark"
+    },
+    {
+      "id": "fashion-foggy-street-puffy-editorial-2026-06-16_04_桃雾候车亭造型",
+      "batch": "fashion-foggy-street-puffy-editorial-2026-06-16",
+      "category": "fashion-foggy-street-puffy-editorial",
+      "number": "04",
+      "title": "桃雾候车亭造型",
+      "image": "assets/images/fashion-foggy-street-puffy-editorial-2026-06-16/04_桃雾候车亭造型.jpg",
+      "thumb": "assets/thumbs/fashion-foggy-street-puffy-editorial-2026-06-16/04_桃雾候车亭造型.png",
+      "description": "候车亭这种普通空间最适合出反差大片。",
+      "prompt": "cinematic fashion editorial, full-body model at an abandoned bus stop, wearing a peach translucent faux-fur and inflatable hybrid couture look, padded rounded shoulders, fog swallowing the background, empty street, moody practical lighting, realistic skin and garment texture, 35mm film still quality, no readable text, no logos, no watermark"
+    },
+    {
+      "id": "fashion-foggy-street-puffy-editorial-2026-06-16_05_黑色云团长外套",
+      "batch": "fashion-foggy-street-puffy-editorial-2026-06-16",
+      "category": "fashion-foggy-street-puffy-editorial",
+      "number": "05",
+      "title": "黑色云团长外套",
+      "image": "assets/images/fashion-foggy-street-puffy-editorial-2026-06-16/05_黑色云团长外套.jpg",
+      "thumb": "assets/thumbs/fashion-foggy-street-puffy-editorial-2026-06-16/05_黑色云团长外套.png",
+      "description": "把压迫感和奢侈感放到同一条雾街里。",
+      "prompt": "luxury fashion editorial photo, full-body front-facing figure in a black latex cloud-like inflated coat, oversized volume, standing in a broad foggy avenue with dim storefront light bleeding through mist, cinematic dark palette, hyper-real textures, serious runway attitude, photographed like a magazine cover, no readable text, no logos, no watermark"
+    },
+    {
+      "id": "fashion-foggy-street-puffy-editorial-2026-06-16_06_霓虹下的薄荷膨胀派克",
+      "batch": "fashion-foggy-street-puffy-editorial-2026-06-16",
+      "category": "fashion-foggy-street-puffy-editorial",
+      "number": "06",
+      "title": "霓虹下的薄荷膨胀派克",
+      "image": "assets/images/fashion-foggy-street-puffy-editorial-2026-06-16/06_霓虹下的薄荷膨胀派克.jpg",
+      "thumb": "assets/thumbs/fashion-foggy-street-puffy-editorial-2026-06-16/06_霓虹下的薄荷膨胀派克.png",
+      "description": "霓虹和薄荷色会让整组更有小红书封面感。",
+      "prompt": "fashion campaign photography, full-body model under weak neon glow, wearing a mint green inflated parka with glossy translucent layered volume, empty foggy side street, wet pavement, cinematic night air, realistic editorial styling, subtle northern-city chill, 35mm film texture, no readable text, no logos, no watermark"
+    },
+    {
+      "id": "fashion-foggy-street-puffy-editorial-2026-06-16_07_红气球廓形街角大片",
+      "batch": "fashion-foggy-street-puffy-editorial-2026-06-16",
+      "category": "fashion-foggy-street-puffy-editorial",
+      "number": "07",
+      "title": "红气球廓形街角大片",
+      "image": "assets/images/fashion-foggy-street-puffy-editorial-2026-06-16/07_红气球廓形街角大片.jpg",
+      "thumb": "assets/thumbs/fashion-foggy-street-puffy-editorial-2026-06-16/07_红气球廓形街角大片.png",
+      "description": "给这组补一张更张扬也更适合抓眼球的红色主图。",
+      "prompt": "bold editorial fashion photo, full-body figure in a dramatic red balloon-like couture silhouette with vinyl gloss and plush texture, isolated at a foggy street corner, cinematic urban emptiness, street mist lit from behind, magazine-cover framing, realistic high-fashion details, no readable text, no logos, no watermark"
+    },
+    {
+      "id": "fashion-foggy-street-puffy-editorial-2026-06-16_08_高架桥下的薰衣草软甲",
+      "batch": "fashion-foggy-street-puffy-editorial-2026-06-16",
+      "category": "fashion-foggy-street-puffy-editorial",
+      "number": "08",
+      "title": "高架桥下的薰衣草软甲",
+      "image": "assets/images/fashion-foggy-street-puffy-editorial-2026-06-16/08_高架桥下的薰衣草软甲.jpg",
+      "thumb": "assets/thumbs/fashion-foggy-street-puffy-editorial-2026-06-16/08_高架桥下的薰衣草软甲.png",
+      "description": "桥下空间会把服装体积感撑得更强。",
+      "prompt": "high-end fashion editorial, full-body model beneath a city overpass in a lavender padded soft-armor outfit with inflated ribs and plush panels, deep fog, cold concrete, reflected street light, documentary realism mixed with couture, sharp material detail, no readable text, no logos, no watermark"
+    },
+    {
+      "id": "fashion-foggy-street-puffy-editorial-2026-06-16_09_琥珀色充气斗篷小路",
+      "batch": "fashion-foggy-street-puffy-editorial-2026-06-16",
+      "category": "fashion-foggy-street-puffy-editorial",
+      "number": "09",
+      "title": "琥珀色充气斗篷小路",
+      "image": "assets/images/fashion-foggy-street-puffy-editorial-2026-06-16/09_琥珀色充气斗篷小路.jpg",
+      "thumb": "assets/thumbs/fashion-foggy-street-puffy-editorial-2026-06-16/09_琥珀色充气斗篷小路.png",
+      "description": "做一张更安静更像电影静帧的版本。",
+      "prompt": "cinematic fashion still, full-body figure in an amber translucent inflatable cape and soft sculptural layers, standing in a narrow empty lane filled with fog, dim tungsten glow, realistic damp walls and asphalt, emotionally distant luxury editorial mood, 35mm analog texture, no readable text, no logos, no watermark"
+    },
+    {
+      "id": "fashion-foggy-street-puffy-editorial-2026-06-16_10_冰蓝羽绒圣堂街景",
+      "batch": "fashion-foggy-street-puffy-editorial-2026-06-16",
+      "category": "fashion-foggy-street-puffy-editorial",
+      "number": "10",
+      "title": "冰蓝羽绒圣堂街景",
+      "image": "assets/images/fashion-foggy-street-puffy-editorial-2026-06-16/10_冰蓝羽绒圣堂街景.jpg",
+      "thumb": "assets/thumbs/fashion-foggy-street-puffy-editorial-2026-06-16/10_冰蓝羽绒圣堂街景.png",
+      "description": "最后一张拉到更庄严一点，像时装大片收尾。",
+      "prompt": "prestige fashion editorial photography, full-body model in an ice-blue monumental puffer gown with inflated cathedral-like volume, centered in a fog-covered boulevard, distant lamps fading into haze, wet reflective ground, hyper-real texture, solemn cinematic composition, luxury magazine finale image, no readable text, no logos, no watermark"
+    },
+    {
+      "id": "northern-colossus-cinematic-red-gray-2026-06-16_01_红崖前的凝视者",
+      "batch": "northern-colossus-cinematic-red-gray-2026-06-16",
+      "category": "northern-colossus-cinematic-red-gray",
+      "number": "01",
+      "title": "红崖前的凝视者",
+      "image": "assets/images/northern-colossus-cinematic-red-gray-2026-06-16/01_红崖前的凝视者.jpg",
+      "thumb": "assets/thumbs/northern-colossus-cinematic-red-gray-2026-06-16/01_红崖前的凝视者.png",
+      "description": "先把“人物面对巨像”的母题做成最稳的一张主海报。",
+      "prompt": "cinematic still, lone woman seen from behind looking up at a colossal stone figure carved into a red cliff, northern China terrain, cold wind, red and gray palette, monumental scale, movie-like framing, realistic weathered rock, emotional stillness, no readable text, no logos, no watermark"
+    },
+    {
+      "id": "northern-colossus-cinematic-red-gray-2026-06-16_02_洪原巨像前的少年",
+      "batch": "northern-colossus-cinematic-red-gray-2026-06-16",
+      "category": "northern-colossus-cinematic-red-gray",
+      "number": "02",
+      "title": "洪原巨像前的少年",
+      "image": "assets/images/northern-colossus-cinematic-red-gray-2026-06-16/02_洪原巨像前的少年.jpg",
+      "thumb": "assets/thumbs/northern-colossus-cinematic-red-gray-2026-06-16/02_洪原巨像前的少年.png",
+      "description": "让空旷平原和人物渺小感把情绪压出来。",
+      "prompt": "epic cinematic image, small human figure standing in a vast floodplain facing a gigantic weathered statue, northern Chinese landscape, muted red soil and gray sky, monumental environment plus intimate human emotion, realistic film still lighting, no readable text, no logos, no watermark"
+    },
+    {
+      "id": "northern-colossus-cinematic-red-gray-2026-06-16_03_风沙里的母子与石神",
+      "batch": "northern-colossus-cinematic-red-gray-2026-06-16",
+      "category": "northern-colossus-cinematic-red-gray",
+      "number": "03",
+      "title": "风沙里的母子与石神",
+      "image": "assets/images/northern-colossus-cinematic-red-gray-2026-06-16/03_风沙里的母子与石神.jpg",
+      "thumb": "assets/thumbs/northern-colossus-cinematic-red-gray-2026-06-16/03_风沙里的母子与石神.png",
+      "description": "北方风沙和亲子凝视会更有命运感。",
+      "prompt": "cinematic red-gray movie still, mother and child pausing in a dusty northern landscape to stare at an enormous ancient colossus half-buried in earth, realistic windblown clothing, restrained color palette, emotional distance, monumental realism, no readable text, no logos, no watermark"
+    },
+    {
+      "id": "northern-colossus-cinematic-red-gray-2026-06-16_04_赤原跪像与路人",
+      "batch": "northern-colossus-cinematic-red-gray-2026-06-16",
+      "category": "northern-colossus-cinematic-red-gray",
+      "number": "04",
+      "title": "赤原跪像与路人",
+      "image": "assets/images/northern-colossus-cinematic-red-gray-2026-06-16/04_赤原跪像与路人.jpg",
+      "thumb": "assets/thumbs/northern-colossus-cinematic-red-gray-2026-06-16/04_赤原跪像与路人.png",
+      "description": "跪姿巨像比站姿更有故事感。",
+      "prompt": "movie still, solitary traveler facing a kneeling gigantic stone colossus on a barren northern plain, red earth, gray haze, austere atmosphere, strong sense of scale and silence, realistic cinematic composition, no readable text, no logos, no watermark"
+    },
+    {
+      "id": "northern-colossus-cinematic-red-gray-2026-06-16_05_县道尽头的晚霞巨像",
+      "batch": "northern-colossus-cinematic-red-gray-2026-06-16",
+      "category": "northern-colossus-cinematic-red-gray",
+      "number": "05",
+      "title": "县道尽头的晚霞巨像",
+      "image": "assets/images/northern-colossus-cinematic-red-gray-2026-06-16/05_县道尽头的晚霞巨像.jpg",
+      "thumb": "assets/thumbs/northern-colossus-cinematic-red-gray-2026-06-16/05_县道尽头的晚霞巨像.png",
+      "description": "做一张更像中国北方县城边缘电影的场景。",
+      "prompt": "cinematic Chinese northern county-road scene at dusk, one person standing by the roadside staring at a massive weathered colossus in the distance, red dust, gray concrete, melancholy movie still, realistic lighting and terrain, no readable text, no logos, no watermark"
+    },
+    {
+      "id": "northern-colossus-cinematic-red-gray-2026-06-16_06_山脊上的叠面石像",
+      "batch": "northern-colossus-cinematic-red-gray-2026-06-16",
+      "category": "northern-colossus-cinematic-red-gray",
+      "number": "06",
+      "title": "山脊上的叠面石像",
+      "image": "assets/images/northern-colossus-cinematic-red-gray-2026-06-16/06_山脊上的叠面石像.jpg",
+      "thumb": "assets/thumbs/northern-colossus-cinematic-red-gray-2026-06-16/06_山脊上的叠面石像.png",
+      "description": "把 piles/stacks 的感觉融进去，画面更怪更高级。",
+      "prompt": "surreal but realistic cinematic still, lone figure gazing at stacked colossal stone faces rising along a northern ridge, red-gray palette, harsh wind, monumental geology, movie frame quality, unreal-engine-5-like realism without fantasy excess, no readable text, no logos, no watermark"
+    },
+    {
+      "id": "northern-colossus-cinematic-red-gray-2026-06-16_07_水库旁的静默巨像",
+      "batch": "northern-colossus-cinematic-red-gray-2026-06-16",
+      "category": "northern-colossus-cinematic-red-gray",
+      "number": "07",
+      "title": "水库旁的静默巨像",
+      "image": "assets/images/northern-colossus-cinematic-red-gray-2026-06-16/07_水库旁的静默巨像.jpg",
+      "thumb": "assets/thumbs/northern-colossus-cinematic-red-gray-2026-06-16/07_水库旁的静默巨像.png",
+      "description": "水库边这种北方地貌很容易出电影空镜味。",
+      "prompt": "cinematic still of a woman standing by a bleak northern reservoir looking at a colossal human statue beyond the water, red-brown banks, gray sky, restrained palette, emotionally distant composition, realistic film lighting, no readable text, no logos, no watermark"
+    },
+    {
+      "id": "northern-colossus-cinematic-red-gray-2026-06-16_08_断壁下的仰视者",
+      "batch": "northern-colossus-cinematic-red-gray-2026-06-16",
+      "category": "northern-colossus-cinematic-red-gray",
+      "number": "08",
+      "title": "断壁下的仰视者",
+      "image": "assets/images/northern-colossus-cinematic-red-gray-2026-06-16/08_断壁下的仰视者.jpg",
+      "thumb": "assets/thumbs/northern-colossus-cinematic-red-gray-2026-06-16/08_断壁下的仰视者.png",
+      "description": "补一张更近、更压迫、更像电影剧照的版本。",
+      "prompt": "close cinematic composition, man standing under a fractured monumental wall with a giant carved face above him, northern Chinese red-gray terrain, debris, dust, realistic scale, moody movie still lighting, no readable text, no logos, no watermark"
+    },
+    {
+      "id": "northern-colossus-cinematic-red-gray-2026-06-16_09_薄雪巨像前的女孩",
+      "batch": "northern-colossus-cinematic-red-gray-2026-06-16",
+      "category": "northern-colossus-cinematic-red-gray",
+      "number": "09",
+      "title": "薄雪巨像前的女孩",
+      "image": "assets/images/northern-colossus-cinematic-red-gray-2026-06-16/09_薄雪巨像前的女孩.jpg",
+      "thumb": "assets/thumbs/northern-colossus-cinematic-red-gray-2026-06-16/09_薄雪巨像前的女孩.png",
+      "description": "北方薄雪会让红灰色更有层次。",
+      "prompt": "cinematic northern landscape, young woman in a long coat staring at a snow-dusted colossus across open land, red earth mixed with pale snow and gray sky, monumental sadness, realistic movie-still quality, no readable text, no logos, no watermark"
+    },
+    {
+      "id": "northern-colossus-cinematic-red-gray-2026-06-16_10_峡谷尽头的双人凝视",
+      "batch": "northern-colossus-cinematic-red-gray-2026-06-16",
+      "category": "northern-colossus-cinematic-red-gray",
+      "number": "10",
+      "title": "峡谷尽头的双人凝视",
+      "image": "assets/images/northern-colossus-cinematic-red-gray-2026-06-16/10_峡谷尽头的双人凝视.jpg",
+      "thumb": "assets/thumbs/northern-colossus-cinematic-red-gray-2026-06-16/10_峡谷尽头的双人凝视.png",
+      "description": "最后用双人关系收尾，像一部大电影的终章海报。",
+      "prompt": "epic cinematic finale image, two small figures standing in a northern valley facing an immense colossus carved into layered red-gray rock, solemn atmosphere, realistic terrain, monumental scale, intimate human pause, movie poster quality without text, no logos, no watermark"
     }
   ]
 }
