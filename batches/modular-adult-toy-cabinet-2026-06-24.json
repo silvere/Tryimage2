@@ -1,0 +1,47 @@
+{
+  "theme": "反骨收藏柜：可组装的成人玩物系统",
+  "batchId": "modular-adult-toy-cabinet-2026-06-24",
+  "createdAt": "2026-06-24",
+  "items": [
+    {
+      "source": "magnetic-spine-totem.jpg",
+      "category": "modular-adult-toy-cabinet",
+      "categoryLabel": "反骨收藏柜：可组装的成人玩物系统",
+      "title": "磁脊图腾",
+      "description": "像高端设计玩物，但又带一点危险和仪式感。",
+      "prompt": "premium collectible product editorial, modular art object assembled from magnetic vertebra-like segments, brushed aluminum, smoked resin, matte black connectors, displayed in a museum-grade cabinet niche, dramatic side lighting, tactile detail, elegant but rebellious design language, ultra-clean composition, no readable text, no logos, no watermark"
+    },
+    {
+      "source": "resin-joint-specimen.jpg",
+      "category": "modular-adult-toy-cabinet",
+      "categoryLabel": "反骨收藏柜：可组装的成人玩物系统",
+      "title": "树脂关节标本",
+      "description": "把收藏系统拍得像未来生物零件库。",
+      "prompt": "design-object photography, premium modular collectible parts arranged as a specimen set, translucent resin joints, satin titanium pins, smoked acrylic trays, collector cabinet drawer pulled halfway open, soft museum lighting, seductive material richness, high-end industrial fetish aesthetic, no readable text, no logos, no watermark"
+    },
+    {
+      "source": "chrome-pocket-relic.jpg",
+      "category": "modular-adult-toy-cabinet",
+      "categoryLabel": "反骨收藏柜：可组装的成人玩物系统",
+      "title": "铬面口袋圣物",
+      "description": "做一张更适合封面的单体英雄照。",
+      "prompt": "hero product shot of a premium modular pocket relic, chrome shell, black rubber seams, hidden snap-fit architecture, displayed on dark velvet inside a collectible case, cinematic spotlight, luxury subculture object, crisp reflections, mysterious design-system energy, no readable text, no logos, no watermark"
+    },
+    {
+      "source": "modular-mask-dock.jpg",
+      "category": "modular-adult-toy-cabinet",
+      "categoryLabel": "反骨收藏柜：可组装的成人玩物系统",
+      "title": "面具底座泊位",
+      "description": "让整个系列有一点角色系统和展示欲。",
+      "prompt": "avant-garde collectible system photography, modular mask-like faceplate docked into a precision charging/display stand, gunmetal frame, translucent inserts, soft red ambient edge light, dark collector room shelving, futuristic fetish design, editorial luxury realism, no readable text, no logos, no watermark"
+    },
+    {
+      "source": "black-foam-ritual-case.jpg",
+      "category": "modular-adult-toy-cabinet",
+      "categoryLabel": "反骨收藏柜：可组装的成人玩物系统",
+      "title": "黑泡棉仪式箱",
+      "description": "把收纳箱也拍成一种会让人想买的仪式。",
+      "prompt": "luxury collectible case photography, opened black foam ritual case containing interchangeable modular adult design pieces, resin, anodized metal, precision cut compartments, overhead editorial composition, restrained palette, obsessive order, collector desire, realistic premium materials, no readable text, no logos, no watermark"
+    }
+  ]
+}

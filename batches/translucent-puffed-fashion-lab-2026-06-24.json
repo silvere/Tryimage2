@@ -1,0 +1,47 @@
+{
+  "theme": "半透明膨胀系穿搭实验室",
+  "batchId": "translucent-puffed-fashion-lab-2026-06-24",
+  "createdAt": "2026-06-24",
+  "items": [
+    {
+      "source": "candy-shell-front-silhouette.jpg",
+      "category": "translucent-puffed-fashion-lab",
+      "categoryLabel": "半透明膨胀系穿搭实验室",
+      "title": "糖壳正面像",
+      "description": "像实验室样衣第一次真正站上大刊封面。",
+      "prompt": "high-fashion editorial portrait, full-body front-facing fully clothed model wearing a translucent inflated couture shell layered over an opaque structured bodysuit, glossy candy-pink layers and soft internal volume, photographed in a brutalist white fashion lab, ultra-clean floor reflections, controlled shadow lines, sculptural silhouette, luxurious material detail, futuristic but wearable, magazine-cover composition, no readable text, no logos, no watermark"
+    },
+    {
+      "source": "vinyl-orchid-corridor.jpg",
+      "category": "translucent-puffed-fashion-lab",
+      "categoryLabel": "半透明膨胀系穿搭实验室",
+      "title": "乙烯兰花走廊",
+      "description": "让服装像会开花的工业生物。",
+      "prompt": "editorial fashion photography, full-body fully clothed model wearing a translucent lavender vinyl couture look over a covered base layer, oversized petal-like inflated shoulders and orchid curves, long metallic corridor, cold spotlight pools, subtle haze, futuristic fashion laboratory atmosphere, crisp surfaces, premium styling, cinematic symmetry, no readable text, no logos, no watermark"
+    },
+    {
+      "source": "smoke-pink-inflated-mirror.jpg",
+      "category": "translucent-puffed-fashion-lab",
+      "categoryLabel": "半透明膨胀系穿搭实验室",
+      "title": "烟粉镜面膨体",
+      "description": "镜面空间最适合把体积感放大到失真。",
+      "prompt": "avant-garde fashion campaign image, full-body fully clothed androgynous model in a smoke-pink translucent inflated outfit layered over a solid inner garment, with rounded ribs and glossy membrane texture, mirrored fitting room, soft silver reflections, dramatic negative space, editorial lighting, tactile couture detail, polished surreal realism, no readable text, no logos, no watermark"
+    },
+    {
+      "source": "ice-mint-bubble-coat.jpg",
+      "category": "translucent-puffed-fashion-lab",
+      "categoryLabel": "半透明膨胀系穿搭实验室",
+      "title": "冰薄荷泡影外套",
+      "description": "做一张更冷、更克制、但依旧上头的材质主图。",
+      "prompt": "luxury fashion editorial, full-body fully clothed model in an ice-mint translucent bubble coat with layered air-pocket structure and semi-transparent sleeves over a modest base outfit, standing on a smooth concrete platform under diffused skylight, minimal fashion lab environment, precise texture rendering, elegant futuristic calm, high-end magazine image, no readable text, no logos, no watermark"
+    },
+    {
+      "source": "amber-latex-cocoon-runway.jpg",
+      "category": "translucent-puffed-fashion-lab",
+      "categoryLabel": "半透明膨胀系穿搭实验室",
+      "title": "琥珀乳胶茧形秀场",
+      "description": "用更深色的琥珀收尾，让整批像完整系列。",
+      "prompt": "prestige fashion editorial photograph, full-body fully clothed model wrapped in an amber translucent latex cocoon silhouette layered over a covered bodysuit, with inflated architecture and rich internal glow, dark runway rehearsal room, sharp backlight, glossy floor, sculptural couture drama, refined editorial realism, final-look energy, no readable text, no logos, no watermark"
+    }
+  ]
+}

@@ -1,7 +1,7 @@
 {
   "site": {
     "title": "OpenAI image2 视觉实验",
-    "subtitle": "1322 张传播向 AI 海报",
+    "subtitle": "1332 张传播向 AI 海报",
     "headline": "OpenAI image2 视觉实验",
     "intro": "每一批图片围绕一个临时主题生成，并按当次最合适的 category 归档；可以是反差创意、真实场景、产品概念、人物叙事或任何新的视觉方向。",
     "coverImage": "assets/contact_sheet_image2.jpg",
@@ -446,6 +446,14 @@
     {
       "id": "northern-colossus-cinematic-red-gray",
       "label": "北方巨像电影感凝视"
+    },
+    {
+      "id": "translucent-puffed-fashion-lab",
+      "label": "半透明膨胀系穿搭实验室"
+    },
+    {
+      "id": "modular-adult-toy-cabinet",
+      "label": "反骨收藏柜：可组装的成人玩物系统"
     }
   ],
   "batches": [
@@ -1060,6 +1068,18 @@
       "theme": "北方巨像电影感凝视",
       "createdAt": "2026-06-16",
       "count": 10
+    },
+    {
+      "id": "translucent-puffed-fashion-lab-2026-06-24",
+      "theme": "半透明膨胀系穿搭实验室",
+      "createdAt": "2026-06-24",
+      "count": 5
+    },
+    {
+      "id": "modular-adult-toy-cabinet-2026-06-24",
+      "theme": "反骨收藏柜：可组装的成人玩物系统",
+      "createdAt": "2026-06-24",
+      "count": 5
     }
   ],
   "items": [
@@ -15589,6 +15609,116 @@
       "thumb": "assets/thumbs/northern-colossus-cinematic-red-gray-2026-06-16/10_峡谷尽头的双人凝视.png",
       "description": "最后用双人关系收尾，像一部大电影的终章海报。",
       "prompt": "epic cinematic finale image, two small figures standing in a northern valley facing an immense colossus carved into layered red-gray rock, solemn atmosphere, realistic terrain, monumental scale, intimate human pause, movie poster quality without text, no logos, no watermark"
+    },
+    {
+      "id": "translucent-puffed-fashion-lab-2026-06-24_01_糖壳正面像",
+      "batch": "translucent-puffed-fashion-lab-2026-06-24",
+      "category": "translucent-puffed-fashion-lab",
+      "number": "01",
+      "title": "糖壳正面像",
+      "image": "assets/images/translucent-puffed-fashion-lab-2026-06-24/01_糖壳正面像.jpg",
+      "thumb": "assets/thumbs/translucent-puffed-fashion-lab-2026-06-24/01_糖壳正面像.png",
+      "description": "像实验室样衣第一次真正站上大刊封面。",
+      "prompt": "high-fashion editorial portrait, full-body front-facing fully clothed model wearing a translucent inflated couture shell layered over an opaque structured bodysuit, glossy candy-pink layers and soft internal volume, photographed in a brutalist white fashion lab, ultra-clean floor reflections, controlled shadow lines, sculptural silhouette, luxurious material detail, futuristic but wearable, magazine-cover composition, no readable text, no logos, no watermark"
+    },
+    {
+      "id": "translucent-puffed-fashion-lab-2026-06-24_02_乙烯兰花走廊",
+      "batch": "translucent-puffed-fashion-lab-2026-06-24",
+      "category": "translucent-puffed-fashion-lab",
+      "number": "02",
+      "title": "乙烯兰花走廊",
+      "image": "assets/images/translucent-puffed-fashion-lab-2026-06-24/02_乙烯兰花走廊.jpg",
+      "thumb": "assets/thumbs/translucent-puffed-fashion-lab-2026-06-24/02_乙烯兰花走廊.png",
+      "description": "让服装像会开花的工业生物。",
+      "prompt": "editorial fashion photography, full-body fully clothed model wearing a translucent lavender vinyl couture look over a covered base layer, oversized petal-like inflated shoulders and orchid curves, long metallic corridor, cold spotlight pools, subtle haze, futuristic fashion laboratory atmosphere, crisp surfaces, premium styling, cinematic symmetry, no readable text, no logos, no watermark"
+    },
+    {
+      "id": "translucent-puffed-fashion-lab-2026-06-24_03_烟粉镜面膨体",
+      "batch": "translucent-puffed-fashion-lab-2026-06-24",
+      "category": "translucent-puffed-fashion-lab",
+      "number": "03",
+      "title": "烟粉镜面膨体",
+      "image": "assets/images/translucent-puffed-fashion-lab-2026-06-24/03_烟粉镜面膨体.jpg",
+      "thumb": "assets/thumbs/translucent-puffed-fashion-lab-2026-06-24/03_烟粉镜面膨体.png",
+      "description": "镜面空间最适合把体积感放大到失真。",
+      "prompt": "avant-garde fashion campaign image, full-body fully clothed androgynous model in a smoke-pink translucent inflated outfit layered over a solid inner garment, with rounded ribs and glossy membrane texture, mirrored fitting room, soft silver reflections, dramatic negative space, editorial lighting, tactile couture detail, polished surreal realism, no readable text, no logos, no watermark"
+    },
+    {
+      "id": "translucent-puffed-fashion-lab-2026-06-24_04_冰薄荷泡影外套",
+      "batch": "translucent-puffed-fashion-lab-2026-06-24",
+      "category": "translucent-puffed-fashion-lab",
+      "number": "04",
+      "title": "冰薄荷泡影外套",
+      "image": "assets/images/translucent-puffed-fashion-lab-2026-06-24/04_冰薄荷泡影外套.jpg",
+      "thumb": "assets/thumbs/translucent-puffed-fashion-lab-2026-06-24/04_冰薄荷泡影外套.png",
+      "description": "做一张更冷、更克制、但依旧上头的材质主图。",
+      "prompt": "luxury fashion editorial, full-body fully clothed model in an ice-mint translucent bubble coat with layered air-pocket structure and semi-transparent sleeves over a modest base outfit, standing on a smooth concrete platform under diffused skylight, minimal fashion lab environment, precise texture rendering, elegant futuristic calm, high-end magazine image, no readable text, no logos, no watermark"
+    },
+    {
+      "id": "translucent-puffed-fashion-lab-2026-06-24_05_琥珀乳胶茧形秀场",
+      "batch": "translucent-puffed-fashion-lab-2026-06-24",
+      "category": "translucent-puffed-fashion-lab",
+      "number": "05",
+      "title": "琥珀乳胶茧形秀场",
+      "image": "assets/images/translucent-puffed-fashion-lab-2026-06-24/05_琥珀乳胶茧形秀场.jpg",
+      "thumb": "assets/thumbs/translucent-puffed-fashion-lab-2026-06-24/05_琥珀乳胶茧形秀场.png",
+      "description": "用更深色的琥珀收尾，让整批像完整系列。",
+      "prompt": "prestige fashion editorial photograph, full-body fully clothed model wrapped in an amber translucent latex cocoon silhouette layered over a covered bodysuit, with inflated architecture and rich internal glow, dark runway rehearsal room, sharp backlight, glossy floor, sculptural couture drama, refined editorial realism, final-look energy, no readable text, no logos, no watermark"
+    },
+    {
+      "id": "modular-adult-toy-cabinet-2026-06-24_01_磁脊图腾",
+      "batch": "modular-adult-toy-cabinet-2026-06-24",
+      "category": "modular-adult-toy-cabinet",
+      "number": "01",
+      "title": "磁脊图腾",
+      "image": "assets/images/modular-adult-toy-cabinet-2026-06-24/01_磁脊图腾.jpg",
+      "thumb": "assets/thumbs/modular-adult-toy-cabinet-2026-06-24/01_磁脊图腾.png",
+      "description": "像高端设计玩物，但又带一点危险和仪式感。",
+      "prompt": "premium collectible product editorial, modular art object assembled from magnetic vertebra-like segments, brushed aluminum, smoked resin, matte black connectors, displayed in a museum-grade cabinet niche, dramatic side lighting, tactile detail, elegant but rebellious design language, ultra-clean composition, no readable text, no logos, no watermark"
+    },
+    {
+      "id": "modular-adult-toy-cabinet-2026-06-24_02_树脂关节标本",
+      "batch": "modular-adult-toy-cabinet-2026-06-24",
+      "category": "modular-adult-toy-cabinet",
+      "number": "02",
+      "title": "树脂关节标本",
+      "image": "assets/images/modular-adult-toy-cabinet-2026-06-24/02_树脂关节标本.jpg",
+      "thumb": "assets/thumbs/modular-adult-toy-cabinet-2026-06-24/02_树脂关节标本.png",
+      "description": "把收藏系统拍得像未来生物零件库。",
+      "prompt": "design-object photography, premium modular collectible parts arranged as a specimen set, translucent resin joints, satin titanium pins, smoked acrylic trays, collector cabinet drawer pulled halfway open, soft museum lighting, seductive material richness, high-end industrial fetish aesthetic, no readable text, no logos, no watermark"
+    },
+    {
+      "id": "modular-adult-toy-cabinet-2026-06-24_03_铬面口袋圣物",
+      "batch": "modular-adult-toy-cabinet-2026-06-24",
+      "category": "modular-adult-toy-cabinet",
+      "number": "03",
+      "title": "铬面口袋圣物",
+      "image": "assets/images/modular-adult-toy-cabinet-2026-06-24/03_铬面口袋圣物.jpg",
+      "thumb": "assets/thumbs/modular-adult-toy-cabinet-2026-06-24/03_铬面口袋圣物.png",
+      "description": "做一张更适合封面的单体英雄照。",
+      "prompt": "hero product shot of a premium modular pocket relic, chrome shell, black rubber seams, hidden snap-fit architecture, displayed on dark velvet inside a collectible case, cinematic spotlight, luxury subculture object, crisp reflections, mysterious design-system energy, no readable text, no logos, no watermark"
+    },
+    {
+      "id": "modular-adult-toy-cabinet-2026-06-24_04_面具底座泊位",
+      "batch": "modular-adult-toy-cabinet-2026-06-24",
+      "category": "modular-adult-toy-cabinet",
+      "number": "04",
+      "title": "面具底座泊位",
+      "image": "assets/images/modular-adult-toy-cabinet-2026-06-24/04_面具底座泊位.jpg",
+      "thumb": "assets/thumbs/modular-adult-toy-cabinet-2026-06-24/04_面具底座泊位.png",
+      "description": "让整个系列有一点角色系统和展示欲。",
+      "prompt": "avant-garde collectible system photography, modular mask-like faceplate docked into a precision charging/display stand, gunmetal frame, translucent inserts, soft red ambient edge light, dark collector room shelving, futuristic fetish design, editorial luxury realism, no readable text, no logos, no watermark"
+    },
+    {
+      "id": "modular-adult-toy-cabinet-2026-06-24_05_黑泡棉仪式箱",
+      "batch": "modular-adult-toy-cabinet-2026-06-24",
+      "category": "modular-adult-toy-cabinet",
+      "number": "05",
+      "title": "黑泡棉仪式箱",
+      "image": "assets/images/modular-adult-toy-cabinet-2026-06-24/05_黑泡棉仪式箱.jpg",
+      "thumb": "assets/thumbs/modular-adult-toy-cabinet-2026-06-24/05_黑泡棉仪式箱.png",
+      "description": "把收纳箱也拍成一种会让人想买的仪式。",
+      "prompt": "luxury collectible case photography, opened black foam ritual case containing interchangeable modular adult design pieces, resin, anodized metal, precision cut compartments, overhead editorial composition, restrained palette, obsessive order, collector desire, realistic premium materials, no readable text, no logos, no watermark"
     }
   ]
 }
