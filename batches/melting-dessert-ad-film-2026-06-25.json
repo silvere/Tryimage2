@@ -1,0 +1,87 @@
+{
+  "theme": "融化中的甜品广告片",
+  "batchId": "melting-dessert-ad-film-2026-06-25",
+  "createdAt": "2026-06-25",
+  "items": [
+    {
+      "source": "strawberry-scoop-fall.jpg",
+      "category": "melting-dessert-ad-film",
+      "categoryLabel": "融化中的甜品广告片",
+      "title": "草莓坠勺",
+      "description": "草莓冰淇淋刚离开蛋筒的那一秒，甜度和失控感同时拉满。",
+      "prompt": "high-speed commercial dessert photography, strawberry ice cream scoop falling off a waffle cone, glossy melt trails, sprinkles suspended in air, pastel pink backdrop, dramatic studio lighting, ultra-detailed creamy texture, vivid advertising energy, no readable text, no logos, no watermark"
+    },
+    {
+      "source": "chocolate-sun-collapse.jpg",
+      "category": "melting-dessert-ad-film",
+      "categoryLabel": "融化中的甜品广告片",
+      "title": "巧克力太阳塌陷",
+      "description": "像广告片里的高潮镜头，巧克力甜品开始崩塌。",
+      "prompt": "luxury dessert ad still, molten chocolate dome dessert collapsing in a glossy splash, dark syrup, cocoa dust, shards of brittle sugar, rich cinematic contrast, macro food texture, frozen-motion commercial style, no readable text, no logos, no watermark"
+    },
+    {
+      "source": "matcha-cream-overflow.jpg",
+      "category": "melting-dessert-ad-film",
+      "categoryLabel": "融化中的甜品广告片",
+      "title": "抹茶溢顶",
+      "description": "奶盖和抹茶酱一起失控往外溢，颜色特别适合封面。",
+      "prompt": "premium food advertising image, matcha soft-serve and whipped cream overflowing from a glass dessert cup, glossy green sauce, airy powder burst, clean pale background, sharp macro realism, dynamic liquid motion, elegant Japanese-inspired dessert styling, no readable text, no logos, no watermark"
+    },
+    {
+      "source": "citrus-gelato-splash.jpg",
+      "category": "melting-dessert-ad-film",
+      "categoryLabel": "融化中的甜品广告片",
+      "title": "柑橘飞溅",
+      "description": "更明亮、更夏天的一种商业静物。",
+      "prompt": "bright summer commercial still life, citrus gelato bursting into a cold splash, orange zest flying, translucent melt edges, glossy reflective surface, saturated yellow-orange palette, frozen advertising motion, photoreal luxury dessert styling, no readable text, no logos, no watermark"
+    },
+    {
+      "source": "blueberry-cheesecake-slide.jpg",
+      "category": "melting-dessert-ad-film",
+      "categoryLabel": "融化中的甜品广告片",
+      "title": "蓝莓侧滑",
+      "description": "芝士蛋糕表层开始松动，蓝莓酱顺着边缘滑落。",
+      "prompt": "editorial dessert product shot, blueberry cheesecake slice slipping apart, glossy berry sauce dripping down the edge, cream cheese texture breaking softly, crumbs scattering in air, cool studio background, tactile macro realism, premium advertising look, no readable text, no logos, no watermark"
+    },
+    {
+      "source": "pistachio-parfait-tilt.jpg",
+      "category": "melting-dessert-ad-film",
+      "categoryLabel": "融化中的甜品广告片",
+      "title": "开心果倾斜杯",
+      "description": "玻璃杯快要倒下之前的危险一秒。",
+      "prompt": "cinematic food commercial frame, pistachio parfait in a tilting glass about to spill, cream layers sliding, crushed nuts suspended, cold condensation, elegant green and ivory palette, high-detail advertising realism, tension before collapse, no readable text, no logos, no watermark"
+    },
+    {
+      "source": "vanilla-caramel-lava.jpg",
+      "category": "melting-dessert-ad-film",
+      "categoryLabel": "融化中的甜品广告片",
+      "title": "香草焦糖熔流",
+      "description": "非常标准的“广告级甜”镜头，但要拍到将要失控。",
+      "prompt": "hero dessert advertisement, vanilla soft serve under hot caramel lava pour, melting edges, floating toffee shards, glowing warm backlight, creamy macro detail, luxurious sweetness overload, dramatic commercial realism, no readable text, no logos, no watermark"
+    },
+    {
+      "source": "raspberry-macaron-collapse.jpg",
+      "category": "melting-dessert-ad-film",
+      "categoryLabel": "融化中的甜品广告片",
+      "title": "覆盆子马卡龙坍塌",
+      "description": "更偏时尚大片的甜品静物，脆壳与奶油一起碎掉。",
+      "prompt": "fashion-forward dessert editorial, raspberry macarons collapsing into melting cream and glossy coulis, shell fragments mid-air, soft luxury pink-red palette, crisp studio lighting, elegant chaos, highly detailed texture, no readable text, no logos, no watermark"
+    },
+    {
+      "source": "mango-shaved-ice-downpour.jpg",
+      "category": "melting-dessert-ad-film",
+      "categoryLabel": "融化中的甜品广告片",
+      "title": "芒果暴雨刨冰",
+      "description": "刨冰被热带水果和糖浆击中，画面充满速度感。",
+      "prompt": "tropical dessert commercial image, mango shaved ice hit by a sudden syrup downpour, mango cubes flying, meltwater sparkling, icy texture breaking apart, bright humid summer mood, photoreal advertising detail, no readable text, no logos, no watermark"
+    },
+    {
+      "source": "cream-puff-burst.jpg",
+      "category": "melting-dessert-ad-film",
+      "categoryLabel": "融化中的甜品广告片",
+      "title": "爆浆泡芙",
+      "description": "泡芙被掰开的瞬间，奶油像广告慢镜头一样炸开。",
+      "prompt": "ultra-detailed food ad shot, cream puff bursting open with custard and whipped cream exploding outward, powdered sugar cloud, golden pastry flakes, dramatic stop-motion lighting, irresistible indulgent texture, no readable text, no logos, no watermark"
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "theme": "被包装成礼物的大人",
+  "batchId": "packaged-adults-gift-box-2026-06-25",
+  "createdAt": "2026-06-25",
+  "items": [
+    {
+      "source": "ribbon-box-smile.jpg",
+      "category": "packaged-adults-gift-box",
+      "categoryLabel": "被包装成礼物的大人",
+      "title": "假笑开箱",
+      "description": "成人像高端礼物一样躺在丝带礼盒里，对镜头维持得体微笑。",
+      "prompt": "high-concept editorial photography, overhead view of an adult woman carefully packaged inside a luxury gift box, satin ribbons, tissue paper, price tag sticker, fake polite smile, limbs arranged like premium merchandise, soft department-store lighting, consumer identity critique, realistic human skin and fabric detail, clean background, no readable text, no logos, no watermark"
+    },
+    {
+      "source": "office-gift-cubicle.jpg",
+      "category": "packaged-adults-gift-box",
+      "categoryLabel": "被包装成礼物的大人",
+      "title": "工位礼品装",
+      "description": "把办公室白领包装成可以被挑选的职场礼盒。",
+      "prompt": "surreal workplace editorial, top-down shot of a tired office worker packaged inside an open cardboard gift box placed in a gray cubicle, keyboard, badge lanyard, ribbon crossing the chest, shipping label aesthetic, forced smile, beige corporate atmosphere, sharp realistic details, visual metaphor of labor as product, no readable text, no logos, no watermark"
+    },
+    {
+      "source": "pink-bow-closet-box.jpg",
+      "category": "packaged-adults-gift-box",
+      "categoryLabel": "被包装成礼物的大人",
+      "title": "粉弓试穿版",
+      "description": "像时装店展示品一样被包装的大人，带一点讨好式精致。",
+      "prompt": "conceptual fashion editorial, fully clothed adult woman reclining inside an oversized pastel presentation box in a boutique fitting room, dramatic pink ribbon and tissue layers, beauty accessories arranged nearby, practiced social smile, commentary on performative perfection and display culture, overhead composition, tactile luxury textures, realistic photography, no readable text, no logos, no watermark"
+    },
+    {
+      "source": "warehouse-shipping-human.jpg",
+      "category": "packaged-adults-gift-box",
+      "categoryLabel": "被包装成礼物的大人",
+      "title": "待发货的人",
+      "description": "把人拍成仓库里一件即将寄出的商品。",
+      "prompt": "cinematic warehouse editorial, fully clothed adult man seated inside a large open shipping carton on a conveyor belt, bubble wrap and packing paper around him, non-readable package markings, uneasy polite expression, industrial overhead light, satire of self-branding and employability, realistic cardboard texture, no logos, no watermark"
+    },
+    {
+      "source": "party-gift-unboxing.jpg",
+      "category": "packaged-adults-gift-box",
+      "categoryLabel": "被包装成礼物的大人",
+      "title": "生日拆人现场",
+      "description": "派对语境下更夸张的一种“把自己包装给别人”。",
+      "prompt": "flash-lit party portrait, fully clothed adult host standing next to an oversized opened birthday gift box, loose satin ribbons and tissue paper spilling out, confetti on the floor, tired polite smile, afterparty social-performance mood, vivid colors, sharp realistic event photography, no readable text, no logos, no watermark"
+    },
+    {
+      "source": "window-display-couple.jpg",
+      "category": "packaged-adults-gift-box",
+      "categoryLabel": "被包装成礼物的大人",
+      "title": "橱窗情侣套装",
+      "description": "把亲密关系也拍成橱窗里可售卖的组合商品。",
+      "prompt": "luxury storefront editorial, fully clothed adult couple posed inside a window display framed by oversized gift-box structures, coordinated outfits, satin ribbons, artificial smiles, commentary on curated relationships and display culture, realistic lighting and glass reflections, no readable text, no logos, no watermark"
+    },
+    {
+      "source": "ecommerce-foam-tray.jpg",
+      "category": "packaged-adults-gift-box",
+      "categoryLabel": "被包装成礼物的大人",
+      "title": "电商泡棉内胆",
+      "description": "人被精准卡进泡棉模具里，像一件高价电子产品。",
+      "prompt": "conceptual studio editorial, fully clothed adult person seated in a gallery installation made of custom black foam packaging compartments, premium gadget display aesthetic, direct gaze, overhead angle, hyper-detailed matte textures, consumer-tech display metaphor, no readable text, no logos, no watermark"
+    },
+    {
+      "source": "bridal-gift-crate.jpg",
+      "category": "packaged-adults-gift-box",
+      "categoryLabel": "被包装成礼物的大人",
+      "title": "婚礼回礼新娘",
+      "description": "把新娘拍成一件被精心包装的社会期待。",
+      "prompt": "conceptual bridal editorial, fully clothed adult bride seated inside an elegant open wooden presentation crate lined with white satin, ribbon seals, bouquet fragments nearby, serene but strained expression, viewed from above, social expectation packaged as romance, detailed fabric and wood grain, no readable text, no logos, no watermark"
+    },
+    {
+      "source": "selfcare-gift-bath-box.jpg",
+      "category": "packaged-adults-gift-box",
+      "categoryLabel": "被包装成礼物的大人",
+      "title": "自我关怀礼盒人",
+      "description": "把流行的自我关怀消费拍成一种温柔包装。",
+      "prompt": "soft wellness editorial, fully clothed adult person reclining inside a spa-themed presentation box surrounded by candles, bath salts, folded towels and unlabeled skincare jars, calm but empty smile, pastel minimalism, social-media-ready self-care display with quiet unease, top-down realistic photography, no readable text, no logos, no watermark"
+    },
+    {
+      "source": "return-policy-box.jpg",
+      "category": "packaged-adults-gift-box",
+      "categoryLabel": "被包装成礼物的大人",
+      "title": "七天可退换",
+      "description": "把“可被喜欢”延伸到可被退货的荒诞感。",
+      "prompt": "darkly humorous retail editorial, fully clothed adult man seated in an opened returned-gift box with tissue paper and resealed ribbon, non-readable inspection stickers, weary smile, customer-service mood, overhead composition, critique of disposable affection and marketized identity, realistic studio lighting, no logos, no watermark"
+    }
+  ]
+}
