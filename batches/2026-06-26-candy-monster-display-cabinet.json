@@ -1,0 +1,47 @@
+{
+  "theme": "怪甜收藏柜：半透明粉色零件与小怪物",
+  "batchId": "2026-06-26-candy-monster-display-cabinet",
+  "createdAt": "2026-06-26",
+  "items": [
+    {
+      "source": "01_bubble-shelf-pair.png",
+      "category": "candy-monster-display-cabinet",
+      "categoryLabel": "怪甜收藏柜",
+      "title": "泡泡格双栖",
+      "description": "两只小怪物挤在糖果粉透明格仓里，像被认真收藏的玩具样本。",
+      "prompt": "Collectible display scene inside a toy cabinet, two cute-weird little creatures resting in adjacent acrylic modules, translucent candy-pink plastic walls, glossy semi-transparent parts, tiny screws and molded connectors, tactile close-up photography, soft studio reflections, shallow depth of field, toy collector atmosphere, premium shelf styling, macro detail on surfaces and seams, cute but slightly strange mood, no readable text, no logos, no watermark."
+    },
+    {
+      "source": "02_drawer-nest-creature.png",
+      "category": "candy-monster-display-cabinet",
+      "categoryLabel": "怪甜收藏柜",
+      "title": "抽屉巢穴",
+      "description": "半拉开的亚克力抽屉里蜷着一只软绵绵小怪物，像糖块一样发亮。",
+      "prompt": "Close-up of a partially opened acrylic drawer in a collectible toy cabinet, one cute-weird little creature curled inside like a stored candy specimen, translucent candy-pink plastic, modular acrylic rails, polished toy hardware, subtle dust-free showroom realism, tactile macro quality, fingers almost want to touch the smooth plastic and rubbery skin, intimate collector display composition, soft diffused light, no readable text, no logos, no watermark."
+    },
+    {
+      "source": "03_rotating-pedestal-oddlings.png",
+      "category": "candy-monster-display-cabinet",
+      "categoryLabel": "怪甜收藏柜",
+      "title": "旋台展示仓",
+      "description": "几个迷你怪物站在旋转底座上，被透明粉色罩壳温柔包围。",
+      "prompt": "Mini collectible display pedestal inside a toy cabinet, three tiny cute-weird little creatures posed on a rotating platform under a translucent candy-pink dome, acrylic modules surrounding them like a premium collector case, layered transparent plastic components, glossy molded edges, tactile close-up product-photography feel, candy-like translucency, whimsical museum-of-toys vibe, varied creature silhouettes, no readable text, no logos, no watermark."
+    },
+    {
+      "source": "04_connector-maze-scout.png",
+      "category": "candy-monster-display-cabinet",
+      "categoryLabel": "怪甜收藏柜",
+      "title": "连接件迷宫",
+      "description": "一只独眼小怪物在透明粉色连接件组成的迷宫层板间探头探脑。",
+      "prompt": "Acrylic module maze inside a toy cabinet built from translucent candy-pink connectors and shelves, one curious cute-weird little creature peeking between interlocking plastic parts, collectible display storytelling, tactile close-up realism, semi-transparent edges catching light, layered toy engineering details, intimate macro framing, playful strange atmosphere, high material fidelity, no readable text, no logos, no watermark."
+    },
+    {
+      "source": "05_secret-top-shelf-glow.png",
+      "category": "candy-monster-display-cabinet",
+      "categoryLabel": "怪甜收藏柜",
+      "title": "顶层微光",
+      "description": "收藏柜最上层藏着一群发亮的小怪物，像深夜偷偷活过来的玩具。",
+      "prompt": "Top shelf of a toy cabinet glowing softly at night, a cluster of cute-weird little creatures arranged among translucent candy-pink plastic modules, acrylic dividers, stacked collectible trays, dreamy but tactile close-up quality, glossy semi-transparent toy parts, cozy display lighting, subtle eerie sweetness, premium collector shelf composition, strong material detail and depth, no readable text, no logos, no watermark."
+    }
+  ]
+}

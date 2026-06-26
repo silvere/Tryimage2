@@ -1,7 +1,7 @@
 {
   "site": {
     "title": "OpenAI image2 视觉实验",
-    "subtitle": "1352 张传播向 AI 海报",
+    "subtitle": "1362 张传播向 AI 海报",
     "headline": "OpenAI image2 视觉实验",
     "intro": "每一批图片围绕一个临时主题生成，并按当次最合适的 category 归档；可以是反差创意、真实场景、产品概念、人物叙事或任何新的视觉方向。",
     "coverImage": "assets/contact_sheet_image2.jpg",
@@ -462,6 +462,14 @@
     {
       "id": "melting-dessert-ad-film",
       "label": "融化中的甜品广告片"
+    },
+    {
+      "id": "neon-tattoo-midnight-persona",
+      "label": "霓虹纹身店的深夜人设照"
+    },
+    {
+      "id": "candy-monster-display-cabinet",
+      "label": "怪甜收藏柜"
     }
   ],
   "batches": [
@@ -1100,6 +1108,18 @@
       "theme": "融化中的甜品广告片",
       "createdAt": "2026-06-25",
       "count": 10
+    },
+    {
+      "id": "2026-06-26-neon-tattoo-midnight-persona",
+      "theme": "霓虹纹身店的深夜人设照",
+      "createdAt": "2026-06-26",
+      "count": 5
+    },
+    {
+      "id": "2026-06-26-candy-monster-display-cabinet",
+      "theme": "怪甜收藏柜：半透明粉色零件与小怪物",
+      "createdAt": "2026-06-26",
+      "count": 5
     }
   ],
   "items": [
@@ -15959,6 +15979,116 @@
       "thumb": "assets/thumbs/melting-dessert-ad-film-2026-06-25/10_爆浆泡芙.png",
       "description": "泡芙被掰开的瞬间，奶油像广告慢镜头一样炸开。",
       "prompt": "ultra-detailed food ad shot, cream puff bursting open with custard and whipped cream exploding outward, powdered sugar cloud, golden pastry flakes, dramatic stop-motion lighting, irresistible indulgent texture, no readable text, no logos, no watermark"
+    },
+    {
+      "id": "2026-06-26-neon-tattoo-midnight-persona_01_门口镜前试光",
+      "batch": "2026-06-26-neon-tattoo-midnight-persona",
+      "category": "neon-tattoo-midnight-persona",
+      "number": "01",
+      "title": "门口镜前试光",
+      "image": "assets/images/2026-06-26-neon-tattoo-midnight-persona/01_门口镜前试光.png",
+      "thumb": "assets/thumbs/2026-06-26-neon-tattoo-midnight-persona/01_门口镜前试光.png",
+      "description": "深夜刚进店，在落地镜前用手机试光，霓虹和玻璃反射把人设感一下拉满。",
+      "prompt": "Realistic editorial documentary photo, deep night inside a neon tattoo studio, a young urban woman taking a mirror selfie near the entrance, phone partly covering face, black tank top, low-rise denim, visible fresh small tattoos on arm and collarbone, chrome-framed full-length mirror, violet and cyan neon spill, flash mixed with ambient light, cables, stools, tattoo sketches pinned on walls but no readable text, reflective floor, candid XiaoHongShu hot-girl urban persona mood, natural skin texture, realistic proportions, no logos, no watermark, no readable text."
+    },
+    {
+      "id": "2026-06-26-neon-tattoo-midnight-persona_02_补妆间隙侧脸",
+      "batch": "2026-06-26-neon-tattoo-midnight-persona",
+      "category": "neon-tattoo-midnight-persona",
+      "number": "02",
+      "title": "补妆间隙侧脸",
+      "image": "assets/images/2026-06-26-neon-tattoo-midnight-persona/02_补妆间隙侧脸.png",
+      "thumb": "assets/thumbs/2026-06-26-neon-tattoo-midnight-persona/02_补妆间隙侧脸.png",
+      "description": "纹身做到一半的休息时刻，侧脸靠在工作台边，疲惫又漂亮。",
+      "prompt": "Realistic documentary-style portrait in a tattoo studio at 1am, side-profile of a stylish young woman during an ink break, sitting beside a stainless workstation, disposable gloves, ink caps, spray bottles, paper towels, half-finished tattoo wrapped on thigh, soft red neon from one side and cold overhead task light from above, tired but composed expression, slightly smudged eyeliner, urban nightlife persona, cluttered but believable studio environment, shallow depth of field, no readable labels on bottles, no brand logos, no watermark, no readable text."
+    },
+    {
+      "id": "2026-06-26-neon-tattoo-midnight-persona_03_纹身椅俯拍",
+      "batch": "2026-06-26-neon-tattoo-midnight-persona",
+      "category": "neon-tattoo-midnight-persona",
+      "number": "03",
+      "title": "纹身椅俯拍",
+      "image": "assets/images/2026-06-26-neon-tattoo-midnight-persona/03_纹身椅俯拍.png",
+      "thumb": "assets/thumbs/2026-06-26-neon-tattoo-midnight-persona/03_纹身椅俯拍.png",
+      "description": "从高处俯拍纹身椅，像一张深夜纪录片里的角色定格。",
+      "prompt": "Realistic overhead editorial photo inside a neon tattoo parlor late at night, a young woman reclining in a tattoo chair, one arm behind head, boots still on, phone resting on stomach, exposed shoulder and rib tattoo details, artist out of focus in foreground preparing tools, magenta tube light and blue neon reflections, black leather chair, tray of sterile equipment, urban documentary mood, intimate but non-glamourized, believable skin texture and studio mess, no readable signage, no logos, no watermark, no text."
+    },
+    {
+      "id": "2026-06-26-neon-tattoo-midnight-persona_04_后场洗手池烟雾感",
+      "batch": "2026-06-26-neon-tattoo-midnight-persona",
+      "category": "neon-tattoo-midnight-persona",
+      "number": "04",
+      "title": "后场洗手池烟雾感",
+      "image": "assets/images/2026-06-26-neon-tattoo-midnight-persona/04_后场洗手池烟雾感.png",
+      "thumb": "assets/thumbs/2026-06-26-neon-tattoo-midnight-persona/04_后场洗手池烟雾感.png",
+      "description": "后场洗手池边整理头发，冷光和霓虹混在一起，像下班前最后一张。",
+      "prompt": "Realistic candid photo in the back room of a tattoo shop after midnight, a young urban woman leaning over a metal sink adjusting her hair, slight haze in the room, damp countertop, cleaning supplies pushed aside, white fluorescent light mixed with pink neon leaking from the front room, layered jewelry, fitted dark top, visible nape tattoo, gritty intimate documentary energy, reflection fragments in spotted mirror, late-night city persona, no readable packaging text, no logos, no watermark, no readable text."
+    },
+    {
+      "id": "2026-06-26-neon-tattoo-midnight-persona_05_出店后的巷口定格",
+      "batch": "2026-06-26-neon-tattoo-midnight-persona",
+      "category": "neon-tattoo-midnight-persona",
+      "number": "05",
+      "title": "出店后的巷口定格",
+      "image": "assets/images/2026-06-26-neon-tattoo-midnight-persona/05_出店后的巷口定格.png",
+      "thumb": "assets/thumbs/2026-06-26-neon-tattoo-midnight-persona/05_出店后的巷口定格.png",
+      "description": "做完纹身走到店外巷口，霓虹还挂在身后，人像像刚从夜里切出来。",
+      "prompt": "Realistic street-documentary portrait just outside a tattoo studio in a narrow urban alley at deep night, a young woman standing under wet neon reflections after her session, jacket loosely draped over shoulders, fresh bandage visible on upper arm, one hand holding phone at waist, looking past camera, scooters, shutter doors, puddles, cigarette glow from distant background, red-blue neon from the shop doorway behind her, XiaoHongShu hot urban persona aesthetic but grounded and realistic, no readable shop signs, no logos, no watermark, no text."
+    },
+    {
+      "id": "2026-06-26-candy-monster-display-cabinet_01_泡泡格双栖",
+      "batch": "2026-06-26-candy-monster-display-cabinet",
+      "category": "candy-monster-display-cabinet",
+      "number": "01",
+      "title": "泡泡格双栖",
+      "image": "assets/images/2026-06-26-candy-monster-display-cabinet/01_泡泡格双栖.png",
+      "thumb": "assets/thumbs/2026-06-26-candy-monster-display-cabinet/01_泡泡格双栖.png",
+      "description": "两只小怪物挤在糖果粉透明格仓里，像被认真收藏的玩具样本。",
+      "prompt": "Collectible display scene inside a toy cabinet, two cute-weird little creatures resting in adjacent acrylic modules, translucent candy-pink plastic walls, glossy semi-transparent parts, tiny screws and molded connectors, tactile close-up photography, soft studio reflections, shallow depth of field, toy collector atmosphere, premium shelf styling, macro detail on surfaces and seams, cute but slightly strange mood, no readable text, no logos, no watermark."
+    },
+    {
+      "id": "2026-06-26-candy-monster-display-cabinet_02_抽屉巢穴",
+      "batch": "2026-06-26-candy-monster-display-cabinet",
+      "category": "candy-monster-display-cabinet",
+      "number": "02",
+      "title": "抽屉巢穴",
+      "image": "assets/images/2026-06-26-candy-monster-display-cabinet/02_抽屉巢穴.png",
+      "thumb": "assets/thumbs/2026-06-26-candy-monster-display-cabinet/02_抽屉巢穴.png",
+      "description": "半拉开的亚克力抽屉里蜷着一只软绵绵小怪物，像糖块一样发亮。",
+      "prompt": "Close-up of a partially opened acrylic drawer in a collectible toy cabinet, one cute-weird little creature curled inside like a stored candy specimen, translucent candy-pink plastic, modular acrylic rails, polished toy hardware, subtle dust-free showroom realism, tactile macro quality, fingers almost want to touch the smooth plastic and rubbery skin, intimate collector display composition, soft diffused light, no readable text, no logos, no watermark."
+    },
+    {
+      "id": "2026-06-26-candy-monster-display-cabinet_03_旋台展示仓",
+      "batch": "2026-06-26-candy-monster-display-cabinet",
+      "category": "candy-monster-display-cabinet",
+      "number": "03",
+      "title": "旋台展示仓",
+      "image": "assets/images/2026-06-26-candy-monster-display-cabinet/03_旋台展示仓.png",
+      "thumb": "assets/thumbs/2026-06-26-candy-monster-display-cabinet/03_旋台展示仓.png",
+      "description": "几个迷你怪物站在旋转底座上，被透明粉色罩壳温柔包围。",
+      "prompt": "Mini collectible display pedestal inside a toy cabinet, three tiny cute-weird little creatures posed on a rotating platform under a translucent candy-pink dome, acrylic modules surrounding them like a premium collector case, layered transparent plastic components, glossy molded edges, tactile close-up product-photography feel, candy-like translucency, whimsical museum-of-toys vibe, varied creature silhouettes, no readable text, no logos, no watermark."
+    },
+    {
+      "id": "2026-06-26-candy-monster-display-cabinet_04_连接件迷宫",
+      "batch": "2026-06-26-candy-monster-display-cabinet",
+      "category": "candy-monster-display-cabinet",
+      "number": "04",
+      "title": "连接件迷宫",
+      "image": "assets/images/2026-06-26-candy-monster-display-cabinet/04_连接件迷宫.png",
+      "thumb": "assets/thumbs/2026-06-26-candy-monster-display-cabinet/04_连接件迷宫.png",
+      "description": "一只独眼小怪物在透明粉色连接件组成的迷宫层板间探头探脑。",
+      "prompt": "Acrylic module maze inside a toy cabinet built from translucent candy-pink connectors and shelves, one curious cute-weird little creature peeking between interlocking plastic parts, collectible display storytelling, tactile close-up realism, semi-transparent edges catching light, layered toy engineering details, intimate macro framing, playful strange atmosphere, high material fidelity, no readable text, no logos, no watermark."
+    },
+    {
+      "id": "2026-06-26-candy-monster-display-cabinet_05_顶层微光",
+      "batch": "2026-06-26-candy-monster-display-cabinet",
+      "category": "candy-monster-display-cabinet",
+      "number": "05",
+      "title": "顶层微光",
+      "image": "assets/images/2026-06-26-candy-monster-display-cabinet/05_顶层微光.png",
+      "thumb": "assets/thumbs/2026-06-26-candy-monster-display-cabinet/05_顶层微光.png",
+      "description": "收藏柜最上层藏着一群发亮的小怪物，像深夜偷偷活过来的玩具。",
+      "prompt": "Top shelf of a toy cabinet glowing softly at night, a cluster of cute-weird little creatures arranged among translucent candy-pink plastic modules, acrylic dividers, stacked collectible trays, dreamy but tactile close-up quality, glossy semi-transparent toy parts, cozy display lighting, subtle eerie sweetness, premium collector shelf composition, strong material detail and depth, no readable text, no logos, no watermark."
     }
   ]
 }

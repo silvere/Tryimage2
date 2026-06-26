@@ -1,0 +1,47 @@
+{
+  "theme": "霓虹纹身店的深夜人设照",
+  "batchId": "2026-06-26-neon-tattoo-midnight-persona",
+  "createdAt": "2026-06-26",
+  "items": [
+    {
+      "source": "01_mirror_entry_glow.png",
+      "category": "neon-tattoo-midnight-persona",
+      "categoryLabel": "霓虹纹身店的深夜人设照",
+      "title": "门口镜前试光",
+      "description": "深夜刚进店，在落地镜前用手机试光，霓虹和玻璃反射把人设感一下拉满。",
+      "prompt": "Realistic editorial documentary photo, deep night inside a neon tattoo studio, a young urban woman taking a mirror selfie near the entrance, phone partly covering face, black tank top, low-rise denim, visible fresh small tattoos on arm and collarbone, chrome-framed full-length mirror, violet and cyan neon spill, flash mixed with ambient light, cables, stools, tattoo sketches pinned on walls but no readable text, reflective floor, candid XiaoHongShu hot-girl urban persona mood, natural skin texture, realistic proportions, no logos, no watermark, no readable text."
+    },
+    {
+      "source": "02_ink_break_side_profile.png",
+      "category": "neon-tattoo-midnight-persona",
+      "categoryLabel": "霓虹纹身店的深夜人设照",
+      "title": "补妆间隙侧脸",
+      "description": "纹身做到一半的休息时刻，侧脸靠在工作台边，疲惫又漂亮。",
+      "prompt": "Realistic documentary-style portrait in a tattoo studio at 1am, side-profile of a stylish young woman during an ink break, sitting beside a stainless workstation, disposable gloves, ink caps, spray bottles, paper towels, half-finished tattoo wrapped on thigh, soft red neon from one side and cold overhead task light from above, tired but composed expression, slightly smudged eyeliner, urban nightlife persona, cluttered but believable studio environment, shallow depth of field, no readable labels on bottles, no brand logos, no watermark, no readable text."
+    },
+    {
+      "source": "03_artist_chair_overhead.png",
+      "category": "neon-tattoo-midnight-persona",
+      "categoryLabel": "霓虹纹身店的深夜人设照",
+      "title": "纹身椅俯拍",
+      "description": "从高处俯拍纹身椅，像一张深夜纪录片里的角色定格。",
+      "prompt": "Realistic overhead editorial photo inside a neon tattoo parlor late at night, a young woman reclining in a tattoo chair, one arm behind head, boots still on, phone resting on stomach, exposed shoulder and rib tattoo details, artist out of focus in foreground preparing tools, magenta tube light and blue neon reflections, black leather chair, tray of sterile equipment, urban documentary mood, intimate but non-glamourized, believable skin texture and studio mess, no readable signage, no logos, no watermark, no text."
+    },
+    {
+      "source": "04_backroom_sink_smoke.png",
+      "category": "neon-tattoo-midnight-persona",
+      "categoryLabel": "霓虹纹身店的深夜人设照",
+      "title": "后场洗手池烟雾感",
+      "description": "后场洗手池边整理头发，冷光和霓虹混在一起，像下班前最后一张。",
+      "prompt": "Realistic candid photo in the back room of a tattoo shop after midnight, a young urban woman leaning over a metal sink adjusting her hair, slight haze in the room, damp countertop, cleaning supplies pushed aside, white fluorescent light mixed with pink neon leaking from the front room, layered jewelry, fitted dark top, visible nape tattoo, gritty intimate documentary energy, reflection fragments in spotted mirror, late-night city persona, no readable packaging text, no logos, no watermark, no readable text."
+    },
+    {
+      "source": "05_alley_exit_after_session.png",
+      "category": "neon-tattoo-midnight-persona",
+      "categoryLabel": "霓虹纹身店的深夜人设照",
+      "title": "出店后的巷口定格",
+      "description": "做完纹身走到店外巷口，霓虹还挂在身后，人像像刚从夜里切出来。",
+      "prompt": "Realistic street-documentary portrait just outside a tattoo studio in a narrow urban alley at deep night, a young woman standing under wet neon reflections after her session, jacket loosely draped over shoulders, fresh bandage visible on upper arm, one hand holding phone at waist, looking past camera, scooters, shutter doors, puddles, cigarette glow from distant background, red-blue neon from the shop doorway behind her, XiaoHongShu hot urban persona aesthetic but grounded and realistic, no readable shop signs, no logos, no watermark, no text."
+    }
+  ]
+}
