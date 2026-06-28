@@ -1,0 +1,87 @@
+{
+  "theme": "准备挂二手前的收藏桌：一个人决定出售自己品味的那一刻",
+  "batchId": "2026-06-28-resale-collection-table",
+  "createdAt": "2026-06-28",
+  "items": [
+    {
+      "source": "01_wide_sorting_table.jpg",
+      "category": "resale-collection-table",
+      "categoryLabel": "准备挂二手前的收藏桌：一个人决定出售自己品味的那一刻",
+      "title": "整桌第一次摊开",
+      "description": "把过去几年攒下来的好看东西第一次整桌摊开，像给自己的审美做盘点。",
+      "prompt": "Realistic overhead editorial photo of a large table covered with carefully arranged personal collectibles before listing them for resale, designer toys, niche accessories, old digital camera, fragrance bottles, silver jewelry, books, cards, bubble wrap, pricing stickers, shipping scale, natural window light, tasteful but emotionally conflicted atmosphere, private taste turned into inventory, no logos, no watermark, no readable text."
+    },
+    {
+      "source": "02_label_sticker_corner.jpg",
+      "category": "resale-collection-table",
+      "categoryLabel": "准备挂二手前的收藏桌：一个人决定出售自己品味的那一刻",
+      "title": "贴价格标签的角落",
+      "description": "给曾经舍不得用的物件贴上价格的瞬间，体面开始变成数字。",
+      "prompt": "Realistic close-up of hands placing small handwritten price stickers on cherished design objects at a resale prep table, soft afternoon light, ceramic tray, collectible figurine, polished silver ring, card sleeves, shipping materials around the edges, intimate domestic documentary mood, beauty colliding with monetization, shallow depth of field, no readable text on stickers, no logos, no watermark."
+    },
+    {
+      "source": "03_bubblewrap_and_photocards.jpg",
+      "category": "resale-collection-table",
+      "categoryLabel": "准备挂二手前的收藏桌：一个人决定出售自己品味的那一刻",
+      "title": "泡泡纸与证据卡",
+      "description": "泡泡纸、卡片、配件和包装盒一起出现，像在为审美做资产证明。",
+      "prompt": "Realistic tabletop still life of bubble wrap, authenticity cards, tiny dust bags, spare straps, collectible packaging, and a few carefully chosen fashionable objects, soft neutral palette, strong tactile detail, resale documentation vibe, organized but melancholic, this should feel like preparing proof that taste once had value, no readable text, no logos, no watermark."
+    },
+    {
+      "source": "04_perfume_and_receipts.jpg",
+      "category": "resale-collection-table",
+      "categoryLabel": "准备挂二手前的收藏桌：一个人决定出售自己品味的那一刻",
+      "title": "香水空隙里的小票",
+      "description": "香水和小票放在一起，消费冲动和后悔都被摊到了桌面上。",
+      "prompt": "Realistic editorial close-up of niche perfume bottles, folded receipts, gift tissue, and jewelry on a resale prep desk, cool daylight with warm lamp spill, signs of careful ownership but also financial reconsideration, sophisticated feminine collecting culture turned into liquidation, luxurious without looking like an ad, no readable text, no brand marks, no watermark."
+    },
+    {
+      "source": "05_camera_lens_secondlife.jpg",
+      "category": "resale-collection-table",
+      "categoryLabel": "准备挂二手前的收藏桌：一个人决定出售自己品味的那一刻",
+      "title": "旧相机的第二次人生",
+      "description": "曾经为了记录生活买下的相机，如今也进入待出售清单。",
+      "prompt": "Realistic still life of a compact digital camera, spare battery, worn leather strap, memory cards, cleaning cloth, and listing props on a wooden table, late afternoon window light, faint dust, carefully arranged for resale photos, image should suggest a personal archive being converted into cash, tender but unsentimental, no logos, no watermark, no readable text."
+    },
+    {
+      "source": "06_luxury_dustbags_stack.jpg",
+      "category": "resale-collection-table",
+      "categoryLabel": "准备挂二手前的收藏桌：一个人决定出售自己品味的那一刻",
+      "title": "防尘袋叠起来以后",
+      "description": "一堆防尘袋和盒子叠在一起，像一小段已经过时的身份证明。",
+      "prompt": "Realistic documentary-style table scene with stacked dust bags, boxes, ribbons, and carefully wrapped fashion accessories awaiting resale, muted apartment interior, side light, subtle signs of former aspiration, image should feel like class signaling after the high point of purchase, tactile fabrics and packaging, no readable labels, no logos, no watermark."
+    },
+    {
+      "source": "07_night_listing_phone_setup.jpg",
+      "category": "resale-collection-table",
+      "categoryLabel": "准备挂二手前的收藏桌：一个人决定出售自己品味的那一刻",
+      "title": "深夜挂单手机支架",
+      "description": "深夜一个人支起手机拍挂单图，像在重新整理自己的欲望。",
+      "prompt": "Realistic night scene of a home resale setup with smartphone on a mini tripod, ring light or desk lamp, collectible items lined up for listing photos, laptop open nearby, shipping tape and cutter visible, solitary but purposeful mood, turning private taste into marketplace inventory after midnight, no readable app text, no logos, no watermark."
+    },
+    {
+      "source": "08_jewelry_sorting_tray.jpg",
+      "category": "resale-collection-table",
+      "categoryLabel": "准备挂二手前的收藏桌：一个人决定出售自己品味的那一刻",
+      "title": "首饰分格盘",
+      "description": "首饰分格排好之后，审美像被拆成一个个可成交的单位。",
+      "prompt": "Realistic close-up of segmented trays sorting rings, earrings, pendants, and small metal objects for resale, overhead neutral lighting, velvet pads, zip bags, tiny tags, highly tactile materials, restrained luxury and quiet economic pressure, this should feel collectible and slightly heartbreaking, no readable numbers, no logos, no watermark."
+    },
+    {
+      "source": "09_boxed_outgoing_stack.jpg",
+      "category": "resale-collection-table",
+      "categoryLabel": "准备挂二手前的收藏桌：一个人决定出售自己品味的那一刻",
+      "title": "准备寄出的那一摞",
+      "description": "几件已经决定卖掉的东西被装进盒子后，离开的现实感突然变强。",
+      "prompt": "Realistic stacked outgoing parcels on the edge of a resale worktable, partly open boxes revealing stylish objects wrapped in tissue and bubble wrap, mailing labels turned away, tape dispenser, scissors, apartment floor in background, emotional threshold moment between ownership and departure, documentary realism, no readable text, no logos, no watermark."
+    },
+    {
+      "source": "10_empty_patch_after_sale.jpg",
+      "category": "resale-collection-table",
+      "categoryLabel": "准备挂二手前的收藏桌：一个人决定出售自己品味的那一刻",
+      "title": "桌面突然空了一块",
+      "description": "东西收走以后，桌面空出来的一块反而最像故事结尾。",
+      "prompt": "Realistic editorial photo of a resale prep table after several favorite objects have been removed, obvious empty spaces left in a once-dense arrangement, a few remaining pieces, packing scraps, evening light, emotionally quiet ending frame, the absence should communicate changing taste, consumption fatigue, and self-reinvention, no readable text, no logos, no watermark."
+    }
+  ]
+}

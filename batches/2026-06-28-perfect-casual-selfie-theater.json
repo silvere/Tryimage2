@@ -1,0 +1,87 @@
+{
+  "theme": "假装随手拍：高完成度‘普通自拍’现场",
+  "batchId": "2026-06-28-perfect-casual-selfie-theater",
+  "createdAt": "2026-06-28",
+  "items": [
+    {
+      "source": "01_bathroom_flash_mirror.jpg",
+      "category": "perfect-casual-selfie-theater",
+      "categoryLabel": "假装随手拍：高完成度‘普通自拍’现场",
+      "title": "浴室闪光灯镜前",
+      "description": "酒店式浴室镜前那种看似随手、其实光线和姿态都精心控制好的自拍时刻。",
+      "prompt": "Realistic lo-fi phone mirror selfie in a tidy apartment bathroom, adult woman in a loose white T-shirt and casual pajama pants, direct flash, slight overexposure on tiles, damp sink edge, skincare bottles pushed aside, clipped-up hair, phone partly covering face, believable morning clutter, documentary social-media realism about careful self-presentation, natural skin texture, no logos, no watermark, no readable text."
+    },
+    {
+      "source": "02_elevator_reflection_pause.jpg",
+      "category": "perfect-casual-selfie-theater",
+      "categoryLabel": "假装随手拍：高完成度‘普通自拍’现场",
+      "title": "电梯反光停顿",
+      "description": "等电梯时借金属门反光快速拍下的一张，像顺手，其实整个人设都在。",
+      "prompt": "Realistic candid-looking elevator reflection selfie, adult woman in a simple everyday outfit with a tote bag and sneakers, brushed stainless steel doors reflecting the scene, flash bounce on metal, apartment hallway lighting, slightly tired expression, understated but intentional styling, captured like a quick pause before going out, social-media realism, no logos, no watermark, no readable text."
+    },
+    {
+      "source": "03_bedside_morning_frontcam.jpg",
+      "category": "perfect-casual-selfie-theater",
+      "categoryLabel": "假装随手拍：高完成度‘普通自拍’现场",
+      "title": "窗边晨起前置镜头",
+      "description": "坐在窗边椅子上的晨起自拍，松弛感和形象管理同时存在。",
+      "prompt": "Realistic front-camera morning selfie by a window seat in a small apartment, adult woman in a plain cardigan and comfortable home clothes, soft daylight, mug and open notebook nearby, slightly messy hair, sleepy face but carefully composed angle, intimate home moment shaped by self-presentation, documentary editorial realism, no brands, no watermark, no readable text."
+    },
+    {
+      "source": "04_cafe_restroom_counterpose.jpg",
+      "category": "perfect-casual-selfie-theater",
+      "categoryLabel": "假装随手拍：高完成度‘普通自拍’现场",
+      "title": "咖啡店洗手间补拍",
+      "description": "出门约会中途在咖啡店洗手间里快速补拍的一张。",
+      "prompt": "Realistic mirror selfie inside a trendy cafe restroom, adult woman adjusting posture beside a terrazzo sink, simple shoulder bag, jeans and plain fitted top, flash-lit phone photo, paper towels and hand soap visible, warm overhead lighting with cooler mirror light, image feels like a quick between-moments capture during a meetup, polished casual identity performance, no logos, no watermark, no readable text."
+    },
+    {
+      "source": "05_crosswalk_glass_storefront.jpg",
+      "category": "perfect-casual-selfie-theater",
+      "categoryLabel": "假装随手拍：高完成度‘普通自拍’现场",
+      "title": "街角玻璃橱窗借反射",
+      "description": "过马路前借店铺玻璃反光拍到的城市自拍，漫不经心里带着算计。",
+      "prompt": "Realistic urban reflection selfie in a storefront window near a crosswalk at dusk, adult woman pausing mid-walk, iced coffee in one hand, phone hidden low in the other, layered city reflections, traffic lights, blurred pedestrians, understated outfit, image should feel accidental yet intentionally flattering, contemporary city self-presentation, natural colors, no store branding, no watermark, no readable text."
+    },
+    {
+      "source": "06_gym_locker_afterwork.jpg",
+      "category": "perfect-casual-selfie-theater",
+      "categoryLabel": "假装随手拍：高完成度‘普通自拍’现场",
+      "title": "健身房更衣柜后工位感",
+      "description": "下班后健身房更衣室里那种‘刚运动完’但依然控制得很好的自拍。",
+      "prompt": "Realistic gym locker room mirror selfie after work, adult woman in a modest workout set with a zip hoodie and gym bag, flushed face, tied-back hair, metal lockers, duffel bag on bench, half-open water bottle, flash-lit phone photo with slight grain, body-management culture and office-to-gym routine visible in the scene, candid but carefully optimized, no logos, no watermark, no readable text."
+    },
+    {
+      "source": "07_ride_hailing_backseat.jpg",
+      "category": "perfect-casual-selfie-theater",
+      "categoryLabel": "假装随手拍：高完成度‘普通自拍’现场",
+      "title": "网约车后座低角度",
+      "description": "坐在网约车后排临时拍下的一张，夜色和疲惫都成了氛围。",
+      "prompt": "Realistic low-angle front-camera selfie from the back seat of a ride-hailing car at night, adult woman with soft tired eyes, city bokeh outside the window, seat belt across chest, black leather seat, one dangling earring, image feels like a fleeting personal update after a long evening, intimate but socially curated, no car logos, no watermark, no readable text."
+    },
+    {
+      "source": "08_dressing_room_halfturn.jpg",
+      "category": "perfect-casual-selfie-theater",
+      "categoryLabel": "假装随手拍：高完成度‘普通自拍’现场",
+      "title": "试衣间半转身",
+      "description": "试衣间里假装给朋友看衣服、其实顺手为账号留下的一张。",
+      "prompt": "Realistic fitting-room mirror selfie, adult woman checking the fit of a simple jacket and jeans, curtain edge, shopping bags on floor, top light softened by flash, phone covers part of face, pose engineered to look spontaneous, consumer identity and appearance management embedded in the frame, editorial realism, no brand names, no watermark, no readable text."
+    },
+    {
+      "source": "09_party_kitchen_overheadflash.jpg",
+      "category": "perfect-casual-selfie-theater",
+      "categoryLabel": "假装随手拍：高完成度‘普通自拍’现场",
+      "title": "聚会厨房高闪定格",
+      "description": "朋友聚会时躲到厨房里用闪光灯补拍的一张，热闹和孤独同时出现。",
+      "prompt": "Realistic flash selfie in a crowded apartment party kitchen, adult woman standing near a counter with plastic cups, fruit, melting ice, and half-finished bottles, background people blurred, direct flash flattening the foreground while the room behind stays dim, carefully maintained cool expression, image should carry both fun-night energy and social loneliness, no labels, no logos, no watermark, no readable text."
+    },
+    {
+      "source": "10_late_night_desk_camroll.jpg",
+      "category": "perfect-casual-selfie-theater",
+      "categoryLabel": "假装随手拍：高完成度‘普通自拍’现场",
+      "title": "深夜桌边相册回看",
+      "description": "深夜坐回桌边回看相册时再补的一张，像一场人设管理的收尾。",
+      "prompt": "Realistic late-night selfie at a small desk after scrolling through camera roll, adult woman lit by laptop screen and bedside lamp, makeup slightly faded, phone held close, cosmetics, charger, receipts and earbuds scattered around, expression thoughtful rather than cheerful, final backstage frame of a self-curation ritual, intimate urban loneliness, natural skin and believable room details, no logos, no watermark, no readable text."
+    }
+  ]
+}
