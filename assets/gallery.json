@@ -1,7 +1,7 @@
 {
   "site": {
     "title": "OpenAI image2 视觉实验",
-    "subtitle": "1382 张传播向 AI 海报",
+    "subtitle": "1387 张传播向 AI 海报",
     "headline": "OpenAI image2 视觉实验",
     "intro": "每一批图片围绕一个临时主题生成，并按当次最合适的 category 归档；可以是反差创意、真实场景、产品概念、人物叙事或任何新的视觉方向。",
     "coverImage": "assets/contact_sheet_image2.jpg",
@@ -478,6 +478,10 @@
     {
       "id": "resale-collection-table",
       "label": "准备挂二手前的收藏桌：一个人决定出售自己品味的那一刻"
+    },
+    {
+      "id": "rental-apartment-collection-altar",
+      "label": "出租屋收藏祭坛：成年人把情绪摆上桌"
     }
   ],
   "batches": [
@@ -1140,6 +1144,12 @@
       "theme": "准备挂二手前的收藏桌：一个人决定出售自己品味的那一刻",
       "createdAt": "2026-06-28",
       "count": 10
+    },
+    {
+      "id": "2026-07-01-rental-apartment-collection-altar",
+      "theme": "出租屋收藏祭坛：成年人把情绪摆上桌",
+      "createdAt": "2026-07-01",
+      "count": 5
     }
   ],
   "items": [
@@ -16329,6 +16339,61 @@
       "thumb": "assets/thumbs/2026-06-28-resale-collection-table/10_桌面突然空了一块.png",
       "description": "东西收走以后，桌面空出来的一块反而最像故事结尾。",
       "prompt": "Realistic editorial photo of a resale prep table after several favorite objects have been removed, obvious empty spaces left in a once-dense arrangement, a few remaining pieces, packing scraps, evening light, emotionally quiet ending frame, the absence should communicate changing taste, consumption fatigue, and self-reinvention, no readable text, no logos, no watermark."
+    },
+    {
+      "id": "2026-07-01-rental-apartment-collection-altar_01_出租屋里的总祭坛",
+      "batch": "2026-07-01-rental-apartment-collection-altar",
+      "category": "rental-apartment-collection-altar",
+      "number": "01",
+      "title": "出租屋里的总祭坛",
+      "image": "assets/images/2026-07-01-rental-apartment-collection-altar/01_出租屋里的总祭坛.jpg",
+      "thumb": "assets/thumbs/2026-07-01-rental-apartment-collection-altar/01_出租屋里的总祭坛.png",
+      "description": "廉价折叠桌和地板拼成的收藏祭坛，把情绪、品味和租房现实同时摊开。",
+      "prompt": "Realistic editorial interior photo of a cramped rental apartment where a low folding table and floor corner have been turned into a dense personal collectible altar, blind boxes, figurines, old digital camera, candles, postcards, perfume, scattered charging cables, soft night lamp, slightly worn walls, emotional but tasteful clutter, strong lived-in Chinese rental vibe, documentary realism, no readable text, no logos, no watermark."
+    },
+    {
+      "id": "2026-07-01-rental-apartment-collection-altar_02_蜡烛照着的小神龛",
+      "batch": "2026-07-01-rental-apartment-collection-altar",
+      "category": "rental-apartment-collection-altar",
+      "number": "02",
+      "title": "蜡烛照着的小神龛",
+      "image": "assets/images/2026-07-01-rental-apartment-collection-altar/02_蜡烛照着的小神龛.jpg",
+      "thumb": "assets/thumbs/2026-07-01-rental-apartment-collection-altar/02_蜡烛照着的小神龛.png",
+      "description": "香薰蜡烛和小摆件挤在一起，像成年人给自己留的一块情绪供台。",
+      "prompt": "Realistic close-up of a tiny altar-like rental apartment shelf with scented candle glow, small figurines, charms, framed instant photo, incense tray, keychains and trinkets packed tightly together, intimate late-night mood, slightly dusty but lovingly arranged, the scene should feel like an adult building a private emotional shrine in a temporary home, no readable text, no logos, no watermark."
+    },
+    {
+      "id": "2026-07-01-rental-apartment-collection-altar_03_床边陪伴物和账单夹层",
+      "batch": "2026-07-01-rental-apartment-collection-altar",
+      "category": "rental-apartment-collection-altar",
+      "number": "03",
+      "title": "床边陪伴物和账单夹层",
+      "image": "assets/images/2026-07-01-rental-apartment-collection-altar/03_床边陪伴物和账单夹层.jpg",
+      "thumb": "assets/thumbs/2026-07-01-rental-apartment-collection-altar/03_床边陪伴物和账单夹层.png",
+      "description": "毛绒玩具、药盒、快递和账单混在一起，安慰和压力共用一个角落。",
+      "prompt": "Realistic bedside still life in a small rental bedroom: plush toy, pill box, charging phone, unopened parcels, folded utility bills tucked under a tray, hair clip, hand cream, and a cheap bedside lamp, emotionally revealing but not messy in a gross way, image should show comfort objects and financial pressure sharing the same tiny space, documentary apartment realism, no readable text, no logos, no watermark."
+    },
+    {
+      "id": "2026-07-01-rental-apartment-collection-altar_04_收纳箱打开以后",
+      "batch": "2026-07-01-rental-apartment-collection-altar",
+      "category": "rental-apartment-collection-altar",
+      "number": "04",
+      "title": "收纳箱打开以后",
+      "image": "assets/images/2026-07-01-rental-apartment-collection-altar/04_收纳箱打开以后.jpg",
+      "thumb": "assets/thumbs/2026-07-01-rental-apartment-collection-altar/04_收纳箱打开以后.png",
+      "description": "透明收纳箱一打开，囤着的热爱像一次性溢出来，房间更像临时人生。",
+      "prompt": "Realistic documentary photo of a translucent storage box opened on the floor of a rented apartment, overflowing with carefully saved collectibles, accessories, old magazines, packaging, mini display stands and sentimental objects, narrow room, laminate flooring, fan or heater in the background, visual tension between devotion and lack of space, no readable text, no logos, no watermark."
+    },
+    {
+      "id": "2026-07-01-rental-apartment-collection-altar_05_收拾完之后空的一块",
+      "batch": "2026-07-01-rental-apartment-collection-altar",
+      "category": "rental-apartment-collection-altar",
+      "number": "05",
+      "title": "收拾完之后空的一块",
+      "image": "assets/images/2026-07-01-rental-apartment-collection-altar/05_收拾完之后空的一块.jpg",
+      "thumb": "assets/thumbs/2026-07-01-rental-apartment-collection-altar/05_收拾完之后空的一块.png",
+      "description": "当一部分东西被挪走，出租屋里空出来的一块地反而最像成年人的真相。",
+      "prompt": "Realistic editorial wide shot of the same rental apartment corner after partial cleanup, clear empty patch where collectibles used to be, a few remaining objects, packing materials, soft morning light through curtains, temporary home atmosphere, emotional aftermath without human figure, absence should feel like a quiet adult reset inside a rented life, no readable text, no logos, no watermark."
     }
   ]
 }
