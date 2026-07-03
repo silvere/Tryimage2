@@ -1,7 +1,7 @@
 {
   "site": {
     "title": "OpenAI image2 视觉实验",
-    "subtitle": "1387 张传播向 AI 海报",
+    "subtitle": "1395 张传播向 AI 海报",
     "headline": "OpenAI image2 视觉实验",
     "intro": "每一批图片围绕一个临时主题生成，并按当次最合适的 category 归档；可以是反差创意、真实场景、产品概念、人物叙事或任何新的视觉方向。",
     "coverImage": "assets/contact_sheet_image2.jpg",
@@ -482,6 +482,10 @@
     {
       "id": "rental-apartment-collection-altar",
       "label": "出租屋收藏祭坛：成年人把情绪摆上桌"
+    },
+    {
+      "id": "convenience-store-cctv-midnight-drama",
+      "label": "凌晨便利店监控戏剧：每个人都像在藏点什么"
     }
   ],
   "batches": [
@@ -1150,6 +1154,12 @@
       "theme": "出租屋收藏祭坛：成年人把情绪摆上桌",
       "createdAt": "2026-07-01",
       "count": 5
+    },
+    {
+      "id": "2026-07-03-convenience-store-cctv-midnight-drama",
+      "theme": "凌晨便利店监控戏剧：每个人都像在藏点什么",
+      "createdAt": "2026-07-03",
+      "count": 8
     }
   ],
   "items": [
@@ -16394,6 +16404,94 @@
       "thumb": "assets/thumbs/2026-07-01-rental-apartment-collection-altar/05_收拾完之后空的一块.png",
       "description": "当一部分东西被挪走，出租屋里空出来的一块地反而最像成年人的真相。",
       "prompt": "Realistic editorial wide shot of the same rental apartment corner after partial cleanup, clear empty patch where collectibles used to be, a few remaining objects, packing materials, soft morning light through curtains, temporary home atmosphere, emotional aftermath without human figure, absence should feel like a quiet adult reset inside a rented life, no readable text, no logos, no watermark."
+    },
+    {
+      "id": "2026-07-03-convenience-store-cctv-midnight-drama_01_玻璃门口那一下停顿",
+      "batch": "2026-07-03-convenience-store-cctv-midnight-drama",
+      "category": "convenience-store-cctv-midnight-drama",
+      "number": "01",
+      "title": "玻璃门口那一下停顿",
+      "image": "assets/images/2026-07-03-convenience-store-cctv-midnight-drama/01_玻璃门口那一下停顿.jpg",
+      "thumb": "assets/thumbs/2026-07-03-convenience-store-cctv-midnight-drama/01_玻璃门口那一下停顿.png",
+      "description": "鱼眼监控视角下，有人推门却先停住，像在给自己做最后一次心理建设。",
+      "prompt": "Realistic late-night convenience store scene from a ceiling CCTV fisheye camera, a tired young adult pausing at the glass entrance before stepping in, wet street outside, harsh fluorescent light, convenience store shelves, subtle urban tension, documentary realism, strong surveillance perspective, no readable text, no logos, no watermark."
+    },
+    {
+      "id": "2026-07-03-convenience-store-cctv-midnight-drama_02_微波炉前和安全帽一起等",
+      "batch": "2026-07-03-convenience-store-cctv-midnight-drama",
+      "category": "convenience-store-cctv-midnight-drama",
+      "number": "02",
+      "title": "微波炉前和安全帽一起等",
+      "image": "assets/images/2026-07-03-convenience-store-cctv-midnight-drama/02_微波炉前和安全帽一起等.jpg",
+      "thumb": "assets/thumbs/2026-07-03-convenience-store-cctv-midnight-drama/02_微波炉前和安全帽一起等.png",
+      "description": "夜班和返程的人都在等那一分钟，头盔、便当和疲惫排成了同一种生活。",
+      "prompt": "Realistic documentary photo from convenience store security camera view, a person in work clothes waiting by the microwave with a motorcycle helmet, heated boxed meal, convenience store counter glow, fluorescent shadows, midnight fatigue, urban loneliness, strong candid realism, no readable text, no logos, no watermark."
+    },
+    {
+      "id": "2026-07-03-convenience-store-cctv-midnight-drama_03_冷柜灯下那束临时的花",
+      "batch": "2026-07-03-convenience-store-cctv-midnight-drama",
+      "category": "convenience-store-cctv-midnight-drama",
+      "number": "03",
+      "title": "冷柜灯下那束临时的花",
+      "image": "assets/images/2026-07-03-convenience-store-cctv-midnight-drama/03_冷柜灯下那束临时的花.jpg",
+      "thumb": "assets/thumbs/2026-07-03-convenience-store-cctv-midnight-drama/03_冷柜灯下那束临时的花.png",
+      "description": "一束便宜花在饮料冷柜前显得格外像秘密，像谁在补一场来不及的关系。",
+      "prompt": "Realistic late-night convenience store aisle under refrigerator light, a customer holding a cheap flower bouquet while staring at drinks, surveillance-camera angle, fluorescent blue glow, emotional secrecy, modern Chinese city atmosphere, documentary style, no readable text, no logos, no watermark."
+    },
+    {
+      "id": "2026-07-03-convenience-store-cctv-midnight-drama_04_收银台上的两罐提神饮料",
+      "batch": "2026-07-03-convenience-store-cctv-midnight-drama",
+      "category": "convenience-store-cctv-midnight-drama",
+      "number": "04",
+      "title": "收银台上的两罐提神饮料",
+      "image": "assets/images/2026-07-03-convenience-store-cctv-midnight-drama/04_收银台上的两罐提神饮料.jpg",
+      "thumb": "assets/thumbs/2026-07-03-convenience-store-cctv-midnight-drama/04_收银台上的两罐提神饮料.png",
+      "description": "两罐功能饮料和一只没电的手机放在一起，像成年人对清醒的最低配解决方案。",
+      "prompt": "Realistic convenience store checkout seen from overhead CCTV, two energy drinks, a nearly dead phone, crumpled receipt, tired customer hands, cashier counter glow, midnight survival mood, surveillance realism, no readable text, no logos, no watermark."
+    },
+    {
+      "id": "2026-07-03-convenience-store-cctv-midnight-drama_05_坏雨伞靠着塑料袋架",
+      "batch": "2026-07-03-convenience-store-cctv-midnight-drama",
+      "category": "convenience-store-cctv-midnight-drama",
+      "number": "05",
+      "title": "坏雨伞靠着塑料袋架",
+      "image": "assets/images/2026-07-03-convenience-store-cctv-midnight-drama/05_坏雨伞靠着塑料袋架.jpg",
+      "thumb": "assets/thumbs/2026-07-03-convenience-store-cctv-midnight-drama/05_坏雨伞靠着塑料袋架.png",
+      "description": "一把折坏的雨伞被暂时立在角落，狼狈感比人更先暴露出来。",
+      "prompt": "Realistic documentary shot from convenience store corner camera, broken umbrella leaning beside plastic bag rack and wet floor sign, anonymous customer partly out of frame, rainy midnight atmosphere, fluorescent convenience store lighting, subtle embarrassment and vulnerability, no readable text, no logos, no watermark."
+    },
+    {
+      "id": "2026-07-03-convenience-store-cctv-midnight-drama_06_外卖骑手在热柜边暖手",
+      "batch": "2026-07-03-convenience-store-cctv-midnight-drama",
+      "category": "convenience-store-cctv-midnight-drama",
+      "number": "06",
+      "title": "外卖骑手在热柜边暖手",
+      "image": "assets/images/2026-07-03-convenience-store-cctv-midnight-drama/06_外卖骑手在热柜边暖手.jpg",
+      "thumb": "assets/thumbs/2026-07-03-convenience-store-cctv-midnight-drama/06_外卖骑手在热柜边暖手.png",
+      "description": "不是所有深夜都像电影，很多人只是靠便利店热柜把自己撑到下一单。",
+      "prompt": "Realistic late-night convenience store security camera image of a delivery rider warming hands near the hot food cabinet, helmet on arm, insulated bag on the floor, fluorescent interior, exhausted but composed posture, hidden service labor mood, documentary realism, no readable text, no logos, no watermark."
+    },
+    {
+      "id": "2026-07-03-convenience-store-cctv-midnight-drama_07_凸面镜里那一下回头",
+      "batch": "2026-07-03-convenience-store-cctv-midnight-drama",
+      "category": "convenience-store-cctv-midnight-drama",
+      "number": "07",
+      "title": "凸面镜里那一下回头",
+      "image": "assets/images/2026-07-03-convenience-store-cctv-midnight-drama/07_凸面镜里那一下回头.jpg",
+      "thumb": "assets/thumbs/2026-07-03-convenience-store-cctv-midnight-drama/07_凸面镜里那一下回头.png",
+      "description": "货架尽头的回头被凸面镜放大以后，平常的防备突然像一段悬疑片。",
+      "prompt": "Realistic convenience store aisle captured with both CCTV camera and convex security mirror in frame, a customer glancing back at the end of the aisle, stacked snacks and instant noodles, suspenseful but believable urban scene, surveillance perspective, documentary realism, no readable text, no logos, no watermark."
+    },
+    {
+      "id": "2026-07-03-convenience-store-cctv-midnight-drama_08_结完账推门出去的人",
+      "batch": "2026-07-03-convenience-store-cctv-midnight-drama",
+      "category": "convenience-store-cctv-midnight-drama",
+      "number": "08",
+      "title": "结完账推门出去的人",
+      "image": "assets/images/2026-07-03-convenience-store-cctv-midnight-drama/08_结完账推门出去的人.jpg",
+      "thumb": "assets/thumbs/2026-07-03-convenience-store-cctv-midnight-drama/08_结完账推门出去的人.png",
+      "description": "买完东西走回雨夜的那一瞬间，像每个都市人都把自己的小秘密重新带回了街上。",
+      "prompt": "Realistic final moment from a convenience store entrance CCTV camera, customer leaving into rainy night carrying a small plastic bag, fluorescent interior behind them, wet pavement outside, emotional aftertaste, anonymous city life, documentary realism, no readable text, no logos, no watermark."
     }
   ]
 }

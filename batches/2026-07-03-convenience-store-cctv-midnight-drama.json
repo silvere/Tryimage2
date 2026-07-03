@@ -1,0 +1,71 @@
+{
+  "theme": "凌晨便利店监控戏剧：每个人都像在藏点什么",
+  "batchId": "2026-07-03-convenience-store-cctv-midnight-drama",
+  "createdAt": "2026-07-03",
+  "items": [
+    {
+      "source": "01_fisheye-entrance-pause.jpg",
+      "category": "convenience-store-cctv-midnight-drama",
+      "categoryLabel": "凌晨便利店监控戏剧：每个人都像在藏点什么",
+      "title": "玻璃门口那一下停顿",
+      "description": "鱼眼监控视角下，有人推门却先停住，像在给自己做最后一次心理建设。",
+      "prompt": "Realistic late-night convenience store scene from a ceiling CCTV fisheye camera, a tired young adult pausing at the glass entrance before stepping in, wet street outside, harsh fluorescent light, convenience store shelves, subtle urban tension, documentary realism, strong surveillance perspective, no readable text, no logos, no watermark."
+    },
+    {
+      "source": "02_microwave-and-motorcycle-helmet.jpg",
+      "category": "convenience-store-cctv-midnight-drama",
+      "categoryLabel": "凌晨便利店监控戏剧：每个人都像在藏点什么",
+      "title": "微波炉前和安全帽一起等",
+      "description": "夜班和返程的人都在等那一分钟，头盔、便当和疲惫排成了同一种生活。",
+      "prompt": "Realistic documentary photo from convenience store security camera view, a person in work clothes waiting by the microwave with a motorcycle helmet, heated boxed meal, convenience store counter glow, fluorescent shadows, midnight fatigue, urban loneliness, strong candid realism, no readable text, no logos, no watermark."
+    },
+    {
+      "source": "03_flower-bouquet-in-freezer-light.jpg",
+      "category": "convenience-store-cctv-midnight-drama",
+      "categoryLabel": "凌晨便利店监控戏剧：每个人都像在藏点什么",
+      "title": "冷柜灯下那束临时的花",
+      "description": "一束便宜花在饮料冷柜前显得格外像秘密，像谁在补一场来不及的关系。",
+      "prompt": "Realistic late-night convenience store aisle under refrigerator light, a customer holding a cheap flower bouquet while staring at drinks, surveillance-camera angle, fluorescent blue glow, emotional secrecy, modern Chinese city atmosphere, documentary style, no readable text, no logos, no watermark."
+    },
+    {
+      "source": "04_counter-with-two-energy-drinks.jpg",
+      "category": "convenience-store-cctv-midnight-drama",
+      "categoryLabel": "凌晨便利店监控戏剧：每个人都像在藏点什么",
+      "title": "收银台上的两罐提神饮料",
+      "description": "两罐功能饮料和一只没电的手机放在一起，像成年人对清醒的最低配解决方案。",
+      "prompt": "Realistic convenience store checkout seen from overhead CCTV, two energy drinks, a nearly dead phone, crumpled receipt, tired customer hands, cashier counter glow, midnight survival mood, surveillance realism, no readable text, no logos, no watermark."
+    },
+    {
+      "source": "05_broken-umbrella-by-plastic-bags.jpg",
+      "category": "convenience-store-cctv-midnight-drama",
+      "categoryLabel": "凌晨便利店监控戏剧：每个人都像在藏点什么",
+      "title": "坏雨伞靠着塑料袋架",
+      "description": "一把折坏的雨伞被暂时立在角落，狼狈感比人更先暴露出来。",
+      "prompt": "Realistic documentary shot from convenience store corner camera, broken umbrella leaning beside plastic bag rack and wet floor sign, anonymous customer partly out of frame, rainy midnight atmosphere, fluorescent convenience store lighting, subtle embarrassment and vulnerability, no readable text, no logos, no watermark."
+    },
+    {
+      "source": "06_delivery-rider-heating-hands.jpg",
+      "category": "convenience-store-cctv-midnight-drama",
+      "categoryLabel": "凌晨便利店监控戏剧：每个人都像在藏点什么",
+      "title": "外卖骑手在热柜边暖手",
+      "description": "不是所有深夜都像电影，很多人只是靠便利店热柜把自己撑到下一单。",
+      "prompt": "Realistic late-night convenience store security camera image of a delivery rider warming hands near the hot food cabinet, helmet on arm, insulated bag on the floor, fluorescent interior, exhausted but composed posture, hidden service labor mood, documentary realism, no readable text, no logos, no watermark."
+    },
+    {
+      "source": "07_convex-mirror-aisle-glance.jpg",
+      "category": "convenience-store-cctv-midnight-drama",
+      "categoryLabel": "凌晨便利店监控戏剧：每个人都像在藏点什么",
+      "title": "凸面镜里那一下回头",
+      "description": "货架尽头的回头被凸面镜放大以后，平常的防备突然像一段悬疑片。",
+      "prompt": "Realistic convenience store aisle captured with both CCTV camera and convex security mirror in frame, a customer glancing back at the end of the aisle, stacked snacks and instant noodles, suspenseful but believable urban scene, surveillance perspective, documentary realism, no readable text, no logos, no watermark."
+    },
+    {
+      "source": "08_exit-door-after-purchase.jpg",
+      "category": "convenience-store-cctv-midnight-drama",
+      "categoryLabel": "凌晨便利店监控戏剧：每个人都像在藏点什么",
+      "title": "结完账推门出去的人",
+      "description": "买完东西走回雨夜的那一瞬间，像每个都市人都把自己的小秘密重新带回了街上。",
+      "prompt": "Realistic final moment from a convenience store entrance CCTV camera, customer leaving into rainy night carrying a small plastic bag, fluorescent interior behind them, wet pavement outside, emotional aftertaste, anonymous city life, documentary realism, no readable text, no logos, no watermark."
+    }
+  ]
+}
