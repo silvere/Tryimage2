@@ -1,7 +1,7 @@
 {
   "site": {
     "title": "OpenAI image2 视觉实验",
-    "subtitle": "1395 张传播向 AI 海报",
+    "subtitle": "1405 张传播向 AI 海报",
     "headline": "OpenAI image2 视觉实验",
     "intro": "每一批图片围绕一个临时主题生成，并按当次最合适的 category 归档；可以是反差创意、真实场景、产品概念、人物叙事或任何新的视觉方向。",
     "coverImage": "assets/contact_sheet_image2.jpg",
@@ -486,6 +486,14 @@
     {
       "id": "convenience-store-cctv-midnight-drama",
       "label": "凌晨便利店监控戏剧：每个人都像在藏点什么"
+    },
+    {
+      "id": "messy-bedroom-mirror-selfie-theater",
+      "label": "乱卧室镜自拍：精致装穷的人设现场"
+    },
+    {
+      "id": "famous-characters-office-shift",
+      "label": "知名角色的普通班味：IP人物混进打工日常"
     }
   ],
   "batches": [
@@ -1160,6 +1168,18 @@
       "theme": "凌晨便利店监控戏剧：每个人都像在藏点什么",
       "createdAt": "2026-07-03",
       "count": 8
+    },
+    {
+      "id": "2026-07-05-messy-bedroom-mirror-selfie-theater",
+      "theme": "乱卧室镜自拍：精致装穷的人设现场",
+      "createdAt": "2026-07-05",
+      "count": 5
+    },
+    {
+      "id": "2026-07-05-famous-characters-office-shift",
+      "theme": "知名角色的普通班味：IP人物混进打工日常",
+      "createdAt": "2026-07-05",
+      "count": 5
     }
   ],
   "items": [
@@ -16492,6 +16512,116 @@
       "thumb": "assets/thumbs/2026-07-03-convenience-store-cctv-midnight-drama/08_结完账推门出去的人.png",
       "description": "买完东西走回雨夜的那一瞬间，像每个都市人都把自己的小秘密重新带回了街上。",
       "prompt": "Realistic final moment from a convenience store entrance CCTV camera, customer leaving into rainy night carrying a small plastic bag, fluorescent interior behind them, wet pavement outside, emotional aftertaste, anonymous city life, documentary realism, no readable text, no logos, no watermark."
+    },
+    {
+      "id": "2026-07-05-messy-bedroom-mirror-selfie-theater_01_衣堆前的闪光灯镜拍",
+      "batch": "2026-07-05-messy-bedroom-mirror-selfie-theater",
+      "category": "messy-bedroom-mirror-selfie-theater",
+      "number": "01",
+      "title": "衣堆前的闪光灯镜拍",
+      "image": "assets/images/2026-07-05-messy-bedroom-mirror-selfie-theater/01_衣堆前的闪光灯镜拍.jpg",
+      "thumb": "assets/thumbs/2026-07-05-messy-bedroom-mirror-selfie-theater/01_衣堆前的闪光灯镜拍.png",
+      "description": "落地镜前看似刚回家随手一拍，但每一层凌乱都像刻意搭好的生活证据。",
+      "prompt": "Realistic lo-fi phone mirror selfie in a cramped rented bedroom, adult woman wearing an oversized faded T-shirt and relaxed shorts, direct flash, piles of folded and unfolded clothes on a chair, half-open wardrobe, floor mattress edge, tangled charging cables, one expensive skincare bottle hidden among cheap daily items, believable night clutter, social-media realism about carefully staged low-budget intimacy, natural skin texture, no logos, no watermark, no readable text."
+    },
+    {
+      "id": "2026-07-05-messy-bedroom-mirror-selfie-theater_02_床头灯下的半成品妆面",
+      "batch": "2026-07-05-messy-bedroom-mirror-selfie-theater",
+      "category": "messy-bedroom-mirror-selfie-theater",
+      "number": "02",
+      "title": "床头灯下的半成品妆面",
+      "image": "assets/images/2026-07-05-messy-bedroom-mirror-selfie-theater/02_床头灯下的半成品妆面.jpg",
+      "thumb": "assets/thumbs/2026-07-05-messy-bedroom-mirror-selfie-theater/02_床头灯下的半成品妆面.png",
+      "description": "床边台灯和镜子里那种还没完全收拾好的脸，像真实，其实氛围被算得很准。",
+      "prompt": "Realistic mirror selfie beside a narrow bed in a messy apartment bedroom, adult woman with half-finished makeup and clipped-up hair, warm bedside lamp mixed with direct phone flash, crumpled duvet, open cosmetic pouch, cheap plastic drawers, one carefully placed perfume, used cotton pads and receipts on the floor, intimate but performed social-media realism, documentary editorial style, no logos, no watermark, no readable text."
+    },
+    {
+      "id": "2026-07-05-messy-bedroom-mirror-selfie-theater_03_门后镜与洗衣袋",
+      "batch": "2026-07-05-messy-bedroom-mirror-selfie-theater",
+      "category": "messy-bedroom-mirror-selfie-theater",
+      "number": "03",
+      "title": "门后镜与洗衣袋",
+      "image": "assets/images/2026-07-05-messy-bedroom-mirror-selfie-theater/03_门后镜与洗衣袋.jpg",
+      "thumb": "assets/thumbs/2026-07-05-messy-bedroom-mirror-selfie-theater/03_门后镜与洗衣袋.png",
+      "description": "门后窄镜里把自己挤成一个很会生活的人，背景却故意留着廉价租房感。",
+      "prompt": "Realistic full-body doorway mirror photo in a very small rental bedroom, adult woman in an oversized gray hoodie and loose drawstring lounge pants, phone covering most of the face, mirror mounted on the back of the door, overstuffed striped laundry bag touching the frame, plastic laundry hamper, hanging bath towel, scattered slippers, direct flash with slightly harsh shadows, camera angle shows more of the doorway and cramped floor than the person, documentary rented-room realism with clear domestic clutter, natural colors, no logos, no watermark, no readable text."
+    },
+    {
+      "id": "2026-07-05-messy-bedroom-mirror-selfie-theater_04_深夜回屋后的桌面反射",
+      "batch": "2026-07-05-messy-bedroom-mirror-selfie-theater",
+      "category": "messy-bedroom-mirror-selfie-theater",
+      "number": "04",
+      "title": "深夜回屋后的桌面反射",
+      "image": "assets/images/2026-07-05-messy-bedroom-mirror-selfie-theater/04_深夜回屋后的桌面反射.jpg",
+      "thumb": "assets/thumbs/2026-07-05-messy-bedroom-mirror-selfie-theater/04_深夜回屋后的桌面反射.png",
+      "description": "回到房间把包一放就对着桌上小镜子补一张，疲惫和经营同时在线。",
+      "prompt": "Realistic late-night vanity mirror selfie on a cluttered desk in a rented bedroom, adult woman still wearing a simple work cardigan and skirt after coming home, tote bag slumped on chair, instant noodle cup, earbuds, unpaid bills, cheap desk fan, soft yellow ceiling light with phone flash, image should feel tired yet strategically beautiful, contemporary urban self-presentation, no brands, no watermark, no readable text."
+    },
+    {
+      "id": "2026-07-05-messy-bedroom-mirror-selfie-theater_05_晨光里的前夜残留",
+      "batch": "2026-07-05-messy-bedroom-mirror-selfie-theater",
+      "category": "messy-bedroom-mirror-selfie-theater",
+      "number": "05",
+      "title": "晨光里的前夜残留",
+      "image": "assets/images/2026-07-05-messy-bedroom-mirror-selfie-theater/05_晨光里的前夜残留.jpg",
+      "thumb": "assets/thumbs/2026-07-05-messy-bedroom-mirror-selfie-theater/05_晨光里的前夜残留.png",
+      "description": "第二天早上的自然光把前夜没收拾的房间全照出来，反而成了最值钱的松弛感。",
+      "prompt": "Realistic morning mirror selfie in a messy bedroom with soft daylight from a window, adult woman in a washed-out cardigan over a plain camisole, rumpled bedding, empty water glass, laptop half closed, yesterday's outfit on the floor, cheap curtains, modest rented-room details, image should feel like accidental authenticity but subtly curated for social media, documentary realism, no logos, no watermark, no readable text."
+    },
+    {
+      "id": "2026-07-05-famous-characters-office-shift_01_孙悟空挤早高峰地铁",
+      "batch": "2026-07-05-famous-characters-office-shift",
+      "category": "famous-characters-office-shift",
+      "number": "01",
+      "title": "孙悟空挤早高峰地铁",
+      "image": "assets/images/2026-07-05-famous-characters-office-shift/01_孙悟空挤早高峰地铁.jpg",
+      "thumb": "assets/thumbs/2026-07-05-famous-characters-office-shift/01_孙悟空挤早高峰地铁.png",
+      "description": "神通广大的角色也得背着电脑包挤进工作日的七号线。",
+      "prompt": "Cinematic realistic scene of Sun Wukong commuting in a crowded morning subway, monkey king in a wrinkled office shirt under a cheap blazer, carrying a laptop backpack and a coffee cup, golden staff collapsed like an umbrella, tired weekday expression, fluorescent transit lighting, packed commuters around him, absurd myth-meets-office realism, no logos, no watermark, no readable text."
+    },
+    {
+      "id": "2026-07-05-famous-characters-office-shift_02_福尔摩斯便利店夜班",
+      "batch": "2026-07-05-famous-characters-office-shift",
+      "category": "famous-characters-office-shift",
+      "number": "02",
+      "title": "福尔摩斯便利店夜班",
+      "image": "assets/images/2026-07-05-famous-characters-office-shift/02_福尔摩斯便利店夜班.jpg",
+      "thumb": "assets/thumbs/2026-07-05-famous-characters-office-shift/02_福尔摩斯便利店夜班.png",
+      "description": "最会推理的人站在收银台后面盘点香烟和便当，班味比谜案更重。",
+      "prompt": "Realistic late-night convenience store shift with Sherlock Holmes working as a tired clerk, deerstalker hat slightly out of place above a convenience-store uniform apron, scanning snacks and boxed meals, fluorescent shelves, security-camera feeling, one hand on a barcode scanner and the other on a small notebook, deadpan humor, ordinary labor replacing detective glamour, no logos, no watermark, no readable text."
+    },
+    {
+      "id": "2026-07-05-famous-characters-office-shift_03_哪吒站在外卖取餐口",
+      "batch": "2026-07-05-famous-characters-office-shift",
+      "category": "famous-characters-office-shift",
+      "number": "03",
+      "title": "哪吒站在外卖取餐口",
+      "image": "assets/images/2026-07-05-famous-characters-office-shift/03_哪吒站在外卖取餐口.jpg",
+      "thumb": "assets/thumbs/2026-07-05-famous-characters-office-shift/03_哪吒站在外卖取餐口.png",
+      "description": "烈火少年也得低头看取餐号，站在商场后厨门口等下一单。",
+      "prompt": "Realistic urban scene of Nezha waiting at a takeout pickup counter in a shopping mall back corridor, youthful deity in a budget windbreaker over iconic red styling details, takeaway thermal bag at his feet, glowing wheels suggested subtly as delivery gear, harsh commercial back-of-house light, bored and slightly rebellious expression, mythic energy trapped in gig-economy routine, no logos, no watermark, no readable text."
+    },
+    {
+      "id": "2026-07-05-famous-characters-office-shift_04_吸血鬼加班做表格",
+      "batch": "2026-07-05-famous-characters-office-shift",
+      "category": "famous-characters-office-shift",
+      "number": "04",
+      "title": "吸血鬼加班做表格",
+      "image": "assets/images/2026-07-05-famous-characters-office-shift/04_吸血鬼加班做表格.jpg",
+      "thumb": "assets/thumbs/2026-07-05-famous-characters-office-shift/04_吸血鬼加班做表格.png",
+      "description": "古堡审美到了格子间里，只剩夜里一盏屏幕蓝光和未完成的报表。",
+      "prompt": "Realistic office overtime scene with Dracula in a cheap corporate cubicle at night, pale vampire count in a loosened shirt and dark slacks, small cape draped over an office chair, blue monitor light on face, spreadsheet-like windows implied but no readable text, vending-machine coffee, scattered invoices, eerie aristocratic style reduced to exhausted white-collar labor, no company logos, no watermark, no readable text."
+    },
+    {
+      "id": "2026-07-05-famous-characters-office-shift_05_爱丽丝复印间发呆",
+      "batch": "2026-07-05-famous-characters-office-shift",
+      "category": "famous-characters-office-shift",
+      "number": "05",
+      "title": "爱丽丝复印间发呆",
+      "image": "assets/images/2026-07-05-famous-characters-office-shift/05_爱丽丝复印间发呆.jpg",
+      "thumb": "assets/thumbs/2026-07-05-famous-characters-office-shift/05_爱丽丝复印间发呆.png",
+      "description": "掉进仙境的人最后掉进复印间，站在打印机旁边短暂怀疑人生。",
+      "prompt": "Realistic office copy-room scene with Alice from Wonderland paused beside a printer, adult Alice in a modest blue dress layered with a cheap office cardigan and employee lanyard without text, stacks of paper, flickering fluorescent light, plastic water bottle, slightly surreal perspective but grounded workplace realism, she looks quietly lost in routine office life, no logos, no watermark, no readable text."
     }
   ]
 }

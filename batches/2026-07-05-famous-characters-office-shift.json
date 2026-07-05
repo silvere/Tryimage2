@@ -1,0 +1,47 @@
+{
+  "theme": "知名角色的普通班味：IP人物混进打工日常",
+  "batchId": "2026-07-05-famous-characters-office-shift",
+  "createdAt": "2026-07-05",
+  "items": [
+    {
+      "source": "01_sunwukong_subway_commute.jpg",
+      "category": "famous-characters-office-shift",
+      "categoryLabel": "知名角色的普通班味：IP人物混进打工日常",
+      "title": "孙悟空挤早高峰地铁",
+      "description": "神通广大的角色也得背着电脑包挤进工作日的七号线。",
+      "prompt": "Cinematic realistic scene of Sun Wukong commuting in a crowded morning subway, monkey king in a wrinkled office shirt under a cheap blazer, carrying a laptop backpack and a coffee cup, golden staff collapsed like an umbrella, tired weekday expression, fluorescent transit lighting, packed commuters around him, absurd myth-meets-office realism, no logos, no watermark, no readable text."
+    },
+    {
+      "source": "02_sherlock_convenience_shift.jpg",
+      "category": "famous-characters-office-shift",
+      "categoryLabel": "知名角色的普通班味：IP人物混进打工日常",
+      "title": "福尔摩斯便利店夜班",
+      "description": "最会推理的人站在收银台后面盘点香烟和便当，班味比谜案更重。",
+      "prompt": "Realistic late-night convenience store shift with Sherlock Holmes working as a tired clerk, deerstalker hat slightly out of place above a convenience-store uniform apron, scanning snacks and boxed meals, fluorescent shelves, security-camera feeling, one hand on a barcode scanner and the other on a small notebook, deadpan humor, ordinary labor replacing detective glamour, no logos, no watermark, no readable text."
+    },
+    {
+      "source": "03_nezha_takeout_waiting.jpg",
+      "category": "famous-characters-office-shift",
+      "categoryLabel": "知名角色的普通班味：IP人物混进打工日常",
+      "title": "哪吒站在外卖取餐口",
+      "description": "烈火少年也得低头看取餐号，站在商场后厨门口等下一单。",
+      "prompt": "Realistic urban scene of Nezha waiting at a takeout pickup counter in a shopping mall back corridor, youthful deity in a budget windbreaker over iconic red styling details, takeaway thermal bag at his feet, glowing wheels suggested subtly as delivery gear, harsh commercial back-of-house light, bored and slightly rebellious expression, mythic energy trapped in gig-economy routine, no logos, no watermark, no readable text."
+    },
+    {
+      "source": "04_dracula_excel_overtime.jpg",
+      "category": "famous-characters-office-shift",
+      "categoryLabel": "知名角色的普通班味：IP人物混进打工日常",
+      "title": "吸血鬼加班做表格",
+      "description": "古堡审美到了格子间里，只剩夜里一盏屏幕蓝光和未完成的报表。",
+      "prompt": "Realistic office overtime scene with Dracula in a cheap corporate cubicle at night, pale vampire count in a loosened shirt and dark slacks, small cape draped over an office chair, blue monitor light on face, spreadsheet-like windows implied but no readable text, vending-machine coffee, scattered invoices, eerie aristocratic style reduced to exhausted white-collar labor, no company logos, no watermark, no readable text."
+    },
+    {
+      "source": "05_alice_copyroom_pause.jpg",
+      "category": "famous-characters-office-shift",
+      "categoryLabel": "知名角色的普通班味：IP人物混进打工日常",
+      "title": "爱丽丝复印间发呆",
+      "description": "掉进仙境的人最后掉进复印间，站在打印机旁边短暂怀疑人生。",
+      "prompt": "Realistic office copy-room scene with Alice from Wonderland paused beside a printer, adult Alice in a modest blue dress layered with a cheap office cardigan and employee lanyard without text, stacks of paper, flickering fluorescent light, plastic water bottle, slightly surreal perspective but grounded workplace realism, she looks quietly lost in routine office life, no logos, no watermark, no readable text."
+    }
+  ]
+}
