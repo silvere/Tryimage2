@@ -1,7 +1,7 @@
 {
   "site": {
     "title": "OpenAI image2 视觉实验",
-    "subtitle": "1405 张传播向 AI 海报",
+    "subtitle": "1417 张传播向 AI 海报",
     "headline": "OpenAI image2 视觉实验",
     "intro": "每一批图片围绕一个临时主题生成，并按当次最合适的 category 归档；可以是反差创意、真实场景、产品概念、人物叙事或任何新的视觉方向。",
     "coverImage": "assets/contact_sheet_image2.jpg",
@@ -494,6 +494,14 @@
     {
       "id": "famous-characters-office-shift",
       "label": "知名角色的普通班味：IP人物混进打工日常"
+    },
+    {
+      "id": "staged-evidence-selfies",
+      "label": "假装随手拍，其实全是心机证据"
+    },
+    {
+      "id": "curated-collectible-desktop",
+      "label": "好品味是不是一种囤积病：收藏型桌面的上瘾陈列"
     }
   ],
   "batches": [
@@ -1180,6 +1188,18 @@
       "theme": "知名角色的普通班味：IP人物混进打工日常",
       "createdAt": "2026-07-05",
       "count": 5
+    },
+    {
+      "id": "2026-07-09-staged-evidence-selfies",
+      "theme": "假装随手拍，其实全是心机证据",
+      "createdAt": "2026-07-09",
+      "count": 6
+    },
+    {
+      "id": "2026-07-09-curated-collectible-desktop",
+      "theme": "好品味是不是一种囤积病：收藏型桌面的上瘾陈列",
+      "createdAt": "2026-07-09",
+      "count": 6
     }
   ],
   "items": [
@@ -16622,6 +16642,138 @@
       "thumb": "assets/thumbs/2026-07-05-famous-characters-office-shift/05_爱丽丝复印间发呆.png",
       "description": "掉进仙境的人最后掉进复印间，站在打印机旁边短暂怀疑人生。",
       "prompt": "Realistic office copy-room scene with Alice from Wonderland paused beside a printer, adult Alice in a modest blue dress layered with a cheap office cardigan and employee lanyard without text, stacks of paper, flickering fluorescent light, plastic water bottle, slightly surreal perspective but grounded workplace realism, she looks quietly lost in routine office life, no logos, no watermark, no readable text."
+    },
+    {
+      "id": "2026-07-09-staged-evidence-selfies_01_电梯反光里的顺手一拍",
+      "batch": "2026-07-09-staged-evidence-selfies",
+      "category": "staged-evidence-selfies",
+      "number": "01",
+      "title": "电梯反光里的顺手一拍",
+      "image": "assets/images/2026-07-09-staged-evidence-selfies/01_电梯反光里的顺手一拍.jpg",
+      "thumb": "assets/thumbs/2026-07-09-staged-evidence-selfies/01_电梯反光里的顺手一拍.png",
+      "description": "深夜回程时在电梯金属门反光里抓拍，表面随意，细节却像刻意留下线索。",
+      "prompt": "realistic documentary-style lo-fi iPhone selfie in a residential elevator at night, adult woman in her mid 20s to early 30s, slightly tired after returning home, casual dark jacket, messy hair, one hand holding phone low and casually, brushed metal elevator doors reflecting fragmented light, imperfect framing, slight motion blur, harsh overhead lighting, candid and unglamorous, subtle evidence-like details such as a second takeaway bag and a faint smudge of lipstick on a coffee cup lid, editorial realism, no logos, no watermark, no readable text, adult subject only"
+    },
+    {
+      "id": "2026-07-09-staged-evidence-selfies_02_浴室镜前的闪光补拍",
+      "batch": "2026-07-09-staged-evidence-selfies",
+      "category": "staged-evidence-selfies",
+      "number": "02",
+      "title": "浴室镜前的闪光补拍",
+      "image": "assets/images/2026-07-09-staged-evidence-selfies/02_浴室镜前的闪光补拍.jpg",
+      "thumb": "assets/thumbs/2026-07-09-staged-evidence-selfies/02_浴室镜前的闪光补拍.png",
+      "description": "浴室镜子前开闪光补一张，像是测试光线，其实处处都在强调刚发生过什么。",
+      "prompt": "bathroom mirror flash photo, realistic editorial snapshot, adult woman late 20s, oversized shirt and simple jeans, standing in a cramped apartment bathroom, direct phone flash blowing out parts of the mirror, damp sink edge, toothbrush cup, wrinkled hand towel, water spots on mirror, natural skin texture, unpolished posture, one heel slightly lifted as if in a hurry, subtle signs of recent arrival such as smudged eyeliner and a second damp handprint on the mirror edge, iPhone casual vibe, raw candid realism, no logos, no watermark, no readable text, adult subject only"
+    },
+    {
+      "id": "2026-07-09-staged-evidence-selfies_03_乱房间镜子里的不经意",
+      "batch": "2026-07-09-staged-evidence-selfies",
+      "category": "staged-evidence-selfies",
+      "number": "03",
+      "title": "乱房间镜子里的不经意",
+      "image": "assets/images/2026-07-09-staged-evidence-selfies/03_乱房间镜子里的不经意.jpg",
+      "thumb": "assets/thumbs/2026-07-09-staged-evidence-selfies/03_乱房间镜子里的不经意.png",
+      "description": "卧室镜子里看似只是记录穿搭，凌乱背景却比人更像重点。",
+      "prompt": "messy bedroom mirror selfie, realistic documentary editorial photo, adult woman around 30, standing casually in front of a full-length mirror, dim warm apartment lighting, unmade bed, open closet, one chair piled with clothes, charger cables on the floor, half-zipped tote bag on the bed, ordinary home environment, slight grain, imperfect phone angle, understated styling, expression neutral and distracted, composition suggests the clutter itself is the evidence, lo-fi iPhone image quality, safe mainstream realism, no logos, no watermark, no readable text, adult subject only"
+    },
+    {
+      "id": "2026-07-09-staged-evidence-selfies_04_鱼眼监控感的门口抓帧",
+      "batch": "2026-07-09-staged-evidence-selfies",
+      "category": "staged-evidence-selfies",
+      "number": "04",
+      "title": "鱼眼监控感的门口抓帧",
+      "image": "assets/images/2026-07-09-staged-evidence-selfies/04_鱼眼监控感的门口抓帧.jpg",
+      "thumb": "assets/thumbs/2026-07-09-staged-evidence-selfies/04_鱼眼监控感的门口抓帧.png",
+      "description": "像被门口监控意外拍到的一帧，失真视角让一切更像证据留档。",
+      "prompt": "fisheye CCTV-like still frame aesthetic, realistic night apartment entryway scene, adult woman returning to a building hallway, distorted wide-angle lens from a high corner viewpoint, harsh ceiling light, washed colors, security-camera composition, one hand carrying keys and a grocery bag, the other adjusting hair, slightly awkward body language, documentary evidence feeling, timestamp vibe without any actual readable text or numbers, safe mainstream realism, no logos, no watermark, no readable text, adult subject only"
+    },
+    {
+      "id": "2026-07-09-staged-evidence-selfies_05_半遮脸的车窗倒影",
+      "batch": "2026-07-09-staged-evidence-selfies",
+      "category": "staged-evidence-selfies",
+      "number": "05",
+      "title": "半遮脸的车窗倒影",
+      "image": "assets/images/2026-07-09-staged-evidence-selfies/05_半遮脸的车窗倒影.jpg",
+      "thumb": "assets/thumbs/2026-07-09-staged-evidence-selfies/05_半遮脸的车窗倒影.png",
+      "description": "用手机和袖口挡住半张脸，像怕被认出，又像故意留下可以被猜的空间。",
+      "prompt": "nighttime candid phone photo using a car window reflection, realistic editorial style, adult woman in her late 20s, seated in the back seat or leaning near a parked car window, half of her face covered by phone and sleeve, city lights reflected across the glass, tired but composed expression in the visible eye, slight digital noise, low-light blur, restrained styling, subtle mystery without glamorization, evidence-like mood of someone documenting the end of a night out, no logos, no watermark, no readable text, adult subject only"
+    },
+    {
+      "id": "2026-07-09-staged-evidence-selfies_06_夜归走廊里的最后一张",
+      "batch": "2026-07-09-staged-evidence-selfies",
+      "category": "staged-evidence-selfies",
+      "number": "06",
+      "title": "夜归走廊里的最后一张",
+      "image": "assets/images/2026-07-09-staged-evidence-selfies/06_夜归走廊里的最后一张.jpg",
+      "thumb": "assets/thumbs/2026-07-09-staged-evidence-selfies/06_夜归走廊里的最后一张.png",
+      "description": "回家前在走廊尽头回头拍一张，疲惫、安静、真实，也最像整组的收尾证词。",
+      "prompt": "realistic night-return hallway snapshot, documentary editorial aesthetic, adult woman around 30 walking down a dim apartment corridor toward her door, shot from slightly behind and to the side as if casually captured on phone, keys in hand, low heels or sneakers, jacket slipping off one shoulder in a non-sexual everyday way, cool fluorescent light, quiet residential atmosphere, slight grain and motion blur, emotionally restrained realism, feels like the final frame of a private evidence trail, no logos, no watermark, no readable text, adult subject only"
+    },
+    {
+      "id": "2026-07-09-curated-collectible-desktop_01_托盘里的第一层瘾",
+      "batch": "2026-07-09-curated-collectible-desktop",
+      "category": "curated-collectible-desktop",
+      "number": "01",
+      "title": "托盘里的第一层瘾",
+      "image": "assets/images/2026-07-09-curated-collectible-desktop/01_托盘里的第一层瘾.jpg",
+      "thumb": "assets/thumbs/2026-07-09-curated-collectible-desktop/01_托盘里的第一层瘾.png",
+      "description": "一只金属托盘把打火机、钥匙扣、银饰和票根整理得近乎完美，像审美训练，也像失控前夜。",
+      "prompt": "documentary editorial still life of a curated collectible desktop, close view of a slightly worn stainless steel tray on a dark walnut desk, neatly arranged brushed metal lighter, heavy keychain, small silver rings, chain bracelet, folded old ticket stubs, tiny dish with coins, soft window light, tactile scratches, fingerprints, dust, subtle clutter at the tray edges, emotionally tense balance between exquisite taste and compulsive accumulation, realistic materials, intimate urban apartment atmosphere, no logos, no watermark, no readable text"
+    },
+    {
+      "id": "2026-07-09-curated-collectible-desktop_02_口袋被倒空之后",
+      "batch": "2026-07-09-curated-collectible-desktop",
+      "category": "curated-collectible-desktop",
+      "number": "02",
+      "title": "口袋被倒空之后",
+      "image": "assets/images/2026-07-09-curated-collectible-desktop/02_口袋被倒空之后.jpg",
+      "thumb": "assets/thumbs/2026-07-09-curated-collectible-desktop/02_口袋被倒空之后.png",
+      "description": "像把一天的身份都卸在桌面上：火机、钥匙、戒指、耳钉、票据碎片，既克制又过量。",
+      "prompt": "realistic editorial tabletop scene, objects freshly emptied from pockets onto a carefully used leather desk pad, silver jewelry, metal lighter, carabiner keychain, transit ticket fragments, small analog watch, loose chain, polished stones, receipts turned face down so no readable text, arranged in an almost forensic but aesthetically obsessed way, warm late afternoon light, shallow depth of field, tactile leather grain and oxidized metal, sense of identity projected through possessions, elegant yet slightly unhealthy accumulation, no logos, no watermark, no readable text"
+    },
+    {
+      "id": "2026-07-09-curated-collectible-desktop_03_银色疲劳",
+      "batch": "2026-07-09-curated-collectible-desktop",
+      "category": "curated-collectible-desktop",
+      "number": "03",
+      "title": "银色疲劳",
+      "image": "assets/images/2026-07-09-curated-collectible-desktop/03_银色疲劳.jpg",
+      "thumb": "assets/thumbs/2026-07-09-curated-collectible-desktop/03_银色疲劳.png",
+      "description": "银饰越摆越多，光泽开始变成负担；好品味像在发亮，也像在挤占呼吸空间。",
+      "prompt": "documentary editorial photograph of a collector's desk dominated by silver jewelry, layered rings, chain necklaces, cuff bracelet, pocket lighter, key fobs and a tray crowded almost to the edge, cool morning light reflecting off tarnished and polished surfaces, visible oxidation, dust in corners, tiny tangled chain suggesting over-collection, precise composition but with emotional claustrophobia, curated desktop as self-portrait, realistic apartment interior context, tactile metal textures, no logos, no watermark, no readable text"
+    },
+    {
+      "id": "2026-07-09-curated-collectible-desktop_04_票根考古学",
+      "batch": "2026-07-09-curated-collectible-desktop",
+      "category": "curated-collectible-desktop",
+      "number": "04",
+      "title": "票根考古学",
+      "image": "assets/images/2026-07-09-curated-collectible-desktop/04_票根考古学.jpg",
+      "thumb": "assets/thumbs/2026-07-09-curated-collectible-desktop/04_票根考古学.png",
+      "description": "被保存下来的不是行程，而是自我证明：旧票根和金属小物一起，长成一块私密展板。",
+      "prompt": "editorial documentary close shot of a desktop archive corner, old ticket stubs with all printed areas obscured or blurred beyond legibility, silver lighter, keychain charms, ring stack, transparent tray, binder clip, notebook edge out of focus, layered arrangement suggesting memory hoarding disguised as refined taste, soft natural side light, muted neutral palette, realistic paper wear and frayed edges, tactile intimacy, slight melancholy, no logos, no watermark, no readable text"
+    },
+    {
+      "id": "2026-07-09-curated-collectible-desktop_05_小东西祭坛",
+      "batch": "2026-07-09-curated-collectible-desktop",
+      "category": "curated-collectible-desktop",
+      "number": "05",
+      "title": "小东西祭坛",
+      "image": "assets/images/2026-07-09-curated-collectible-desktop/05_小东西祭坛.jpg",
+      "thumb": "assets/thumbs/2026-07-09-curated-collectible-desktop/05_小东西祭坛.png",
+      "description": "桌面像一个私人祭坛，所有随身物件都被摆出姿态，漂亮得让人怀疑这是不是另一种病。",
+      "prompt": "realistic documentary editorial scene of a curated collectible desktop arranged like a private altar, symmetrical composition with two trays, brushed chrome lighter, sculptural keychain, silver pendants, ring dish, matchbox turned away so no readable text, ticket corners, earbuds, tiny screwdriver, velvet cloth, dense but intentional arrangement, moody evening lamp light mixed with faint window blue, tactile dust, scratches, fingerprints and softened edges, emotional tension between discipline, vanity, and hoarding impulse, no logos, no watermark, no readable text"
+    },
+    {
+      "id": "2026-07-09-curated-collectible-desktop_06_已经没有空位了",
+      "batch": "2026-07-09-curated-collectible-desktop",
+      "category": "curated-collectible-desktop",
+      "number": "06",
+      "title": "已经没有空位了",
+      "image": "assets/images/2026-07-09-curated-collectible-desktop/06_已经没有空位了.jpg",
+      "thumb": "assets/thumbs/2026-07-09-curated-collectible-desktop/06_已经没有空位了.png",
+      "description": "最后一张里，陈列开始压过使用：桌面几乎没有工作空间，只剩被精致物件占领的自我投射。",
+      "prompt": "wide editorial documentary photograph of a stylish but overcrowded desk with almost no empty working surface left, multiple trays filled with lighter collection, keychains, silver jewelry, ticket fragments, coins, hotel card sleeves turned blank, stacked small objects arranged with obsessive care, laptop corner barely visible, urban night interior, realistic shadows, tactile wood, metal and paper textures, beautiful yet suffocating atmosphere, identity projected through possessions until display becomes domination, no logos, no watermark, no readable text"
     }
   ]
 }

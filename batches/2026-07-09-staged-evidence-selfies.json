@@ -1,0 +1,55 @@
+{
+  "theme": "假装随手拍，其实全是心机证据",
+  "batchId": "2026-07-09-staged-evidence-selfies",
+  "createdAt": "2026-07-09",
+  "items": [
+    {
+      "source": "01_lofi_selfie_elevator.jpg",
+      "category": "staged-evidence-selfies",
+      "categoryLabel": "假装随手拍，其实全是心机证据",
+      "title": "电梯反光里的顺手一拍",
+      "description": "深夜回程时在电梯金属门反光里抓拍，表面随意，细节却像刻意留下线索。",
+      "prompt": "realistic documentary-style lo-fi iPhone selfie in a residential elevator at night, adult woman in her mid 20s to early 30s, slightly tired after returning home, casual dark jacket, messy hair, one hand holding phone low and casually, brushed metal elevator doors reflecting fragmented light, imperfect framing, slight motion blur, harsh overhead lighting, candid and unglamorous, subtle evidence-like details such as a second takeaway bag and a faint smudge of lipstick on a coffee cup lid, editorial realism, no logos, no watermark, no readable text, adult subject only"
+    },
+    {
+      "source": "02_bathroom_flash_mirror.jpg",
+      "category": "staged-evidence-selfies",
+      "categoryLabel": "假装随手拍，其实全是心机证据",
+      "title": "浴室镜前的闪光补拍",
+      "description": "浴室镜子前开闪光补一张，像是测试光线，其实处处都在强调刚发生过什么。",
+      "prompt": "bathroom mirror flash photo, realistic editorial snapshot, adult woman late 20s, oversized shirt and simple jeans, standing in a cramped apartment bathroom, direct phone flash blowing out parts of the mirror, damp sink edge, toothbrush cup, wrinkled hand towel, water spots on mirror, natural skin texture, unpolished posture, one heel slightly lifted as if in a hurry, subtle signs of recent arrival such as smudged eyeliner and a second damp handprint on the mirror edge, iPhone casual vibe, raw candid realism, no logos, no watermark, no readable text, adult subject only"
+    },
+    {
+      "source": "03_messy_bedroom_mirror.jpg",
+      "category": "staged-evidence-selfies",
+      "categoryLabel": "假装随手拍，其实全是心机证据",
+      "title": "乱房间镜子里的不经意",
+      "description": "卧室镜子里看似只是记录穿搭，凌乱背景却比人更像重点。",
+      "prompt": "messy bedroom mirror selfie, realistic documentary editorial photo, adult woman around 30, standing casually in front of a full-length mirror, dim warm apartment lighting, unmade bed, open closet, one chair piled with clothes, charger cables on the floor, half-zipped tote bag on the bed, ordinary home environment, slight grain, imperfect phone angle, understated styling, expression neutral and distracted, composition suggests the clutter itself is the evidence, lo-fi iPhone image quality, safe mainstream realism, no logos, no watermark, no readable text, adult subject only"
+    },
+    {
+      "source": "04_fisheye_cctv_vibe.jpg",
+      "category": "staged-evidence-selfies",
+      "categoryLabel": "假装随手拍，其实全是心机证据",
+      "title": "鱼眼监控感的门口抓帧",
+      "description": "像被门口监控意外拍到的一帧，失真视角让一切更像证据留档。",
+      "prompt": "fisheye CCTV-like still frame aesthetic, realistic night apartment entryway scene, adult woman returning to a building hallway, distorted wide-angle lens from a high corner viewpoint, harsh ceiling light, washed colors, security-camera composition, one hand carrying keys and a grocery bag, the other adjusting hair, slightly awkward body language, documentary evidence feeling, timestamp vibe without any actual readable text or numbers, safe mainstream realism, no logos, no watermark, no readable text, adult subject only"
+    },
+    {
+      "source": "05_half_covered_face_window.jpg",
+      "category": "staged-evidence-selfies",
+      "categoryLabel": "假装随手拍，其实全是心机证据",
+      "title": "半遮脸的车窗倒影",
+      "description": "用手机和袖口挡住半张脸，像怕被认出，又像故意留下可以被猜的空间。",
+      "prompt": "nighttime candid phone photo using a car window reflection, realistic editorial style, adult woman in her late 20s, seated in the back seat or leaning near a parked car window, half of her face covered by phone and sleeve, city lights reflected across the glass, tired but composed expression in the visible eye, slight digital noise, low-light blur, restrained styling, subtle mystery without glamorization, evidence-like mood of someone documenting the end of a night out, no logos, no watermark, no readable text, adult subject only"
+    },
+    {
+      "source": "06_night_return_hallway.jpg",
+      "category": "staged-evidence-selfies",
+      "categoryLabel": "假装随手拍，其实全是心机证据",
+      "title": "夜归走廊里的最后一张",
+      "description": "回家前在走廊尽头回头拍一张，疲惫、安静、真实，也最像整组的收尾证词。",
+      "prompt": "realistic night-return hallway snapshot, documentary editorial aesthetic, adult woman around 30 walking down a dim apartment corridor toward her door, shot from slightly behind and to the side as if casually captured on phone, keys in hand, low heels or sneakers, jacket slipping off one shoulder in a non-sexual everyday way, cool fluorescent light, quiet residential atmosphere, slight grain and motion blur, emotionally restrained realism, feels like the final frame of a private evidence trail, no logos, no watermark, no readable text, adult subject only"
+    }
+  ]
+}

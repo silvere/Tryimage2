@@ -1,0 +1,55 @@
+{
+  "theme": "好品味是不是一种囤积病：收藏型桌面的上瘾陈列",
+  "batchId": "2026-07-09-curated-collectible-desktop",
+  "createdAt": "2026-07-09",
+  "items": [
+    {
+      "source": "01_tray_seduction.jpg",
+      "category": "curated-collectible-desktop",
+      "categoryLabel": "好品味是不是一种囤积病：收藏型桌面的上瘾陈列",
+      "title": "托盘里的第一层瘾",
+      "description": "一只金属托盘把打火机、钥匙扣、银饰和票根整理得近乎完美，像审美训练，也像失控前夜。",
+      "prompt": "documentary editorial still life of a curated collectible desktop, close view of a slightly worn stainless steel tray on a dark walnut desk, neatly arranged brushed metal lighter, heavy keychain, small silver rings, chain bracelet, folded old ticket stubs, tiny dish with coins, soft window light, tactile scratches, fingerprints, dust, subtle clutter at the tray edges, emotionally tense balance between exquisite taste and compulsive accumulation, realistic materials, intimate urban apartment atmosphere, no logos, no watermark, no readable text"
+    },
+    {
+      "source": "02_pocket_overflow.jpg",
+      "category": "curated-collectible-desktop",
+      "categoryLabel": "好品味是不是一种囤积病：收藏型桌面的上瘾陈列",
+      "title": "口袋被倒空之后",
+      "description": "像把一天的身份都卸在桌面上：火机、钥匙、戒指、耳钉、票据碎片，既克制又过量。",
+      "prompt": "realistic editorial tabletop scene, objects freshly emptied from pockets onto a carefully used leather desk pad, silver jewelry, metal lighter, carabiner keychain, transit ticket fragments, small analog watch, loose chain, polished stones, receipts turned face down so no readable text, arranged in an almost forensic but aesthetically obsessed way, warm late afternoon light, shallow depth of field, tactile leather grain and oxidized metal, sense of identity projected through possessions, elegant yet slightly unhealthy accumulation, no logos, no watermark, no readable text"
+    },
+    {
+      "source": "03_silver_fatigue.jpg",
+      "category": "curated-collectible-desktop",
+      "categoryLabel": "好品味是不是一种囤积病：收藏型桌面的上瘾陈列",
+      "title": "银色疲劳",
+      "description": "银饰越摆越多，光泽开始变成负担；好品味像在发亮，也像在挤占呼吸空间。",
+      "prompt": "documentary editorial photograph of a collector's desk dominated by silver jewelry, layered rings, chain necklaces, cuff bracelet, pocket lighter, key fobs and a tray crowded almost to the edge, cool morning light reflecting off tarnished and polished surfaces, visible oxidation, dust in corners, tiny tangled chain suggesting over-collection, precise composition but with emotional claustrophobia, curated desktop as self-portrait, realistic apartment interior context, tactile metal textures, no logos, no watermark, no readable text"
+    },
+    {
+      "source": "04_ticket_archive.jpg",
+      "category": "curated-collectible-desktop",
+      "categoryLabel": "好品味是不是一种囤积病：收藏型桌面的上瘾陈列",
+      "title": "票根考古学",
+      "description": "被保存下来的不是行程，而是自我证明：旧票根和金属小物一起，长成一块私密展板。",
+      "prompt": "editorial documentary close shot of a desktop archive corner, old ticket stubs with all printed areas obscured or blurred beyond legibility, silver lighter, keychain charms, ring stack, transparent tray, binder clip, notebook edge out of focus, layered arrangement suggesting memory hoarding disguised as refined taste, soft natural side light, muted neutral palette, realistic paper wear and frayed edges, tactile intimacy, slight melancholy, no logos, no watermark, no readable text"
+    },
+    {
+      "source": "05_altar_of_small_objects.jpg",
+      "category": "curated-collectible-desktop",
+      "categoryLabel": "好品味是不是一种囤积病：收藏型桌面的上瘾陈列",
+      "title": "小东西祭坛",
+      "description": "桌面像一个私人祭坛，所有随身物件都被摆出姿态，漂亮得让人怀疑这是不是另一种病。",
+      "prompt": "realistic documentary editorial scene of a curated collectible desktop arranged like a private altar, symmetrical composition with two trays, brushed chrome lighter, sculptural keychain, silver pendants, ring dish, matchbox turned away so no readable text, ticket corners, earbuds, tiny screwdriver, velvet cloth, dense but intentional arrangement, moody evening lamp light mixed with faint window blue, tactile dust, scratches, fingerprints and softened edges, emotional tension between discipline, vanity, and hoarding impulse, no logos, no watermark, no readable text"
+    },
+    {
+      "source": "06_no_space_left.jpg",
+      "category": "curated-collectible-desktop",
+      "categoryLabel": "好品味是不是一种囤积病：收藏型桌面的上瘾陈列",
+      "title": "已经没有空位了",
+      "description": "最后一张里，陈列开始压过使用：桌面几乎没有工作空间，只剩被精致物件占领的自我投射。",
+      "prompt": "wide editorial documentary photograph of a stylish but overcrowded desk with almost no empty working surface left, multiple trays filled with lighter collection, keychains, silver jewelry, ticket fragments, coins, hotel card sleeves turned blank, stacked small objects arranged with obsessive care, laptop corner barely visible, urban night interior, realistic shadows, tactile wood, metal and paper textures, beautiful yet suffocating atmosphere, identity projected through possessions until display becomes domination, no logos, no watermark, no readable text"
+    }
+  ]
+}
