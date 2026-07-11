@@ -82,8 +82,13 @@
       .tabs {
         display: flex;
         gap: 8px;
-        flex-wrap: wrap;
-        justify-content: flex-end;
+        flex-wrap: nowrap;
+        overflow-x: auto;
+        overscroll-behavior-x: contain;
+        -webkit-overflow-scrolling: touch;
+        scrollbar-width: thin;
+        max-width: 100%;
+        padding-bottom: 4px;
       }
 
       .tab {
@@ -95,6 +100,8 @@
         padding: 0 14px;
         font: inherit;
         cursor: pointer;
+        flex: 0 0 auto;
+        white-space: nowrap;
       }
 
       .tab[aria-pressed="true"] {
@@ -369,11 +376,9 @@
 
         .tabs {
           width: 100%;
-          justify-content: flex-start;
         }
 
         .tab {
-          flex: 1 1 auto;
           padding-inline: 10px;
         }
 
