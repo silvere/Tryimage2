@@ -1,7 +1,7 @@
 {
   "site": {
     "title": "OpenAI image2 视觉实验",
-    "subtitle": "1417 张传播向 AI 海报",
+    "subtitle": "1429 张传播向 AI 海报",
     "headline": "OpenAI image2 视觉实验",
     "intro": "每一批图片围绕一个临时主题生成，并按当次最合适的 category 归档；可以是反差创意、真实场景、产品概念、人物叙事或任何新的视觉方向。",
     "coverImage": "assets/contact_sheet_image2.jpg",
@@ -502,6 +502,14 @@
     {
       "id": "curated-collectible-desktop",
       "label": "好品味是不是一种囤积病：收藏型桌面的上瘾陈列"
+    },
+    {
+      "id": "lofi-selfie-sabotage",
+      "label": "故意拍废的高配自拍"
+    },
+    {
+      "id": "identity-shrine-collection-cabinet",
+      "label": "收藏柜不是收纳，是成年人的身份神龛"
     }
   ],
   "batches": [
@@ -1199,6 +1207,18 @@
       "id": "2026-07-09-curated-collectible-desktop",
       "theme": "好品味是不是一种囤积病：收藏型桌面的上瘾陈列",
       "createdAt": "2026-07-09",
+      "count": 6
+    },
+    {
+      "id": "2026-07-17-lofi-selfie-sabotage",
+      "theme": "故意拍废的高配自拍",
+      "createdAt": "2026-07-17",
+      "count": 6
+    },
+    {
+      "id": "2026-07-17-identity-shrine-collection-cabinet",
+      "theme": "收藏柜不是收纳，是成年人的身份神龛",
+      "createdAt": "2026-07-17",
       "count": 6
     }
   ],
@@ -16774,6 +16794,138 @@
       "thumb": "assets/thumbs/2026-07-09-curated-collectible-desktop/06_已经没有空位了.png",
       "description": "最后一张里，陈列开始压过使用：桌面几乎没有工作空间，只剩被精致物件占领的自我投射。",
       "prompt": "wide editorial documentary photograph of a stylish but overcrowded desk with almost no empty working surface left, multiple trays filled with lighter collection, keychains, silver jewelry, ticket fragments, coins, hotel card sleeves turned blank, stacked small objects arranged with obsessive care, laptop corner barely visible, urban night interior, realistic shadows, tactile wood, metal and paper textures, beautiful yet suffocating atmosphere, identity projected through possessions until display becomes domination, no logos, no watermark, no readable text"
+    },
+    {
+      "id": "2026-07-17-lofi-selfie-sabotage_01_浴室闪光过曝自拍",
+      "batch": "2026-07-17-lofi-selfie-sabotage",
+      "category": "lofi-selfie-sabotage",
+      "number": "01",
+      "title": "浴室闪光过曝自拍",
+      "image": "assets/images/2026-07-17-lofi-selfie-sabotage/01_浴室闪光过曝自拍.jpg",
+      "thumb": "assets/thumbs/2026-07-17-lofi-selfie-sabotage/01_浴室闪光过曝自拍.png",
+      "description": "镜子被闪光打白一半，像临时测试镜头，却把松弛感经营得过于完整。",
+      "prompt": "realistic lo-fi phone snapshot in a small apartment bathroom mirror, adult woman late 20s fully dressed in a plain oversized zip hoodie and loose jeans, direct phone flash blowing out half the mirror, yellow apartment light, slightly dirty mirror spots, damp sink edge, crooked towel, ordinary domestic bathroom, intentionally bad composition, mild blur and grain, tired but calm expression, documentary editorial realism, strictly non-glamorous, no logos, no watermark, no readable text, adult subject only"
+    },
+    {
+      "id": "2026-07-17-lofi-selfie-sabotage_02_电梯反光裁坏一角",
+      "batch": "2026-07-17-lofi-selfie-sabotage",
+      "category": "lofi-selfie-sabotage",
+      "number": "02",
+      "title": "电梯反光裁坏一角",
+      "image": "assets/images/2026-07-17-lofi-selfie-sabotage/02_电梯反光裁坏一角.jpg",
+      "thumb": "assets/thumbs/2026-07-17-lofi-selfie-sabotage/02_电梯反光裁坏一角.png",
+      "description": "金属门反光里人脸被切掉一块，像失手，实则每个细节都像算过。",
+      "prompt": "realistic lo-fi elevator reflection phone photo at night, adult woman fully dressed in a dark jacket over a plain crewneck shirt, face partially cropped by brushed metal elevator door reflection, phone held low, harsh residential building light, slight motion blur, low-resolution front camera feel, candid but calculated ordinary styling, yellow-gray color cast, documentary editorial realism, strictly non-glamorous, no logos, no watermark, no readable text, adult subject only"
+    },
+    {
+      "id": "2026-07-17-lofi-selfie-sabotage_03_车窗油膜里的半张脸",
+      "batch": "2026-07-17-lofi-selfie-sabotage",
+      "category": "lofi-selfie-sabotage",
+      "number": "03",
+      "title": "车窗油膜里的半张脸",
+      "image": "assets/images/2026-07-17-lofi-selfie-sabotage/03_车窗油膜里的半张脸.jpg",
+      "thumb": "assets/thumbs/2026-07-17-lofi-selfie-sabotage/03_车窗油膜里的半张脸.png",
+      "description": "车窗反光和油膜把脸糊得不够清楚，反而更像会刷到的情绪照片。",
+      "prompt": "night car window reflection phone photo, realistic editorial snapshot, adult woman late 20s in a simple jacket seated in the back seat, half her face blurred by smeared window reflections and city bokeh, low-light noise, slightly dirty glass, intentionally degraded iPhone image quality, melancholy but ordinary mood, documentary realism, strictly non-glamorous, no logos, no watermark, no readable text, adult subject only"
+    },
+    {
+      "id": "2026-07-17-lofi-selfie-sabotage_04_卧室前摄塌肩一拍",
+      "batch": "2026-07-17-lofi-selfie-sabotage",
+      "category": "lofi-selfie-sabotage",
+      "number": "04",
+      "title": "卧室前摄塌肩一拍",
+      "image": "assets/images/2026-07-17-lofi-selfie-sabotage/04_卧室前摄塌肩一拍.jpg",
+      "thumb": "assets/thumbs/2026-07-17-lofi-selfie-sabotage/04_卧室前摄塌肩一拍.png",
+      "description": "前摄像头把肩线和房间一起拍得松垮，像没准备，却很会。",
+      "prompt": "front camera bedroom snapshot with intentionally weak composition, realistic lo-fi iPhone look, adult woman around 30 fully dressed in a sweatshirt and relaxed pants, sitting on the edge of an unmade bed, warm dim lamp, open wardrobe, charging cable on floor, casual slouched posture, slight fisheye distortion from front camera, imperfect framing and blur, ordinary apartment mood, documentary realism, strictly non-glamorous, no logos, no watermark, no readable text, adult subject only"
+    },
+    {
+      "id": "2026-07-17-lofi-selfie-sabotage_05_走廊鱼眼对焦失败",
+      "batch": "2026-07-17-lofi-selfie-sabotage",
+      "category": "lofi-selfie-sabotage",
+      "number": "05",
+      "title": "走廊鱼眼对焦失败",
+      "image": "assets/images/2026-07-17-lofi-selfie-sabotage/05_走廊鱼眼对焦失败.jpg",
+      "thumb": "assets/thumbs/2026-07-17-lofi-selfie-sabotage/05_走廊鱼眼对焦失败.png",
+      "description": "门口走廊像监控抓拍，主角甚至没完全合焦，却很像小红书爆款封面。",
+      "prompt": "realistic hallway phone photo with fisheye misfocus aesthetic, adult woman in a loose coat standing in an apartment corridor near her door, face slightly out of focus while background light blooms harshly, keys and tote bag in hand, cool fluorescent overhead lights, low resolution, grain, awkward authenticity that still feels carefully styled, documentary realism, strictly non-glamorous, no logos, no watermark, no readable text, adult subject only"
+    },
+    {
+      "id": "2026-07-17-lofi-selfie-sabotage_06_厨房台面后的收尾自拍",
+      "batch": "2026-07-17-lofi-selfie-sabotage",
+      "category": "lofi-selfie-sabotage",
+      "number": "06",
+      "title": "厨房台面后的收尾自拍",
+      "image": "assets/images/2026-07-17-lofi-selfie-sabotage/06_厨房台面后的收尾自拍.jpg",
+      "thumb": "assets/thumbs/2026-07-17-lofi-selfie-sabotage/06_厨房台面后的收尾自拍.png",
+      "description": "凌晨厨房里靠着台面最后补一张，疲惫、失焦、微黄，却像整组里最贵的一张废片。",
+      "prompt": "late-night kitchen counter phone snapshot, realistic documentary editorial style, adult woman around 30 fully dressed in a plain sweater leaning against a small apartment kitchen counter after a long day, warm yellow overhead bulb, disposable cup, fruit peel, dish rack, slight lens smear, image softly out of focus, low-resolution casual front-camera feel, composed exhaustion, deliberately bad-photo aesthetics, strictly non-glamorous, no logos, no watermark, no readable text, adult subject only"
+    },
+    {
+      "id": "2026-07-17-identity-shrine-collection-cabinet_01_亚克力格子的入门神位",
+      "batch": "2026-07-17-identity-shrine-collection-cabinet",
+      "category": "identity-shrine-collection-cabinet",
+      "number": "01",
+      "title": "亚克力格子的入门神位",
+      "image": "assets/images/2026-07-17-identity-shrine-collection-cabinet/01_亚克力格子的入门神位.jpg",
+      "thumb": "assets/thumbs/2026-07-17-identity-shrine-collection-cabinet/01_亚克力格子的入门神位.png",
+      "description": "透明格子里塞满盲盒、徽章和挂件，像房间第一块公开的人设墙。",
+      "prompt": "realistic editorial photo of an acrylic collection cabinet wall in a small urban bedroom, clear cubbies filled with blind boxes, enamel pins, keychains, tiny figures, ticket stubs and miniature charms, warm evening lamp and cool window light mixed together, dense but controlled display, tactile acrylic reflections, dust and fingerprints, looks less like storage and more like an adult identity shrine, no logos, no watermark, no readable text"
+    },
+    {
+      "id": "2026-07-17-identity-shrine-collection-cabinet_02_房间角落的收藏图腾",
+      "batch": "2026-07-17-identity-shrine-collection-cabinet",
+      "category": "identity-shrine-collection-cabinet",
+      "number": "02",
+      "title": "房间角落的收藏图腾",
+      "image": "assets/images/2026-07-17-identity-shrine-collection-cabinet/02_房间角落的收藏图腾.jpg",
+      "thumb": "assets/thumbs/2026-07-17-identity-shrine-collection-cabinet/02_房间角落的收藏图腾.png",
+      "description": "角落高柜被布置得像图腾柱，每一层都在讲同一个人的审美履历。",
+      "prompt": "documentary editorial interior photograph of a tall corner shelf used as a personal collection shrine, each level stacked with figurines, capsule toys, vintage keychains, tiny framed prints turned unreadable, little lamps, trading cards in sleeves, layered tags and ribbons, small rented-room atmosphere, emotionally charged display, realistic shadows and material textures, no logos, no watermark, no readable text"
+    },
+    {
+      "id": "2026-07-17-identity-shrine-collection-cabinet_03_挂件网格像护身符墙",
+      "batch": "2026-07-17-identity-shrine-collection-cabinet",
+      "category": "identity-shrine-collection-cabinet",
+      "number": "03",
+      "title": "挂件网格像护身符墙",
+      "image": "assets/images/2026-07-17-identity-shrine-collection-cabinet/03_挂件网格像护身符墙.jpg",
+      "thumb": "assets/thumbs/2026-07-17-identity-shrine-collection-cabinet/03_挂件网格像护身符墙.png",
+      "description": "挂件被排成一整面网格，既像整理，也像成年人给自己做的护身仪式。",
+      "prompt": "realistic close editorial shot of a wall-mounted metal grid covered with hanging charms, plush keychains, tiny bags, blind box accessories, old lanyards, miniature trinkets and photo strips with faces obscured, arranged with obsessive care like an amulet wall, intimate apartment corner, mixed soft lamp and phone flashlight, tactile hooks, worn plastic and fabric textures, adult identity shrine mood, no logos, no watermark, no readable text"
+    },
+    {
+      "id": "2026-07-17-identity-shrine-collection-cabinet_04_贴好标签但舍不得卖",
+      "batch": "2026-07-17-identity-shrine-collection-cabinet",
+      "category": "identity-shrine-collection-cabinet",
+      "number": "04",
+      "title": "贴好标签但舍不得卖",
+      "image": "assets/images/2026-07-17-identity-shrine-collection-cabinet/04_贴好标签但舍不得卖.jpg",
+      "thumb": "assets/thumbs/2026-07-17-identity-shrine-collection-cabinet/04_贴好标签但舍不得卖.png",
+      "description": "抽屉里有二手标签、有透明袋，却迟迟没真的清掉，神龛和交易只差一步。",
+      "prompt": "editorial documentary still life of a collection drawer half-prepared for resale but emotionally not ready, transparent bags, blank label stickers, collectible figures, charms, acrylic stands, tissue paper, tiny boxes and protective sleeves, arranged in a way that feels devotional rather than practical, soft side light, realistic domestic clutter, tension between curation and attachment, no logos, no watermark, no readable text"
+    },
+    {
+      "id": "2026-07-17-identity-shrine-collection-cabinet_05_夜灯照着玻璃柜",
+      "batch": "2026-07-17-identity-shrine-collection-cabinet",
+      "category": "identity-shrine-collection-cabinet",
+      "number": "05",
+      "title": "夜灯照着玻璃柜",
+      "image": "assets/images/2026-07-17-identity-shrine-collection-cabinet/05_夜灯照着玻璃柜.jpg",
+      "thumb": "assets/thumbs/2026-07-17-identity-shrine-collection-cabinet/05_夜灯照着玻璃柜.png",
+      "description": "夜里开一盏小灯专门照收藏柜，像回家后先去看一眼自己的另一具化身。",
+      "prompt": "nighttime realistic photo of a glass display cabinet lit by a single warm lamp in a bedroom, rows of small toys, keychains, badges, sculptural trinkets, perfume minis and memory objects glowing behind reflective glass, room otherwise dim, atmosphere devotional and slightly lonely, realistic dust, fingerprints on glass, stacked adulthood identity projected into collectibles, documentary editorial realism, no logos, no watermark, no readable text"
+    },
+    {
+      "id": "2026-07-17-identity-shrine-collection-cabinet_06_房间快被陈列接管了",
+      "batch": "2026-07-17-identity-shrine-collection-cabinet",
+      "category": "identity-shrine-collection-cabinet",
+      "number": "06",
+      "title": "房间快被陈列接管了",
+      "image": "assets/images/2026-07-17-identity-shrine-collection-cabinet/06_房间快被陈列接管了.jpg",
+      "thumb": "assets/thumbs/2026-07-17-identity-shrine-collection-cabinet/06_房间快被陈列接管了.png",
+      "description": "最后一张拉远后才发现，收藏已经不只在柜里，而是快接管整间房。",
+      "prompt": "wide realistic editorial room shot of a small apartment bedroom nearly overtaken by collection displays, acrylic cabinets, shelf towers, hanging charm wall, trays of tiny objects, blind boxes and display lights spreading beyond storage into daily living space, bed and desk squeezed by curated identity objects, beautiful but slightly suffocating, documentary realism, no logos, no watermark, no readable text"
     }
   ]
 }

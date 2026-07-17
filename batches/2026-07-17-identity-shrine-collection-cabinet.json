@@ -1,0 +1,55 @@
+{
+  "theme": "收藏柜不是收纳，是成年人的身份神龛",
+  "batchId": "2026-07-17-identity-shrine-collection-cabinet",
+  "createdAt": "2026-07-17",
+  "items": [
+    {
+      "source": "01_acrylic_wall_intro.jpg",
+      "category": "identity-shrine-collection-cabinet",
+      "categoryLabel": "收藏柜不是收纳，是成年人的身份神龛",
+      "title": "亚克力格子的入门神位",
+      "description": "透明格子里塞满盲盒、徽章和挂件，像房间第一块公开的人设墙。",
+      "prompt": "realistic editorial photo of an acrylic collection cabinet wall in a small urban bedroom, clear cubbies filled with blind boxes, enamel pins, keychains, tiny figures, ticket stubs and miniature charms, warm evening lamp and cool window light mixed together, dense but controlled display, tactile acrylic reflections, dust and fingerprints, looks less like storage and more like an adult identity shrine, no logos, no watermark, no readable text"
+    },
+    {
+      "source": "02_corner_shelf_totem.jpg",
+      "category": "identity-shrine-collection-cabinet",
+      "categoryLabel": "收藏柜不是收纳，是成年人的身份神龛",
+      "title": "房间角落的收藏图腾",
+      "description": "角落高柜被布置得像图腾柱，每一层都在讲同一个人的审美履历。",
+      "prompt": "documentary editorial interior photograph of a tall corner shelf used as a personal collection shrine, each level stacked with figurines, capsule toys, vintage keychains, tiny framed prints turned unreadable, little lamps, trading cards in sleeves, layered tags and ribbons, small rented-room atmosphere, emotionally charged display, realistic shadows and material textures, no logos, no watermark, no readable text"
+    },
+    {
+      "source": "03_hanging_charm_grid.jpg",
+      "category": "identity-shrine-collection-cabinet",
+      "categoryLabel": "收藏柜不是收纳，是成年人的身份神龛",
+      "title": "挂件网格像护身符墙",
+      "description": "挂件被排成一整面网格，既像整理，也像成年人给自己做的护身仪式。",
+      "prompt": "realistic close editorial shot of a wall-mounted metal grid covered with hanging charms, plush keychains, tiny bags, blind box accessories, old lanyards, miniature trinkets and photo strips with faces obscured, arranged with obsessive care like an amulet wall, intimate apartment corner, mixed soft lamp and phone flashlight, tactile hooks, worn plastic and fabric textures, adult identity shrine mood, no logos, no watermark, no readable text"
+    },
+    {
+      "source": "04_resale_labels_drawer.jpg",
+      "category": "identity-shrine-collection-cabinet",
+      "categoryLabel": "收藏柜不是收纳，是成年人的身份神龛",
+      "title": "贴好标签但舍不得卖",
+      "description": "抽屉里有二手标签、有透明袋，却迟迟没真的清掉，神龛和交易只差一步。",
+      "prompt": "editorial documentary still life of a collection drawer half-prepared for resale but emotionally not ready, transparent bags, blank label stickers, collectible figures, charms, acrylic stands, tissue paper, tiny boxes and protective sleeves, arranged in a way that feels devotional rather than practical, soft side light, realistic domestic clutter, tension between curation and attachment, no logos, no watermark, no readable text"
+    },
+    {
+      "source": "05_night_lamp_glass_case.jpg",
+      "category": "identity-shrine-collection-cabinet",
+      "categoryLabel": "收藏柜不是收纳，是成年人的身份神龛",
+      "title": "夜灯照着玻璃柜",
+      "description": "夜里开一盏小灯专门照收藏柜，像回家后先去看一眼自己的另一具化身。",
+      "prompt": "nighttime realistic photo of a glass display cabinet lit by a single warm lamp in a bedroom, rows of small toys, keychains, badges, sculptural trinkets, perfume minis and memory objects glowing behind reflective glass, room otherwise dim, atmosphere devotional and slightly lonely, realistic dust, fingerprints on glass, stacked adulthood identity projected into collectibles, documentary editorial realism, no logos, no watermark, no readable text"
+    },
+    {
+      "source": "06_overflow_room_endframe.jpg",
+      "category": "identity-shrine-collection-cabinet",
+      "categoryLabel": "收藏柜不是收纳，是成年人的身份神龛",
+      "title": "房间快被陈列接管了",
+      "description": "最后一张拉远后才发现，收藏已经不只在柜里，而是快接管整间房。",
+      "prompt": "wide realistic editorial room shot of a small apartment bedroom nearly overtaken by collection displays, acrylic cabinets, shelf towers, hanging charm wall, trays of tiny objects, blind boxes and display lights spreading beyond storage into daily living space, bed and desk squeezed by curated identity objects, beautiful but slightly suffocating, documentary realism, no logos, no watermark, no readable text"
+    }
+  ]
+}
