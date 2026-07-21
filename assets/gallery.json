@@ -1,7 +1,7 @@
 {
   "site": {
     "title": "OpenAI image2 视觉实验",
-    "subtitle": "1429 张传播向 AI 海报",
+    "subtitle": "1441 张传播向 AI 海报",
     "headline": "OpenAI image2 视觉实验",
     "intro": "每一批图片围绕一个临时主题生成，并按当次最合适的 category 归档；可以是反差创意、真实场景、产品概念、人物叙事或任何新的视觉方向。",
     "coverImage": "assets/contact_sheet_image2.jpg",
@@ -510,6 +510,10 @@
     {
       "id": "identity-shrine-collection-cabinet",
       "label": "收藏柜不是收纳，是成年人的身份神龛"
+    },
+    {
+      "id": "laser-composition",
+      "label": "激光构图"
     }
   ],
   "batches": [
@@ -1220,6 +1224,12 @@
       "theme": "收藏柜不是收纳，是成年人的身份神龛",
       "createdAt": "2026-07-17",
       "count": 6
+    },
+    {
+      "id": "2026-07-21-laser-composition",
+      "theme": "美轮美奂的激光构图",
+      "createdAt": "2026-07-21",
+      "count": 12
     }
   ],
   "items": [
@@ -16926,6 +16936,138 @@
       "thumb": "assets/thumbs/2026-07-17-identity-shrine-collection-cabinet/06_房间快被陈列接管了.png",
       "description": "最后一张拉远后才发现，收藏已经不只在柜里，而是快接管整间房。",
       "prompt": "wide realistic editorial room shot of a small apartment bedroom nearly overtaken by collection displays, acrylic cabinets, shelf towers, hanging charm wall, trays of tiny objects, blind boxes and display lights spreading beyond storage into daily living space, bed and desk squeezed by curated identity objects, beautiful but slightly suffocating, documentary realism, no logos, no watermark, no readable text"
+    },
+    {
+      "id": "2026-07-21-laser-composition_01_激光圣殿中轴",
+      "batch": "2026-07-21-laser-composition",
+      "category": "laser-composition",
+      "number": "01",
+      "title": "激光圣殿中轴",
+      "image": "assets/images/2026-07-21-laser-composition/01_激光圣殿中轴.png",
+      "thumb": "assets/thumbs/2026-07-21-laser-composition/01_激光圣殿中轴.png",
+      "description": "巨型未来圣殿的中轴空间被层层激光切开，镜面地面映出完整光廊，雾气让每一道光束都像实体雕塑，奢华又庄严。",
+      "prompt": "A monumental futuristic cathedral nave filled with layered laser beams, symmetrical central aisle, mirror-polished black floor reflecting every light line, volumetric fog slicing the space, crystalline arches, geometric depth, radiant cyan magenta gold lasers, cinematic luxury exhibition installation, spectacular focal scene, ultra immersive, 16:9 horizontal composition, high detail, exhibition-scale, no logos, no watermark, no readable text"
+    },
+    {
+      "id": "2026-07-21-laser-composition_02_夜色温室光穹",
+      "batch": "2026-07-21-laser-composition",
+      "category": "laser-composition",
+      "number": "02",
+      "title": "夜色温室光穹",
+      "image": "assets/images/2026-07-21-laser-composition/02_夜色温室光穹.png",
+      "thumb": "assets/thumbs/2026-07-21-laser-composition/02_夜色温室光穹.png",
+      "description": "透明温室在夜幕中化作激光花园，植物轮廓与玻璃穹顶被霓虹光网包裹，像一场梦幻级沉浸展。",
+      "prompt": "A grand glass greenhouse at night transformed into a laser garden, lush tropical plants silhouetted inside, dome structure wrapped in layered neon laser grids, mirror reflections on wet stone path, volumetric mist revealing precise beams, emerald violet and rose light palette, immersive luxury exhibition aesthetic, spatial geometry and breathtaking atmosphere, clear main scene, 16:9 horizontal composition, high detail, exhibition-scale, no logos, no watermark, no readable text"
+    },
+    {
+      "id": "2026-07-21-laser-composition_03_沙海幻境之门",
+      "batch": "2026-07-21-laser-composition",
+      "category": "laser-composition",
+      "number": "03",
+      "title": "沙海幻境之门",
+      "image": "assets/images/2026-07-21-laser-composition/03_沙海幻境之门.png",
+      "thumb": "assets/thumbs/2026-07-21-laser-composition/03_沙海幻境之门.png",
+      "description": "广袤沙漠中央矗立一组镜面几何门框，激光穿过薄雾与风沙形成通天构图，荒凉与华丽形成强烈反差。",
+      "prompt": "A vast desert at blue hour with towering mirrored geometric gates, layered laser beams crossing through drifting sand and thin mist, surreal mirage atmosphere, reflective metallic surfaces, powerful spatial composition, magenta blue amber lasers reaching into the sky, exhibition-scale land art installation, dramatic yet elegant focal scene, 16:9 horizontal composition, high detail, exhibition-scale, no logos, no watermark, no readable text"
+    },
+    {
+      "id": "2026-07-21-laser-composition_04_地铁穹顶光列",
+      "batch": "2026-07-21-laser-composition",
+      "category": "laser-composition",
+      "number": "04",
+      "title": "地铁穹顶光列",
+      "image": "assets/images/2026-07-21-laser-composition/04_地铁穹顶光列.png",
+      "thumb": "assets/thumbs/2026-07-21-laser-composition/04_地铁穹顶光列.png",
+      "description": "废弃地铁站被改造成未来艺术现场，拱形穹顶、延伸轨道与平行激光形成强烈透视，城市感十足。",
+      "prompt": "An abandoned subway station reimagined as a futuristic laser exhibition, vaulted ceiling, long tracks vanishing into depth, parallel laser lines flooding the tunnel, mirror-finish metal surfaces, atmospheric haze revealing every beam, electric blue red and white palette, urban luxury visual shock, clear architectural subject and strong perspective, 16:9 horizontal composition, high detail, exhibition-scale, no logos, no watermark, no readable text"
+    },
+    {
+      "id": "2026-07-21-laser-composition_05_海上栈桥光环",
+      "batch": "2026-07-21-laser-composition",
+      "category": "laser-composition",
+      "number": "05",
+      "title": "海上栈桥光环",
+      "image": "assets/images/2026-07-21-laser-composition/05_海上栈桥光环.png",
+      "thumb": "assets/thumbs/2026-07-21-laser-composition/05_海上栈桥光环.png",
+      "description": "夜海尽头的栈桥被环形激光与垂直光柱包围，海面反射出双倍光效，像通往异世界的入口。",
+      "prompt": "A long ocean pier at night surrounded by circular laser halos and vertical light pillars, dark water reflecting the entire spectacle, sea mist catching layered beams, sleek architectural railings, celestial cyan purple silver palette, luxury immersive installation over the ocean, highly shareable visual impact, clear scene with strong subject, 16:9 horizontal composition, high detail, exhibition-scale, no logos, no watermark, no readable text"
+    },
+    {
+      "id": "2026-07-21-laser-composition_06_美术馆旋梯光场",
+      "batch": "2026-07-21-laser-composition",
+      "category": "laser-composition",
+      "number": "06",
+      "title": "美术馆旋梯光场",
+      "image": "assets/images/2026-07-21-laser-composition/06_美术馆旋梯光场.png",
+      "thumb": "assets/thumbs/2026-07-21-laser-composition/06_美术馆旋梯光场.png",
+      "description": "纯白美术馆中庭的旋转楼梯被多层激光缠绕，灯光沿着曲线爬升，形成高级时尚的展览级画面。",
+      "prompt": "A pristine contemporary museum atrium with a sweeping spiral staircase wrapped in layered laser ribbons, white walls contrasting with radiant beams, glossy floor reflections, floating haze, refined geometric elegance, pearl white with cyan pink and gold lasers, fashion-forward exhibition-scale visual, striking central subject and luxurious depth, 16:9 horizontal composition, high detail, exhibition-scale, no logos, no watermark, no readable text"
+    },
+    {
+      "id": "2026-07-21-laser-composition_07_竹庭雾切光阵",
+      "batch": "2026-07-21-laser-composition",
+      "category": "laser-composition",
+      "number": "07",
+      "title": "竹庭雾切光阵",
+      "image": "assets/images/2026-07-21-laser-composition/07_竹庭雾切光阵.png",
+      "thumb": "assets/thumbs/2026-07-21-laser-composition/07_竹庭雾切光阵.png",
+      "description": "东方庭院中的竹林与水池之间布满细密激光，雾气将光束一层层切出来，静谧中带着极致贵气。",
+      "prompt": "An elegant bamboo courtyard with a still reflecting pool, fine layered laser beams woven between bamboo stalks and stone paths, soft fog cutting the light into visible planes, mirrored water reflections, tranquil yet opulent atmosphere, jade green teal and warm gold palette, exhibition-grade immersive scene with clear environmental subject, 16:9 horizontal composition, high detail, exhibition-scale, no logos, no watermark, no readable text"
+    },
+    {
+      "id": "2026-07-21-laser-composition_08_天际泳池棱镜",
+      "batch": "2026-07-21-laser-composition",
+      "category": "laser-composition",
+      "number": "08",
+      "title": "天际泳池棱镜",
+      "image": "assets/images/2026-07-21-laser-composition/08_天际泳池棱镜.png",
+      "thumb": "assets/thumbs/2026-07-21-laser-composition/08_天际泳池棱镜.png",
+      "description": "摩天楼顶的无边泳池上方交织出多面激光棱镜，城市夜景与水面倒影共同放大了空间冲击力。",
+      "prompt": "A luxury skyscraper rooftop infinity pool under a night skyline, faceted laser prisms crisscrossing above the water, mirror-like reflections doubling the composition, light haze making beams tangible, sleek modern architecture, sapphire magenta and champagne gold palette, glamorous exhibition-scale city scene, clear focal environment, 16:9 horizontal composition, high detail, exhibition-scale, no logos, no watermark, no readable text"
+    },
+    {
+      "id": "2026-07-21-laser-composition_09_冰洞王座极光",
+      "batch": "2026-07-21-laser-composition",
+      "category": "laser-composition",
+      "number": "09",
+      "title": "冰洞王座极光",
+      "image": "assets/images/2026-07-21-laser-composition/09_冰洞王座极光.png",
+      "thumb": "assets/thumbs/2026-07-21-laser-composition/09_冰洞王座极光.png",
+      "description": "冰蓝色洞穴深处出现一座晶体王座，激光在冰壁间多重折射，整个空间像被冻结的未来幻境。",
+      "prompt": "A majestic ice cave with a crystalline throne deep inside, layered laser beams refracting through translucent ice walls, frozen mist and mirror-like ice floor, aurora-inspired cyan violet and silver glow, spectacular geometric reflections, fantasy exhibition installation with a strong central subject, visually overwhelming yet coherent, 16:9 horizontal composition, high detail, exhibition-scale, no logos, no watermark, no readable text"
+    },
+    {
+      "id": "2026-07-21-laser-composition_10_剧场轨道光幕",
+      "batch": "2026-07-21-laser-composition",
+      "category": "laser-composition",
+      "number": "10",
+      "title": "剧场轨道光幕",
+      "image": "assets/images/2026-07-21-laser-composition/10_剧场轨道光幕.png",
+      "thumb": "assets/thumbs/2026-07-21-laser-composition/10_剧场轨道光幕.png",
+      "description": "空无一人的古典剧场舞台上升起环绕轨道般的激光幕带，红金丝绒与冷色光束形成戏剧化反差。",
+      "prompt": "A grand classical opera stage with no performers, orbital laser curtains rising around the center stage, velvet red seating and gilded details contrasting with cool luminous beams, theatrical haze, polished floor reflections, opulent cinematic exhibition scene, strong stage subject and layered spatial geometry, 16:9 horizontal composition, high detail, exhibition-scale, no logos, no watermark, no readable text"
+    },
+    {
+      "id": "2026-07-21-laser-composition_11_山巅观测环阵",
+      "batch": "2026-07-21-laser-composition",
+      "category": "laser-composition",
+      "number": "11",
+      "title": "山巅观测环阵",
+      "image": "assets/images/2026-07-21-laser-composition/11_山巅观测环阵.png",
+      "thumb": "assets/thumbs/2026-07-21-laser-composition/11_山巅观测环阵.png",
+      "description": "云海之上的山顶观测站被同心圆激光与垂直光束包裹，天空、云层与金属结构共同构成震撼尺度。",
+      "prompt": "A futuristic observatory on a mountain summit above the clouds, concentric laser rings and vertical beams surrounding the structure, metallic surfaces reflecting light, dense mist and open night sky adding huge scale, cobalt cyan and white palette with subtle gold accents, luxury exhibition landscape with a clear main subject, 16:9 horizontal composition, high detail, exhibition-scale, no logos, no watermark, no readable text"
+    },
+    {
+      "id": "2026-07-21-laser-composition_12_藏书长廊光谱",
+      "batch": "2026-07-21-laser-composition",
+      "category": "laser-composition",
+      "number": "12",
+      "title": "藏书长廊光谱",
+      "image": "assets/images/2026-07-21-laser-composition/12_藏书长廊光谱.png",
+      "thumb": "assets/thumbs/2026-07-21-laser-composition/12_藏书长廊光谱.png",
+      "description": "高耸书墙之间的长廊被彩色激光织成光谱隧道，木质纹理、金属扶梯与雾化灯光交织出罕见的高级感。",
+      "prompt": "A towering library corridor between monumental bookshelves, multicolored laser beams woven into a spectral tunnel, warm wood textures contrasted with sleek metal ladders, atmospheric fog making every beam visible, reflective floor accents, intellectual yet extravagant exhibition aesthetic, clear architectural setting, 16:9 horizontal composition, high detail, exhibition-scale, no logos, no watermark, no readable text"
     }
   ]
 }
