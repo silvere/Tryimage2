@@ -1,7 +1,7 @@
 {
   "site": {
     "title": "OpenAI image2 视觉实验",
-    "subtitle": "1441 张传播向 AI 海报",
+    "subtitle": "1456 张传播向 AI 海报",
     "headline": "OpenAI image2 视觉实验",
     "intro": "每一批图片围绕一个临时主题生成，并按当次最合适的 category 归档；可以是反差创意、真实场景、产品概念、人物叙事或任何新的视觉方向。",
     "coverImage": "assets/contact_sheet_image2.jpg",
@@ -514,6 +514,10 @@
     {
       "id": "laser-composition",
       "label": "激光构图"
+    },
+    {
+      "id": "classic-cartoon-real-world",
+      "label": "经典卡通闯入现实"
     }
   ],
   "batches": [
@@ -1230,6 +1234,12 @@
       "theme": "美轮美奂的激光构图",
       "createdAt": "2026-07-21",
       "count": 12
+    },
+    {
+      "id": "2026-07-21-classic-cartoon-real-world",
+      "theme": "经典卡通人物出现在真实世界",
+      "createdAt": "2026-07-21",
+      "count": 15
     }
   ],
   "items": [
@@ -17068,6 +17078,171 @@
       "thumb": "assets/thumbs/2026-07-21-laser-composition/12_藏书长廊光谱.png",
       "description": "高耸书墙之间的长廊被彩色激光织成光谱隧道，木质纹理、金属扶梯与雾化灯光交织出罕见的高级感。",
       "prompt": "A towering library corridor between monumental bookshelves, multicolored laser beams woven into a spectral tunnel, warm wood textures contrasted with sleek metal ladders, atmospheric fog making every beam visible, reflective floor accents, intellectual yet extravagant exhibition aesthetic, clear architectural setting, 16:9 horizontal composition, high detail, exhibition-scale, no logos, no watermark, no readable text"
+    },
+    {
+      "id": "2026-07-21-classic-cartoon-real-world_01_地铁换乘通道里的黑白卡通通勤者",
+      "batch": "2026-07-21-classic-cartoon-real-world",
+      "category": "classic-cartoon-real-world",
+      "number": "01",
+      "title": "地铁换乘通道里的黑白卡通通勤者",
+      "image": "assets/images/2026-07-21-classic-cartoon-real-world/01_地铁换乘通道里的黑白卡通通勤者.png",
+      "thumb": "assets/thumbs/2026-07-21-classic-cartoon-real-world/01_地铁换乘通道里的黑白卡通通勤者.png",
+      "description": "早高峰的换乘通道里，行色匆匆的人群之间站着一个黑白复古卡通通勤者，像从旧动画胶片中突然走进了现实城市。",
+      "prompt": "A real underground metro transfer concourse during morning rush hour, commuters in practical coats moving through a tiled passage, fluorescent ceiling lights, polished floor reflections, an original black-and-white hand-inked vintage animated commuter figure standing naturally among tired passengers, documentary editorial realism, integrated scale and lighting, believable contact shadow, cinematic candid photography, 16:9 horizontal, original classic-animation presence in physical space, not resembling any specific existing franchise mascot, not a printed poster, not cosplay, not mascot suit, no logos, no watermark, no readable text"
+    },
+    {
+      "id": "2026-07-21-classic-cartoon-real-world_02_深夜便利店里的水手鸭顾客",
+      "batch": "2026-07-21-classic-cartoon-real-world",
+      "category": "classic-cartoon-real-world",
+      "number": "02",
+      "title": "深夜便利店里的水手鸭顾客",
+      "image": "assets/images/2026-07-21-classic-cartoon-real-world/02_深夜便利店里的水手鸭顾客.png",
+      "thumb": "assets/thumbs/2026-07-21-classic-cartoon-real-world/02_深夜便利店里的水手鸭顾客.png",
+      "description": "24 小时便利店的冷白灯下，一只穿海员风短装的复古鸭系角色正站在冰柜前挑饮料，荒诞却又像被路人随手拍到。",
+      "prompt": "Inside a real convenience store at night, chilled drink refrigerators glowing, instant noodles and snacks on shelves, a an original vintage cartoon figure in a sailor outfit browsing beverages with a mildly impatient expression, vintage rubber-hose cartoon design, impossible character intrusion captured as candid editorial photography, real-world environment, integrated scale and lighting, believable floor contact and reflections, 16:9 horizontal, original classic-animation character in physical space, not resembling any specific existing franchise mascot, not a printed poster, not cosplay, not mascot suit, no logos, no watermark, no readable text"
+    },
+    {
+      "id": "2026-07-21-classic-cartoon-real-world_03_写字楼大堂里的老派兔子骗子",
+      "batch": "2026-07-21-classic-cartoon-real-world",
+      "category": "classic-cartoon-real-world",
+      "number": "03",
+      "title": "写字楼大堂里的老派兔子骗子",
+      "image": "assets/images/2026-07-21-classic-cartoon-real-world/03_写字楼大堂里的老派兔子骗子.png",
+      "thumb": "assets/thumbs/2026-07-21-classic-cartoon-real-world/03_写字楼大堂里的老派兔子骗子.png",
+      "description": "玻璃幕墙写字楼的一层大堂里，西装白领们刷卡进门，一个旧时代顽皮兔角色拎着公文包混在队伍里，像现实突然被动画劫持。",
+      "prompt": "A modern office tower lobby with glass walls, turnstiles, polished stone floor, business workers entering, an an original elastic-limbed vintage cartoon figure carrying a briefcase and blending into the queue, golden-age animation look with expressive eyes and white gloves, documentary editorial realism, real-world environment, integrated scale and lighting, physically plausible shadowing, candid photojournalistic composition, 16:9 horizontal, original classic-animation character in physical space, not resembling any specific existing franchise mascot, not a printed poster, not cosplay, not mascot suit, no logos, no watermark, no readable text"
+    },
+    {
+      "id": "2026-07-21-classic-cartoon-real-world_04_电梯镜面里挤进来的复古卡通女孩",
+      "batch": "2026-07-21-classic-cartoon-real-world",
+      "category": "classic-cartoon-real-world",
+      "number": "04",
+      "title": "电梯镜面里挤进来的复古卡通女孩",
+      "image": "assets/images/2026-07-21-classic-cartoon-real-world/04_电梯镜面里挤进来的复古卡通女孩.png",
+      "thumb": "assets/thumbs/2026-07-21-classic-cartoon-real-world/04_电梯镜面里挤进来的复古卡通女孩.png",
+      "description": "狭小电梯内的镜面反射中，一位卷发、圆眼、复古水手风的卡通女孩和上班族并肩站着，局促空间让闯入感更强。",
+      "prompt": "Inside a real office elevator with brushed metal walls and mirror reflections, several tired workers standing quietly, a an original vintage cartoon figure with 1930s ink-and-paint styling with classic cel animation styling squeezed between them, reflected naturally in the mirror, realistic elevator lighting, documentary editorial realism, real-world environment, integrated scale and lighting, believable contact with floor and perspective, 16:9 horizontal, original classic-animation character in physical space, not resembling any specific existing franchise mascot, not a printed poster, not cosplay, not mascot suit, no logos, no watermark, no readable text"
+    },
+    {
+      "id": "2026-07-21-classic-cartoon-real-world_05_老住宅楼道里的黑白橡皮管猫影",
+      "batch": "2026-07-21-classic-cartoon-real-world",
+      "category": "classic-cartoon-real-world",
+      "number": "05",
+      "title": "老住宅楼道里的黑白橡皮管猫影",
+      "image": "assets/images/2026-07-21-classic-cartoon-real-world/05_老住宅楼道里的黑白橡皮管猫影.png",
+      "thumb": "assets/thumbs/2026-07-21-classic-cartoon-real-world/05_老住宅楼道里的黑白橡皮管猫影.png",
+      "description": "昏黄声控灯照着老式居民楼楼道，一个黑白橡皮管风格的猫系身影坐在台阶扶手上，像住户回家时偶然拍到的怪事。",
+      "prompt": "A worn stairwell inside an old residential apartment building, chipped paint, metal handrails, yellow sensor light, humble urban realism, a an original black-and-white rubber-hose-style cartoon figure perched casually on the stair railing, impossible but grounded in the physical environment, documentary editorial realism, integrated scale and lighting, subtle dust and texture, 16:9 horizontal, original classic-animation character in physical space, not resembling any specific existing franchise mascot, not a printed poster, not cosplay, not mascot suit, no logos, no watermark, no readable text"
+    },
+    {
+      "id": "2026-07-21-classic-cartoon-real-world_06_夜雨路口等灯的白手套卡通人",
+      "batch": "2026-07-21-classic-cartoon-real-world",
+      "category": "classic-cartoon-real-world",
+      "number": "06",
+      "title": "夜雨路口等灯的白手套卡通人",
+      "image": "assets/images/2026-07-21-classic-cartoon-real-world/06_夜雨路口等灯的白手套卡通人.png",
+      "thumb": "assets/thumbs/2026-07-21-classic-cartoon-real-world/06_夜雨路口等灯的白手套卡通人.png",
+      "description": "雨夜十字路口车灯反光一片，一个夸张四肢的复古卡通人物撑着小伞站在人群边缘，像新闻摄影里的超现实一瞬。",
+      "prompt": "A real city intersection at night in the rain, wet asphalt, traffic lights, car headlights reflecting on the street, pedestrians waiting under umbrellas, a an original white-gloved vintage cartoon figure standing among them with a tiny umbrella, cinematic documentary editorial realism, real-world environment, integrated scale and lighting, reflective puddles, believable weather interaction, 16:9 horizontal, original classic-animation character in physical space, not resembling any specific existing franchise mascot, not a printed poster, not cosplay, not mascot suit, no logos, no watermark, no readable text"
+    },
+    {
+      "id": "2026-07-21-classic-cartoon-real-world_07_快餐店卡座里的海员风鸭子",
+      "batch": "2026-07-21-classic-cartoon-real-world",
+      "category": "classic-cartoon-real-world",
+      "number": "07",
+      "title": "快餐店卡座里的海员风鸭子",
+      "image": "assets/images/2026-07-21-classic-cartoon-real-world/07_快餐店卡座里的海员风鸭子.png",
+      "thumb": "assets/thumbs/2026-07-21-classic-cartoon-real-world/07_快餐店卡座里的海员风鸭子.png",
+      "description": "红黄配色的快餐店卡座里，吃薯条的年轻人对面坐着一只表情丰富的复古水手鸭，画面像爆款街拍。",
+      "prompt": "A real fast food restaurant interior with booth seating, trays, fries, soda cups without branding, teenagers and workers eating, a an original vintage cartoon figure in a sailor outfit seated in a booth mid-gesture as if arguing about the meal, vintage cel animation design intruding into live-action reality, documentary editorial realism, integrated scale and lighting, candid street-photography energy, 16:9 horizontal, original classic-animation character in physical space, not resembling any specific existing franchise mascot, not a printed poster, not cosplay, not mascot suit, no logos, no watermark, no readable text"
+    },
+    {
+      "id": "2026-07-21-classic-cartoon-real-world_08_自助洗衣店里发呆的老动画兔子",
+      "batch": "2026-07-21-classic-cartoon-real-world",
+      "category": "classic-cartoon-real-world",
+      "number": "08",
+      "title": "自助洗衣店里发呆的老动画兔子",
+      "image": "assets/images/2026-07-21-classic-cartoon-real-world/08_自助洗衣店里发呆的老动画兔子.png",
+      "thumb": "assets/thumbs/2026-07-21-classic-cartoon-real-world/08_自助洗衣店里发呆的老动画兔子.png",
+      "description": "凌晨自助洗衣店的滚筒还在转，一个怀旧兔系卡通角色抱着洗衣篮坐在塑料椅上，疲惫感和荒诞感同时成立。",
+      "prompt": "A real laundromat late at night, rows of spinning washers and dryers, cool fluorescent lighting, plastic chairs, detergent bottles, an an original elastic-limbed vintage cartoon figure sitting with a laundry basket and waiting wearily, golden-age cartoon style placed physically in the room, documentary editorial realism, real-world environment, integrated scale and lighting, believable cast shadows and reflections, 16:9 horizontal, original classic-animation character in physical space, not resembling any specific existing franchise mascot, not a printed poster, not cosplay, not mascot suit, no logos, no watermark, no readable text"
+    },
+    {
+      "id": "2026-07-21-classic-cartoon-real-world_09_菜市场清晨摊位前的复古卡通女孩",
+      "batch": "2026-07-21-classic-cartoon-real-world",
+      "category": "classic-cartoon-real-world",
+      "number": "09",
+      "title": "菜市场清晨摊位前的复古卡通女孩",
+      "image": "assets/images/2026-07-21-classic-cartoon-real-world/09_菜市场清晨摊位前的复古卡通女孩.png",
+      "thumb": "assets/thumbs/2026-07-21-classic-cartoon-real-world/09_菜市场清晨摊位前的复古卡通女孩.png",
+      "description": "湿漉漉的菜市场地面、塑料筐和叫卖人群之间，一个旧时代卡通女孩拎着网兜认真挑青菜，像短视频里会疯传的瞬间。",
+      "prompt": "A bustling wet market in the morning, vegetables, fish stalls, plastic crates, damp floor, ordinary shoppers and vendors, a an original vintage cartoon figure with 1930s ink-and-paint styling inspecting leafy greens with curiosity, impossible animation character blended into documentary-style reality, real-world environment, integrated scale and lighting, tactile textures and natural crowd spacing, 16:9 horizontal, original classic-animation character in physical space, not resembling any specific existing franchise mascot, not a printed poster, not cosplay, not mascot suit, no logos, no watermark, no readable text"
+    },
+    {
+      "id": "2026-07-21-classic-cartoon-real-world_10_医院走廊长椅上的沉默卡通访客",
+      "batch": "2026-07-21-classic-cartoon-real-world",
+      "category": "classic-cartoon-real-world",
+      "number": "10",
+      "title": "医院走廊长椅上的沉默卡通访客",
+      "image": "assets/images/2026-07-21-classic-cartoon-real-world/10_医院走廊长椅上的沉默卡通访客.png",
+      "thumb": "assets/thumbs/2026-07-21-classic-cartoon-real-world/10_医院走廊长椅上的沉默卡通访客.png",
+      "description": "安静的医院走廊里，家属和病人都在等待，一个黑白老动画形象坐在长椅尽头低头摆弄帽子，画面意外地带着情绪。",
+      "prompt": "A real hospital corridor with pale walls, benches, distant nurses, harsh overhead lighting, people waiting quietly, a an original black-and-white vintage cartoon figure sitting alone at the end of a bench holding a hat, melancholic impossible intrusion into a clinical environment, documentary editorial realism, real-world environment, integrated scale and lighting, grounded perspective and subtle shadow, 16:9 horizontal, original classic-animation character in physical space, not resembling any specific existing franchise mascot, not a printed poster, not cosplay, not mascot suit, no logos, no watermark, no readable text"
+    },
+    {
+      "id": "2026-07-21-classic-cartoon-real-world_11_海边栈桥上迎风站立的橡皮管水手",
+      "batch": "2026-07-21-classic-cartoon-real-world",
+      "category": "classic-cartoon-real-world",
+      "number": "11",
+      "title": "海边栈桥上迎风站立的橡皮管水手",
+      "image": "assets/images/2026-07-21-classic-cartoon-real-world/11_海边栈桥上迎风站立的橡皮管水手.png",
+      "thumb": "assets/thumbs/2026-07-21-classic-cartoon-real-world/11_海边栈桥上迎风站立的橡皮管水手.png",
+      "description": "阴天海风吹过木栈桥，一个夸张肢体的复古水手系卡通角色顶着风站在尽头，像旅行摄影突然拍到了不该存在的人物。",
+      "prompt": "A real seaside pier on a windy overcast day, wooden planks, gray ocean, gulls, tourists in jackets, a an original rubber-hose-style vintage cartoon figure bracing dramatically against the wind at the end of the pier, integrated into physical coastal light and atmosphere, documentary editorial realism, real-world environment, integrated scale and lighting, cinematic natural photography, 16:9 horizontal, original classic-animation character in physical space, not resembling any specific existing franchise mascot, not a printed poster, not cosplay, not mascot suit, no logos, no watermark, no readable text"
+    },
+    {
+      "id": "2026-07-21-classic-cartoon-real-world_12_摄影棚后台偷看的白手套明星脸",
+      "batch": "2026-07-21-classic-cartoon-real-world",
+      "category": "classic-cartoon-real-world",
+      "number": "12",
+      "title": "摄影棚后台偷看的白手套明星脸",
+      "image": "assets/images/2026-07-21-classic-cartoon-real-world/12_摄影棚后台偷看的白手套明星脸.png",
+      "thumb": "assets/thumbs/2026-07-21-classic-cartoon-real-world/12_摄影棚后台偷看的白手套明星脸.png",
+      "description": "摄影棚后台堆着灯架、服装箱和折叠椅，一个白手套的老派卡通明星脸从幕布边探头，像闯入了一场真人拍摄。",
+      "prompt": "Backstage in a real photography studio, light stands, cables, folding chairs, garment racks, black curtains, a an original vintage ink-and-paint cartoon figure with white gloves peeking from behind a curtain, impossible but naturally lit within the set, documentary editorial realism, real-world environment, integrated scale and lighting, believable depth and shadows, 16:9 horizontal, original classic-animation character in physical space, not resembling any specific existing franchise mascot, not a printed poster, not cosplay, not mascot suit, no logos, no watermark, no readable text"
+    },
+    {
+      "id": "2026-07-21-classic-cartoon-real-world_13_黄昏屋顶边缘的顽皮兔剪影",
+      "batch": "2026-07-21-classic-cartoon-real-world",
+      "category": "classic-cartoon-real-world",
+      "number": "13",
+      "title": "黄昏屋顶边缘的顽皮兔剪影",
+      "image": "assets/images/2026-07-21-classic-cartoon-real-world/13_黄昏屋顶边缘的顽皮兔剪影.png",
+      "thumb": "assets/thumbs/2026-07-21-classic-cartoon-real-world/13_黄昏屋顶边缘的顽皮兔剪影.png",
+      "description": "城市天台黄昏时分，空调外机与水塔之间，一个顽皮兔系卡通角色站在边缘向下张望，像被无人机偶然捕捉到。",
+      "prompt": "A real urban rooftop at dusk, water tanks, air-conditioning units, safety rails, dense city skyline, an original hand-inked vintage animated silhouette figure with elastic limbs and white gloves standing near the edge and looking down, golden-age ink-and-paint animation presence integrated into realistic evening light, documentary editorial realism, real-world environment, integrated scale and lighting, atmospheric city haze, 16:9 horizontal, original classic-animation presence in physical space, not resembling any specific existing franchise mascot, not a printed poster, not cosplay, not mascot suit, no logos, no watermark, no readable text"
+    },
+    {
+      "id": "2026-07-21-classic-cartoon-real-world_14_空教室最后一排的复古卡通转学生",
+      "batch": "2026-07-21-classic-cartoon-real-world",
+      "category": "classic-cartoon-real-world",
+      "number": "14",
+      "title": "空教室最后一排的复古卡通转学生",
+      "image": "assets/images/2026-07-21-classic-cartoon-real-world/14_空教室最后一排的复古卡通转学生.png",
+      "thumb": "assets/thumbs/2026-07-21-classic-cartoon-real-world/14_空教室最后一排的复古卡通转学生.png",
+      "description": "午后教室里光线斜照进来，一个古早卡通风格的转学生坐在最后一排，和真实课桌椅形成强烈反差，天然有梗。",
+      "prompt": "A real classroom in the afternoon, sunlight through windows, chalk dust, wooden desks, backpacks, a an original vintage ink-and-paint cartoon student figure sitting alone in the back row as if newly arrived, impossible character intrusion captured in realistic school photography, documentary editorial realism, real-world environment, integrated scale and lighting, natural shadows and perspective, 16:9 horizontal, original classic-animation character in physical space, not resembling any specific existing franchise mascot, not a printed poster, not cosplay, not mascot suit, no logos, no watermark, no readable text"
+    },
+    {
+      "id": "2026-07-21-classic-cartoon-real-world_15_凌晨公交站等车的黑白卡通旅人",
+      "batch": "2026-07-21-classic-cartoon-real-world",
+      "category": "classic-cartoon-real-world",
+      "number": "15",
+      "title": "凌晨公交站等车的黑白卡通旅人",
+      "image": "assets/images/2026-07-21-classic-cartoon-real-world/15_凌晨公交站等车的黑白卡通旅人.png",
+      "thumb": "assets/thumbs/2026-07-21-classic-cartoon-real-world/15_凌晨公交站等车的黑白卡通旅人.png",
+      "description": "天还没亮的公交站牌下，几位困倦乘客裹着外套，一个黑白老动画旅人拖着小箱子站在最前面，像城市传说被拍成了照片。",
+      "prompt": "A real bus stop before dawn, cold blue early-morning light, tired passengers, damp pavement, faint streetlamps, an original black-and-white hand-inked vintage animated traveler figure with a small suitcase waiting at the front, impossible but grounded presence treated with serious documentary editorial realism, real-world environment, integrated scale and lighting, believable contact shadow and atmospheric depth, 16:9 horizontal, original classic-animation presence in physical space, not resembling any specific existing franchise mascot, not a printed poster, not cosplay, not mascot suit, no logos, no watermark, no readable text"
     }
   ]
 }
