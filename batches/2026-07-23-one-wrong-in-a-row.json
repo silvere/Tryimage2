@@ -1,0 +1,55 @@
+{
+  "theme": "一排东西里只有一个错了",
+  "batchId": "2026-07-23-one-wrong-in-a-row",
+  "createdAt": "2026-07-23",
+  "items": [
+    {
+      "source": "01_red_helmets_one_orange.png",
+      "category": "one-wrong-in-a-row",
+      "categoryLabel": "一排东西里只有一个错了",
+      "title": "安全帽里混进一个橙子",
+      "description": "一整排红色工地安全帽整齐挂在灰色水泥墙上，只有中间一个位置放着一颗橙子，秩序感和荒诞感同时成立。",
+      "prompt": "Documentary editorial photography, a long row of identical red construction safety helmets hanging evenly on metal hooks against a raw concrete wall, one position in the middle occupied by a single bright orange fruit instead of a helmet, frontal composition, strong repetition, cool industrial light, realistic surface wear, subtle dust, shallow but not extreme depth of field, visually striking cover image, no readable text, no logos, no watermark."
+    },
+    {
+      "source": "02_white_plates_one_clock.png",
+      "category": "one-wrong-in-a-row",
+      "categoryLabel": "一排东西里只有一个错了",
+      "title": "餐盘之间出现一只钟",
+      "description": "后厨金属架上摆满同样的白瓷圆盘，只有一格里不是盘子，而是一只老式圆形闹钟，像一秒钟把厨房变成了时间装置。",
+      "prompt": "Documentary editorial photography, commercial kitchen shelving with a precise row of identical white ceramic dinner plates stacked upright, one slot replaced by a vintage round alarm clock with simple blank face details, stainless steel reflections, neutral fluorescent kitchen light, clean but slightly used environment, eye-level framing, repetition broken by one impossible object, realistic textures, no readable text, no logos, no watermark."
+    },
+    {
+      "source": "03_black_umbrellas_one_fish.png",
+      "category": "one-wrong-in-a-row",
+      "categoryLabel": "一排东西里只有一个错了",
+      "title": "雨伞架里站着一条鱼",
+      "description": "写字楼门口的伞桶里插满湿漉漉的黑伞，只有一格露出一条银色大鱼的尾部，像一场没人承认的都市意外。",
+      "prompt": "Documentary editorial street-interior photography, office building entrance on a rainy day, a dense row of identical black umbrellas standing upright in a metal umbrella rack, one slot occupied by a fresh silver fish standing vertically with tail visible above the rim, wet floor reflections, muted city light, restrained color palette, believable urban realism, strong repetition and one absurd disruption, cover-image composition, no readable text, no logos, no watermark."
+    },
+    {
+      "source": "04_blue_lockers_one_window.png",
+      "category": "one-wrong-in-a-row",
+      "categoryLabel": "一排东西里只有一个错了",
+      "title": "储物柜中间开了一扇窗",
+      "description": "学校走廊里一整排蓝色铁皮储物柜延伸到尽头，只有其中一扇柜门的位置不是柜门，而是一扇能看见天空的真实窗户。",
+      "prompt": "Documentary editorial photography, long school corridor lined with identical blue metal lockers, one locker door replaced by a real open window revealing pale sky and soft clouds beyond, symmetrical hallway perspective, cool ambient indoor light mixed with daylight from the window, scuffed paint and realistic institutional textures, uncanny but grounded scene, strong geometric repetition, no students, no readable text, no logos, no watermark."
+    },
+    {
+      "source": "05_green_bottles_one_pepper.png",
+      "category": "one-wrong-in-a-row",
+      "categoryLabel": "一排东西里只有一个错了",
+      "title": "啤酒瓶队列里长出一根辣椒",
+      "description": "小店冰柜里一排绿色玻璃瓶靠得极密，只有中间一支不是瓶子，而是一根竖直立着的红辣椒，颜色像故意漏出的信号。",
+      "prompt": "Documentary editorial photography, convenience store refrigerator shelf tightly packed with a row of identical green glass bottles, one central position replaced by a single upright red chili pepper, cold condensation on glass, dim retail refrigeration light, close frontal composition with strong rhythm, highly tactile surfaces, subtle humidity, strange but believable visual tension, no readable text, no brand labels, no logos, no watermark."
+    },
+    {
+      "source": "06_office_chairs_one_toilet.png",
+      "category": "one-wrong-in-a-row",
+      "categoryLabel": "一排东西里只有一个错了",
+      "title": "会议椅之间多了一个马桶",
+      "description": "空荡会议室里一排黑色办公椅面对同一方向，只有其中一个座位的位置变成了白色马桶，像体面秩序里突然裂开了一个洞。",
+      "prompt": "Documentary editorial interior photography, empty conference room with a straight row of identical black office chairs facing the same direction, one chair position replaced by a plain white porcelain toilet, neutral corporate lighting, polished floor, restrained modern meeting room, crisp side-frontal framing, repetition plus one jarring wrong object, realistic materials and shadows, powerful cover-image feel, no readable text, no logos, no watermark."
+    }
+  ]
+}

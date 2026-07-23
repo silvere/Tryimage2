@@ -1,7 +1,7 @@
 {
   "site": {
     "title": "OpenAI image2 视觉实验",
-    "subtitle": "1456 张传播向 AI 海报",
+    "subtitle": "1468 张传播向 AI 海报",
     "headline": "OpenAI image2 视觉实验",
     "intro": "每一批图片围绕一个临时主题生成，并按当次最合适的 category 归档；可以是反差创意、真实场景、产品概念、人物叙事或任何新的视觉方向。",
     "coverImage": "assets/contact_sheet_image2.jpg",
@@ -518,6 +518,14 @@
     {
       "id": "classic-cartoon-real-world",
       "label": "经典卡通闯入现实"
+    },
+    {
+      "id": "one-wrong-in-a-row",
+      "label": "一排东西里只有一个错了"
+    },
+    {
+      "id": "too-many-labels-objects",
+      "label": "被贴了太多标签的物体"
     }
   ],
   "batches": [
@@ -1240,6 +1248,18 @@
       "theme": "经典卡通人物出现在真实世界",
       "createdAt": "2026-07-21",
       "count": 15
+    },
+    {
+      "id": "2026-07-23-one-wrong-in-a-row",
+      "theme": "一排东西里只有一个错了",
+      "createdAt": "2026-07-23",
+      "count": 6
+    },
+    {
+      "id": "2026-07-23-too-many-labels-objects",
+      "theme": "被贴了太多标签的物体",
+      "createdAt": "2026-07-23",
+      "count": 6
     }
   ],
   "items": [
@@ -17243,6 +17263,138 @@
       "thumb": "assets/thumbs/2026-07-21-classic-cartoon-real-world/15_凌晨公交站等车的黑白卡通旅人.png",
       "description": "天还没亮的公交站牌下，几位困倦乘客裹着外套，一个黑白老动画旅人拖着小箱子站在最前面，像城市传说被拍成了照片。",
       "prompt": "A real bus stop before dawn, cold blue early-morning light, tired passengers, damp pavement, faint streetlamps, an original black-and-white hand-inked vintage animated traveler figure with a small suitcase waiting at the front, impossible but grounded presence treated with serious documentary editorial realism, real-world environment, integrated scale and lighting, believable contact shadow and atmospheric depth, 16:9 horizontal, original classic-animation presence in physical space, not resembling any specific existing franchise mascot, not a printed poster, not cosplay, not mascot suit, no logos, no watermark, no readable text"
+    },
+    {
+      "id": "2026-07-23-one-wrong-in-a-row_01_安全帽里混进一个橙子",
+      "batch": "2026-07-23-one-wrong-in-a-row",
+      "category": "one-wrong-in-a-row",
+      "number": "01",
+      "title": "安全帽里混进一个橙子",
+      "image": "assets/images/2026-07-23-one-wrong-in-a-row/01_安全帽里混进一个橙子.png",
+      "thumb": "assets/thumbs/2026-07-23-one-wrong-in-a-row/01_安全帽里混进一个橙子.png",
+      "description": "一整排红色工地安全帽整齐挂在灰色水泥墙上，只有中间一个位置放着一颗橙子，秩序感和荒诞感同时成立。",
+      "prompt": "Documentary editorial photography, a long row of identical red construction safety helmets hanging evenly on metal hooks against a raw concrete wall, one position in the middle occupied by a single bright orange fruit instead of a helmet, frontal composition, strong repetition, cool industrial light, realistic surface wear, subtle dust, shallow but not extreme depth of field, visually striking cover image, no readable text, no logos, no watermark."
+    },
+    {
+      "id": "2026-07-23-one-wrong-in-a-row_02_餐盘之间出现一只钟",
+      "batch": "2026-07-23-one-wrong-in-a-row",
+      "category": "one-wrong-in-a-row",
+      "number": "02",
+      "title": "餐盘之间出现一只钟",
+      "image": "assets/images/2026-07-23-one-wrong-in-a-row/02_餐盘之间出现一只钟.png",
+      "thumb": "assets/thumbs/2026-07-23-one-wrong-in-a-row/02_餐盘之间出现一只钟.png",
+      "description": "后厨金属架上摆满同样的白瓷圆盘，只有一格里不是盘子，而是一只老式圆形闹钟，像一秒钟把厨房变成了时间装置。",
+      "prompt": "Documentary editorial photography, commercial kitchen shelving with a precise row of identical white ceramic dinner plates stacked upright, one slot replaced by a vintage round alarm clock with simple blank face details, stainless steel reflections, neutral fluorescent kitchen light, clean but slightly used environment, eye-level framing, repetition broken by one impossible object, realistic textures, no readable text, no logos, no watermark."
+    },
+    {
+      "id": "2026-07-23-one-wrong-in-a-row_03_雨伞架里站着一条鱼",
+      "batch": "2026-07-23-one-wrong-in-a-row",
+      "category": "one-wrong-in-a-row",
+      "number": "03",
+      "title": "雨伞架里站着一条鱼",
+      "image": "assets/images/2026-07-23-one-wrong-in-a-row/03_雨伞架里站着一条鱼.png",
+      "thumb": "assets/thumbs/2026-07-23-one-wrong-in-a-row/03_雨伞架里站着一条鱼.png",
+      "description": "写字楼门口的伞桶里插满湿漉漉的黑伞，只有一格露出一条银色大鱼的尾部，像一场没人承认的都市意外。",
+      "prompt": "Documentary editorial street-interior photography, office building entrance on a rainy day, a dense row of identical black umbrellas standing upright in a metal umbrella rack, one slot occupied by a fresh silver fish standing vertically with tail visible above the rim, wet floor reflections, muted city light, restrained color palette, believable urban realism, strong repetition and one absurd disruption, cover-image composition, no readable text, no logos, no watermark."
+    },
+    {
+      "id": "2026-07-23-one-wrong-in-a-row_04_储物柜中间开了一扇窗",
+      "batch": "2026-07-23-one-wrong-in-a-row",
+      "category": "one-wrong-in-a-row",
+      "number": "04",
+      "title": "储物柜中间开了一扇窗",
+      "image": "assets/images/2026-07-23-one-wrong-in-a-row/04_储物柜中间开了一扇窗.png",
+      "thumb": "assets/thumbs/2026-07-23-one-wrong-in-a-row/04_储物柜中间开了一扇窗.png",
+      "description": "学校走廊里一整排蓝色铁皮储物柜延伸到尽头，只有其中一扇柜门的位置不是柜门，而是一扇能看见天空的真实窗户。",
+      "prompt": "Documentary editorial photography, long school corridor lined with identical blue metal lockers, one locker door replaced by a real open window revealing pale sky and soft clouds beyond, symmetrical hallway perspective, cool ambient indoor light mixed with daylight from the window, scuffed paint and realistic institutional textures, uncanny but grounded scene, strong geometric repetition, no students, no readable text, no logos, no watermark."
+    },
+    {
+      "id": "2026-07-23-one-wrong-in-a-row_05_啤酒瓶队列里长出一根辣椒",
+      "batch": "2026-07-23-one-wrong-in-a-row",
+      "category": "one-wrong-in-a-row",
+      "number": "05",
+      "title": "啤酒瓶队列里长出一根辣椒",
+      "image": "assets/images/2026-07-23-one-wrong-in-a-row/05_啤酒瓶队列里长出一根辣椒.png",
+      "thumb": "assets/thumbs/2026-07-23-one-wrong-in-a-row/05_啤酒瓶队列里长出一根辣椒.png",
+      "description": "小店冰柜里一排绿色玻璃瓶靠得极密，只有中间一支不是瓶子，而是一根竖直立着的红辣椒，颜色像故意漏出的信号。",
+      "prompt": "Documentary editorial photography, convenience store refrigerator shelf tightly packed with a row of identical green glass bottles, one central position replaced by a single upright red chili pepper, cold condensation on glass, dim retail refrigeration light, close frontal composition with strong rhythm, highly tactile surfaces, subtle humidity, strange but believable visual tension, no readable text, no brand labels, no logos, no watermark."
+    },
+    {
+      "id": "2026-07-23-one-wrong-in-a-row_06_会议椅之间多了一个马桶",
+      "batch": "2026-07-23-one-wrong-in-a-row",
+      "category": "one-wrong-in-a-row",
+      "number": "06",
+      "title": "会议椅之间多了一个马桶",
+      "image": "assets/images/2026-07-23-one-wrong-in-a-row/06_会议椅之间多了一个马桶.png",
+      "thumb": "assets/thumbs/2026-07-23-one-wrong-in-a-row/06_会议椅之间多了一个马桶.png",
+      "description": "空荡会议室里一排黑色办公椅面对同一方向，只有其中一个座位的位置变成了白色马桶，像体面秩序里突然裂开了一个洞。",
+      "prompt": "Documentary editorial interior photography, empty conference room with a straight row of identical black office chairs facing the same direction, one chair position replaced by a plain white porcelain toilet, neutral corporate lighting, polished floor, restrained modern meeting room, crisp side-frontal framing, repetition plus one jarring wrong object, realistic materials and shadows, powerful cover-image feel, no readable text, no logos, no watermark."
+    },
+    {
+      "id": "2026-07-23-too-many-labels-objects_01_传送带上的行李箱",
+      "batch": "2026-07-23-too-many-labels-objects",
+      "category": "too-many-labels-objects",
+      "number": "01",
+      "title": "传送带上的行李箱",
+      "image": "assets/images/2026-07-23-too-many-labels-objects/01_传送带上的行李箱.png",
+      "thumb": "assets/thumbs/2026-07-23-too-many-labels-objects/01_传送带上的行李箱.png",
+      "description": "一只硬壳行李箱卡在机场传送带转角，外壳被层层运输贴纸、安检封条和残胶覆盖，原本的颜色只剩零星一角。",
+      "prompt": "Documentary editorial photography, an airport baggage carousel corner at dawn, a single hard-shell suitcase wedged near the metal curve, almost entirely covered by overlapping baggage stickers, security seals, torn adhesive patches and blank paper labels, the original shell color visible only in tiny fragments, scuffed plastic, conveyor belt texture, cold overhead fluorescent light, shallow haze in the terminal, realistic wear, strong cover-image composition, no readable text, no logos, all labels abstract or illegible, no branding."
+    },
+    {
+      "id": "2026-07-23-too-many-labels-objects_02_楼道里的自行车",
+      "batch": "2026-07-23-too-many-labels-objects",
+      "category": "too-many-labels-objects",
+      "number": "02",
+      "title": "楼道里的自行车",
+      "image": "assets/images/2026-07-23-too-many-labels-objects/02_楼道里的自行车.png",
+      "thumb": "assets/thumbs/2026-07-23-too-many-labels-objects/02_楼道里的自行车.png",
+      "description": "一辆旧自行车被锁在居民楼狭窄楼道里，车架、车篮和挡泥板上贴满颜色各异的标签与胶带，像被邻里意见反复覆盖。",
+      "prompt": "Documentary editorial photography, a narrow apartment stairwell with damp concrete walls, one old bicycle locked against the railing, frame, basket, handlebars and mudguards buried under layers of colored labels, masking tape, circular inspection dots and peeled adhesive remnants, only part of the metal frame still recognizable, dim window light mixed with stairwell tungsten glow, intimate urban realism, frontal but tense composition, suitable for a magazine cover, no readable text, no logos, labels must remain visually dense but completely illegible."
+    },
+    {
+      "id": "2026-07-23-too-many-labels-objects_03_维修场里的冰箱",
+      "batch": "2026-07-23-too-many-labels-objects",
+      "category": "too-many-labels-objects",
+      "number": "03",
+      "title": "维修场里的冰箱",
+      "image": "assets/images/2026-07-23-too-many-labels-objects/03_维修场里的冰箱.png",
+      "thumb": "assets/thumbs/2026-07-23-too-many-labels-objects/03_维修场里的冰箱.png",
+      "description": "一台被反复转手的旧冰箱站在维修场角落，门板上密密麻麻贴着分类标记、质检贴和手撕胶带，像经历过太多判断。",
+      "prompt": "Documentary editorial photography, an outdoor appliance repair yard after light rain, a single old refrigerator standing upright among blurred scrap appliances, its door almost completely hidden by layered quality-control stickers, colored sorting tabs, tape strips, residue marks and patched-over labels, dented enamel, puddles reflecting grey sky, gritty realistic textures, muted industrial palette, strong centered composition, no readable text, no logos, labels abstract and unreadable, editorial realism not advertising."
+    },
+    {
+      "id": "2026-07-23-too-many-labels-objects_04_更衣室长椅上的头盔",
+      "batch": "2026-07-23-too-many-labels-objects",
+      "category": "too-many-labels-objects",
+      "number": "04",
+      "title": "更衣室长椅上的头盔",
+      "image": "assets/images/2026-07-23-too-many-labels-objects/04_更衣室长椅上的头盔.png",
+      "thumb": "assets/thumbs/2026-07-23-too-many-labels-objects/04_更衣室长椅上的头盔.png",
+      "description": "一顶黑色头盔放在嘈杂工作更衣室的长椅上，外壳贴满号码贴、提醒贴和被撕毁的封条，几乎失去原本身份。",
+      "prompt": "Documentary editorial photography, a worker locker room with metal lockers and a worn wooden bench, one black helmet placed alone in the center, its shell buried under excessive numbered stickers, safety labels, torn sealing strips and overlapping adhesive fragments, visor partly obscured, humid light, realistic scuffs and fingerprints, slightly low camera angle for symbolic weight, crisp subject and soft background, powerful editorial cover frame, no readable text, no logos, all labels and marks must be illegible."
+    },
+    {
+      "id": "2026-07-23-too-many-labels-objects_05_排练室里的钢琴",
+      "batch": "2026-07-23-too-many-labels-objects",
+      "category": "too-many-labels-objects",
+      "number": "05",
+      "title": "排练室里的钢琴",
+      "image": "assets/images/2026-07-23-too-many-labels-objects/05_排练室里的钢琴.png",
+      "thumb": "assets/thumbs/2026-07-23-too-many-labels-objects/05_排练室里的钢琴.png",
+      "description": "一架立式钢琴靠在旧排练室墙边，琴盖与侧板贴满荧光标签、维修标记和定位胶带，像音乐本身被各种定义包住。",
+      "prompt": "Documentary editorial photography, an old rehearsal room with dusty wooden floor and acoustic wall panels, one upright piano against the wall, front panel, side boards and closed lid covered in dense fluorescent labels, repair markers, tape tabs and layered paper tags, keys partly visible below the clutter, soft side light from a high window, suspended dust, rich dark wood textures, emotionally charged but realistic, strong asymmetric cover composition, no readable text, no logos, all labels blank or illegible."
+    },
+    {
+      "id": "2026-07-23-too-many-labels-objects_06_库房货架上的石膏像",
+      "batch": "2026-07-23-too-many-labels-objects",
+      "category": "too-many-labels-objects",
+      "number": "06",
+      "title": "库房货架上的石膏像",
+      "image": "assets/images/2026-07-23-too-many-labels-objects/06_库房货架上的石膏像.png",
+      "thumb": "assets/thumbs/2026-07-23-too-many-labels-objects/06_库房货架上的石膏像.png",
+      "description": "一尊石膏头像被放在博物馆库房货架上，脸部、底座和保护膜上堆叠着归档标签与颜色贴点，连面孔都快被注释吞没。",
+      "prompt": "Documentary editorial photography, museum storage shelves in a quiet archive room, a single plaster bust on a metal rack, face, neck, base and protective wrapping covered by too many archive stickers, colored catalog dots, conservation tape and old adhesive traces, the sculpture identity nearly erased by classification, neutral archival lighting, pale dust, subtle shadows, haunting realistic detail, bold portrait-like framing suitable for a cover image, no readable text, no logos, every label and mark fully illegible."
     }
   ]
 }

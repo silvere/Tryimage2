@@ -1,0 +1,55 @@
+{
+  "theme": "被贴了太多标签的物体",
+  "batchId": "2026-07-23-too-many-labels-objects",
+  "createdAt": "2026-07-23",
+  "items": [
+    {
+      "source": "01_suitcase-carousel.png",
+      "category": "too-many-labels-objects",
+      "categoryLabel": "被贴了太多标签的物体",
+      "title": "传送带上的行李箱",
+      "description": "一只硬壳行李箱卡在机场传送带转角，外壳被层层运输贴纸、安检封条和残胶覆盖，原本的颜色只剩零星一角。",
+      "prompt": "Documentary editorial photography, an airport baggage carousel corner at dawn, a single hard-shell suitcase wedged near the metal curve, almost entirely covered by overlapping baggage stickers, security seals, torn adhesive patches and blank paper labels, the original shell color visible only in tiny fragments, scuffed plastic, conveyor belt texture, cold overhead fluorescent light, shallow haze in the terminal, realistic wear, strong cover-image composition, no readable text, no logos, all labels abstract or illegible, no branding."
+    },
+    {
+      "source": "02_bicycle-stairwell.png",
+      "category": "too-many-labels-objects",
+      "categoryLabel": "被贴了太多标签的物体",
+      "title": "楼道里的自行车",
+      "description": "一辆旧自行车被锁在居民楼狭窄楼道里，车架、车篮和挡泥板上贴满颜色各异的标签与胶带，像被邻里意见反复覆盖。",
+      "prompt": "Documentary editorial photography, a narrow apartment stairwell with damp concrete walls, one old bicycle locked against the railing, frame, basket, handlebars and mudguards buried under layers of colored labels, masking tape, circular inspection dots and peeled adhesive remnants, only part of the metal frame still recognizable, dim window light mixed with stairwell tungsten glow, intimate urban realism, frontal but tense composition, suitable for a magazine cover, no readable text, no logos, labels must remain visually dense but completely illegible."
+    },
+    {
+      "source": "03_refrigerator-repair-yard.png",
+      "category": "too-many-labels-objects",
+      "categoryLabel": "被贴了太多标签的物体",
+      "title": "维修场里的冰箱",
+      "description": "一台被反复转手的旧冰箱站在维修场角落，门板上密密麻麻贴着分类标记、质检贴和手撕胶带，像经历过太多判断。",
+      "prompt": "Documentary editorial photography, an outdoor appliance repair yard after light rain, a single old refrigerator standing upright among blurred scrap appliances, its door almost completely hidden by layered quality-control stickers, colored sorting tabs, tape strips, residue marks and patched-over labels, dented enamel, puddles reflecting grey sky, gritty realistic textures, muted industrial palette, strong centered composition, no readable text, no logos, labels abstract and unreadable, editorial realism not advertising."
+    },
+    {
+      "source": "04_helmet-locker-room.png",
+      "category": "too-many-labels-objects",
+      "categoryLabel": "被贴了太多标签的物体",
+      "title": "更衣室长椅上的头盔",
+      "description": "一顶黑色头盔放在嘈杂工作更衣室的长椅上，外壳贴满号码贴、提醒贴和被撕毁的封条，几乎失去原本身份。",
+      "prompt": "Documentary editorial photography, a worker locker room with metal lockers and a worn wooden bench, one black helmet placed alone in the center, its shell buried under excessive numbered stickers, safety labels, torn sealing strips and overlapping adhesive fragments, visor partly obscured, humid light, realistic scuffs and fingerprints, slightly low camera angle for symbolic weight, crisp subject and soft background, powerful editorial cover frame, no readable text, no logos, all labels and marks must be illegible."
+    },
+    {
+      "source": "05_piano-rehearsal-room.png",
+      "category": "too-many-labels-objects",
+      "categoryLabel": "被贴了太多标签的物体",
+      "title": "排练室里的钢琴",
+      "description": "一架立式钢琴靠在旧排练室墙边，琴盖与侧板贴满荧光标签、维修标记和定位胶带，像音乐本身被各种定义包住。",
+      "prompt": "Documentary editorial photography, an old rehearsal room with dusty wooden floor and acoustic wall panels, one upright piano against the wall, front panel, side boards and closed lid covered in dense fluorescent labels, repair markers, tape tabs and layered paper tags, keys partly visible below the clutter, soft side light from a high window, suspended dust, rich dark wood textures, emotionally charged but realistic, strong asymmetric cover composition, no readable text, no logos, all labels blank or illegible."
+    },
+    {
+      "source": "06_bust-storage-rack.png",
+      "category": "too-many-labels-objects",
+      "categoryLabel": "被贴了太多标签的物体",
+      "title": "库房货架上的石膏像",
+      "description": "一尊石膏头像被放在博物馆库房货架上，脸部、底座和保护膜上堆叠着归档标签与颜色贴点，连面孔都快被注释吞没。",
+      "prompt": "Documentary editorial photography, museum storage shelves in a quiet archive room, a single plaster bust on a metal rack, face, neck, base and protective wrapping covered by too many archive stickers, colored catalog dots, conservation tape and old adhesive traces, the sculpture identity nearly erased by classification, neutral archival lighting, pale dust, subtle shadows, haunting realistic detail, bold portrait-like framing suitable for a cover image, no readable text, no logos, every label and mark fully illegible."
+    }
+  ]
+}
