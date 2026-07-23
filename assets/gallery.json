@@ -1,7 +1,7 @@
 {
   "site": {
     "title": "OpenAI image2 视觉实验",
-    "subtitle": "1468 张传播向 AI 海报",
+    "subtitle": "1483 张传播向 AI 海报",
     "headline": "OpenAI image2 视觉实验",
     "intro": "每一批图片围绕一个临时主题生成，并按当次最合适的 category 归档；可以是反差创意、真实场景、产品概念、人物叙事或任何新的视觉方向。",
     "coverImage": "assets/contact_sheet_image2.jpg",
@@ -526,6 +526,10 @@
     {
       "id": "too-many-labels-objects",
       "label": "被贴了太多标签的物体"
+    },
+    {
+      "id": "famous-figure-figurines",
+      "label": "知名人物手办"
     }
   ],
   "batches": [
@@ -1260,6 +1264,12 @@
       "theme": "被贴了太多标签的物体",
       "createdAt": "2026-07-23",
       "count": 6
+    },
+    {
+      "id": "2026-07-23-famous-figure-figurines",
+      "theme": "知名人物手办收藏展",
+      "createdAt": "2026-07-23",
+      "count": 15
     }
   ],
   "items": [
@@ -17395,6 +17405,171 @@
       "thumb": "assets/thumbs/2026-07-23-too-many-labels-objects/06_库房货架上的石膏像.png",
       "description": "一尊石膏头像被放在博物馆库房货架上，脸部、底座和保护膜上堆叠着归档标签与颜色贴点，连面孔都快被注释吞没。",
       "prompt": "Documentary editorial photography, museum storage shelves in a quiet archive room, a single plaster bust on a metal rack, face, neck, base and protective wrapping covered by too many archive stickers, colored catalog dots, conservation tape and old adhesive traces, the sculpture identity nearly erased by classification, neutral archival lighting, pale dust, subtle shadows, haunting realistic detail, bold portrait-like framing suitable for a cover image, no readable text, no logos, every label and mark fully illegible."
+    },
+    {
+      "id": "2026-07-23-famous-figure-figurines_01_爱因斯坦实验室手办",
+      "batch": "2026-07-23-famous-figure-figurines",
+      "category": "famous-figure-figurines",
+      "number": "01",
+      "title": "爱因斯坦实验室手办",
+      "image": "assets/images/2026-07-23-famous-figure-figurines/01_爱因斯坦实验室手办.png",
+      "thumb": "assets/thumbs/2026-07-23-famous-figure-figurines/01_爱因斯坦实验室手办.png",
+      "description": "头发炸开、眉眼敏锐的物理学家收藏手办，底座像一张微型黑板与实验台。",
+      "prompt": "A premium collectible figurine of Albert Einstein displayed like a high-end resin art toy, wild white hair, expressive thoughtful face, slightly rumpled sweater and trousers, standing on a miniature physics-lab base with chalkboard equations abstracted into texture, dramatic studio lighting, museum-grade product photography, ultra-detailed sculpted paint, realistic resin and matte finish, 16:9 horizontal composition, collectible statue aesthetic, no packaging, no brand logo, no watermark, no readable text"
+    },
+    {
+      "id": "2026-07-23-famous-figure-figurines_02_居里夫人荧光实验手办",
+      "batch": "2026-07-23-famous-figure-figurines",
+      "category": "famous-figure-figurines",
+      "number": "02",
+      "title": "居里夫人荧光实验手办",
+      "image": "assets/images/2026-07-23-famous-figure-figurines/02_居里夫人荧光实验手办.png",
+      "thumb": "assets/thumbs/2026-07-23-famous-figure-figurines/02_居里夫人荧光实验手办.png",
+      "description": "冷静克制的科学家女性手办，底座里有幽微发光的玻璃器皿与实验器材。",
+      "prompt": "A premium collectible figurine of Marie Curie as a museum-quality resin statue, composed posture, Edwardian scientific dress silhouette, subtle tired eyes, standing beside miniature glowing laboratory glassware and sample vials, elegant cool-toned lighting, finely painted collectible art toy, ultra-detailed resin sculpt, archival display photography, 16:9 horizontal, no packaging, no brand logo, no watermark, no readable text"
+    },
+    {
+      "id": "2026-07-23-famous-figure-figurines_03_梵高向日葵工作室手办",
+      "batch": "2026-07-23-famous-figure-figurines",
+      "category": "famous-figure-figurines",
+      "number": "03",
+      "title": "梵高向日葵工作室手办",
+      "image": "assets/images/2026-07-23-famous-figure-figurines/03_梵高向日葵工作室手办.png",
+      "thumb": "assets/thumbs/2026-07-23-famous-figure-figurines/03_梵高向日葵工作室手办.png",
+      "description": "带有厚涂肌理和颜料痕迹的艺术家手办，底座像被切成微型画室的一角。",
+      "prompt": "A high-end collectible figurine of Vincent van Gogh rendered as an ultra-detailed resin art toy, red beard, intense gaze, blue painter coat, paint-stained hands, standing on a miniature studio base with sunflower motifs, easel fragments and thick impasto texture sculpted into the environment, warm dramatic product lighting, premium museum display photography, tactile painted finish, 16:9 horizontal, no packaging, no brand logo, no watermark, no readable text"
+    },
+    {
+      "id": "2026-07-23-famous-figure-figurines_04_弗里达花冠肖像手办",
+      "batch": "2026-07-23-famous-figure-figurines",
+      "category": "famous-figure-figurines",
+      "number": "04",
+      "title": "弗里达花冠肖像手办",
+      "image": "assets/images/2026-07-23-famous-figure-figurines/04_弗里达花冠肖像手办.png",
+      "thumb": "assets/thumbs/2026-07-23-famous-figure-figurines/04_弗里达花冠肖像手办.png",
+      "description": "花冠、长裙与强烈目光构成的艺术家手办，底座像热带植物与画框残片。",
+      "prompt": "A luxury collectible figurine of Frida Kahlo, floral crown, embroidered dress, iconic direct gaze, highly detailed painted brows and accessories, displayed as a premium resin art statue on a miniature tropical-studio base with leaves, frame fragments and color-saturated handcrafted details, editorial museum product photography, dramatic side lighting, 16:9 horizontal, no packaging, no brand logo, no watermark, no readable text"
+    },
+    {
+      "id": "2026-07-23-famous-figure-figurines_05_卓别林舞台谢幕手办",
+      "batch": "2026-07-23-famous-figure-figurines",
+      "category": "famous-figure-figurines",
+      "number": "05",
+      "title": "卓别林舞台谢幕手办",
+      "image": "assets/images/2026-07-23-famous-figure-figurines/05_卓别林舞台谢幕手办.png",
+      "thumb": "assets/thumbs/2026-07-23-famous-figure-figurines/05_卓别林舞台谢幕手办.png",
+      "description": "拐杖、礼帽和微妙滑稽姿态都被做成高完成度收藏级手办。",
+      "prompt": "A premium collectible figurine of Charlie Chaplin as a finely sculpted resin statue, bowler hat, cane, moustache, delicate theatrical pose mid-bow, displayed on a miniature silent-film stage base with spotlight circle and curtain folds, monochrome-inspired but physically realistic paint application, cinematic museum product photography, 16:9 horizontal, no packaging, no brand logo, no watermark, no readable text"
+    },
+    {
+      "id": "2026-07-23-famous-figure-figurines_06_奥黛丽赫本晚宴造型手办",
+      "batch": "2026-07-23-famous-figure-figurines",
+      "category": "famous-figure-figurines",
+      "number": "06",
+      "title": "奥黛丽赫本晚宴造型手办",
+      "image": "assets/images/2026-07-23-famous-figure-figurines/06_奥黛丽赫本晚宴造型手办.png",
+      "thumb": "assets/thumbs/2026-07-23-famous-figure-figurines/06_奥黛丽赫本晚宴造型手办.png",
+      "description": "修长优雅的经典银幕女星手办，底座像珠宝橱窗与夜色餐厅的混合。",
+      "prompt": "A high-end collectible figurine of Audrey Hepburn styled as an elegant resin art toy, slim black dress silhouette, updo hair, refined gloves and jewelry-inspired detailing, standing on a miniature luxury evening base with subtle café and display-window elements, soft glamorous studio lighting, premium collectible statue photography, ultra-clean paintwork, 16:9 horizontal, no packaging, no brand logo, no watermark, no readable text"
+    },
+    {
+      "id": "2026-07-23-famous-figure-figurines_07_李小龙出拳瞬间手办",
+      "batch": "2026-07-23-famous-figure-figurines",
+      "category": "famous-figure-figurines",
+      "number": "07",
+      "title": "李小龙出拳瞬间手办",
+      "image": "assets/images/2026-07-23-famous-figure-figurines/07_李小龙出拳瞬间手办.png",
+      "thumb": "assets/thumbs/2026-07-23-famous-figure-figurines/07_李小龙出拳瞬间手办.png",
+      "description": "身体张力极强的动作明星手办，底座带有训练场地与破风轨迹。",
+      "prompt": "A premium collectible figurine of Bruce Lee in a dynamic martial arts pose, highly detailed muscular anatomy, yellow-and-black cinematic action styling, one hand extended in an iconic strike, displayed on a miniature dojo-and-motion base with broken air-slice effects sculpted in resin, dramatic cinematic product lighting, museum-grade toy photography, 16:9 horizontal, no packaging, no brand logo, no watermark, no readable text"
+    },
+    {
+      "id": "2026-07-23-famous-figure-figurines_08_迈克尔杰克逊舞台定格手办",
+      "batch": "2026-07-23-famous-figure-figurines",
+      "category": "famous-figure-figurines",
+      "number": "08",
+      "title": "迈克尔杰克逊舞台定格手办",
+      "image": "assets/images/2026-07-23-famous-figure-figurines/08_迈克尔杰克逊舞台定格手办.png",
+      "thumb": "assets/thumbs/2026-07-23-famous-figure-figurines/08_迈克尔杰克逊舞台定格手办.png",
+      "description": "帽檐、外套和舞台灯阵形成高辨识度的收藏级舞台人物手办。",
+      "prompt": "A luxury collectible figurine of Michael Jackson posed like a high-end resin stage statue, fedora tipped low, performance jacket, sharply angled dance stance, standing on a miniature concert platform with layered stage lights and smoke-like translucent effects, polished premium paint, dramatic museum product photography, 16:9 horizontal, no packaging, no brand logo, no watermark, no readable text"
+    },
+    {
+      "id": "2026-07-23-famous-figure-figurines_09_大卫鲍伊星尘造型手办",
+      "batch": "2026-07-23-famous-figure-figurines",
+      "category": "famous-figure-figurines",
+      "number": "09",
+      "title": "大卫鲍伊星尘造型手办",
+      "image": "assets/images/2026-07-23-famous-figure-figurines/09_大卫鲍伊星尘造型手办.png",
+      "thumb": "assets/thumbs/2026-07-23-famous-figure-figurines/09_大卫鲍伊星尘造型手办.png",
+      "description": "夸张妆容与科幻舞台服装被做成先锋收藏手办。",
+      "prompt": "A premium collectible figurine of David Bowie in a glam-rock starman persona, striking makeup, angular expression, futuristic performance costume, displayed on a miniature cosmic stage base with starburst forms and metallic platform details, avant-garde resin art toy aesthetic, editorial product photography, dramatic colored rim light, 16:9 horizontal, no packaging, no brand logo, no watermark, no readable text"
+    },
+    {
+      "id": "2026-07-23-famous-figure-figurines_10_香奈儿工作室裁剪手办",
+      "batch": "2026-07-23-famous-figure-figurines",
+      "category": "famous-figure-figurines",
+      "number": "10",
+      "title": "香奈儿工作室裁剪手办",
+      "image": "assets/images/2026-07-23-famous-figure-figurines/10_香奈儿工作室裁剪手办.png",
+      "thumb": "assets/thumbs/2026-07-23-famous-figure-figurines/10_香奈儿工作室裁剪手办.png",
+      "description": "冷静利落的时装设计师手办，底座有微型人台、布料和裁剪工具。",
+      "prompt": "A high-end collectible figurine of Coco Chanel as a refined resin fashion atelier statue, minimalist black-and-cream styling, poised expression, hands positioned as if evaluating a garment, standing on a miniature couture studio base with mannequin torso, folded fabric and tailoring tools, premium museum product photography, soft directional lighting, 16:9 horizontal, no packaging, no brand logo, no watermark, no readable text"
+    },
+    {
+      "id": "2026-07-23-famous-figure-figurines_11_克娄巴特拉金色王座手办",
+      "batch": "2026-07-23-famous-figure-figurines",
+      "category": "famous-figure-figurines",
+      "number": "11",
+      "title": "克娄巴特拉金色王座手办",
+      "image": "assets/images/2026-07-23-famous-figure-figurines/11_克娄巴特拉金色王座手办.png",
+      "thumb": "assets/thumbs/2026-07-23-famous-figure-figurines/11_克娄巴特拉金色王座手办.png",
+      "description": "古典王权与珠宝装饰拉满的高完成度女王手办。",
+      "prompt": "A premium collectible figurine of Cleopatra as an ornate luxury resin statue, regal pose, elaborate Egyptian-inspired jewelry, sculpted braided hair, seated or half-rising from a miniature gilded throne base with lotus motifs and polished stone texture, cinematic museum display photography, jewel-toned dramatic lighting, 16:9 horizontal, no packaging, no brand logo, no watermark, no readable text"
+    },
+    {
+      "id": "2026-07-23-famous-figure-figurines_12_拿破仑战地图手办",
+      "batch": "2026-07-23-famous-figure-figurines",
+      "category": "famous-figure-figurines",
+      "number": "12",
+      "title": "拿破仑战地图手办",
+      "image": "assets/images/2026-07-23-famous-figure-figurines/12_拿破仑战地图手办.png",
+      "thumb": "assets/thumbs/2026-07-23-famous-figure-figurines/12_拿破仑战地图手办.png",
+      "description": "双手背后俯视战地图的统帅手办，底座像摊开的军用地图与鼓点。",
+      "prompt": "A high-end collectible figurine of Napoleon Bonaparte displayed as a detailed resin commander statue, bicorne hat, military coat, one hand tucked in classic posture, standing over a miniature battlefield map base with cannons and terrain relief abstracted into sculpted design, dramatic studio product lighting, museum-grade collectible photography, 16:9 horizontal, no packaging, no brand logo, no watermark, no readable text"
+    },
+    {
+      "id": "2026-07-23-famous-figure-figurines_13_蒙娜丽莎立体化手办",
+      "batch": "2026-07-23-famous-figure-figurines",
+      "category": "famous-figure-figurines",
+      "number": "13",
+      "title": "蒙娜丽莎立体化手办",
+      "image": "assets/images/2026-07-23-famous-figure-figurines/13_蒙娜丽莎立体化手办.png",
+      "thumb": "assets/thumbs/2026-07-23-famous-figure-figurines/13_蒙娜丽莎立体化手办.png",
+      "description": "把世界名画人物做成立体收藏手办，神情平静但有轻微超现实感。",
+      "prompt": "A premium collectible figurine transforming the Mona Lisa into a three-dimensional museum resin art toy, calm enigmatic smile, Renaissance dress folds, seated pose on a miniature gallery-plinth landscape base inspired by sfumato hills, hyper-detailed sculpt and subtle aged paint finish, fine-art product photography, 16:9 horizontal, no packaging, no brand logo, no watermark, no readable text"
+    },
+    {
+      "id": "2026-07-23-famous-figure-figurines_14_莎士比亚羽毛笔手办",
+      "batch": "2026-07-23-famous-figure-figurines",
+      "category": "famous-figure-figurines",
+      "number": "14",
+      "title": "莎士比亚羽毛笔手办",
+      "image": "assets/images/2026-07-23-famous-figure-figurines/14_莎士比亚羽毛笔手办.png",
+      "thumb": "assets/thumbs/2026-07-23-famous-figure-figurines/14_莎士比亚羽毛笔手办.png",
+      "description": "戏剧作家手办带着羽毛笔和卷轴，底座像迷你木质剧场。",
+      "prompt": "A luxury collectible figurine of William Shakespeare as a detailed resin literary statue, Elizabethan clothing, high forehead, beard, quill in hand, posed above a miniature wooden theater base with curtain arches and manuscript scroll textures, warm scholarly studio lighting, museum-quality product photography, 16:9 horizontal, no packaging, no brand logo, no watermark, no readable text"
+    },
+    {
+      "id": "2026-07-23-famous-figure-figurines_15_阿梅莉亚飞行员手办",
+      "batch": "2026-07-23-famous-figure-figurines",
+      "category": "famous-figure-figurines",
+      "number": "15",
+      "title": "阿梅莉亚飞行员手办",
+      "image": "assets/images/2026-07-23-famous-figure-figurines/15_阿梅莉亚飞行员手办.png",
+      "thumb": "assets/thumbs/2026-07-23-famous-figure-figurines/15_阿梅莉亚飞行员手办.png",
+      "description": "飞行夹克与护目镜构成冒险感极强的收藏手办，底座像风与地图碎片。",
+      "prompt": "A premium collectible figurine of Amelia Earhart displayed as a high-end resin aviation art toy, leather flight jacket, goggles, determined expression, standing on a miniature flight-adventure base with map fragments, propeller forms and wind-swept cloud textures, cinematic museum product photography, crisp directional lighting, 16:9 horizontal, no packaging, no brand logo, no watermark, no readable text"
     }
   ]
 }
