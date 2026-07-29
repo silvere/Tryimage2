@@ -1,7 +1,7 @@
 {
   "site": {
     "title": "OpenAI image2 视觉实验",
-    "subtitle": "1483 张传播向 AI 海报",
+    "subtitle": "1493 张传播向 AI 海报",
     "headline": "OpenAI image2 视觉实验",
     "intro": "每一批图片围绕一个临时主题生成，并按当次最合适的 category 归档；可以是反差创意、真实场景、产品概念、人物叙事或任何新的视觉方向。",
     "coverImage": "assets/contact_sheet_image2.jpg",
@@ -530,6 +530,10 @@
     {
       "id": "famous-figure-figurines",
       "label": "知名人物手办"
+    },
+    {
+      "id": "tea-logo-craft-objects",
+      "label": "茶叶Logo工艺品"
     }
   ],
   "batches": [
@@ -1270,6 +1274,12 @@
       "theme": "知名人物手办收藏展",
       "createdAt": "2026-07-23",
       "count": 15
+    },
+    {
+      "id": "2026-07-29-tea-logo-craft-objects",
+      "theme": "茶叶和各大知名公司Logo的创意工艺品",
+      "createdAt": "2026-07-29",
+      "count": 10
     }
   ],
   "items": [
@@ -17570,6 +17580,116 @@
       "thumb": "assets/thumbs/2026-07-23-famous-figure-figurines/15_阿梅莉亚飞行员手办.png",
       "description": "飞行夹克与护目镜构成冒险感极强的收藏手办，底座像风与地图碎片。",
       "prompt": "A premium collectible figurine of Amelia Earhart displayed as a high-end resin aviation art toy, leather flight jacket, goggles, determined expression, standing on a miniature flight-adventure base with map fragments, propeller forms and wind-swept cloud textures, cinematic museum product photography, crisp directional lighting, 16:9 horizontal, no packaging, no brand logo, no watermark, no readable text"
+    },
+    {
+      "id": "2026-07-29-tea-logo-craft-objects_01_苹果咬痕茶雕",
+      "batch": "2026-07-29-tea-logo-craft-objects",
+      "category": "tea-logo-craft-objects",
+      "number": "01",
+      "title": "苹果咬痕茶雕",
+      "image": "assets/images/2026-07-29-tea-logo-craft-objects/01_苹果咬痕茶雕.png",
+      "thumb": "assets/thumbs/2026-07-29-tea-logo-craft-objects/01_苹果咬痕茶雕.png",
+      "description": "把普洱茶片、乌龙卷叶和茶树脂压成一枚像苹果徽记的工艺雕塑。",
+      "prompt": "Unofficial creative tea craft object inspired by the Apple logo. A premium handmade sculpture built from compressed tea leaves, aged pu-erh flakes, curled oolong ribbons, and translucent amber tea resin, shaped like a bitten apple silhouette with a delicate leaf. Museum-grade product photography, centered on dark stone pedestal, macro texture, warm tea browns with subtle jade highlights, elegant shadow, luxury craft object, no text, no watermark, no packaging, no extra objects."
+    },
+    {
+      "id": "2026-07-29-tea-logo-craft-objects_02_茶叶疾弧",
+      "batch": "2026-07-29-tea-logo-craft-objects",
+      "category": "tea-logo-craft-objects",
+      "number": "02",
+      "title": "茶叶疾弧",
+      "image": "assets/images/2026-07-29-tea-logo-craft-objects/02_茶叶疾弧.png",
+      "thumb": "assets/thumbs/2026-07-29-tea-logo-craft-objects/02_茶叶疾弧.png",
+      "description": "用红茶丝、茶漆和铜色骨架做出一条像疾驰勾线的茶工艺弧面。",
+      "prompt": "Unofficial creative tea craft object inspired by the Nike swoosh. A dynamic handcrafted object made from twisted black tea strands, lacquered tea resin, and copper tea-wire armature, forming a graceful swoosh-like curve. High-end studio product photography, single object on matte charcoal pedestal, dramatic side light, tactile leaf texture, premium collectible craft, no text, no watermark, no extra props."
+    },
+    {
+      "id": "2026-07-29-tea-logo-craft-objects_03_茶花徽章盘",
+      "batch": "2026-07-29-tea-logo-craft-objects",
+      "category": "tea-logo-craft-objects",
+      "number": "03",
+      "title": "茶花徽章盘",
+      "image": "assets/images/2026-07-29-tea-logo-craft-objects/03_茶花徽章盘.png",
+      "thumb": "assets/thumbs/2026-07-29-tea-logo-craft-objects/03_茶花徽章盘.png",
+      "description": "茉莉花苞、绿茶粉和白瓷釉堆出一枚神话感圆形茶徽章。",
+      "prompt": "Unofficial creative tea craft object inspired by the Starbucks siren medallion. An ornate circular tea-leaf relief crafted from jasmine tea buds, green tea dust, white porcelain glaze accents and amber resin, evoking a mythic emblem without readable branding. Centered museum display, dark background, luxury artisanal object photography, exquisite botanical textures, no text, no watermark."
+    },
+    {
+      "id": "2026-07-29-tea-logo-craft-objects_04_四色茶构形",
+      "batch": "2026-07-29-tea-logo-craft-objects",
+      "category": "tea-logo-craft-objects",
+      "number": "04",
+      "title": "四色茶构形",
+      "image": "assets/images/2026-07-29-tea-logo-craft-objects/04_四色茶构形.png",
+      "thumb": "assets/thumbs/2026-07-29-tea-logo-craft-objects/04_四色茶构形.png",
+      "description": "四种颜色与不同茶材拼出一件带互联网气质的现代主义茶雕。",
+      "prompt": "Unofficial creative tea craft object inspired by the Google multicolor letterform spirit. A refined abstract tea sculpture made from four-toned tea materials: green tea powder, black tea curls, blue flower-dyed sugar glaze, and red hibiscus tea lacquer, arranged into a playful modern emblematic form. Premium studio product shot, isolated on deep black background, highly detailed handcrafted surface, no text, no watermark."
+    },
+    {
+      "id": "2026-07-29-tea-logo-craft-objects_05_电弧茶徽",
+      "batch": "2026-07-29-tea-logo-craft-objects",
+      "category": "tea-logo-craft-objects",
+      "number": "05",
+      "title": "电弧茶徽",
+      "image": "assets/images/2026-07-29-tea-logo-craft-objects/05_电弧茶徽.png",
+      "thumb": "assets/thumbs/2026-07-29-tea-logo-craft-objects/05_电弧茶徽.png",
+      "description": "烟熏茶纤维和金属嵌片合成一枚未来感很强的茶叶徽记。",
+      "prompt": "Unofficial creative tea craft object inspired by the Tesla T emblem. A futuristic tea-metal hybrid craft made from compressed dark tea, smoked lapsang leaf fibers, brushed steel inlays and tea resin, shaped into a sleek aerodynamic crest. Centered product photography, dark luxury backdrop, moody reflections, collectible design object, no text, no watermark."
+    },
+    {
+      "id": "2026-07-29-tea-logo-craft-objects_06_金拱茶拱门",
+      "batch": "2026-07-29-tea-logo-craft-objects",
+      "category": "tea-logo-craft-objects",
+      "number": "06",
+      "title": "金拱茶拱门",
+      "image": "assets/images/2026-07-29-tea-logo-craft-objects/06_金拱茶拱门.png",
+      "thumb": "assets/thumbs/2026-07-29-tea-logo-craft-objects/06_金拱茶拱门.png",
+      "description": "洋甘菊、桂花和蜂蜜釉做成一件明亮又顽皮的双拱茶工艺品。",
+      "prompt": "Unofficial creative tea craft object inspired by the McDonald's golden arches. A whimsical twin-arch sculpture built from golden chamomile tea petals, honey glaze, osmanthus blossoms and tea biscuit composite, elevated as a premium handmade craft object rather than food branding. Studio still life on dark background, centered, tactile artisanal texture, no text, no watermark."
+    },
+    {
+      "id": "2026-07-29-tea-logo-craft-objects_07_白茶双环",
+      "batch": "2026-07-29-tea-logo-craft-objects",
+      "category": "tea-logo-craft-objects",
+      "number": "07",
+      "title": "白茶双环",
+      "image": "assets/images/2026-07-29-tea-logo-craft-objects/07_白茶双环.png",
+      "thumb": "assets/thumbs/2026-07-29-tea-logo-craft-objects/07_白茶双环.png",
+      "description": "白茶卷叶、银箔和珠釉缠成一件高级定制气质的双环茶雕。",
+      "prompt": "Unofficial creative tea craft object inspired by the Chanel double-C spirit. A sophisticated interlocking circular sculpture crafted from rolled white tea leaves, silver tea foil, pale cream tea wax and pearl-like glaze, couture craft mood, refined symmetry, centered on black velvet-like background, luxury object photography, no text, no watermark."
+    },
+    {
+      "id": "2026-07-29-tea-logo-craft-objects_08_茶糖流带",
+      "batch": "2026-07-29-tea-logo-craft-objects",
+      "category": "tea-logo-craft-objects",
+      "number": "08",
+      "title": "茶糖流带",
+      "image": "assets/images/2026-07-29-tea-logo-craft-objects/08_茶糖流带.png",
+      "thumb": "assets/thumbs/2026-07-29-tea-logo-craft-objects/08_茶糖流带.png",
+      "description": "红茶糖玻璃、卷叶与焦糖树脂形成一条复古流带式茶工艺雕塑。",
+      "prompt": "Unofficial creative tea craft object inspired by the Coca-Cola ribbon wave. A flowing sculptural object made from ruby-black tea syrup glass, curled tea leaves, translucent caramel resin and vintage bottle-green highlights, sweeping like a liquid calligraphic ribbon. High-end studio product photography, isolated on dark background, luminous edges, no text, no watermark."
+    },
+    {
+      "id": "2026-07-29-tea-logo-craft-objects_09_茶丝智结",
+      "batch": "2026-07-29-tea-logo-craft-objects",
+      "category": "tea-logo-craft-objects",
+      "number": "09",
+      "title": "茶丝智结",
+      "image": "assets/images/2026-07-29-tea-logo-craft-objects/09_茶丝智结.png",
+      "thumb": "assets/thumbs/2026-07-29-tea-logo-craft-objects/09_茶丝智结.png",
+      "description": "细茶梗、氧化茶纤维和烟熏树脂编成一个智能感很强的环结结构。",
+      "prompt": "Unofficial creative tea craft object inspired by the OpenAI knot symbol. An intricate looped craft object woven from fine tea stems, oxidized tea fibers, matte ceramic dust and translucent smoked resin, forming an intelligent interlocking knot-like geometry. Black gallery background, centered collectible design object, macro artisanal detail, no text, no watermark."
+    },
+    {
+      "id": "2026-07-29-tea-logo-craft-objects_10_积木茶砖",
+      "batch": "2026-07-29-tea-logo-craft-objects",
+      "category": "tea-logo-craft-objects",
+      "number": "10",
+      "title": "积木茶砖",
+      "image": "assets/images/2026-07-29-tea-logo-craft-objects/10_积木茶砖.png",
+      "thumb": "assets/thumbs/2026-07-29-tea-logo-craft-objects/10_积木茶砖.png",
+      "description": "压缩茶砖、红漆和凸点结构把玩具积木的轮廓做成一件可收藏茶雕。",
+      "prompt": "Unofficial creative tea craft object inspired by the LEGO brick silhouette. A playful modular tea sculpture made from compressed tea cubes, red tea lacquer, tiny embossed stud-like tops, and visible leaf cross-sections, transformed into a collectible handcrafted object. Clean centered product photography on black pedestal, premium tactile detail, no text, no watermark."
     }
   ]
 }
