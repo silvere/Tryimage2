@@ -1,0 +1,87 @@
+{
+  "theme": "美院顶级毕业生设计的不存在的衣服但设计太棒了系列",
+  "batchId": "2026-08-01-impossible-couture-graduate-collection",
+  "createdAt": "2026-08-01",
+  "items": [
+    {
+      "source": "01_porcelain-lung-gown.jpg",
+      "category": "fashion",
+      "categoryLabel": "时装艺术",
+      "title": "瓷肺礼服",
+      "description": "半透明瓷釉外壳像呼吸器官一样层层开合，脆弱感与高定廓形并存。",
+      "prompt": "Museum-grade editorial fashion photograph of a full-length impossible couture gown built from translucent porcelain shell segments and milky glazed structural panels inspired by breathing architecture, high neckline, long sleeves, long liquid-white train with delicate crackle texture, displayed by a fully styled model in a quiet concrete gallery, sculptural pose, dramatic side light, refined craftsmanship, collectible graduate collection masterpiece, no readable text, no logos, no watermark"
+    },
+    {
+      "source": "02_weather-vane-coat.jpg",
+      "category": "fashion",
+      "categoryLabel": "时装艺术",
+      "title": "风向标大衣",
+      "description": "衣身像建筑装置般竖起无数金属风标与羽翼片，走动时仿佛整件衣服都在感知空气。",
+      "prompt": "Avant-garde editorial portrait of a towering black coat constructed from brushed steel weather vanes, thin brass pivots, and charcoal silk underlayers, every shoulder and sleeve sprouting directional fins that catch the wind, fully dressed model on a rooftop at blue hour, long gloves, cinematic storm light, architectural fashion image, impossible but elegant, no readable text, no logos, no watermark"
+    },
+    {
+      "source": "03_moss-cathedral-dress.jpg",
+      "category": "fashion",
+      "categoryLabel": "时装艺术",
+      "title": "苔庭圣坛裙",
+      "description": "把微缩苔藓庭院、潮湿石阶与轻纱裙体嫁接在一起，像一件会生长的礼服雕塑。",
+      "prompt": "High-end fashion editorial image of a couture dress fused with a miniature moss cathedral garden, damp stone stair details rising from the skirt, soft sage tulle veils floating above living green textures, fully covered silhouette standing in mist after rain, botanical surrealism, luxury art-school graduate collection, strange and elegant, no readable text, no logos, no watermark"
+    },
+    {
+      "source": "04_neon-bone-tailoring.jpg",
+      "category": "fashion",
+      "categoryLabel": "时装艺术",
+      "title": "霓骨西装",
+      "description": "骨架外翻的剪裁西装将霓虹光管嵌入结构线，像把都市夜景穿成了身体。",
+      "prompt": "Editorial street-luxury fashion shot of an impossible tailored suit with exposed structural seams glowing from within by soft magenta and icy blue light tubes, sharp graphite wool panels floating away from the body, fully dressed model in a wet alley reflecting light, cool expression, futuristic graduate collection styling, hyper polished, no readable text, no logos, no watermark"
+    },
+    {
+      "source": "05_feather-bridge-cape.jpg",
+      "category": "fashion",
+      "categoryLabel": "时装艺术",
+      "title": "羽桥披风",
+      "description": "披风像一座悬浮拱桥，羽片与轻质骨架在肩背之间撑出不可能的跨度。",
+      "prompt": "Couture editorial full-body image of a model wearing an impossible cape shaped like a suspended bridge, ivory feathers layered over carbon-fiber arches spanning far beyond the shoulders, negative space underneath like architecture, wind lifting the structure over a salt-flat landscape, elegant monochrome styling, luxury surreal fashion photography, no readable text, no logos, no watermark"
+    },
+    {
+      "source": "06_ink-tide-hanfu.jpg",
+      "category": "fashion",
+      "categoryLabel": "时装艺术",
+      "title": "墨潮汉裳",
+      "description": "传统汉服留白与海潮般翻涌的液态墨层结合，像一幅会流动的东方绘画。",
+      "prompt": "Refined editorial fashion image of an impossible hanfu-inspired couture look where liquid black ink waves hover and curl around ivory silk layers without touching the floor, giant brush-like sleeves, lacquer sheen gradients, fully dressed model standing in a reflective white studio, East Asian art-school genius aesthetic, poetic and bold, no readable text, no logos, no watermark"
+    },
+    {
+      "source": "07_glass-hive-mermaid.jpg",
+      "category": "fashion",
+      "categoryLabel": "时装艺术",
+      "title": "玻巢鱼尾",
+      "description": "鱼尾裙由蜂巢般的吹制玻璃单元拼接而成，明明危险却呈现出极致秩序与光泽。",
+      "prompt": "Luxury editorial fashion photograph of an impossible full-length couture gown assembled from translucent hand-blown glass honeycomb cells, amber and smoke highlights, a sculptural column silhouette opening into a crystalline floor-sweeping train, fully dressed model standing beside a dark velvet pedestal in an elegant salon, old-master lighting, obsessive craftsmanship, museum-quality graduate collection piece, no readable text, no logos, no watermark"
+    },
+    {
+      "source": "08_cloud-pocket-parka.jpg",
+      "category": "fashion",
+      "categoryLabel": "时装艺术",
+      "title": "云袋派克",
+      "description": "户外派克被夸张成一件装满云朵的移动装置，功能主义被做成了超现实甜酷单品。",
+      "prompt": "Bold fashion editorial of an oversized parka engineered with enormous translucent pockets containing soft cloud-like vapor, technical silver fabric mixed with chalk-white organza, sporty cords floating in midair, model standing on a brutalist stairwell, chunky boots, cool ironic luxury mood, impossible wearable design that still feels desirable, no readable text, no logos, no watermark"
+    },
+    {
+      "source": "09_clockwork-petal-bustier.jpg",
+      "category": "fashion",
+      "categoryLabel": "时装艺术",
+      "title": "钟蕊胸衣",
+      "description": "机械花蕊不断在胸衣表面开合，既像精密钟表也像脆弱花朵，拥有顶级工艺感。",
+      "prompt": "Editorial fashion portrait of an impossible structured dress covered in kinetic flower stamens and tiny clockwork petals, rose-gold gears opening across a sculptural fitted torso panel over a full black silk skirt, fully dressed model seated upright in a velvet opera box, elegant tension between romance and machinery, couture graduate collection masterpiece, richly detailed, no readable text, no logos, no watermark"
+    },
+    {
+      "source": "10_fossil-wave-trench.jpg",
+      "category": "fashion",
+      "categoryLabel": "时装艺术",
+      "title": "化浪风衣",
+      "description": "风衣像被瞬间石化的海浪裹住身体，硬质矿物褶皱和经典版型形成奇异平衡。",
+      "prompt": "Striking editorial fashion image of a trench coat engulfed by frozen mineral waves, sandstone and pearl textures cresting around the body while classic camel tailoring still peeks through, model walking alone through a marble colonnade, low sun casting long shadows, intellectual avant-garde styling, impossible garment with collector-level beauty, no readable text, no logos, no watermark"
+    }
+  ]
+}

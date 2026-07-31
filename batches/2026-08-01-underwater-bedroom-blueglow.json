@@ -1,0 +1,47 @@
+{
+  "theme": "把卧室搬进海底的人，睡前最后看见的是鱼群和蓝光",
+  "batchId": "2026-08-01-underwater-bedroom-blueglow",
+  "createdAt": "2026-08-01",
+  "items": [
+    {
+      "source": "01_underwater-bedroom-cover.jpg",
+      "category": "surreal-interiors",
+      "categoryLabel": "超现实家居",
+      "title": "蓝光卧室主视角",
+      "description": "一间完整卧室被安放在海底，床正对落地玻璃般的水体，鱼群在蓝光中缓慢掠过，梦幻与轻微压迫感并存。",
+      "prompt": "A cinematic editorial interior scene of a full bedroom placed on the seafloor, viewed from the foot of the bed, large panoramic glass walls revealing deep blue water and a dense school of silver fish drifting past, soft blue bioluminescent glow filling the room, rumpled white bedding, warm bedside lamp contrasting with the cold ocean light, suspended dust-like particles in water outside, dreamy yet slightly claustrophobic mood, highly detailed textures, realistic reflections, no readable text, no logos, no watermark"
+    },
+    {
+      "source": "02_coral-canopy-bed.jpg",
+      "category": "surreal-interiors",
+      "categoryLabel": "超现实家居",
+      "title": "珊瑚床幔房",
+      "description": "海底卧室被珊瑚与薄纱包围，窗外是贴近玻璃游动的小鱼，治愈感里带一点被海水包裹的压力。",
+      "prompt": "An editorial fantasy bedroom underwater with a canopy bed surrounded by delicate coral-like structures and sheer flowing fabric, close glass walls with small tropical fish gliding right outside, cool blue ambient light mixing with gentle amber bedside illumination, pale linen sheets, sea plants swaying beyond the room, intimate composition from a side angle, calming and beautiful with subtle pressure from the surrounding ocean, photorealistic, luxurious textures, no readable text, no logos, no watermark"
+    },
+    {
+      "source": "03_sunken-minimalist-room.jpg",
+      "category": "surreal-interiors",
+      "categoryLabel": "超现实家居",
+      "title": "极简沉没卧室",
+      "description": "极简风海底卧室只剩床、灯与巨大的观察窗，外部深海空旷安静，远处鱼群像流动的影子。",
+      "prompt": "A minimalist underwater bedroom designed like a modern editorial interior, low platform bed, clean concrete and pale wood surfaces, a single warm pendant lamp, an enormous observation window facing open deep ocean, distant fish shoals moving like dark fluid shadows in a vast blue void, sparse composition, serene but lonely atmosphere, subtle water caustics across the walls, premium magazine photography style, ultra realistic, no readable text, no logos, no watermark"
+    },
+    {
+      "source": "04_midnight-jellyfish-suite.jpg",
+      "category": "surreal-interiors",
+      "categoryLabel": "超现实家居",
+      "title": "水母夜光套间",
+      "description": "午夜梦境般的海底卧室，窗外除了鱼群还有发光水母，蓝紫冷光涌入房间，柔美却让人屏息。",
+      "prompt": "A moody underwater bedroom suite at night, elegant bed with dark navy bedding, floor-to-ceiling glass walls looking into a blue-violet ocean filled with drifting luminous jellyfish and scattered fish, bioluminescent light washing over the room, reflective polished floor, sleek modern furniture, composition from a corner showing depth and scale, dreamlike, sensual, slightly suffocating tension, editorial luxury photography, extremely detailed, no readable text, no logos, no watermark"
+    },
+    {
+      "source": "05_childhood-aquarium-loft.jpg",
+      "category": "surreal-interiors",
+      "categoryLabel": "超现实家居",
+      "title": "像童年水族馆的阁楼房",
+      "description": "带一点童年幻想感的阁楼式海底卧室，旧木家具与柔软织物堆叠，窗外鱼群贴近而过。",
+      "prompt": "A whimsical yet realistic underwater loft bedroom inspired by a childhood aquarium dream, sloped ceiling, vintage wooden furniture, layered blankets and pillows, cozy clutter, wide curved viewing window where bright fish schools pass very close to the glass, soft blue glow mixed with dim golden lamp light, intimate eye-level composition, nostalgic, comforting, and faintly oppressive because of the surrounding sea, editorial interior photography, rich detail, no readable text, no logos, no watermark"
+    }
+  ]
+}

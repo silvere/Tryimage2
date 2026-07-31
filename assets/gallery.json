@@ -1,7 +1,7 @@
 {
   "site": {
     "title": "OpenAI image2 视觉实验",
-    "subtitle": "1493 张传播向 AI 海报",
+    "subtitle": "1508 张传播向 AI 海报",
     "headline": "OpenAI image2 视觉实验",
     "intro": "每一批图片围绕一个临时主题生成，并按当次最合适的 category 归档；可以是反差创意、真实场景、产品概念、人物叙事或任何新的视觉方向。",
     "coverImage": "assets/contact_sheet_image2.jpg",
@@ -534,6 +534,14 @@
     {
       "id": "tea-logo-craft-objects",
       "label": "茶叶Logo工艺品"
+    },
+    {
+      "id": "surreal-interiors",
+      "label": "超现实家居"
+    },
+    {
+      "id": "fashion",
+      "label": "时装艺术"
     }
   ],
   "batches": [
@@ -1279,6 +1287,18 @@
       "id": "2026-07-29-tea-logo-craft-objects",
       "theme": "茶叶和各大知名公司Logo的创意工艺品",
       "createdAt": "2026-07-29",
+      "count": 10
+    },
+    {
+      "id": "2026-08-01-underwater-bedroom-blueglow",
+      "theme": "把卧室搬进海底的人，睡前最后看见的是鱼群和蓝光",
+      "createdAt": "2026-08-01",
+      "count": 5
+    },
+    {
+      "id": "2026-08-01-impossible-couture-graduate-collection",
+      "theme": "美院顶级毕业生设计的不存在的衣服但设计太棒了系列",
+      "createdAt": "2026-08-01",
       "count": 10
     }
   ],
@@ -17690,6 +17710,171 @@
       "thumb": "assets/thumbs/2026-07-29-tea-logo-craft-objects/10_积木茶砖.png",
       "description": "压缩茶砖、红漆和凸点结构把玩具积木的轮廓做成一件可收藏茶雕。",
       "prompt": "Unofficial creative tea craft object inspired by the LEGO brick silhouette. A playful modular tea sculpture made from compressed tea cubes, red tea lacquer, tiny embossed stud-like tops, and visible leaf cross-sections, transformed into a collectible handcrafted object. Clean centered product photography on black pedestal, premium tactile detail, no text, no watermark."
+    },
+    {
+      "id": "2026-08-01-underwater-bedroom-blueglow_01_蓝光卧室主视角",
+      "batch": "2026-08-01-underwater-bedroom-blueglow",
+      "category": "surreal-interiors",
+      "number": "01",
+      "title": "蓝光卧室主视角",
+      "image": "assets/images/2026-08-01-underwater-bedroom-blueglow/01_蓝光卧室主视角.jpg",
+      "thumb": "assets/thumbs/2026-08-01-underwater-bedroom-blueglow/01_蓝光卧室主视角.png",
+      "description": "一间完整卧室被安放在海底，床正对落地玻璃般的水体，鱼群在蓝光中缓慢掠过，梦幻与轻微压迫感并存。",
+      "prompt": "A cinematic editorial interior scene of a full bedroom placed on the seafloor, viewed from the foot of the bed, large panoramic glass walls revealing deep blue water and a dense school of silver fish drifting past, soft blue bioluminescent glow filling the room, rumpled white bedding, warm bedside lamp contrasting with the cold ocean light, suspended dust-like particles in water outside, dreamy yet slightly claustrophobic mood, highly detailed textures, realistic reflections, no readable text, no logos, no watermark"
+    },
+    {
+      "id": "2026-08-01-underwater-bedroom-blueglow_02_珊瑚床幔房",
+      "batch": "2026-08-01-underwater-bedroom-blueglow",
+      "category": "surreal-interiors",
+      "number": "02",
+      "title": "珊瑚床幔房",
+      "image": "assets/images/2026-08-01-underwater-bedroom-blueglow/02_珊瑚床幔房.jpg",
+      "thumb": "assets/thumbs/2026-08-01-underwater-bedroom-blueglow/02_珊瑚床幔房.png",
+      "description": "海底卧室被珊瑚与薄纱包围，窗外是贴近玻璃游动的小鱼，治愈感里带一点被海水包裹的压力。",
+      "prompt": "An editorial fantasy bedroom underwater with a canopy bed surrounded by delicate coral-like structures and sheer flowing fabric, close glass walls with small tropical fish gliding right outside, cool blue ambient light mixing with gentle amber bedside illumination, pale linen sheets, sea plants swaying beyond the room, intimate composition from a side angle, calming and beautiful with subtle pressure from the surrounding ocean, photorealistic, luxurious textures, no readable text, no logos, no watermark"
+    },
+    {
+      "id": "2026-08-01-underwater-bedroom-blueglow_03_极简沉没卧室",
+      "batch": "2026-08-01-underwater-bedroom-blueglow",
+      "category": "surreal-interiors",
+      "number": "03",
+      "title": "极简沉没卧室",
+      "image": "assets/images/2026-08-01-underwater-bedroom-blueglow/03_极简沉没卧室.jpg",
+      "thumb": "assets/thumbs/2026-08-01-underwater-bedroom-blueglow/03_极简沉没卧室.png",
+      "description": "极简风海底卧室只剩床、灯与巨大的观察窗，外部深海空旷安静，远处鱼群像流动的影子。",
+      "prompt": "A minimalist underwater bedroom designed like a modern editorial interior, low platform bed, clean concrete and pale wood surfaces, a single warm pendant lamp, an enormous observation window facing open deep ocean, distant fish shoals moving like dark fluid shadows in a vast blue void, sparse composition, serene but lonely atmosphere, subtle water caustics across the walls, premium magazine photography style, ultra realistic, no readable text, no logos, no watermark"
+    },
+    {
+      "id": "2026-08-01-underwater-bedroom-blueglow_04_水母夜光套间",
+      "batch": "2026-08-01-underwater-bedroom-blueglow",
+      "category": "surreal-interiors",
+      "number": "04",
+      "title": "水母夜光套间",
+      "image": "assets/images/2026-08-01-underwater-bedroom-blueglow/04_水母夜光套间.jpg",
+      "thumb": "assets/thumbs/2026-08-01-underwater-bedroom-blueglow/04_水母夜光套间.png",
+      "description": "午夜梦境般的海底卧室，窗外除了鱼群还有发光水母，蓝紫冷光涌入房间，柔美却让人屏息。",
+      "prompt": "A moody underwater bedroom suite at night, elegant bed with dark navy bedding, floor-to-ceiling glass walls looking into a blue-violet ocean filled with drifting luminous jellyfish and scattered fish, bioluminescent light washing over the room, reflective polished floor, sleek modern furniture, composition from a corner showing depth and scale, dreamlike, sensual, slightly suffocating tension, editorial luxury photography, extremely detailed, no readable text, no logos, no watermark"
+    },
+    {
+      "id": "2026-08-01-underwater-bedroom-blueglow_05_像童年水族馆的阁楼房",
+      "batch": "2026-08-01-underwater-bedroom-blueglow",
+      "category": "surreal-interiors",
+      "number": "05",
+      "title": "像童年水族馆的阁楼房",
+      "image": "assets/images/2026-08-01-underwater-bedroom-blueglow/05_像童年水族馆的阁楼房.jpg",
+      "thumb": "assets/thumbs/2026-08-01-underwater-bedroom-blueglow/05_像童年水族馆的阁楼房.png",
+      "description": "带一点童年幻想感的阁楼式海底卧室，旧木家具与柔软织物堆叠，窗外鱼群贴近而过。",
+      "prompt": "A whimsical yet realistic underwater loft bedroom inspired by a childhood aquarium dream, sloped ceiling, vintage wooden furniture, layered blankets and pillows, cozy clutter, wide curved viewing window where bright fish schools pass very close to the glass, soft blue glow mixed with dim golden lamp light, intimate eye-level composition, nostalgic, comforting, and faintly oppressive because of the surrounding sea, editorial interior photography, rich detail, no readable text, no logos, no watermark"
+    },
+    {
+      "id": "2026-08-01-impossible-couture-graduate-collection_01_瓷肺礼服",
+      "batch": "2026-08-01-impossible-couture-graduate-collection",
+      "category": "fashion",
+      "number": "01",
+      "title": "瓷肺礼服",
+      "image": "assets/images/2026-08-01-impossible-couture-graduate-collection/01_瓷肺礼服.jpg",
+      "thumb": "assets/thumbs/2026-08-01-impossible-couture-graduate-collection/01_瓷肺礼服.png",
+      "description": "半透明瓷釉外壳像呼吸器官一样层层开合，脆弱感与高定廓形并存。",
+      "prompt": "Museum-grade editorial fashion photograph of a full-length impossible couture gown built from translucent porcelain shell segments and milky glazed structural panels inspired by breathing architecture, high neckline, long sleeves, long liquid-white train with delicate crackle texture, displayed by a fully styled model in a quiet concrete gallery, sculptural pose, dramatic side light, refined craftsmanship, collectible graduate collection masterpiece, no readable text, no logos, no watermark"
+    },
+    {
+      "id": "2026-08-01-impossible-couture-graduate-collection_02_风向标大衣",
+      "batch": "2026-08-01-impossible-couture-graduate-collection",
+      "category": "fashion",
+      "number": "02",
+      "title": "风向标大衣",
+      "image": "assets/images/2026-08-01-impossible-couture-graduate-collection/02_风向标大衣.jpg",
+      "thumb": "assets/thumbs/2026-08-01-impossible-couture-graduate-collection/02_风向标大衣.png",
+      "description": "衣身像建筑装置般竖起无数金属风标与羽翼片，走动时仿佛整件衣服都在感知空气。",
+      "prompt": "Avant-garde editorial portrait of a towering black coat constructed from brushed steel weather vanes, thin brass pivots, and charcoal silk underlayers, every shoulder and sleeve sprouting directional fins that catch the wind, fully dressed model on a rooftop at blue hour, long gloves, cinematic storm light, architectural fashion image, impossible but elegant, no readable text, no logos, no watermark"
+    },
+    {
+      "id": "2026-08-01-impossible-couture-graduate-collection_03_苔庭圣坛裙",
+      "batch": "2026-08-01-impossible-couture-graduate-collection",
+      "category": "fashion",
+      "number": "03",
+      "title": "苔庭圣坛裙",
+      "image": "assets/images/2026-08-01-impossible-couture-graduate-collection/03_苔庭圣坛裙.jpg",
+      "thumb": "assets/thumbs/2026-08-01-impossible-couture-graduate-collection/03_苔庭圣坛裙.png",
+      "description": "把微缩苔藓庭院、潮湿石阶与轻纱裙体嫁接在一起，像一件会生长的礼服雕塑。",
+      "prompt": "High-end fashion editorial image of a couture dress fused with a miniature moss cathedral garden, damp stone stair details rising from the skirt, soft sage tulle veils floating above living green textures, fully covered silhouette standing in mist after rain, botanical surrealism, luxury art-school graduate collection, strange and elegant, no readable text, no logos, no watermark"
+    },
+    {
+      "id": "2026-08-01-impossible-couture-graduate-collection_04_霓骨西装",
+      "batch": "2026-08-01-impossible-couture-graduate-collection",
+      "category": "fashion",
+      "number": "04",
+      "title": "霓骨西装",
+      "image": "assets/images/2026-08-01-impossible-couture-graduate-collection/04_霓骨西装.jpg",
+      "thumb": "assets/thumbs/2026-08-01-impossible-couture-graduate-collection/04_霓骨西装.png",
+      "description": "骨架外翻的剪裁西装将霓虹光管嵌入结构线，像把都市夜景穿成了身体。",
+      "prompt": "Editorial street-luxury fashion shot of an impossible tailored suit with exposed structural seams glowing from within by soft magenta and icy blue light tubes, sharp graphite wool panels floating away from the body, fully dressed model in a wet alley reflecting light, cool expression, futuristic graduate collection styling, hyper polished, no readable text, no logos, no watermark"
+    },
+    {
+      "id": "2026-08-01-impossible-couture-graduate-collection_05_羽桥披风",
+      "batch": "2026-08-01-impossible-couture-graduate-collection",
+      "category": "fashion",
+      "number": "05",
+      "title": "羽桥披风",
+      "image": "assets/images/2026-08-01-impossible-couture-graduate-collection/05_羽桥披风.jpg",
+      "thumb": "assets/thumbs/2026-08-01-impossible-couture-graduate-collection/05_羽桥披风.png",
+      "description": "披风像一座悬浮拱桥，羽片与轻质骨架在肩背之间撑出不可能的跨度。",
+      "prompt": "Couture editorial full-body image of a model wearing an impossible cape shaped like a suspended bridge, ivory feathers layered over carbon-fiber arches spanning far beyond the shoulders, negative space underneath like architecture, wind lifting the structure over a salt-flat landscape, elegant monochrome styling, luxury surreal fashion photography, no readable text, no logos, no watermark"
+    },
+    {
+      "id": "2026-08-01-impossible-couture-graduate-collection_06_墨潮汉裳",
+      "batch": "2026-08-01-impossible-couture-graduate-collection",
+      "category": "fashion",
+      "number": "06",
+      "title": "墨潮汉裳",
+      "image": "assets/images/2026-08-01-impossible-couture-graduate-collection/06_墨潮汉裳.jpg",
+      "thumb": "assets/thumbs/2026-08-01-impossible-couture-graduate-collection/06_墨潮汉裳.png",
+      "description": "传统汉服留白与海潮般翻涌的液态墨层结合，像一幅会流动的东方绘画。",
+      "prompt": "Refined editorial fashion image of an impossible hanfu-inspired couture look where liquid black ink waves hover and curl around ivory silk layers without touching the floor, giant brush-like sleeves, lacquer sheen gradients, fully dressed model standing in a reflective white studio, East Asian art-school genius aesthetic, poetic and bold, no readable text, no logos, no watermark"
+    },
+    {
+      "id": "2026-08-01-impossible-couture-graduate-collection_07_玻巢鱼尾",
+      "batch": "2026-08-01-impossible-couture-graduate-collection",
+      "category": "fashion",
+      "number": "07",
+      "title": "玻巢鱼尾",
+      "image": "assets/images/2026-08-01-impossible-couture-graduate-collection/07_玻巢鱼尾.jpg",
+      "thumb": "assets/thumbs/2026-08-01-impossible-couture-graduate-collection/07_玻巢鱼尾.png",
+      "description": "鱼尾裙由蜂巢般的吹制玻璃单元拼接而成，明明危险却呈现出极致秩序与光泽。",
+      "prompt": "Luxury editorial fashion photograph of an impossible full-length couture gown assembled from translucent hand-blown glass honeycomb cells, amber and smoke highlights, a sculptural column silhouette opening into a crystalline floor-sweeping train, fully dressed model standing beside a dark velvet pedestal in an elegant salon, old-master lighting, obsessive craftsmanship, museum-quality graduate collection piece, no readable text, no logos, no watermark"
+    },
+    {
+      "id": "2026-08-01-impossible-couture-graduate-collection_08_云袋派克",
+      "batch": "2026-08-01-impossible-couture-graduate-collection",
+      "category": "fashion",
+      "number": "08",
+      "title": "云袋派克",
+      "image": "assets/images/2026-08-01-impossible-couture-graduate-collection/08_云袋派克.jpg",
+      "thumb": "assets/thumbs/2026-08-01-impossible-couture-graduate-collection/08_云袋派克.png",
+      "description": "户外派克被夸张成一件装满云朵的移动装置，功能主义被做成了超现实甜酷单品。",
+      "prompt": "Bold fashion editorial of an oversized parka engineered with enormous translucent pockets containing soft cloud-like vapor, technical silver fabric mixed with chalk-white organza, sporty cords floating in midair, model standing on a brutalist stairwell, chunky boots, cool ironic luxury mood, impossible wearable design that still feels desirable, no readable text, no logos, no watermark"
+    },
+    {
+      "id": "2026-08-01-impossible-couture-graduate-collection_09_钟蕊胸衣",
+      "batch": "2026-08-01-impossible-couture-graduate-collection",
+      "category": "fashion",
+      "number": "09",
+      "title": "钟蕊胸衣",
+      "image": "assets/images/2026-08-01-impossible-couture-graduate-collection/09_钟蕊胸衣.jpg",
+      "thumb": "assets/thumbs/2026-08-01-impossible-couture-graduate-collection/09_钟蕊胸衣.png",
+      "description": "机械花蕊不断在胸衣表面开合，既像精密钟表也像脆弱花朵，拥有顶级工艺感。",
+      "prompt": "Editorial fashion portrait of an impossible structured dress covered in kinetic flower stamens and tiny clockwork petals, rose-gold gears opening across a sculptural fitted torso panel over a full black silk skirt, fully dressed model seated upright in a velvet opera box, elegant tension between romance and machinery, couture graduate collection masterpiece, richly detailed, no readable text, no logos, no watermark"
+    },
+    {
+      "id": "2026-08-01-impossible-couture-graduate-collection_10_化浪风衣",
+      "batch": "2026-08-01-impossible-couture-graduate-collection",
+      "category": "fashion",
+      "number": "10",
+      "title": "化浪风衣",
+      "image": "assets/images/2026-08-01-impossible-couture-graduate-collection/10_化浪风衣.jpg",
+      "thumb": "assets/thumbs/2026-08-01-impossible-couture-graduate-collection/10_化浪风衣.png",
+      "description": "风衣像被瞬间石化的海浪裹住身体，硬质矿物褶皱和经典版型形成奇异平衡。",
+      "prompt": "Striking editorial fashion image of a trench coat engulfed by frozen mineral waves, sandstone and pearl textures cresting around the body while classic camel tailoring still peeks through, model walking alone through a marble colonnade, low sun casting long shadows, intellectual avant-garde styling, impossible garment with collector-level beauty, no readable text, no logos, no watermark"
     }
   ]
 }
