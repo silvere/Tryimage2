@@ -1,0 +1,55 @@
+{
+  "theme": "穿着晚礼服，在 24 小时自助洗衣店等最后一桶的人",
+  "batchId": "2026-08-01-late-night-laundromat-evening-gown",
+  "createdAt": "2026-08-01",
+  "items": [
+    {
+      "source": "01_neon-spin-wait.jpg",
+      "category": "threshold-scenes",
+      "categoryLabel": "阈值场景",
+      "title": "霓虹转桶等待",
+      "description": "午夜洗衣店的霓虹灯把缎面礼服照得像电影布景，主角靠着滚筒等待最后一桶停下。",
+      "prompt": "Documentary-style night photograph of a fully dressed adult in a floor-length formal gown waiting alone in a 24-hour self-service laundromat, standing beside humming front-load machines under fluorescent light and faint pink-blue window reflections, tiled floor, paper cup, ordinary laundry details, cinematic but non-sexual mood, no body emphasis, no readable text, no logos, no watermark"
+    },
+    {
+      "source": "02_detergent-aisle-couture.jpg",
+      "category": "threshold-scenes",
+      "categoryLabel": "阈值场景",
+      "title": "洗衣液货架礼服",
+      "description": "她站在廉价洗衣液货架前像在等散场，礼服与日用品形成极强反差。",
+      "prompt": "Late-night editorial photo inside a 24-hour laundromat, a fully dressed adult wearing a silver formal gown standing near detergent shelves and coin machines, tired but composed, fluorescent ceiling light, plastic baskets, cleaning supplies, everyday labor atmosphere colliding with event clothing, realistic and non-provocative, no readable text, no logos, no watermark"
+    },
+    {
+      "source": "03_last-dryer-window.jpg",
+      "category": "threshold-scenes",
+      "categoryLabel": "阈值场景",
+      "title": "最后一台烘干机",
+      "description": "她蹲在最后一台烘干机前看转动的玻璃门，像在等一场迟来的答案。",
+      "prompt": "Moody documentary photograph of a fully dressed adult in a dark formal gown crouching in front of the last running dryer in a 24-hour laundromat, watching the round glass door spin, empty chairs nearby, vending-machine glow, quiet loneliness, realistic social scene, non-sexual and non-provocative, no readable text, no logos, no watermark"
+    },
+    {
+      "source": "04_plastic-chair-intermission.jpg",
+      "category": "threshold-scenes",
+      "categoryLabel": "阈值场景",
+      "title": "塑料椅中场休息",
+      "description": "廉价塑料椅和高定礼服同框，像舞会散场后没人看见的中场。",
+      "prompt": "Realistic documentary-fashion image of a fully dressed adult in a champagne formal dress sitting on a cheap plastic chair inside a nearly empty all-night laundromat, one shoe loosened, laundry basket at the feet, stainless machines behind, fluorescent light with small neon accents, exhausted elegance after an event, non-sexual and non-provocative, no readable text, no logos, no watermark"
+    },
+    {
+      "source": "05_rainy-storefront-exit.jpg",
+      "category": "threshold-scenes",
+      "categoryLabel": "阈值场景",
+      "title": "雨夜门口透气",
+      "description": "她推开洗衣店玻璃门透气，雨夜街景和店内烘干热气在门口交汇。",
+      "prompt": "Rainy-night street documentary photo of a fully dressed adult in a modest deep red long-sleeved formal gown standing in the open doorway of a 24-hour self-service laundromat, damp city street outside, warm machine light inside, holding a mesh laundry bag, paused between event clothing and ordinary life, realistic and restrained, covered neckline, non-sexual and non-provocative, no readable text, no logos, no watermark"
+    },
+    {
+      "source": "06_folded-sheets-finale.jpg",
+      "category": "threshold-scenes",
+      "categoryLabel": "阈值场景",
+      "title": "折好床单再离开",
+      "description": "最后她在不锈钢台面上折床单，礼服拖地却动作熟练，像整组故事的收尾。",
+      "prompt": "Finale frame, realistic photograph of a fully dressed adult in an ivory formal gown carefully folding clean white sheets on a stainless steel table inside a 24-hour laundromat just before dawn, rows of quiet machines behind, practiced domestic movement, gentle emotional realism, non-sexual and non-provocative, no readable text, no logos, no watermark"
+    }
+  ]
+}

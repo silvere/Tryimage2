@@ -1,7 +1,7 @@
 {
   "site": {
     "title": "OpenAI image2 视觉实验",
-    "subtitle": "1508 张传播向 AI 海报",
+    "subtitle": "1514 张传播向 AI 海报",
     "headline": "OpenAI image2 视觉实验",
     "intro": "每一批图片围绕一个临时主题生成，并按当次最合适的 category 归档；可以是反差创意、真实场景、产品概念、人物叙事或任何新的视觉方向。",
     "coverImage": "assets/contact_sheet_image2.jpg",
@@ -542,6 +542,10 @@
     {
       "id": "fashion",
       "label": "时装艺术"
+    },
+    {
+      "id": "threshold-scenes",
+      "label": "阈值场景"
     }
   ],
   "batches": [
@@ -1300,6 +1304,12 @@
       "theme": "美院顶级毕业生设计的不存在的衣服但设计太棒了系列",
       "createdAt": "2026-08-01",
       "count": 10
+    },
+    {
+      "id": "2026-08-01-late-night-laundromat-evening-gown",
+      "theme": "穿着晚礼服，在 24 小时自助洗衣店等最后一桶的人",
+      "createdAt": "2026-08-01",
+      "count": 6
     }
   ],
   "items": [
@@ -17875,6 +17885,72 @@
       "thumb": "assets/thumbs/2026-08-01-impossible-couture-graduate-collection/10_化浪风衣.png",
       "description": "风衣像被瞬间石化的海浪裹住身体，硬质矿物褶皱和经典版型形成奇异平衡。",
       "prompt": "Striking editorial fashion image of a trench coat engulfed by frozen mineral waves, sandstone and pearl textures cresting around the body while classic camel tailoring still peeks through, model walking alone through a marble colonnade, low sun casting long shadows, intellectual avant-garde styling, impossible garment with collector-level beauty, no readable text, no logos, no watermark"
+    },
+    {
+      "id": "2026-08-01-late-night-laundromat-evening-gown_01_霓虹转桶等待",
+      "batch": "2026-08-01-late-night-laundromat-evening-gown",
+      "category": "threshold-scenes",
+      "number": "01",
+      "title": "霓虹转桶等待",
+      "image": "assets/images/2026-08-01-late-night-laundromat-evening-gown/01_霓虹转桶等待.jpg",
+      "thumb": "assets/thumbs/2026-08-01-late-night-laundromat-evening-gown/01_霓虹转桶等待.png",
+      "description": "午夜洗衣店的霓虹灯把缎面礼服照得像电影布景，主角靠着滚筒等待最后一桶停下。",
+      "prompt": "Documentary-style night photograph of a fully dressed adult in a floor-length formal gown waiting alone in a 24-hour self-service laundromat, standing beside humming front-load machines under fluorescent light and faint pink-blue window reflections, tiled floor, paper cup, ordinary laundry details, cinematic but non-sexual mood, no body emphasis, no readable text, no logos, no watermark"
+    },
+    {
+      "id": "2026-08-01-late-night-laundromat-evening-gown_02_洗衣液货架礼服",
+      "batch": "2026-08-01-late-night-laundromat-evening-gown",
+      "category": "threshold-scenes",
+      "number": "02",
+      "title": "洗衣液货架礼服",
+      "image": "assets/images/2026-08-01-late-night-laundromat-evening-gown/02_洗衣液货架礼服.jpg",
+      "thumb": "assets/thumbs/2026-08-01-late-night-laundromat-evening-gown/02_洗衣液货架礼服.png",
+      "description": "她站在廉价洗衣液货架前像在等散场，礼服与日用品形成极强反差。",
+      "prompt": "Late-night editorial photo inside a 24-hour laundromat, a fully dressed adult wearing a silver formal gown standing near detergent shelves and coin machines, tired but composed, fluorescent ceiling light, plastic baskets, cleaning supplies, everyday labor atmosphere colliding with event clothing, realistic and non-provocative, no readable text, no logos, no watermark"
+    },
+    {
+      "id": "2026-08-01-late-night-laundromat-evening-gown_03_最后一台烘干机",
+      "batch": "2026-08-01-late-night-laundromat-evening-gown",
+      "category": "threshold-scenes",
+      "number": "03",
+      "title": "最后一台烘干机",
+      "image": "assets/images/2026-08-01-late-night-laundromat-evening-gown/03_最后一台烘干机.jpg",
+      "thumb": "assets/thumbs/2026-08-01-late-night-laundromat-evening-gown/03_最后一台烘干机.png",
+      "description": "她蹲在最后一台烘干机前看转动的玻璃门，像在等一场迟来的答案。",
+      "prompt": "Moody documentary photograph of a fully dressed adult in a dark formal gown crouching in front of the last running dryer in a 24-hour laundromat, watching the round glass door spin, empty chairs nearby, vending-machine glow, quiet loneliness, realistic social scene, non-sexual and non-provocative, no readable text, no logos, no watermark"
+    },
+    {
+      "id": "2026-08-01-late-night-laundromat-evening-gown_04_塑料椅中场休息",
+      "batch": "2026-08-01-late-night-laundromat-evening-gown",
+      "category": "threshold-scenes",
+      "number": "04",
+      "title": "塑料椅中场休息",
+      "image": "assets/images/2026-08-01-late-night-laundromat-evening-gown/04_塑料椅中场休息.jpg",
+      "thumb": "assets/thumbs/2026-08-01-late-night-laundromat-evening-gown/04_塑料椅中场休息.png",
+      "description": "廉价塑料椅和高定礼服同框，像舞会散场后没人看见的中场。",
+      "prompt": "Realistic documentary-fashion image of a fully dressed adult in a champagne formal dress sitting on a cheap plastic chair inside a nearly empty all-night laundromat, one shoe loosened, laundry basket at the feet, stainless machines behind, fluorescent light with small neon accents, exhausted elegance after an event, non-sexual and non-provocative, no readable text, no logos, no watermark"
+    },
+    {
+      "id": "2026-08-01-late-night-laundromat-evening-gown_05_雨夜门口透气",
+      "batch": "2026-08-01-late-night-laundromat-evening-gown",
+      "category": "threshold-scenes",
+      "number": "05",
+      "title": "雨夜门口透气",
+      "image": "assets/images/2026-08-01-late-night-laundromat-evening-gown/05_雨夜门口透气.jpg",
+      "thumb": "assets/thumbs/2026-08-01-late-night-laundromat-evening-gown/05_雨夜门口透气.png",
+      "description": "她推开洗衣店玻璃门透气，雨夜街景和店内烘干热气在门口交汇。",
+      "prompt": "Rainy-night street documentary photo of a fully dressed adult in a modest deep red long-sleeved formal gown standing in the open doorway of a 24-hour self-service laundromat, damp city street outside, warm machine light inside, holding a mesh laundry bag, paused between event clothing and ordinary life, realistic and restrained, covered neckline, non-sexual and non-provocative, no readable text, no logos, no watermark"
+    },
+    {
+      "id": "2026-08-01-late-night-laundromat-evening-gown_06_折好床单再离开",
+      "batch": "2026-08-01-late-night-laundromat-evening-gown",
+      "category": "threshold-scenes",
+      "number": "06",
+      "title": "折好床单再离开",
+      "image": "assets/images/2026-08-01-late-night-laundromat-evening-gown/06_折好床单再离开.jpg",
+      "thumb": "assets/thumbs/2026-08-01-late-night-laundromat-evening-gown/06_折好床单再离开.png",
+      "description": "最后她在不锈钢台面上折床单，礼服拖地却动作熟练，像整组故事的收尾。",
+      "prompt": "Finale frame, realistic photograph of a fully dressed adult in an ivory formal gown carefully folding clean white sheets on a stainless steel table inside a 24-hour laundromat just before dawn, rows of quiet machines behind, practiced domestic movement, gentle emotional realism, non-sexual and non-provocative, no readable text, no logos, no watermark"
     }
   ]
 }
