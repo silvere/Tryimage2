@@ -1,0 +1,87 @@
+{
+  "theme": "不存在的建筑，但像世界顶级建筑师设计的 10 座传奇建筑",
+  "batchId": "2026-08-01-impossible-master-architectures",
+  "createdAt": "2026-08-01",
+  "items": [
+    {
+      "source": "01_tidal-monastery-museum.jpg",
+      "category": "architecture",
+      "categoryLabel": "建筑幻想",
+      "title": "潮汐修道院博物馆",
+      "description": "海面涨落之间，一座混凝土与青铜交错的修道院博物馆像从潮线里生长出来。",
+      "prompt": "Photoreal architectural editorial image of a nonexistent world-class building: a tidal monastery museum embedded into black coastal rocks, monumental fair-faced concrete, aged bronze fins, long contemplative cloisters descending into seawater, sparse warm interior glow, storm-cleared horizon, masterpiece-level architecture photography, globally iconic yet believable, no people as main subject, no readable text, no logos, no watermark"
+    },
+    {
+      "source": "02_desert-wind-library.jpg",
+      "category": "architecture",
+      "categoryLabel": "建筑幻想",
+      "title": "沙海风厅图书馆",
+      "description": "巨大的风洞拱厅在沙丘之间汇集阴影与气流，像一座为高温文明设计的图书馆。",
+      "prompt": "Photoreal architectural editorial image of a nonexistent world-class building: a desert wind library with colossal shaded arches carved to channel air, pale limestone and rammed earth surfaces, vast reading chambers hidden inside dune-like geometry, dramatic afternoon light, traces of fine sand, climate-responsive genius design, legendary top-architect quality, no readable text, no logos, no watermark"
+    },
+    {
+      "source": "03_cliff-suspension-opera.jpg",
+      "category": "architecture",
+      "categoryLabel": "建筑幻想",
+      "title": "悬崖悬索歌剧院",
+      "description": "歌剧院主体像一枚悬挂在峡湾峭壁之间的发光音腔，轻得近乎不可能。",
+      "prompt": "Photoreal architectural editorial image of a nonexistent world-class building: a suspension opera house hanging between two granite cliffs above a cold fjord, luminous curved shell, steel tension cables, glass foyers glowing at dusk, breathtaking structural elegance, impossible but believable landmark architecture, cinematic large-scale composition, no readable text, no logos, no watermark"
+    },
+    {
+      "source": "04_rainforest-spiral-research-tower.jpg",
+      "category": "architecture",
+      "categoryLabel": "建筑幻想",
+      "title": "雨林螺旋研究塔",
+      "description": "一座缓缓盘旋上升的研究塔穿过雾气与树冠，像给热带森林写下的未来注脚。",
+      "prompt": "Photoreal architectural editorial image of a nonexistent world-class building: a rainforest spiral research tower rising through dense tropical canopy, layered timber-composite decks, mist-catching louvers, botanical laboratories wrapped around a slow helical spine, morning fog, ecologically integrated icon by a master architect, no readable text, no logos, no watermark"
+    },
+    {
+      "source": "05_polar-aurora-bathhouse.jpg",
+      "category": "architecture",
+      "categoryLabel": "建筑幻想",
+      "title": "极光浴场会馆",
+      "description": "低伏在雪原里的浴场像一条发热的矿石裂缝，夜里被极光轻轻照亮。",
+      "prompt": "Photoreal architectural editorial image of a nonexistent world-class building: a polar aurora bathhouse sunk into a snowy plain, dark basalt walls, geothermal steam, long linear skylights, pools hidden beneath the earth with soft amber light, green aurora moving overhead, serene master-architect minimalism, no readable text, no logos, no watermark"
+    },
+    {
+      "source": "06_volcanic-observatory-bridge.jpg",
+      "category": "architecture",
+      "categoryLabel": "建筑幻想",
+      "title": "火山观测桥院",
+      "description": "观测中心被拉成一座横跨熔岩谷的细长桥院，像把科学变成一条悬空的地平线。",
+      "prompt": "Photoreal architectural editorial image of a nonexistent world-class building: a volcanic observatory bridge spanning a dormant lava valley, thin cantilevered research wings, oxidized steel, smoked glass, seismic instruments embedded into the structure, glowing red fissures far below, severe and intellectual landmark design, no readable text, no logos, no watermark"
+    },
+    {
+      "source": "07_flooded-lotus-transit-hub.jpg",
+      "category": "architecture",
+      "categoryLabel": "建筑幻想",
+      "title": "积水莲瓣交通枢纽",
+      "description": "像莲瓣般层层展开的交通枢纽漂浮在浅水城市边缘，优雅地接纳洪水与人流。",
+      "prompt": "Photoreal architectural editorial image of a nonexistent world-class building: a flooded lotus transit hub at the edge of a water city, overlapping petal roofs, elevated platforms above reflective water, concrete and pearl-white composite surfaces, boats and trains implied by infrastructure, resilient civic architecture of extraordinary elegance, no readable text, no logos, no watermark"
+    },
+    {
+      "source": "08_canyon-shadow-memorial.jpg",
+      "category": "architecture",
+      "categoryLabel": "建筑幻想",
+      "title": "峡谷阴影纪念馆",
+      "description": "建筑只在某个时间显形，巨大的切口让峡谷阴影本身成为纪念装置。",
+      "prompt": "Photoreal architectural editorial image of a nonexistent world-class building: a canyon shadow memorial carved into red stone, monumental voids aligned to cast precise moving shadows, subterranean galleries, silent reflecting planes, sparse visitors tiny in scale, spiritually powerful and globally iconic architecture photography, no readable text, no logos, no watermark"
+    },
+    {
+      "source": "09_cloud-harbor-sky-chapel.jpg",
+      "category": "architecture",
+      "categoryLabel": "建筑幻想",
+      "title": "云港天穹礼拜堂",
+      "description": "半空中的礼拜堂与空中码头相连，像给云层本身造了一处宁静停靠点。",
+      "prompt": "Photoreal architectural editorial image of a nonexistent world-class building: a sky chapel linked to a cloud harbor above a mountain ridge, ultra-thin white structural ribs, translucent stone floor, calm ceremonial interior opening to endless sky, high-altitude atmosphere, world-icon architecture by a legendary architect, no readable text, no logos, no watermark"
+    },
+    {
+      "source": "10_subterranean-light-quarry-hotel.jpg",
+      "category": "architecture",
+      "categoryLabel": "建筑幻想",
+      "title": "地下采光石场酒店",
+      "description": "废弃石场被改造成一座向地下生长的酒店，光像被精确切割后落入每个房间。",
+      "prompt": "Photoreal architectural editorial image of a nonexistent world-class building: a subterranean quarry hotel descending into an abandoned stone pit, stacked terraces, narrow shafts of daylight, travertine walls, still water courts, luxurious silence, adaptive-reuse genius at legendary top-architect level, magazine-cover architectural photography, no readable text, no logos, no watermark"
+    }
+  ]
+}
