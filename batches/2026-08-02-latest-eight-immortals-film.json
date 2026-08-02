@@ -1,0 +1,87 @@
+{
+  "theme": "最新的八仙电影感系列，10 张像年度奇幻大片剧照与海报的东方神话场面",
+  "batchId": "2026-08-02-latest-eight-immortals-film",
+  "createdAt": "2026-08-02",
+  "items": [
+    {
+      "source": "01_east-sea-assembly.png",
+      "category": "mythic-cinema",
+      "categoryLabel": "神话电影感",
+      "title": "东海集仙",
+      "description": "八仙在风暴将起的海岸并立，像一部年度神话电影的第一张群像海报。",
+      "prompt": "Epic cinematic still from a brand-new Eight Immortals fantasy film: the Eight Immortals assembling on a storm-lit East Sea shoreline, Taoist robes and mythic artifacts moving in strong sea wind, wet black rocks, towering waves, blue-gold lightning in distant clouds, large-scale Chinese myth blockbuster mood, highly detailed costume design, no readable text, no logos, no watermark"
+    },
+    {
+      "source": "02_lu-dongbin-night-sword.png",
+      "category": "mythic-cinema",
+      "categoryLabel": "神话电影感",
+      "title": "吕洞宾夜雨出剑",
+      "description": "长街夜雨中，吕洞宾拔剑回身，像电影中第一次真正显露仙威的瞬间。",
+      "prompt": "Epic cinematic still from a new Eight Immortals fantasy film: Lu Dongbin turning in a rain-soaked ancient street at night, unsheathing a glowing Taoist sword, lantern reflections on stone ground, intense mythic atmosphere, elegant hero framing, premium Chinese fantasy film production design, no readable text, no logos, no watermark"
+    },
+    {
+      "source": "03_he-xiangu_lotus_descent.png",
+      "category": "mythic-cinema",
+      "categoryLabel": "神话电影感",
+      "title": "何仙姑莲灯下凡",
+      "description": "何仙姑从云层与莲光之间缓缓落下，画面轻柔却带着压倒性的神圣感。",
+      "prompt": "Epic cinematic still from a new Eight Immortals fantasy film: He Xiangu descending through cloud layers and luminous lotus petals, pale silk robes, floating hair ornaments, sacred moonlit mist, soft pink-gold divine light, breathtaking Chinese myth fantasy cinematography, no readable text, no logos, no watermark"
+    },
+    {
+      "source": "04_han-zhongli_fire-fan.png",
+      "category": "mythic-cinema",
+      "categoryLabel": "神话电影感",
+      "title": "汉钟离火扇开天",
+      "description": "汉钟离挥动巨扇，火光与云气同时翻卷，像一场真正改变战局的法术镜头。",
+      "prompt": "Epic cinematic still from a new Eight Immortals fantasy film: Han Zhongli unleashing a colossal wind-and-fire fan on a mountain battlefield, robes billowing, fiery cloud vortices opening in the sky, mythic power rendered with practical grandeur, Chinese blockbuster fantasy scene, no readable text, no logos, no watermark"
+    },
+    {
+      "source": "05_tieguai-li_city-of-spirits.png",
+      "category": "mythic-cinema",
+      "categoryLabel": "神话电影感",
+      "title": "铁拐李夜入鬼城",
+      "description": "铁拐李独自走入废弃鬼城，葫芦幽火是整座城唯一活着的光。",
+      "prompt": "Epic cinematic still from a new Eight Immortals fantasy film: Tieguai Li entering a ruined ghost city at night, iron crutch, gourd lantern glowing eerie green, broken temple gates, drifting ash and spirit fog, lonely supernatural hero shot, high-end Chinese myth dark fantasy, no readable text, no logos, no watermark"
+    },
+    {
+      "source": "06_lan-caihe_market-illusion.png",
+      "category": "mythic-cinema",
+      "categoryLabel": "神话电影感",
+      "title": "蓝采和幻市踏歌",
+      "description": "蓝采和在诡异繁华的幻市中边走边歌，花篮与流光把整条街都变成了法阵。",
+      "prompt": "Epic cinematic still from a new Eight Immortals fantasy film: Lan Caihe walking through a surreal night market of illusions, flower basket scattering glowing petals, strange festive lanterns, playful but uncanny energy, dreamlike Chinese fantasy cinema production design, no readable text, no logos, no watermark"
+    },
+    {
+      "source": "07_zhang-guolao_moon-donkey.png",
+      "category": "mythic-cinema",
+      "categoryLabel": "神话电影感",
+      "title": "张果老月下倒骑",
+      "description": "满月雪野中，张果老倒骑白驴越过冰桥，画面古怪又极具传奇气质。",
+      "prompt": "Epic cinematic still from a new Eight Immortals fantasy film: Zhang Guolao riding backward on his white donkey under a vast full moon, crossing a frozen bridge over a snowy ravine, silver-blue night palette, eccentric immortal wisdom turned into majestic fantasy cinema, no readable text, no logos, no watermark"
+    },
+    {
+      "source": "08_cao-guojiu_jade-court.png",
+      "category": "mythic-cinema",
+      "categoryLabel": "神话电影感",
+      "title": "曹国舅玉阙对峙",
+      "description": "玉石宫阙前，曹国舅持玉板而立，像整部电影里最庄严的一次天庭审判。",
+      "prompt": "Epic cinematic still from a new Eight Immortals fantasy film: Cao Guojiu standing in confrontation before a towering jade celestial court, ceremonial robes, polished white stone steps, cold heavenly light, solemn political-mythic tension, premium Chinese fantasy film visual language, no readable text, no logos, no watermark"
+    },
+    {
+      "source": "09_han-xiangzi_bamboo-wind.png",
+      "category": "mythic-cinema",
+      "categoryLabel": "神话电影感",
+      "title": "韩湘子竹海吹箫",
+      "description": "韩湘子在暴风竹海中吹箫，整片山谷因乐声而产生肉眼可见的波动。",
+      "prompt": "Epic cinematic still from a new Eight Immortals fantasy film: Han Xiangzi playing a jade flute in a storm-torn bamboo sea, visible sound waves rippling through mist and leaves, emerald-black palette, lyrical and dangerous fantasy cinematography, emotionally powerful Chinese myth film scene, no readable text, no logos, no watermark"
+    },
+    {
+      "source": "10_bridge-of-immortals-finale.png",
+      "category": "mythic-cinema",
+      "categoryLabel": "神话电影感",
+      "title": "八仙横海终章",
+      "description": "八仙各执法器横渡怒海，像电影终章海报，把整部片子的史诗感一次性推到顶点。",
+      "prompt": "Epic cinematic finale poster-like still from a brand-new Eight Immortals fantasy film: all Eight Immortals crossing a furious sea on a radiant bridge of mist and magic, each holding a distinct artifact, monumental waves, celestial storm breaking open above them, ultimate Chinese myth blockbuster climax, no readable text, no logos, no watermark"
+    }
+  ]
+}
