@@ -1,0 +1,87 @@
+{
+  "theme": "艺术品级别的室内设计效果图，10 个像世界顶级设计师与艺术家共同完成的传奇空间",
+  "batchId": "2026-08-02-masterpiece-interior-design-worlds",
+  "createdAt": "2026-08-02",
+  "items": [
+    {
+      "source": "01_black-water-salon.png",
+      "category": "interior-art",
+      "categoryLabel": "艺术级室内设计",
+      "title": "黑水沙龙会客厅",
+      "description": "镜黑浅水、青铜墙面与低伏坐具把会客厅做成一处近乎仪式性的静默空间。",
+      "prompt": "Photoreal interior design editorial rendering of a legendary masterpiece-level interior: a black water salon living room with mirror-like shallow water edges, aged bronze wall planes, sculptural low seating in charcoal boucle, concealed warm lighting, monumental yet intimate composition, museum-grade interior styling, designed by the imagination of a world-class architect and artist together, no people as main subject, no readable text, no logos, no watermark"
+    },
+    {
+      "source": "02_desert-light-library.png",
+      "category": "interior-art",
+      "categoryLabel": "艺术级室内设计",
+      "title": "沙光穹顶书房",
+      "description": "像沙丘内部掏空出的弧形书房，光线沿着泥灰与石灰肌理缓慢流动。",
+      "prompt": "Photoreal interior design editorial rendering of a masterpiece interior: a desert light library carved inside dune-like vaulted geometry, lime plaster, pale travertine, curved built-in bookshelves, soft skylight falling like desert sun, serene art-collector atmosphere, world-top designer sensibility, highly tactile materials, cinematic composition, no readable text, no logos, no watermark"
+    },
+    {
+      "source": "03_glass-rain-music-room.png",
+      "category": "interior-art",
+      "categoryLabel": "艺术级室内设计",
+      "title": "玻雨听音室",
+      "description": "整间房像一只被雨包裹的玻璃乐器，半透明帘幕与反射面把声音感做成可见的东西。",
+      "prompt": "Photoreal interior design editorial rendering of a masterpiece-level music room: a glass rain listening room with translucent layered curtains, polished stone floor reflections, smoked glass partitions, a sculptural listening chaise, cool rainy daylight outside, refined acoustic luxury interior, like a collectible art installation that is still livable, world-famous designer quality, no readable text, no logos, no watermark"
+    },
+    {
+      "source": "04_red-earth-dining-chamber.png",
+      "category": "interior-art",
+      "categoryLabel": "艺术级室内设计",
+      "title": "红土宴会室",
+      "description": "整张长桌像从红色矿土里生长出来，空间带着一种古代又未来的盛宴感。",
+      "prompt": "Photoreal interior design editorial rendering of a legendary dining chamber: red earth plaster walls, monolithic dining table emerging from mineral-toned floor, deep oxblood lacquer, sculptural pendant glow, ceremonial seating arrangement, art-grade interior styling with collectible furniture, looks like a world-class designer collaborated with a land artist, no readable text, no logos, no watermark"
+    },
+    {
+      "source": "05_fog-stone-bathhouse.png",
+      "category": "interior-art",
+      "categoryLabel": "艺术级室内设计",
+      "title": "雾石私浴殿",
+      "description": "温泉雾气、石材切面和极低照明把浴室做成一座静谧的地下神殿。",
+      "prompt": "Photoreal interior design editorial rendering of a masterpiece bathhouse interior: a fog stone private bath chamber with carved basalt tubs, warm mist, hidden amber floor lighting, rough-cut stone slabs, still water, meditative luxury, globally iconic interior design photography mood, severe and beautiful, no readable text, no logos, no watermark"
+    },
+    {
+      "source": "06_cloud-terrace-bedroom.png",
+      "category": "interior-art",
+      "categoryLabel": "艺术级室内设计",
+      "title": "云台卧室",
+      "description": "床像漂在白色台地上，纱幕、薄石与天空灰把卧室做成悬浮的宁静装置。",
+      "prompt": "Photoreal interior design editorial rendering of a masterpiece bedroom interior: a cloud terrace bedroom with floating platform bed, soft white drapery, pale limestone, brushed aluminum details, open sky-facing composition, ultra-calm luxury, editorial but believable, like a collectible interior by a legendary global designer, no readable text, no logos, no watermark"
+    },
+    {
+      "source": "07_ink-courtyard-tea-room.png",
+      "category": "interior-art",
+      "categoryLabel": "艺术级室内设计",
+      "title": "墨庭茶室",
+      "description": "黑木、宣纸般半透屏风与一小片湿庭院，把茶室做成一张可以走进去的水墨画。",
+      "prompt": "Photoreal interior design editorial rendering of an art-masterpiece tea room interior: blackened timber, paper-like translucent screens, wet stone inner courtyard, low tea table, restrained natural light, contemporary East Asian collectible design sensibility, museum-quality spatial composition, no readable text, no logos, no watermark"
+    },
+    {
+      "source": "08_aurora-stair-gallery.png",
+      "category": "interior-art",
+      "categoryLabel": "艺术级室内设计",
+      "title": "极光旋阶画廊",
+      "description": "楼梯既像雕塑又像展览路径，冷暖渐变光把整段上升过程做成一次观看行为。",
+      "prompt": "Photoreal interior design editorial rendering of a masterpiece stair gallery interior: a spiraling staircase as a sculptural art object, pearl concrete, anodized metal rail, subtle aurora-like gradient lighting washing the walls, collectible gallery-home hybrid, dramatic vertical composition, world-top design language, no readable text, no logos, no watermark"
+    },
+    {
+      "source": "09_subterranean-wine-cave-lounge.png",
+      "category": "interior-art",
+      "categoryLabel": "艺术级室内设计",
+      "title": "地下酒窖休憩厅",
+      "description": "洞穴般的酒窖不是炫耀收藏，而像一间被时间慢慢抛光的沉思客厅。",
+      "prompt": "Photoreal interior design editorial rendering of a masterpiece subterranean lounge: wine cave living room with curved stone vaults, dark walnut, leather, niches with soft backlight, tactile aged surfaces, cinematic luxury, less commercial showroom and more contemplative art interior, world-renowned designer quality, no readable text, no logos, no watermark"
+    },
+    {
+      "source": "10_tidepool-sunroom.png",
+      "category": "interior-art",
+      "categoryLabel": "艺术级室内设计",
+      "title": "潮池日光厅",
+      "description": "日光房里像留住了一小片潮池地貌，玻璃、盐白石材和水面反光一起发亮。",
+      "prompt": "Photoreal interior design editorial rendering of a masterpiece sunroom interior: a tidepool-inspired conservatory lounge with salt-white stone, shallow reflective water channels, curved glass enclosure, sculptural daybeds, luminous oceanic daylight, interior as inhabitable artwork, globally iconic design-magazine quality, no readable text, no logos, no watermark"
+    }
+  ]
+}
