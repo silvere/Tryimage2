@@ -1,0 +1,87 @@
+{
+  "theme": "哈利波特经典魔法学习示意图，10 张像霍格沃茨课程图解与魔法教材插页的视觉系列",
+  "batchId": "2026-08-03-harry-potter-magic-study-infographics",
+  "createdAt": "2026-08-03",
+  "items": [
+    {
+      "source": "01_wand-movement-spell-board.png",
+      "category": "magic-study-infographics",
+      "categoryLabel": "魔法学习示意图",
+      "title": "魔杖轨迹总览板",
+      "description": "像霍格沃茨低年级咒语课的教学总板，把经典挥杖轨迹、火花和施法站位一次性讲清。",
+      "prompt": "A richly detailed magical study infographic inspired by classic Harry Potter classroom visuals: a spell-learning board showing wand movement arcs, hand positions, glowing practice sparks, parchment diagrams, chalkboard annotations, brass pins, old wizard-school academic style, cinematic warm candlelight, highly legible visual structure but no readable text, no logos, no watermark"
+    },
+    {
+      "source": "02_potions-brewing-cutaway.png",
+      "category": "magic-study-infographics",
+      "categoryLabel": "魔法学习示意图",
+      "title": "魔药熬制剖面图",
+      "description": "铜锅、蒸汽、药材顺序与火候层层展开，像斯内普课堂的高级魔药教材插页。",
+      "prompt": "A luxurious wizard-school study infographic inspired by classic Harry Potter potion lessons: a cutaway teaching sheet of potion brewing steps, copper cauldron, ingredient sequence, vapor colors, timing rings, ingredient jars, annotated parchment aesthetic, moody dungeon classroom atmosphere, textbook-like composition, no readable text, no logos, no watermark"
+    },
+    {
+      "source": "03_patronus-practice-sequence.png",
+      "category": "magic-study-infographics",
+      "categoryLabel": "魔法学习示意图",
+      "title": "守护神练习分解图",
+      "description": "从记忆唤起到银光成形，像黑魔法防御课上最令人屏息的一张训练示意图。",
+      "prompt": "A cinematic magical training infographic inspired by classic Harry Potter Defense Against the Dark Arts lessons: sequential visual breakdown of learning the Patronus charm, memory focus, wand stance, silver mist evolving into an animal-shaped guardian, dark classroom background, luminous layered diagrams, old parchment and chalk instructional design, no readable text, no logos, no watermark"
+    },
+    {
+      "source": "04_herbology-greenhouse-study.png",
+      "category": "magic-study-infographics",
+      "categoryLabel": "魔法学习示意图",
+      "title": "温室草药课研究板",
+      "description": "危险根系、手套、防护耳罩与温室湿气都被整理成一张生动的魔法植物学学习图。",
+      "prompt": "A premium wizard-school study infographic inspired by classic Harry Potter herbology classes: greenhouse teaching board with magical plant anatomy, root structure, protective gloves, earmuffs, watering stages, glasshouse humidity, botanical parchment diagrams, educational but dramatic visual storytelling, no readable text, no logos, no watermark"
+    },
+    {
+      "source": "05_broom-flight-mechanics.png",
+      "category": "magic-study-infographics",
+      "categoryLabel": "魔法学习示意图",
+      "title": "飞天扫帚飞行机制图",
+      "description": "起飞姿势、重心、俯冲弧线与训练场风向被画成一张经典魁地奇入门课程图。",
+      "prompt": "A high-end magical sports study infographic inspired by classic Harry Potter broom-flying lessons: training-board diagram of broom flight mechanics, mounting posture, lift-off angles, body balance, diving arc, wind direction markers, Quidditch practice field seen in blueprint style, parchment and chalk hybrid design, no readable text, no logos, no watermark"
+    },
+    {
+      "source": "06_defense-shield-spell-board.png",
+      "category": "magic-study-infographics",
+      "categoryLabel": "魔法学习示意图",
+      "title": "防御护盾示意板",
+      "description": "护盾展开、冲击波方向与课堂对练站位，让整张图像是一页真正会被反复复习的战术教材。",
+      "prompt": "A dramatic wizard combat classroom infographic inspired by classic Harry Potter spell training: shield charm teaching board with expanding magical barrier shapes, impact directions, duel spacing, wand alignment, sparks frozen midair, dark hall background, refined parchment-and-blackboard educational design, no readable text, no logos, no watermark"
+    },
+    {
+      "source": "07_astronomy-tower-star-chart.png",
+      "category": "magic-study-infographics",
+      "categoryLabel": "魔法学习示意图",
+      "title": "天文塔星图课程页",
+      "description": "望远镜、月相、星轨与塔楼夜风一起构成一张霍格沃茨夜课感极强的示意页。",
+      "prompt": "A beautiful magical astronomy study infographic inspired by classic Harry Potter Hogwarts night lessons: star chart teaching sheet from an astronomy tower, brass telescope, moon phases, constellation paths, candlelit parchment, cold midnight sky, scholarly magical academy atmosphere, no readable text, no logos, no watermark"
+    },
+    {
+      "source": "08_charms-feather-levitation.png",
+      "category": "magic-study-infographics",
+      "categoryLabel": "魔法学习示意图",
+      "title": "漂浮咒羽毛课堂图",
+      "description": "羽毛升空的高度变化、腕部动作与同桌实验失败痕迹，像最经典也最亲切的一节咒语课教材。",
+      "prompt": "A charming magical classroom infographic inspired by classic Harry Potter charms lessons: levitation spell study board with floating feather stages, wand wrist motion, desk setup, failed and successful attempts shown visually, warm candlelit classroom, elegant parchment lesson-sheet composition, no readable text, no logos, no watermark"
+    },
+    {
+      "source": "09_transfiguration-study-panel.png",
+      "category": "magic-study-infographics",
+      "categoryLabel": "魔法学习示意图",
+      "title": "变形术阶段图板",
+      "description": "物体形态逐步改变的中间态被排布得严谨而神秘，像麦格教授课堂的高年级笔记页。",
+      "prompt": "A sophisticated magical study infographic inspired by classic Harry Potter transfiguration classes: staged transformation panel showing an everyday object gradually turning into a bird-shaped magical form, intermediate forms, precision wand control, disciplined academy layout, parchment diagrams with arcane geometry, no readable text, no logos, no watermark"
+    },
+    {
+      "source": "10_castle-map-secret-learning.png",
+      "category": "magic-study-infographics",
+      "categoryLabel": "魔法学习示意图",
+      "title": "城堡秘道学习总图",
+      "description": "楼梯、密道、教室与夜巡路线被收纳成一张充满故事感的霍格沃茨式学习地图终章。",
+      "prompt": "A grand magical study infographic inspired by classic Harry Potter castle lore: an educational secret-passages map of a vast wizard school castle, moving staircases, hidden corridors, classroom wings, torchlit parchment cartography, mystery and academic adventure fused together, richly layered visual symbols, no readable text, no logos, no watermark"
+    }
+  ]
+}
