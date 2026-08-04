@@ -1,7 +1,7 @@
 {
   "site": {
     "title": "OpenAI image2 视觉实验",
-    "subtitle": "1564 张传播向 AI 海报",
+    "subtitle": "1574 张传播向 AI 海报",
     "headline": "OpenAI image2 视觉实验",
     "intro": "每一批图片围绕一个临时主题生成，并按当次最合适的 category 归档；可以是反差创意、真实场景、产品概念、人物叙事或任何新的视觉方向。",
     "coverImage": "assets/contact_sheet_image2.jpg",
@@ -566,6 +566,10 @@
     {
       "id": "magic-study-infographics",
       "label": "魔法学习示意图"
+    },
+    {
+      "id": "stone-sculpture-masterpieces",
+      "label": "石头雕塑创意艺术品"
     }
   ],
   "batches": [
@@ -1359,6 +1363,12 @@
       "id": "2026-08-03-harry-potter-magic-study-infographics",
       "theme": "哈利波特经典魔法学习示意图，10 张像霍格沃茨课程图解与魔法教材插页的视觉系列",
       "createdAt": "2026-08-03",
+      "count": 10
+    },
+    {
+      "id": "2026-08-04-world-top-stone-sculpture-masterpieces",
+      "theme": "世界顶级石头雕塑创意艺术品，10 张具有博物馆镇馆级视觉冲击力的当代与古典融合雕塑系列",
+      "createdAt": "2026-08-04",
       "count": 10
     }
   ],
@@ -18551,6 +18561,116 @@
       "thumb": "assets/thumbs/2026-08-03-harry-potter-magic-study-infographics/10_城堡秘道学习总图.png",
       "description": "楼梯、密道、教室与夜巡路线被收纳成一张充满故事感的霍格沃茨式学习地图终章。",
       "prompt": "A grand magical study infographic inspired by classic Harry Potter castle lore: an educational secret-passages map of a vast wizard school castle, moving staircases, hidden corridors, classroom wings, torchlit parchment cartography, mystery and academic adventure fused together, richly layered visual symbols, no readable text, no logos, no watermark"
+    },
+    {
+      "id": "2026-08-04-world-top-stone-sculpture-masterpieces_01_山神王座巨石像",
+      "batch": "2026-08-04-world-top-stone-sculpture-masterpieces",
+      "category": "stone-sculpture-masterpieces",
+      "number": "01",
+      "title": "山神王座巨石像",
+      "image": "assets/images/2026-08-04-world-top-stone-sculpture-masterpieces/01_山神王座巨石像.png",
+      "thumb": "assets/thumbs/2026-08-04-world-top-stone-sculpture-masterpieces/01_山神王座巨石像.png",
+      "description": "像山体本身长出王座与神像，兼具远古宗教感与当代地景艺术的压迫气场。",
+      "prompt": "A world-class stone sculpture masterpiece installed in a dramatic museum-scale landscape: a colossal mountain-god throne carved from a single monolith, sacred yet ultra-contemporary, megalithic textures, monumental symmetry, weathered mineral veins, cinematic shadows, luxury art-photography lighting, awe-inspiring scale, no people, no text, no logo, no watermark"
+    },
+    {
+      "id": "2026-08-04-world-top-stone-sculpture-masterpieces_02_虚空螺旋大理石之门",
+      "batch": "2026-08-04-world-top-stone-sculpture-masterpieces",
+      "category": "stone-sculpture-masterpieces",
+      "number": "02",
+      "title": "虚空螺旋大理石之门",
+      "image": "assets/images/2026-08-04-world-top-stone-sculpture-masterpieces/02_虚空螺旋大理石之门.png",
+      "thumb": "assets/thumbs/2026-08-04-world-top-stone-sculpture-masterpieces/02_虚空螺旋大理石之门.png",
+      "description": "白色大理石被雕成旋涡般张开的空洞之门，既古典又极简，像顶级艺博会中心装置。",
+      "prompt": "A top-tier stone sculpture artwork: an enormous spiral marble gate opening into a dark void, pristine white marble with subtle gray veins, classical carving discipline fused with futuristic minimalism, gallery centerpiece, hyper-detailed polished stone surfaces, museum spotlighting, high contrast shadows, elite art fair aesthetic, no people, no text, no logo, no watermark"
+    },
+    {
+      "id": "2026-08-04-world-top-stone-sculpture-masterpieces_03_黑玄武浪潮圣殿",
+      "batch": "2026-08-04-world-top-stone-sculpture-masterpieces",
+      "category": "stone-sculpture-masterpieces",
+      "number": "03",
+      "title": "黑玄武浪潮圣殿",
+      "image": "assets/images/2026-08-04-world-top-stone-sculpture-masterpieces/03_黑玄武浪潮圣殿.png",
+      "thumb": "assets/thumbs/2026-08-04-world-top-stone-sculpture-masterpieces/03_黑玄武浪潮圣殿.png",
+      "description": "玄武岩被雕成向天空翻涌的浪墙与拱顶，像自然灾变冻结成宗教建筑。",
+      "prompt": "A world-class basalt sculpture masterpiece: towering black basalt waves frozen into a cathedral-like formation, volcanic stone carved into soaring arcs and cresting walls, raw mineral drama, monumental sacred architecture feeling, stormy cinematic lighting, dark luxury editorial composition, ultra-detailed stone texture, no people, no text, no logo, no watermark"
+    },
+    {
+      "id": "2026-08-04-world-top-stone-sculpture-masterpieces_04_玉石云帝面具",
+      "batch": "2026-08-04-world-top-stone-sculpture-masterpieces",
+      "category": "stone-sculpture-masterpieces",
+      "number": "04",
+      "title": "玉石云帝面具",
+      "image": "assets/images/2026-08-04-world-top-stone-sculpture-masterpieces/04_玉石云帝面具.png",
+      "thumb": "assets/thumbs/2026-08-04-world-top-stone-sculpture-masterpieces/04_玉石云帝面具.png",
+      "description": "巨型青玉面具被云气与裂纹包裹，像文明神话遗物与高级收藏艺术的结合。",
+      "prompt": "A legendary jade stone sculpture masterpiece: a colossal imperial mask carved from luminous green jade, wrapped in cloud-like carved forms and ancient crack patterns, mythic East-meets-contemporary art object, museum black-box display, refined mineral translucency, dramatic halo lighting, high-end collectible aura, no people, no text, no logo, no watermark"
+    },
+    {
+      "id": "2026-08-04-world-top-stone-sculpture-masterpieces_05_沙漠神谕者残首",
+      "batch": "2026-08-04-world-top-stone-sculpture-masterpieces",
+      "category": "stone-sculpture-masterpieces",
+      "number": "05",
+      "title": "沙漠神谕者残首",
+      "image": "assets/images/2026-08-04-world-top-stone-sculpture-masterpieces/05_沙漠神谕者残首.png",
+      "thumb": "assets/thumbs/2026-08-04-world-top-stone-sculpture-masterpieces/05_沙漠神谕者残首.png",
+      "description": "像被风沙掩埋千年的神谕者头部遗迹，被重新作为世界级公共艺术重新立起。",
+      "prompt": "A masterpiece stone sculpture in a desert setting: a gigantic fragmented oracle head carved from warm sandstone, partly eroded, partly razor-sharp contemporary restoration, ancient ruin meets elite public art installation, drifting dust, sunset museum-grade photography, monumental isolation, cinematic atmosphere, no people, no text, no logo, no watermark"
+    },
+    {
+      "id": "2026-08-04-world-top-stone-sculpture-masterpieces_06_晶体花岗岩悬浮环",
+      "batch": "2026-08-04-world-top-stone-sculpture-masterpieces",
+      "category": "stone-sculpture-masterpieces",
+      "number": "06",
+      "title": "晶体花岗岩悬浮环",
+      "image": "assets/images/2026-08-04-world-top-stone-sculpture-masterpieces/06_晶体花岗岩悬浮环.png",
+      "thumb": "assets/thumbs/2026-08-04-world-top-stone-sculpture-masterpieces/06_晶体花岗岩悬浮环.png",
+      "description": "厚重花岗岩与通透晶体被雕成不可能悬浮的圆环，充满顶级艺术馆未来感。",
+      "prompt": "A top museum stone sculpture masterpiece: a massive levitation ring carved from granite and embedded crystal, impossible balance, futuristic sacred geometry, polished and rough textures contrasted, clean black exhibition hall, spotlight reflections on crystal inclusions, premium conceptual art photography, no people, no text, no logo, no watermark"
+    },
+    {
+      "id": "2026-08-04-world-top-stone-sculpture-masterpieces_07_黑曜天使碎翼像",
+      "batch": "2026-08-04-world-top-stone-sculpture-masterpieces",
+      "category": "stone-sculpture-masterpieces",
+      "number": "07",
+      "title": "黑曜天使碎翼像",
+      "image": "assets/images/2026-08-04-world-top-stone-sculpture-masterpieces/07_黑曜天使碎翼像.png",
+      "thumb": "assets/thumbs/2026-08-04-world-top-stone-sculpture-masterpieces/07_黑曜天使碎翼像.png",
+      "description": "一尊黑曜石天使像展开破碎双翼，庄严、危险、华丽，像拍卖行压轴级作品。",
+      "prompt": "A world-auction-level obsidian stone sculpture masterpiece: an obsidian angel with shattered wings spread wide, razor-edge reflective black stone, solemn and dangerous beauty, cathedral darkness, dramatic beams of light, luxury fine-art editorial shot, intricate carving and fractures, no people, no text, no logo, no watermark"
+    },
+    {
+      "id": "2026-08-04-world-top-stone-sculpture-masterpieces_08_珊瑚礁象记忆碑",
+      "batch": "2026-08-04-world-top-stone-sculpture-masterpieces",
+      "category": "stone-sculpture-masterpieces",
+      "number": "08",
+      "title": "珊瑚礁象记忆碑",
+      "image": "assets/images/2026-08-04-world-top-stone-sculpture-masterpieces/08_珊瑚礁象记忆碑.png",
+      "thumb": "assets/thumbs/2026-08-04-world-top-stone-sculpture-masterpieces/08_珊瑚礁象记忆碑.png",
+      "description": "巨象与礁石融合成纪念碑式雕塑，像海洋文明留下的壮丽哀歌。",
+      "prompt": "A breathtaking stone sculpture masterpiece: a monumental elephant form fused with reef-like limestone and fossil textures, memory monument of a lost ocean civilization, surreal natural erosion integrated with intentional carving, blue-gray atmospheric lighting, museum documentary meets luxury art photo, no people, no text, no logo, no watermark"
+    },
+    {
+      "id": "2026-08-04-world-top-stone-sculpture-masterpieces_09_陨石王冠图腾",
+      "batch": "2026-08-04-world-top-stone-sculpture-masterpieces",
+      "category": "stone-sculpture-masterpieces",
+      "number": "09",
+      "title": "陨石王冠图腾",
+      "image": "assets/images/2026-08-04-world-top-stone-sculpture-masterpieces/09_陨石王冠图腾.png",
+      "thumb": "assets/thumbs/2026-08-04-world-top-stone-sculpture-masterpieces/09_陨石王冠图腾.png",
+      "description": "陨石质感黑石被雕成王冠与图腾柱混合体，像外星文明王权遗物。",
+      "prompt": "A top-tier stone sculpture artwork: a towering royal crown totem carved from meteorite-like black stone, cosmic pitting, metallic mineral sheen, extraterrestrial regalia merged with ancient monument design, dark exhibition stage, sharp spotlight, hyper-detailed luxury sci-fi archaeology aesthetic, no people, no text, no logo, no watermark"
+    },
+    {
+      "id": "2026-08-04-world-top-stone-sculpture-masterpieces_10_冰纹大理石天鹅祭坛",
+      "batch": "2026-08-04-world-top-stone-sculpture-masterpieces",
+      "category": "stone-sculpture-masterpieces",
+      "number": "10",
+      "title": "冰纹大理石天鹅祭坛",
+      "image": "assets/images/2026-08-04-world-top-stone-sculpture-masterpieces/10_冰纹大理石天鹅祭坛.png",
+      "thumb": "assets/thumbs/2026-08-04-world-top-stone-sculpture-masterpieces/10_冰纹大理石天鹅祭坛.png",
+      "description": "冰裂纹理的大理石被雕成展开双翼的天鹅祭坛，带有极致纯净与冷艳高奢气场。",
+      "prompt": "A world-class marble stone sculpture masterpiece: a swan altar carved from icy cracked marble, wings unfolding into an architectural ceremonial structure, ethereal purity with cold high-luxury atmosphere, white-on-white gallery environment, soft blue spotlight glow, exquisite chisel detail, prestigious collectible-art scale, no people, no text, no logo, no watermark"
     }
   ]
 }

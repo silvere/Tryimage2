@@ -1,0 +1,87 @@
+{
+  "theme": "世界顶级石头雕塑创意艺术品，10 张具有博物馆镇馆级视觉冲击力的当代与古典融合雕塑系列",
+  "batchId": "2026-08-04-world-top-stone-sculpture-masterpieces",
+  "createdAt": "2026-08-04",
+  "items": [
+    {
+      "source": "01_mountain-god-throne-monolith.png",
+      "category": "stone-sculpture-masterpieces",
+      "categoryLabel": "石头雕塑创意艺术品",
+      "title": "山神王座巨石像",
+      "description": "像山体本身长出王座与神像，兼具远古宗教感与当代地景艺术的压迫气场。",
+      "prompt": "A world-class stone sculpture masterpiece installed in a dramatic museum-scale landscape: a colossal mountain-god throne carved from a single monolith, sacred yet ultra-contemporary, megalithic textures, monumental symmetry, weathered mineral veins, cinematic shadows, luxury art-photography lighting, awe-inspiring scale, no people, no text, no logo, no watermark"
+    },
+    {
+      "source": "02_void-spiral-marble-gate.png",
+      "category": "stone-sculpture-masterpieces",
+      "categoryLabel": "石头雕塑创意艺术品",
+      "title": "虚空螺旋大理石之门",
+      "description": "白色大理石被雕成旋涡般张开的空洞之门，既古典又极简，像顶级艺博会中心装置。",
+      "prompt": "A top-tier stone sculpture artwork: an enormous spiral marble gate opening into a dark void, pristine white marble with subtle gray veins, classical carving discipline fused with futuristic minimalism, gallery centerpiece, hyper-detailed polished stone surfaces, museum spotlighting, high contrast shadows, elite art fair aesthetic, no people, no text, no logo, no watermark"
+    },
+    {
+      "source": "03_black-basalt-wave-cathedral.png",
+      "category": "stone-sculpture-masterpieces",
+      "categoryLabel": "石头雕塑创意艺术品",
+      "title": "黑玄武浪潮圣殿",
+      "description": "玄武岩被雕成向天空翻涌的浪墙与拱顶，像自然灾变冻结成宗教建筑。",
+      "prompt": "A world-class basalt sculpture masterpiece: towering black basalt waves frozen into a cathedral-like formation, volcanic stone carved into soaring arcs and cresting walls, raw mineral drama, monumental sacred architecture feeling, stormy cinematic lighting, dark luxury editorial composition, ultra-detailed stone texture, no people, no text, no logo, no watermark"
+    },
+    {
+      "source": "04_jade-cloud-emperor-mask.png",
+      "category": "stone-sculpture-masterpieces",
+      "categoryLabel": "石头雕塑创意艺术品",
+      "title": "玉石云帝面具",
+      "description": "巨型青玉面具被云气与裂纹包裹，像文明神话遗物与高级收藏艺术的结合。",
+      "prompt": "A legendary jade stone sculpture masterpiece: a colossal imperial mask carved from luminous green jade, wrapped in cloud-like carved forms and ancient crack patterns, mythic East-meets-contemporary art object, museum black-box display, refined mineral translucency, dramatic halo lighting, high-end collectible aura, no people, no text, no logo, no watermark"
+    },
+    {
+      "source": "05_desert-oracle-head-fragment.png",
+      "category": "stone-sculpture-masterpieces",
+      "categoryLabel": "石头雕塑创意艺术品",
+      "title": "沙漠神谕者残首",
+      "description": "像被风沙掩埋千年的神谕者头部遗迹，被重新作为世界级公共艺术重新立起。",
+      "prompt": "A masterpiece stone sculpture in a desert setting: a gigantic fragmented oracle head carved from warm sandstone, partly eroded, partly razor-sharp contemporary restoration, ancient ruin meets elite public art installation, drifting dust, sunset museum-grade photography, monumental isolation, cinematic atmosphere, no people, no text, no logo, no watermark"
+    },
+    {
+      "source": "06_crystal-granite-levitation-ring.png",
+      "category": "stone-sculpture-masterpieces",
+      "categoryLabel": "石头雕塑创意艺术品",
+      "title": "晶体花岗岩悬浮环",
+      "description": "厚重花岗岩与通透晶体被雕成不可能悬浮的圆环，充满顶级艺术馆未来感。",
+      "prompt": "A top museum stone sculpture masterpiece: a massive levitation ring carved from granite and embedded crystal, impossible balance, futuristic sacred geometry, polished and rough textures contrasted, clean black exhibition hall, spotlight reflections on crystal inclusions, premium conceptual art photography, no people, no text, no logo, no watermark"
+    },
+    {
+      "source": "07_obsidian-angel-shattered-wings.png",
+      "category": "stone-sculpture-masterpieces",
+      "categoryLabel": "石头雕塑创意艺术品",
+      "title": "黑曜天使碎翼像",
+      "description": "一尊黑曜石天使像展开破碎双翼，庄严、危险、华丽，像拍卖行压轴级作品。",
+      "prompt": "A world-auction-level obsidian stone sculpture masterpiece: an obsidian angel with shattered wings spread wide, razor-edge reflective black stone, solemn and dangerous beauty, cathedral darkness, dramatic beams of light, luxury fine-art editorial shot, intricate carving and fractures, no people, no text, no logo, no watermark"
+    },
+    {
+      "source": "08_reef-elephant-memory-monument.png",
+      "category": "stone-sculpture-masterpieces",
+      "categoryLabel": "石头雕塑创意艺术品",
+      "title": "珊瑚礁象记忆碑",
+      "description": "巨象与礁石融合成纪念碑式雕塑，像海洋文明留下的壮丽哀歌。",
+      "prompt": "A breathtaking stone sculpture masterpiece: a monumental elephant form fused with reef-like limestone and fossil textures, memory monument of a lost ocean civilization, surreal natural erosion integrated with intentional carving, blue-gray atmospheric lighting, museum documentary meets luxury art photo, no people, no text, no logo, no watermark"
+    },
+    {
+      "source": "09_meteorite-king-crown-totem.png",
+      "category": "stone-sculpture-masterpieces",
+      "categoryLabel": "石头雕塑创意艺术品",
+      "title": "陨石王冠图腾",
+      "description": "陨石质感黑石被雕成王冠与图腾柱混合体，像外星文明王权遗物。",
+      "prompt": "A top-tier stone sculpture artwork: a towering royal crown totem carved from meteorite-like black stone, cosmic pitting, metallic mineral sheen, extraterrestrial regalia merged with ancient monument design, dark exhibition stage, sharp spotlight, hyper-detailed luxury sci-fi archaeology aesthetic, no people, no text, no logo, no watermark"
+    },
+    {
+      "source": "10_ice-marble-swan-altar.png",
+      "category": "stone-sculpture-masterpieces",
+      "categoryLabel": "石头雕塑创意艺术品",
+      "title": "冰纹大理石天鹅祭坛",
+      "description": "冰裂纹理的大理石被雕成展开双翼的天鹅祭坛，带有极致纯净与冷艳高奢气场。",
+      "prompt": "A world-class marble stone sculpture masterpiece: a swan altar carved from icy cracked marble, wings unfolding into an architectural ceremonial structure, ethereal purity with cold high-luxury atmosphere, white-on-white gallery environment, soft blue spotlight glow, exquisite chisel detail, prestigious collectible-art scale, no people, no text, no logo, no watermark"
+    }
+  ]
+}
