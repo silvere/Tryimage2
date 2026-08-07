@@ -1,0 +1,48 @@
+{
+  "topicId": "2026-08-07-unseen-alien-tech-realistic-figurines",
+  "batchId": "2026-08-07-unseen-alien-tech-realistic-figurines",
+  "theme": "从没有见过的外星科技真实手办",
+  "topicPath": "workflow/topics/selected/2026-08-07-unseen-alien-tech-realistic-figurines.json",
+  "metadataPath": "batches/2026-08-07-unseen-alien-tech-realistic-figurines.json",
+  "generatedImageDir": "tmp/2026-08-07-unseen-alien-tech-realistic-figurines",
+  "count": 10,
+  "category": "alien-tech-figurines",
+  "categoryLabel": "外星科技真实手办",
+  "generator": "codex/openai",
+  "generatorScript": "tmp/generate_batch_codex.py",
+  "metadataSource": "existing-batch-metadata",
+  "status": "done",
+  "startedAt": "2026-08-07T00:20:27.615Z",
+  "completedAt": "2026-08-07T00:22:37.866Z",
+  "publish": {
+    "status": "done",
+    "batchId": "2026-08-07-unseen-alien-tech-realistic-figurines",
+    "metadataPath": "batches/2026-08-07-unseen-alien-tech-realistic-figurines.json",
+    "generatedImageDir": "tmp/2026-08-07-unseen-alien-tech-realistic-figurines",
+    "sourceGenerationArtifact": "workflow/generation/done/2026-08-07-unseen-alien-tech-realistic-figurines.json",
+    "import": {
+      "status": "done",
+      "updatedAt": "2026-08-07T00:23:59.193Z",
+      "output": "Imported 10 images into assets/images/2026-08-07-unseen-alien-tech-realistic-figurines\nUpdated assets/gallery.json"
+    },
+    "github": {
+      "status": "done",
+      "updatedAt": "2026-08-07T00:24:18.719Z",
+      "branch": "main",
+      "output": "[main 512ff57] feat: publish image batch 2026-08-07-unseen-alien-tech-realistic-figurines\n Committer: jingwei sun <jingweisun@jingweideMac-mini.local>\nYour name and email address were configured automatically based\non your username and hostname. Please check that they are accurate.\nYou can suppress this message by setting them explicitly:\n\n    git config --global user.name \"Your Name\"\n    git config --global user.email you@example.com\n\nAfter doing this, you may fix the identity used for this commit with:\n\n    git commit --amend --reset-author\n\n 22 files changed, 218 insertions(+), 1 deletion(-)\n create mode 100644 \"assets/images/2026-08-07-unseen-alien-tech-realistic-figurines/01_\\345\\217\\215\\351\\207\\215\\345\\212\\233\\347\\245\\267\\345\\221\\212\\346\\234\\272\\347\\224\\262.png\"\n create mode 100644 \"assets/images/2026-08-07-unseen-alien-tech-realistic-figurines/02_\\347\\245\\236\\347\\273\\217\\347\\217\\212\\347\\221\\232\\344\\277\\241\\345\\217\\267\\347\\245\\255\\345\\217\\270.png\"\n create mode 100644 \"assets/images/2026-08-07-unseen-alien-tech-realistic-figurines/03_\\351\\273\\221\\346\\233\\234\\346\\212\\230\\351\\227\\250\\345\\267\\245\\345\\205\\265.png\"\n create mode 100644 \"assets/images/2026-08-07-unseen-alien-tech-realistic-figurines/04_\\346\\266\\262\\351\\207\\221\\350\\203\\232\\350\\203\\216\\351\\251\\276\\351\\251\\266\\345\\221\\230.png\"\n create mode 100644 \"assets/images/2026-08-07-unseen-alien-tech-realistic-figurines/05_\\350\\256\\260\\345\\277\\206\\347\\237\\277\\350\\204\\211\\345\\256\\210\\345\\272\\223\\350\\200\\205.png\"\n create mode 100644 \"assets/images/2026-08-07-unseen-alien-tech-realistic-figurines/06_\\351\\233\\266\\345\\216\\213\\345\\256\\207\\350\\210\\252\\344\\277\\256\\345\\245\\263.png\"\n create mode 100644 \"assets/images/2026-08-07-unseen-alien-tech-realistic-figurines/07_\\345\\205\\211\\351\\224\\245\\345\\255\\265\\345\\214\\226\\350\\210\\261\\345\\225\\206\\350\\264\\251.png\"\n create mode 100644 \"assets/images/2026-08-07-unseen-alien-tech-realistic-figurines/08_\\351\\207\\217\\345\\255\\220\\347\\224\\262\\345\\243\\263\\346\\241\\243\\346\\241\\210\\345\\256\\230.png\"\n create mode 100644 \"assets/images/2026-08-07-unseen-alien-tech-realistic-figurines/09_\\346\\201\\222\\346\\230\\237\\346\\256\\213\\347\\211\\207\\351\\252\\250\\347\\254\\233\\347\\214\\216\\346\\211\\213.png\"\n create mode 100644 \"assets/images/2026-08-07-unseen-alien-tech-realistic-figurines/10_\\346\\232\\227\\346\\265\\267\\345\\274\\225\\345\\212\\233\\344\\270\\273\\346\\225\\231.png\"\n create mode 100644 \"assets/thumbs/2026-08-07-unseen-alien-tech-realistic-figurines/01_\\345\\217\\215\\351\\207\\215\\345\\212\\233\\347\\245\\267\\345\\221\\212\\346\\234\\272\\347\\224\\262.png\"\n create mode 100644 \"assets/thumbs/2026-08-07-unseen-alien-tech-realistic-figurines/02_\\347\\245\\236\\347\\273\\217\\347\\217\\212\\347\\221\\232\\344\\277\\241\\345\\217\\267\\347\\245\\255\\345\\217\\270.png\"\n create mode 100644 \"assets/thumbs/2026-08-07-unseen-alien-tech-realistic-figurines/03_\\351\\273\\221\\346\\233\\234\\346\\212\\230\\351\\227\\250\\345\\267\\245\\345\\205\\265.png\"\n create mode 100644 \"assets/thumbs/2026-08-07-unseen-alien-tech-realistic-figurines/04_\\346\\266\\262\\351\\207\\221\\350\\203\\232\\350\\203\\216\\351\\251\\276\\351\\251\\266\\345\\221\\230.png\"\n create mode 100644 \"assets/thumbs/2026-08-07-unseen-alien-tech-realistic-figurines/05_\\350\\256\\260\\345\\277\\206\\347\\237\\277\\350\\204\\211\\345\\256\\210\\345\\272\\223\\350\\200\\205.png\"\n create mode 100644 \"assets/thumbs/2026-08-07-unseen-alien-tech-realistic-figurines/06_\\351\\233\\266\\345\\216\\213\\345\\256\\207\\350\\210\\252\\344\\277\\256\\345\\245\\263.png\"\n create mode 100644 \"assets/thumbs/2026-08-07-unseen-alien-tech-realistic-figurines/07_\\345\\205\\211\\351\\224\\245\\345\\255\\265\\345\\214\\226\\350\\210\\261\\345\\225\\206\\350\\264\\251.png\"\n create mode 100644 \"assets/thumbs/2026-08-07-unseen-alien-tech-realistic-figurines/08_\\351\\207\\217\\345\\255\\220\\347\\224\\262\\345\\243\\263\\346\\241\\243\\346\\241\\210\\345\\256\\230.png\"\n create mode 100644 \"assets/thumbs/2026-08-07-unseen-alien-tech-realistic-figurines/09_\\346\\201\\222\\346\\230\\237\\346\\256\\213\\347\\211\\207\\351\\252\\250\\347\\254\\233\\347\\214\\216\\346\\211\\213.png\"\n create mode 100644 \"assets/thumbs/2026-08-07-unseen-alien-tech-realistic-figurines/10_\\346\\232\\227\\346\\265\\267\\345\\274\\225\\345\\212\\233\\344\\270\\273\\346\\225\\231.png\"\n create mode 100644 batches/2026-08-07-unseen-alien-tech-realistic-figurines.json\n{\"batchId\":\"2026-08-07-unseen-alien-tech-realistic-figurines\",\"status\":\"done\",\"reason\":\"pushed\",\"pushed\":true,\"branch\":\"main\",\"paths\":[\"batches/2026-08-07-unseen-alien-tech-realistic-figurines.json\",\"assets/images/2026-08-07-unseen-alien-tech-realistic-figurines\",\"assets/thumbs/2026-08-07-unseen-alien-tech-realistic-figurines\",\"assets/gallery.json\"]}"
+    },
+    "xiaohongshu": {
+      "status": "scheduled",
+      "scheduledAt": "2026-08-07T09:30:00+08:00",
+      "cronJobId": "e2fa16363b72"
+    },
+    "artifactPath": "workflow/publish/done/2026-08-07-unseen-alien-tech-realistic-figurines.json",
+    "updatedAt": "2026-08-07T00:24:18.721Z",
+    "completedAt": "2026-08-07T00:24:18.720Z",
+    "lastError": null
+  },
+  "notes": [
+    "Using existing batch metadata.",
+    "Images generated to tmp/<batch-id>. Stage 3 can now import and publish this batch."
+  ]
+}

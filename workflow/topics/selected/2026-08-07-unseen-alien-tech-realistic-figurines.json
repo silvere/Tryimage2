@@ -1,0 +1,156 @@
+{
+  "id": "2026-08-07-unseen-alien-tech-realistic-figurines",
+  "createdAt": "2026-08-07T00:07:49.728Z",
+  "source": "manual/hermes",
+  "title": "从没有见过的外星科技真实手办",
+  "lane": "hot-topic",
+  "keywords": [
+    "外星科技",
+    "真实手办",
+    "收藏级",
+    "新物种审美"
+  ],
+  "rationale": "把外星科技和真实收藏手办结合，做出像顶级收藏圈第一次见到的新物种级视觉冲击，具备强封面点击率和系列扩展性。",
+  "status": "selected",
+  "generation": {
+    "status": "done",
+    "batchId": "2026-08-07-unseen-alien-tech-realistic-figurines",
+    "metadataPath": "batches/2026-08-07-unseen-alien-tech-realistic-figurines.json",
+    "generatedImageDir": "tmp/2026-08-07-unseen-alien-tech-realistic-figurines",
+    "artifactPath": "workflow/generation/done/2026-08-07-unseen-alien-tech-realistic-figurines.json",
+    "itemCount": 10,
+    "category": "alien-tech-figurines",
+    "categoryLabel": "外星科技真实手办",
+    "spec": {
+      "theme": "从没有见过的外星科技真实手办，10 张像顶级收藏圈疯传的新物种级外星装备与生命体手办系列",
+      "batchId": "2026-08-07-unseen-alien-tech-realistic-figurines",
+      "createdAt": "2026-08-07",
+      "category": "alien-tech-figurines",
+      "categoryLabel": "外星科技真实手办",
+      "items": [
+        {
+          "source": "01_antigravity-prayer-mecha.png",
+          "category": "alien-tech-figurines",
+          "categoryLabel": "外星科技真实手办",
+          "title": "反重力祷告机甲",
+          "description": "像宗教圣像与反重力装置长在一起的外星机甲手办，庄严又危险。",
+          "prompt": "A premium realistic 1/6 scale collectible figurine on a visible display base of an unseen alien technology mech called Antigravity Prayer Mecha, sacred biomechanical armor kneeling over a levitating core, translucent gravity halos, exotic metal and ceramic textures, hyper-detailed resin statue paintwork, museum-grade collectible toy photography, macro studio lighting, luxury dark backdrop, visible craftsmanship, no people, no text, no logo, no watermark",
+          "number": 1
+        },
+        {
+          "source": "02_neural-coral-signal-priest.png",
+          "category": "alien-tech-figurines",
+          "categoryLabel": "外星科技真实手办",
+          "title": "神经珊瑚信号祭司",
+          "description": "像珊瑚神经网络长成的人形外星祭司，身上全是神秘通信器官。",
+          "prompt": "A premium realistic 1/6 scale collectible figurine on a visible display base of an unseen alien technology lifeform called Neural Coral Signal Priest, humanoid priest grown from neural coral and signal antenna organs, luminous synapse branches, wet bio-tech textures, hand-painted resin garage kit look, macro product photography, collector showcase lighting, black premium background, physically plausible materials, no people, no text, no logo, no watermark",
+          "number": 2
+        },
+        {
+          "source": "03_obsidian-foldgate-engineer.png",
+          "category": "alien-tech-figurines",
+          "categoryLabel": "外星科技真实手办",
+          "title": "黑曜折门工兵",
+          "description": "专门维护折叠星门的外星工兵，盔甲像会展开的黑曜石仪器。",
+          "prompt": "A premium realistic 1/6 scale collectible figurine on a visible display base of an unseen alien technology engineer called Obsidian Foldgate Engineer, angular obsidian armor unfolding into portal-calibration tools, sharp alien geometry, glowing seam lines, realistic weathered paint, intricate hard-surface sculpt, macro collectible figure photo, cinematic rim light, matte display base, no people, no text, no logo, no watermark",
+          "number": 3
+        },
+        {
+          "source": "04_liquid-metal-embryo-pilot.png",
+          "category": "alien-tech-figurines",
+          "categoryLabel": "外星科技真实手办",
+          "title": "液金胚胎驾驶员",
+          "description": "像未完成又高度智能的液态金属驾驶生命体，被透明舱体半包裹。",
+          "prompt": "A premium realistic 1/6 scale collectible figurine on a visible display base of an unseen alien technology pilot called Liquid Metal Embryo Pilot, embryonic alien body partially sealed inside a transparent cockpit shell, flowing chrome biomatter and soft internal lights, eerie but elegant, ultra-detailed painted collectible statue, macro studio shot, premium showcase mood, no people, no text, no logo, no watermark",
+          "number": 4
+        },
+        {
+          "source": "05_memory-vein-vault-keeper.png",
+          "category": "alien-tech-figurines",
+          "categoryLabel": "外星科技真实手办",
+          "title": "记忆矿脉守库者",
+          "description": "体表像矿脉与数据管道交错的巨大守库者，仿佛用记忆结晶驱动。",
+          "prompt": "A premium realistic 1/6 scale collectible figurine on a visible display base of an unseen alien technology guardian called Memory Vein Vault Keeper, massive archivist body with crystal memory veins and embedded data conduits, heavy mineral exoskeleton, glowing memory shards, realistic collector figurine paint and texture, high-end macro photography, dramatic shelf-display lighting, no people, no text, no logo, no watermark",
+          "number": 5
+        },
+        {
+          "source": "06_zero-pressure-cosmonun.png",
+          "category": "alien-tech-figurines",
+          "categoryLabel": "外星科技真实手办",
+          "title": "零压宇航修女",
+          "description": "像真空仪式服与生命维持科技融合的外星修女，纯净却冷酷。",
+          "prompt": "A premium realistic 1/6 scale collectible figurine on a visible display base of an unseen alien technology nun called Zero-Pressure Cosmonun, elegant vacuum-ritual robes fused with life-support machinery, pale pressure membranes, floating halo tubes, refined sculpted folds, premium resin figure craftsmanship, fashion-like collector toy photo, soft spotlight, luxury dark-gray backdrop, no people, no text, no logo, no watermark",
+          "number": 6
+        },
+        {
+          "source": "07_lightcone-hatchery-merchant.png",
+          "category": "alien-tech-figurines",
+          "categoryLabel": "外星科技真实手办",
+          "title": "光锥孵化舱商贩",
+          "description": "推着光锥孵化舱做交易的外星商贩，像宇宙市场里最稀有的生命器官贩子。",
+          "prompt": "A premium realistic 1/6 scale collectible figurine on a visible display base of an unseen alien technology merchant called Lightcone Hatchery Merchant, alien trader carrying portable lightcone incubation pods full of mysterious glowing eggs, layered fabrics mixed with precision biotech gear, bizarre luxury market aesthetic, hand-painted garage-kit realism, macro collectible display photo, no people, no text, no logo, no watermark",
+          "number": 7
+        },
+        {
+          "source": "08_quantum-shell-archivist.png",
+          "category": "alien-tech-figurines",
+          "categoryLabel": "外星科技真实手办",
+          "title": "量子甲壳档案官",
+          "description": "外壳像翻页档案柜一样层层打开的外星官员，身体里藏着量子卷宗。",
+          "prompt": "A premium realistic 1/6 scale collectible figurine on a visible display base of an unseen alien technology official called Quantum Shell Archivist, articulated shell plates opening like filing drawers to reveal quantum documents and luminous cores, alien bureaucratic grandeur, intricate miniature detailing, polished and matte material contrast, premium studio macro shot, collector shelf realism, no people, no text, no logo, no watermark",
+          "number": 8
+        },
+        {
+          "source": "09_starshard-boneflute-hunter.png",
+          "category": "alien-tech-figurines",
+          "categoryLabel": "外星科技真实手办",
+          "title": "恒星残片骨笛猎手",
+          "description": "用恒星碎片和骨笛共振追踪目标的外星猎手，像战士也是仪式家。",
+          "prompt": "A premium realistic 1/6 scale collectible figurine on a visible display base of an unseen alien technology hunter called Starshard Boneflute Hunter, lean alien stalker wielding a boneflute instrument fused with starshard sensors, ritual predator silhouette, scorched mineral armor, glowing resonance vents, hyper-detailed hand-painted statue photography, moody macro collector shot, no people, no text, no logo, no watermark",
+          "number": 9
+        },
+        {
+          "source": "10_darksea-gravity-bishop.png",
+          "category": "alien-tech-figurines",
+          "categoryLabel": "外星科技真实手办",
+          "title": "暗海引力主教",
+          "description": "来自深空暗海文明的引力主教，手中像握着潮汐与黑洞的便携圣器。",
+          "prompt": "A premium realistic 1/6 scale collectible figurine on a visible display base of an unseen alien technology bishop called Darksea Gravity Bishop, abyssal deep-space clergy figure holding a portable gravity relic shaped like a tidal black hole, ornate alien vestments, pressure-born textures, radiant blue-violet cores, elite museum collectible photography, macro lens detail, dramatic spotlight, no people, no text, no logo, no watermark",
+          "number": 10
+        }
+      ]
+    },
+    "lastError": null,
+    "updatedAt": "2026-08-07T00:22:37.866Z",
+    "startedAt": "2026-08-07T00:20:27.615Z",
+    "completedAt": "2026-08-07T00:22:37.866Z"
+  },
+  "publish": {
+    "status": "done",
+    "batchId": "2026-08-07-unseen-alien-tech-realistic-figurines",
+    "metadataPath": "batches/2026-08-07-unseen-alien-tech-realistic-figurines.json",
+    "generatedImageDir": "tmp/2026-08-07-unseen-alien-tech-realistic-figurines",
+    "sourceGenerationArtifact": "workflow/generation/done/2026-08-07-unseen-alien-tech-realistic-figurines.json",
+    "import": {
+      "status": "done",
+      "updatedAt": "2026-08-07T00:23:59.193Z",
+      "output": "Imported 10 images into assets/images/2026-08-07-unseen-alien-tech-realistic-figurines\nUpdated assets/gallery.json"
+    },
+    "github": {
+      "status": "done",
+      "updatedAt": "2026-08-07T00:24:18.719Z",
+      "branch": "main",
+      "output": "[main 512ff57] feat: publish image batch 2026-08-07-unseen-alien-tech-realistic-figurines\n Committer: jingwei sun <jingweisun@jingweideMac-mini.local>\nYour name and email address were configured automatically based\non your username and hostname. Please check that they are accurate.\nYou can suppress this message by setting them explicitly:\n\n    git config --global user.name \"Your Name\"\n    git config --global user.email you@example.com\n\nAfter doing this, you may fix the identity used for this commit with:\n\n    git commit --amend --reset-author\n\n 22 files changed, 218 insertions(+), 1 deletion(-)\n create mode 100644 \"assets/images/2026-08-07-unseen-alien-tech-realistic-figurines/01_\\345\\217\\215\\351\\207\\215\\345\\212\\233\\347\\245\\267\\345\\221\\212\\346\\234\\272\\347\\224\\262.png\"\n create mode 100644 \"assets/images/2026-08-07-unseen-alien-tech-realistic-figurines/02_\\347\\245\\236\\347\\273\\217\\347\\217\\212\\347\\221\\232\\344\\277\\241\\345\\217\\267\\347\\245\\255\\345\\217\\270.png\"\n create mode 100644 \"assets/images/2026-08-07-unseen-alien-tech-realistic-figurines/03_\\351\\273\\221\\346\\233\\234\\346\\212\\230\\351\\227\\250\\345\\267\\245\\345\\205\\265.png\"\n create mode 100644 \"assets/images/2026-08-07-unseen-alien-tech-realistic-figurines/04_\\346\\266\\262\\351\\207\\221\\350\\203\\232\\350\\203\\216\\351\\251\\276\\351\\251\\266\\345\\221\\230.png\"\n create mode 100644 \"assets/images/2026-08-07-unseen-alien-tech-realistic-figurines/05_\\350\\256\\260\\345\\277\\206\\347\\237\\277\\350\\204\\211\\345\\256\\210\\345\\272\\223\\350\\200\\205.png\"\n create mode 100644 \"assets/images/2026-08-07-unseen-alien-tech-realistic-figurines/06_\\351\\233\\266\\345\\216\\213\\345\\256\\207\\350\\210\\252\\344\\277\\256\\345\\245\\263.png\"\n create mode 100644 \"assets/images/2026-08-07-unseen-alien-tech-realistic-figurines/07_\\345\\205\\211\\351\\224\\245\\345\\255\\265\\345\\214\\226\\350\\210\\261\\345\\225\\206\\350\\264\\251.png\"\n create mode 100644 \"assets/images/2026-08-07-unseen-alien-tech-realistic-figurines/08_\\351\\207\\217\\345\\255\\220\\347\\224\\262\\345\\243\\263\\346\\241\\243\\346\\241\\210\\345\\256\\230.png\"\n create mode 100644 \"assets/images/2026-08-07-unseen-alien-tech-realistic-figurines/09_\\346\\201\\222\\346\\230\\237\\346\\256\\213\\347\\211\\207\\351\\252\\250\\347\\254\\233\\347\\214\\216\\346\\211\\213.png\"\n create mode 100644 \"assets/images/2026-08-07-unseen-alien-tech-realistic-figurines/10_\\346\\232\\227\\346\\265\\267\\345\\274\\225\\345\\212\\233\\344\\270\\273\\346\\225\\231.png\"\n create mode 100644 \"assets/thumbs/2026-08-07-unseen-alien-tech-realistic-figurines/01_\\345\\217\\215\\351\\207\\215\\345\\212\\233\\347\\245\\267\\345\\221\\212\\346\\234\\272\\347\\224\\262.png\"\n create mode 100644 \"assets/thumbs/2026-08-07-unseen-alien-tech-realistic-figurines/02_\\347\\245\\236\\347\\273\\217\\347\\217\\212\\347\\221\\232\\344\\277\\241\\345\\217\\267\\347\\245\\255\\345\\217\\270.png\"\n create mode 100644 \"assets/thumbs/2026-08-07-unseen-alien-tech-realistic-figurines/03_\\351\\273\\221\\346\\233\\234\\346\\212\\230\\351\\227\\250\\345\\267\\245\\345\\205\\265.png\"\n create mode 100644 \"assets/thumbs/2026-08-07-unseen-alien-tech-realistic-figurines/04_\\346\\266\\262\\351\\207\\221\\350\\203\\232\\350\\203\\216\\351\\251\\276\\351\\251\\266\\345\\221\\230.png\"\n create mode 100644 \"assets/thumbs/2026-08-07-unseen-alien-tech-realistic-figurines/05_\\350\\256\\260\\345\\277\\206\\347\\237\\277\\350\\204\\211\\345\\256\\210\\345\\272\\223\\350\\200\\205.png\"\n create mode 100644 \"assets/thumbs/2026-08-07-unseen-alien-tech-realistic-figurines/06_\\351\\233\\266\\345\\216\\213\\345\\256\\207\\350\\210\\252\\344\\277\\256\\345\\245\\263.png\"\n create mode 100644 \"assets/thumbs/2026-08-07-unseen-alien-tech-realistic-figurines/07_\\345\\205\\211\\351\\224\\245\\345\\255\\265\\345\\214\\226\\350\\210\\261\\345\\225\\206\\350\\264\\251.png\"\n create mode 100644 \"assets/thumbs/2026-08-07-unseen-alien-tech-realistic-figurines/08_\\351\\207\\217\\345\\255\\220\\347\\224\\262\\345\\243\\263\\346\\241\\243\\346\\241\\210\\345\\256\\230.png\"\n create mode 100644 \"assets/thumbs/2026-08-07-unseen-alien-tech-realistic-figurines/09_\\346\\201\\222\\346\\230\\237\\346\\256\\213\\347\\211\\207\\351\\252\\250\\347\\254\\233\\347\\214\\216\\346\\211\\213.png\"\n create mode 100644 \"assets/thumbs/2026-08-07-unseen-alien-tech-realistic-figurines/10_\\346\\232\\227\\346\\265\\267\\345\\274\\225\\345\\212\\233\\344\\270\\273\\346\\225\\231.png\"\n create mode 100644 batches/2026-08-07-unseen-alien-tech-realistic-figurines.json\n{\"batchId\":\"2026-08-07-unseen-alien-tech-realistic-figurines\",\"status\":\"done\",\"reason\":\"pushed\",\"pushed\":true,\"branch\":\"main\",\"paths\":[\"batches/2026-08-07-unseen-alien-tech-realistic-figurines.json\",\"assets/images/2026-08-07-unseen-alien-tech-realistic-figurines\",\"assets/thumbs/2026-08-07-unseen-alien-tech-realistic-figurines\",\"assets/gallery.json\"]}"
+    },
+    "xiaohongshu": {
+      "status": "scheduled",
+      "scheduledAt": "2026-08-07T09:30:00+08:00",
+      "cronJobId": "e2fa16363b72"
+    },
+    "artifactPath": "workflow/publish/done/2026-08-07-unseen-alien-tech-realistic-figurines.json",
+    "updatedAt": "2026-08-07T00:24:18.721Z",
+    "completedAt": "2026-08-07T00:24:18.720Z",
+    "lastError": null
+  },
+  "notes": []
+}
