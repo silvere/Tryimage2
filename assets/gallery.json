@@ -1,7 +1,7 @@
 {
   "site": {
     "title": "OpenAI image2 视觉实验",
-    "subtitle": "1574 张传播向 AI 海报",
+    "subtitle": "1582 张传播向 AI 海报",
     "headline": "OpenAI image2 视觉实验",
     "intro": "每一批图片围绕一个临时主题生成，并按当次最合适的 category 归档；可以是反差创意、真实场景、产品概念、人物叙事或任何新的视觉方向。",
     "coverImage": "assets/contact_sheet_image2.jpg",
@@ -570,6 +570,10 @@
     {
       "id": "stone-sculpture-masterpieces",
       "label": "石头雕塑创意艺术品"
+    },
+    {
+      "id": "abnormal-weather",
+      "label": "异常天气"
     }
   ],
   "batches": [
@@ -1370,6 +1374,12 @@
       "theme": "世界顶级石头雕塑创意艺术品，10 张具有博物馆镇馆级视觉冲击力的当代与古典融合雕塑系列",
       "createdAt": "2026-08-04",
       "count": 10
+    },
+    {
+      "id": "2026-08-07-abnormal-weather-earth",
+      "theme": "地球上你没见过的异常天气，8 张具有封面冲击力的超现实气象奇观系列",
+      "createdAt": "2026-08-07",
+      "count": 8
     }
   ],
   "items": [
@@ -18671,6 +18681,94 @@
       "thumb": "assets/thumbs/2026-08-04-world-top-stone-sculpture-masterpieces/10_冰纹大理石天鹅祭坛.png",
       "description": "冰裂纹理的大理石被雕成展开双翼的天鹅祭坛，带有极致纯净与冷艳高奢气场。",
       "prompt": "A world-class marble stone sculpture masterpiece: a swan altar carved from icy cracked marble, wings unfolding into an architectural ceremonial structure, ethereal purity with cold high-luxury atmosphere, white-on-white gallery environment, soft blue spotlight glow, exquisite chisel detail, prestigious collectible-art scale, no people, no text, no logo, no watermark"
+    },
+    {
+      "id": "2026-08-07-abnormal-weather-earth_01_逆向闪电峡谷",
+      "batch": "2026-08-07-abnormal-weather-earth",
+      "category": "abnormal-weather",
+      "number": "01",
+      "title": "逆向闪电峡谷",
+      "image": "assets/images/2026-08-07-abnormal-weather-earth/01_逆向闪电峡谷.png",
+      "thumb": "assets/thumbs/2026-08-07-abnormal-weather-earth/01_逆向闪电峡谷.png",
+      "description": "整座红岩峡谷里的蓝白闪电不是劈向地面，而是从地表逆流冲向云层，像大地在放电。",
+      "prompt": "An impossible weather phenomenon on Earth: in a vast red-rock canyon at dusk, hundreds of blue-white lightning bolts visibly originate from glowing cracks in the canyon floor and surge upward into a black storm ceiling, every bolt clearly traveling ground-to-sky rather than sky-to-ground, roots of electricity climbing into the clouds, dust glowing at the canyon floor, colossal scale, hyper-real cinematic weather photography, terrifying yet beautiful, no people, no text, no logo, no watermark"
+    },
+    {
+      "id": "2026-08-07-abnormal-weather-earth_02_热带雨林冰阳暴",
+      "batch": "2026-08-07-abnormal-weather-earth",
+      "category": "abnormal-weather",
+      "number": "02",
+      "title": "热带雨林冰阳暴",
+      "image": "assets/images/2026-08-07-abnormal-weather-earth/02_热带雨林冰阳暴.png",
+      "thumb": "assets/thumbs/2026-08-07-abnormal-weather-earth/02_热带雨林冰阳暴.png",
+      "description": "蒸腾湿热的热带雨林突然被大片透明冰晶太阳束穿透，湿气与冰面同时悬浮。",
+      "prompt": "A never-before-seen Earth weather anomaly: a dense tropical rainforest under blazing noon light is suddenly pierced by giant transparent frozen sunbeams and airborne crystal ice sheets, mist, humidity, dripping leaves, impossible coexistence of tropical heat and glacial light, ultra-detailed cinematic nature photography, no people, no text, no logo, no watermark"
+    },
+    {
+      "id": "2026-08-07-abnormal-weather-earth_03_黑雪港口黎明",
+      "batch": "2026-08-07-abnormal-weather-earth",
+      "category": "abnormal-weather",
+      "number": "03",
+      "title": "黑雪港口黎明",
+      "image": "assets/images/2026-08-07-abnormal-weather-earth/03_黑雪港口黎明.png",
+      "thumb": "assets/thumbs/2026-08-07-abnormal-weather-earth/03_黑雪港口黎明.png",
+      "description": "海港日出时降下吸光般的黑雪，集装箱、海面和吊机都被薄黑雪覆盖。",
+      "prompt": "An unprecedented weather event on Earth: a huge industrial harbor at sunrise under snowfall made of matte black flakes, black snow settling on cranes, cargo containers and the ocean surface, orange dawn light fighting through the dark precipitation, hyper-real editorial weather scene, no people, no text, no logo, no watermark"
+    },
+    {
+      "id": "2026-08-07-abnormal-weather-earth_04_失重暴雨广场",
+      "batch": "2026-08-07-abnormal-weather-earth",
+      "category": "abnormal-weather",
+      "number": "04",
+      "title": "失重暴雨广场",
+      "image": "assets/images/2026-08-07-abnormal-weather-earth/04_失重暴雨广场.png",
+      "thumb": "assets/thumbs/2026-08-07-abnormal-weather-earth/04_失重暴雨广场.png",
+      "description": "城市广场中央的暴雨忽然停在半空，亿万雨滴组成一座悬浮透明雕塑。",
+      "prompt": "A surreal Earth weather anomaly in a modern city plaza: a violent rainstorm suddenly freezes in midair, billions of raindrops suspended as a towering transparent storm sculpture between skyscrapers, wet pavement reflections, dramatic gray sky, ultra-real cinematic photography, no people, no text, no logo, no watermark"
+    },
+    {
+      "id": "2026-08-07-abnormal-weather-earth_05_火雹麦田",
+      "batch": "2026-08-07-abnormal-weather-earth",
+      "category": "abnormal-weather",
+      "number": "05",
+      "title": "火雹麦田",
+      "image": "assets/images/2026-08-07-abnormal-weather-earth/05_火雹麦田.png",
+      "thumb": "assets/thumbs/2026-08-07-abnormal-weather-earth/05_火雹麦田.png",
+      "description": "成熟金色麦田上空落下发光燃烧的巨型冰雹，既是冰块又像小型陨火。",
+      "prompt": "A never-seen weather anomaly on Earth: over a golden wheat field at storm twilight, giant hailstones fall while burning with internal orange fire, flaming ice impacts sending steam and sparks through the field, apocalyptic yet naturalistic, hyper-detailed cinematic landscape photography, no people, no text, no logo, no watermark"
+    },
+    {
+      "id": "2026-08-07-abnormal-weather-earth_06_云潮沙漠",
+      "batch": "2026-08-07-abnormal-weather-earth",
+      "category": "abnormal-weather",
+      "number": "06",
+      "title": "云潮沙漠",
+      "image": "assets/images/2026-08-07-abnormal-weather-earth/06_云潮沙漠.png",
+      "thumb": "assets/thumbs/2026-08-07-abnormal-weather-earth/06_云潮沙漠.png",
+      "description": "沙漠地平线上滚来不是沙暴，而是一堵像海啸一样翻卷的低空浓云墙。",
+      "prompt": "An impossible weather phenomenon on Earth: in an endless desert, a gigantic tidal wave made of dense low clouds rolls across the dunes like a tsunami, sunlight slicing through vapor, sand and cloud merging at the horizon, monumental cinematic scale, ultra-real weather photography, no people, no text, no logo, no watermark"
+    },
+    {
+      "id": "2026-08-07-abnormal-weather-earth_07_极光暴雪居民区",
+      "batch": "2026-08-07-abnormal-weather-earth",
+      "category": "abnormal-weather",
+      "number": "07",
+      "title": "极光暴雪居民区",
+      "image": "assets/images/2026-08-07-abnormal-weather-earth/07_极光暴雪居民区.png",
+      "thumb": "assets/thumbs/2026-08-07-abnormal-weather-earth/07_极光暴雪居民区.png",
+      "description": "普通郊区夜晚遭遇绿色极光卷成雪暴漩涡，屋顶与街灯被神秘冷光吞没。",
+      "prompt": "A bizarre Earth weather event: an ordinary suburban neighborhood at night swallowed by a blizzard shaped like swirling green aurora ribbons, snow and polar light twisting together above rooftops and streetlights, eerie domestic scale, hyper-real cinematic storm photo, no people, no text, no logo, no watermark"
+    },
+    {
+      "id": "2026-08-07-abnormal-weather-earth_08_镜面浓雾海岸",
+      "batch": "2026-08-07-abnormal-weather-earth",
+      "category": "abnormal-weather",
+      "number": "08",
+      "title": "镜面浓雾海岸",
+      "image": "assets/images/2026-08-07-abnormal-weather-earth/08_镜面浓雾海岸.png",
+      "thumb": "assets/thumbs/2026-08-07-abnormal-weather-earth/08_镜面浓雾海岸.png",
+      "description": "海岸线上升起像巨大竖立镜面一样的雾墙，把海与陆切成两个现实。",
+      "prompt": "A never-before-seen weather anomaly on Earth: along a rocky coastline, a colossal vertical wall of mirror-like silver fog rises from the sea, sharply dividing ocean and land into two realities, cold wind, crashing surf, haunting cinematic realism, no people, no text, no logo, no watermark"
     }
   ]
 }
