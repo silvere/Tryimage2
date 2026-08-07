@@ -1,0 +1,97 @@
+{
+  "theme": "从没有见过的外星科技真实手办，10 张像顶级收藏圈疯传的新物种级外星装备与生命体手办系列",
+  "batchId": "2026-08-07-unseen-alien-tech-realistic-figurines",
+  "createdAt": "2026-08-07",
+  "items": [
+    {
+      "source": "01_antigravity-prayer-mecha.png",
+      "category": "alien-tech-figurines",
+      "categoryLabel": "外星科技真实手办",
+      "title": "反重力祷告机甲",
+      "description": "像宗教圣像与反重力装置长在一起的外星机甲手办，庄严又危险。",
+      "prompt": "A premium realistic 1/6 scale collectible figurine on a visible display base of an unseen alien technology mech called Antigravity Prayer Mecha, sacred biomechanical armor kneeling over a levitating core, translucent gravity halos, exotic metal and ceramic textures, hyper-detailed resin statue paintwork, museum-grade collectible toy photography, macro studio lighting, luxury dark backdrop, visible craftsmanship, no people, no text, no logo, no watermark",
+      "number": 1
+    },
+    {
+      "source": "02_neural-coral-signal-priest.png",
+      "category": "alien-tech-figurines",
+      "categoryLabel": "外星科技真实手办",
+      "title": "神经珊瑚信号祭司",
+      "description": "像珊瑚神经网络长成的人形外星祭司，身上全是神秘通信器官。",
+      "prompt": "A premium realistic 1/6 scale collectible figurine on a visible display base of an unseen alien technology lifeform called Neural Coral Signal Priest, humanoid priest grown from neural coral and signal antenna organs, luminous synapse branches, wet bio-tech textures, hand-painted resin garage kit look, macro product photography, collector showcase lighting, black premium background, physically plausible materials, no people, no text, no logo, no watermark",
+      "number": 2
+    },
+    {
+      "source": "03_obsidian-foldgate-engineer.png",
+      "category": "alien-tech-figurines",
+      "categoryLabel": "外星科技真实手办",
+      "title": "黑曜折门工兵",
+      "description": "专门维护折叠星门的外星工兵，盔甲像会展开的黑曜石仪器。",
+      "prompt": "A premium realistic 1/6 scale collectible figurine on a visible display base of an unseen alien technology engineer called Obsidian Foldgate Engineer, angular obsidian armor unfolding into portal-calibration tools, sharp alien geometry, glowing seam lines, realistic weathered paint, intricate hard-surface sculpt, macro collectible figure photo, cinematic rim light, matte display base, no people, no text, no logo, no watermark",
+      "number": 3
+    },
+    {
+      "source": "04_liquid-metal-embryo-pilot.png",
+      "category": "alien-tech-figurines",
+      "categoryLabel": "外星科技真实手办",
+      "title": "液金胚胎驾驶员",
+      "description": "像未完成又高度智能的液态金属驾驶生命体，被透明舱体半包裹。",
+      "prompt": "A premium realistic 1/6 scale collectible figurine on a visible display base of an unseen alien technology pilot called Liquid Metal Embryo Pilot, embryonic alien body partially sealed inside a transparent cockpit shell, flowing chrome biomatter and soft internal lights, eerie but elegant, ultra-detailed painted collectible statue, macro studio shot, premium showcase mood, no people, no text, no logo, no watermark",
+      "number": 4
+    },
+    {
+      "source": "05_memory-vein-vault-keeper.png",
+      "category": "alien-tech-figurines",
+      "categoryLabel": "外星科技真实手办",
+      "title": "记忆矿脉守库者",
+      "description": "体表像矿脉与数据管道交错的巨大守库者，仿佛用记忆结晶驱动。",
+      "prompt": "A premium realistic 1/6 scale collectible figurine on a visible display base of an unseen alien technology guardian called Memory Vein Vault Keeper, massive archivist body with crystal memory veins and embedded data conduits, heavy mineral exoskeleton, glowing memory shards, realistic collector figurine paint and texture, high-end macro photography, dramatic shelf-display lighting, no people, no text, no logo, no watermark",
+      "number": 5
+    },
+    {
+      "source": "06_zero-pressure-cosmonun.png",
+      "category": "alien-tech-figurines",
+      "categoryLabel": "外星科技真实手办",
+      "title": "零压宇航修女",
+      "description": "像真空仪式服与生命维持科技融合的外星修女，纯净却冷酷。",
+      "prompt": "A premium realistic 1/6 scale collectible figurine on a visible display base of an unseen alien technology nun called Zero-Pressure Cosmonun, elegant vacuum-ritual robes fused with life-support machinery, pale pressure membranes, floating halo tubes, refined sculpted folds, premium resin figure craftsmanship, fashion-like collector toy photo, soft spotlight, luxury dark-gray backdrop, no people, no text, no logo, no watermark",
+      "number": 6
+    },
+    {
+      "source": "07_lightcone-hatchery-merchant.png",
+      "category": "alien-tech-figurines",
+      "categoryLabel": "外星科技真实手办",
+      "title": "光锥孵化舱商贩",
+      "description": "推着光锥孵化舱做交易的外星商贩，像宇宙市场里最稀有的生命器官贩子。",
+      "prompt": "A premium realistic 1/6 scale collectible figurine on a visible display base of an unseen alien technology merchant called Lightcone Hatchery Merchant, alien trader carrying portable lightcone incubation pods full of mysterious glowing eggs, layered fabrics mixed with precision biotech gear, bizarre luxury market aesthetic, hand-painted garage-kit realism, macro collectible display photo, no people, no text, no logo, no watermark",
+      "number": 7
+    },
+    {
+      "source": "08_quantum-shell-archivist.png",
+      "category": "alien-tech-figurines",
+      "categoryLabel": "外星科技真实手办",
+      "title": "量子甲壳档案官",
+      "description": "外壳像翻页档案柜一样层层打开的外星官员，身体里藏着量子卷宗。",
+      "prompt": "A premium realistic 1/6 scale collectible figurine on a visible display base of an unseen alien technology official called Quantum Shell Archivist, articulated shell plates opening like filing drawers to reveal quantum documents and luminous cores, alien bureaucratic grandeur, intricate miniature detailing, polished and matte material contrast, premium studio macro shot, collector shelf realism, no people, no text, no logo, no watermark",
+      "number": 8
+    },
+    {
+      "source": "09_starshard-boneflute-hunter.png",
+      "category": "alien-tech-figurines",
+      "categoryLabel": "外星科技真实手办",
+      "title": "恒星残片骨笛猎手",
+      "description": "用恒星碎片和骨笛共振追踪目标的外星猎手，像战士也是仪式家。",
+      "prompt": "A premium realistic 1/6 scale collectible figurine on a visible display base of an unseen alien technology hunter called Starshard Boneflute Hunter, lean alien stalker wielding a boneflute instrument fused with starshard sensors, ritual predator silhouette, scorched mineral armor, glowing resonance vents, hyper-detailed hand-painted statue photography, moody macro collector shot, no people, no text, no logo, no watermark",
+      "number": 9
+    },
+    {
+      "source": "10_darksea-gravity-bishop.png",
+      "category": "alien-tech-figurines",
+      "categoryLabel": "外星科技真实手办",
+      "title": "暗海引力主教",
+      "description": "来自深空暗海文明的引力主教，手中像握着潮汐与黑洞的便携圣器。",
+      "prompt": "A premium realistic 1/6 scale collectible figurine on a visible display base of an unseen alien technology bishop called Darksea Gravity Bishop, abyssal deep-space clergy figure holding a portable gravity relic shaped like a tidal black hole, ornate alien vestments, pressure-born textures, radiant blue-violet cores, elite museum collectible photography, macro lens detail, dramatic spotlight, no people, no text, no logo, no watermark",
+      "number": 10
+    }
+  ]
+}
