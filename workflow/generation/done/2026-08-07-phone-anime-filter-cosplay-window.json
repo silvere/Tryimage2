@@ -1,0 +1,30 @@
+{
+  "topicId": "2026-08-07-phone-anime-filter-cosplay-window",
+  "batchId": "2026-08-07-phone-anime-filter-cosplay-window",
+  "theme": "手机屏幕动漫滤镜窗口 cosplay",
+  "topicPath": "workflow/topics/selected/2026-08-07-phone-anime-filter-cosplay-window.json",
+  "metadataPath": "batches/2026-08-07-phone-anime-filter-cosplay-window.json",
+  "generatedImageDir": "tmp/2026-08-07-phone-anime-filter-cosplay-window",
+  "count": 10,
+  "category": "phone-anime-filter-cosplay",
+  "categoryLabel": "手机动漫滤镜 cosplay",
+  "generator": "codex/openai",
+  "generatorScript": "tmp/generate_batch_codex.py",
+  "metadataSource": "existing-batch-metadata",
+  "status": "done",
+  "startedAt": "2026-08-07T16:24:04.043Z",
+  "completedAt": "2026-08-07T16:24:04.110Z",
+  "publish": {
+    "status": "pending",
+    "github": {
+      "status": "pending"
+    },
+    "xiaohongshu": {
+      "status": "pending"
+    }
+  },
+  "notes": [
+    "Using existing batch metadata.",
+    "Images generated to tmp/<batch-id>. Stage 3 can now import and publish this batch."
+  ]
+}

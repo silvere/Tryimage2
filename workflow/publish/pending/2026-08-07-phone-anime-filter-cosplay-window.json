@@ -1,0 +1,17 @@
+{
+  "batchId": "2026-08-07-phone-anime-filter-cosplay-window",
+  "topicId": "2026-08-07-phone-anime-filter-cosplay-window",
+  "status": "pending",
+  "metadataPath": "batches/2026-08-07-phone-anime-filter-cosplay-window.json",
+  "generatedImageDir": "tmp/2026-08-07-phone-anime-filter-cosplay-window",
+  "sourceGenerationArtifact": "workflow/generation/done/2026-08-07-phone-anime-filter-cosplay-window.json",
+  "github": {
+    "status": "pending"
+  },
+  "xiaohongshu": {
+    "status": "pending"
+  },
+  "createdAt": "2026-08-07T16:24:04.111Z",
+  "updatedAt": "2026-08-07T16:24:04.111Z",
+  "notes": []
+}
