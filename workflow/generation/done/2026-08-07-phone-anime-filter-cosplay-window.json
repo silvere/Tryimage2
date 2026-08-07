@@ -15,12 +15,21 @@
   "startedAt": "2026-08-07T16:24:04.043Z",
   "completedAt": "2026-08-07T16:24:04.110Z",
   "publish": {
-    "status": "pending",
+    "status": "scheduled",
+    "import": {
+      "status": "done",
+      "skippedReason": "already_imported"
+    },
     "github": {
-      "status": "pending"
+      "status": "done",
+      "branch": "main",
+      "commit": "b142919"
     },
     "xiaohongshu": {
-      "status": "pending"
+      "status": "scheduled",
+      "scheduledAt": "2026-08-08T20:15:00+08:00",
+      "schedulerJobId": "5a1a17545452",
+      "account": "包子哥哥 / 6249136172"
     }
   },
   "notes": [

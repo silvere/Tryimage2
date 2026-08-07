@@ -1,0 +1,29 @@
+{
+  "batchId": "2026-08-07-phone-anime-filter-cosplay-window",
+  "topicId": "2026-08-07-phone-anime-filter-cosplay-window",
+  "status": "scheduled",
+  "metadataPath": "batches/2026-08-07-phone-anime-filter-cosplay-window.json",
+  "generatedImageDir": "tmp/2026-08-07-phone-anime-filter-cosplay-window",
+  "sourceGenerationArtifact": "workflow/generation/done/2026-08-07-phone-anime-filter-cosplay-window.json",
+  "github": {
+    "status": "done",
+    "branch": "main",
+    "commit": "b142919"
+  },
+  "xiaohongshu": {
+    "status": "scheduled",
+    "scheduledAt": "2026-08-08T20:15:00+08:00",
+    "schedulerJobId": "5a1a17545452",
+    "account": "包子哥哥 / 6249136172"
+  },
+  "createdAt": "2026-08-07T16:24:04.111Z",
+  "updatedAt": "2026-08-08T00:25:38+08:00",
+  "notes": [
+    "XiaoHongShu publishing scheduled via Hermes cron job; not yet published."
+  ],
+  "scheduledAt": "2026-08-08T20:15:00+08:00",
+  "import": {
+    "status": "done",
+    "skippedReason": "already_imported"
+  }
+}
