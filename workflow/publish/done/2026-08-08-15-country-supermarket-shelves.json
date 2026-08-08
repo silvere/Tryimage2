@@ -1,0 +1,33 @@
+{
+  "batchId": "2026-08-08-15-country-supermarket-shelves",
+  "topicId": "2026-08-08-15个国家特色商品超市货架",
+  "status": "done",
+  "metadataPath": "batches/2026-08-08-15-country-supermarket-shelves.json",
+  "generatedImageDir": "tmp/2026-08-08-15-country-supermarket-shelves",
+  "sourceGenerationArtifact": "workflow/generation/done/2026-08-08-15-country-supermarket-shelves.json",
+  "github": {
+    "status": "done",
+    "updatedAt": "2026-08-08T21:02:56+08:00",
+    "branch": "main",
+    "commit": "9915afd"
+  },
+  "xiaohongshu": {
+    "status": "skipped",
+    "updatedAt": "2026-08-08T21:02:56+08:00",
+    "skippedReason": "scheduled_via_hermes_cron",
+    "output": "Scheduled via Hermes cron job c8d11927e4c7 for batch 2026-08-08-15-country-supermarket-shelves."
+  },
+  "createdAt": "2026-08-08T12:54:07.967Z",
+  "updatedAt": "2026-08-08T21:02:56+08:00",
+  "notes": [
+    "XiaoHongShu publishing scheduled via Hermes cron job; not yet published."
+  ],
+  "scheduledAt": "2026-08-09T09:30:00+08:00",
+  "import": {
+    "status": "done",
+    "updatedAt": "2026-08-08T21:02:56+08:00",
+    "output": "Imported 15 images into assets/images/2026-08-08-15-country-supermarket-shelves\nUpdated assets/gallery.json"
+  },
+  "startedAt": "2026-08-08T21:02:56+08:00",
+  "completedAt": "2026-08-08T21:02:56+08:00"
+}
