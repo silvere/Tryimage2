@@ -1,7 +1,7 @@
 {
   "site": {
     "title": "OpenAI image2 视觉实验",
-    "subtitle": "1602 张传播向 AI 海报",
+    "subtitle": "1617 张传播向 AI 海报",
     "headline": "OpenAI image2 视觉实验",
     "intro": "每一批图片围绕一个临时主题生成，并按当次最合适的 category 归档；可以是反差创意、真实场景、产品概念、人物叙事或任何新的视觉方向。",
     "coverImage": "assets/contact_sheet_image2.jpg",
@@ -582,6 +582,10 @@
     {
       "id": "phone-anime-filter-cosplay",
       "label": "手机动漫滤镜 cosplay"
+    },
+    {
+      "id": "country-supermarket-shelves",
+      "label": "国家特色超市货架"
     }
   ],
   "batches": [
@@ -1400,6 +1404,12 @@
       "theme": "手机屏幕动漫滤镜窗口 cosplay，10 张竖幅近距离写实摄影，同一张脸被手机屏幕替换成动漫区域的高完成度系列",
       "createdAt": "2026-08-07",
       "count": 10
+    },
+    {
+      "id": "2026-08-08-15-country-supermarket-shelves",
+      "theme": "琳琅满目的超市货架：15个国家的特色食品和日常物品，一国一张图",
+      "createdAt": "2026-08-08",
+      "count": 15
     }
   ],
   "items": [
@@ -19009,6 +19019,171 @@
       "thumb": "assets/thumbs/2026-08-07-phone-anime-filter-cosplay-window/10_爱手机动漫滤镜窗.png",
       "description": "我推的孩子星野爱风格女性 cosplayer，真人与手机中的动漫眼鼻嘴精确拼成同一张脸。",
       "prompt": "Vertical close-up realistic smartphone photography, a female cosplayer styled as Ai Hoshino from Oshi no Ko looking directly at the camera. She holds a smartphone horizontally but clearly rotated about 25 degrees clockwise directly in front of her face. The phone must cover the entire nose, mouth, left eye, and most of the right side of the real face. The phone’s upper bezel diagonally intersects the natural eye line. Exactly one real eye may remain visible, outside the phone near the phone’s upper-left corner, tightly adjacent to the bezel. The other real eye must be fully hidden by the phone and must not be visible at all. Never show two real eyes anywhere in the image. The phone screen must not show a centered full anime portrait, a full anime head, an ear, or an extra second face. The anime replacement should be tightly cropped to the phone edges so only the hidden eye area, hidden nose bridge, hidden cheek, and hidden mouth region appear; no full jawline or full side profile. Instead it shows only a precisely zoomed, shifted, tightly cropped anime partial face of the same character, perfectly matching the exact head size, angle, perspective, and facial coordinates of the real head behind the phone. The anime region should fill only the occluded coordinates behind the phone, like a replacement window, not a separate portrait. The anime bangs continue seamlessly from the phone screen to the real hair outside the phone. The anime eye on screen replaces the occluded real eye in its anatomically correct position. The anime nose and mouth occupy the exact hidden facial coordinates. The anime chin is cut off by the phone’s bottom edge; do not show a full head. The phone screen acts as an anime filter window replacing the occluded portion of the same face: single composite face, one continuous head, one facial coordinate system, anime region replacing the occluded real facial region, seamless hair continuation across the phone bezel. The phone is very close to the face, and the anime face width inside the screen matches the real face width behind it. Off-center diagonal close framing, not centered. Warm Japanese anime cafe background, shallow depth of field, realistic smartphone camera texture, one perceived face total, one pair of eyes total, no text, no logo, no watermark"
+    },
+    {
+      "id": "2026-08-08-15-country-supermarket-shelves_01_日本特色超市货架",
+      "batch": "2026-08-08-15-country-supermarket-shelves",
+      "category": "country-supermarket-shelves",
+      "number": "01",
+      "title": "日本特色超市货架",
+      "image": "assets/images/2026-08-08-15-country-supermarket-shelves/01_日本特色超市货架.png",
+      "thumb": "assets/thumbs/2026-08-08-15-country-supermarket-shelves/01_日本特色超市货架.png",
+      "description": "日本代表性食品与日常物品把整面货架堆得琳琅满目，像一眼就能认出的国家缩影。",
+      "prompt": "Vertical photorealistic supermarket aisle scene, one richly packed grocery shelf display representing Japan. The frame is front-facing and tightly composed like a XiaoHongShu cover, with abundant layered products from shelf edge to shelf back. Show iconic local foods such as ramen cups, matcha cookies, seaweed snacks, mochi, bottled green tea, soy sauce, rice crackers, bento condiments, plus culturally familiar daily goods like minimal lunch boxes, ceramic tea cups, cute stationery, compact umbrellas. Everything should feel like believable generic local supermarket packaging and household items, not luxury boutique styling. Color palette and materials should instantly suggest Japan. Ultra-detailed packaging variety, dense repetition, price tags and category dividers visible but unreadable, no brands, no logos, no readable text, no watermark, no people, no hands. Clean photographic lighting, high depth and texture, satisfying visual abundance, authentic merchandising, realistic shelf geometry."
+    },
+    {
+      "id": "2026-08-08-15-country-supermarket-shelves_02_韩国特色超市货架",
+      "batch": "2026-08-08-15-country-supermarket-shelves",
+      "category": "country-supermarket-shelves",
+      "number": "02",
+      "title": "韩国特色超市货架",
+      "image": "assets/images/2026-08-08-15-country-supermarket-shelves/02_韩国特色超市货架.png",
+      "thumb": "assets/thumbs/2026-08-08-15-country-supermarket-shelves/02_韩国特色超市货架.png",
+      "description": "韩国代表性食品与日常物品把整面货架堆得琳琅满目，像一眼就能认出的国家缩影。",
+      "prompt": "Vertical photorealistic supermarket aisle scene, one richly packed grocery shelf display representing South Korea. The frame is front-facing and tightly composed like a XiaoHongShu cover, with abundant layered products from shelf edge to shelf back. Show iconic local foods such as kimchi jars, instant tteokbokki, seaweed packs, banana milk style drinks, spicy ramen, honey butter chips, plus culturally familiar daily goods like sheet masks, sleek lunch containers, pastel kitchen tools, K-beauty skincare boxes. Everything should feel like believable generic local supermarket packaging and household items, not luxury boutique styling. Color palette and materials should instantly suggest South Korea. Ultra-detailed packaging variety, dense repetition, price tags and category dividers visible but unreadable, no brands, no logos, no readable text, no watermark, no people, no hands. Clean photographic lighting, high depth and texture, satisfying visual abundance, authentic merchandising, realistic shelf geometry."
+    },
+    {
+      "id": "2026-08-08-15-country-supermarket-shelves_03_中国特色超市货架",
+      "batch": "2026-08-08-15-country-supermarket-shelves",
+      "category": "country-supermarket-shelves",
+      "number": "03",
+      "title": "中国特色超市货架",
+      "image": "assets/images/2026-08-08-15-country-supermarket-shelves/03_中国特色超市货架.png",
+      "thumb": "assets/thumbs/2026-08-08-15-country-supermarket-shelves/03_中国特色超市货架.png",
+      "description": "中国代表性食品与日常物品把整面货架堆得琳琅满目，像一眼就能认出的国家缩影。",
+      "prompt": "Vertical photorealistic supermarket aisle scene, one richly packed grocery shelf display representing China. The frame is front-facing and tightly composed like a XiaoHongShu cover, with abundant layered products from shelf edge to shelf back. Show iconic local foods such as tea canisters, hotpot base packs, mooncakes, dried noodles, preserved plums, spicy snack bags, soy milk cartons, plus culturally familiar daily goods like porcelain bowls, bamboo steamers, red paper gift boxes, thermos flasks. Everything should feel like believable generic local supermarket packaging and household items, not luxury boutique styling. Color palette and materials should instantly suggest China. Ultra-detailed packaging variety, dense repetition, price tags and category dividers visible but unreadable, no brands, no logos, no readable text, no watermark, no people, no hands. Clean photographic lighting, high depth and texture, satisfying visual abundance, authentic merchandising, realistic shelf geometry."
+    },
+    {
+      "id": "2026-08-08-15-country-supermarket-shelves_04_泰国特色超市货架",
+      "batch": "2026-08-08-15-country-supermarket-shelves",
+      "category": "country-supermarket-shelves",
+      "number": "04",
+      "title": "泰国特色超市货架",
+      "image": "assets/images/2026-08-08-15-country-supermarket-shelves/04_泰国特色超市货架.png",
+      "thumb": "assets/thumbs/2026-08-08-15-country-supermarket-shelves/04_泰国特色超市货架.png",
+      "description": "泰国代表性食品与日常物品把整面货架堆得琳琅满目，像一眼就能认出的国家缩影。",
+      "prompt": "Vertical photorealistic supermarket aisle scene, one richly packed grocery shelf display representing Thailand. The frame is front-facing and tightly composed like a XiaoHongShu cover, with abundant layered products from shelf edge to shelf back. Show iconic local foods such as coconut chips, tom yum soup packs, durian candies, jasmine rice bags, chili sauce bottles, mango sticky rice sweets, plus culturally familiar daily goods like woven baskets, orchid-themed tins, tropical soap bars, colorful melamine bowls. Everything should feel like believable generic local supermarket packaging and household items, not luxury boutique styling. Color palette and materials should instantly suggest Thailand. Ultra-detailed packaging variety, dense repetition, price tags and category dividers visible but unreadable, no brands, no logos, no readable text, no watermark, no people, no hands. Clean photographic lighting, high depth and texture, satisfying visual abundance, authentic merchandising, realistic shelf geometry."
+    },
+    {
+      "id": "2026-08-08-15-country-supermarket-shelves_05_印度特色超市货架",
+      "batch": "2026-08-08-15-country-supermarket-shelves",
+      "category": "country-supermarket-shelves",
+      "number": "05",
+      "title": "印度特色超市货架",
+      "image": "assets/images/2026-08-08-15-country-supermarket-shelves/05_印度特色超市货架.png",
+      "thumb": "assets/thumbs/2026-08-08-15-country-supermarket-shelves/05_印度特色超市货架.png",
+      "description": "印度代表性食品与日常物品把整面货架堆得琳琅满目，像一眼就能认出的国家缩影。",
+      "prompt": "Vertical photorealistic supermarket aisle scene, one richly packed grocery shelf display representing India. The frame is front-facing and tightly composed like a XiaoHongShu cover, with abundant layered products from shelf edge to shelf back. Show iconic local foods such as spice tins, masala chai boxes, lentil snack mixes, mango pickle jars, ghee containers, naan chips, saffron sweets, plus culturally familiar daily goods like brass spice boxes, patterned tea cups, rangoli color packets, embroidered storage tins. Everything should feel like believable generic local supermarket packaging and household items, not luxury boutique styling. Color palette and materials should instantly suggest India. Ultra-detailed packaging variety, dense repetition, price tags and category dividers visible but unreadable, no brands, no logos, no readable text, no watermark, no people, no hands. Clean photographic lighting, high depth and texture, satisfying visual abundance, authentic merchandising, realistic shelf geometry."
+    },
+    {
+      "id": "2026-08-08-15-country-supermarket-shelves_06_土耳其特色超市货架",
+      "batch": "2026-08-08-15-country-supermarket-shelves",
+      "category": "country-supermarket-shelves",
+      "number": "06",
+      "title": "土耳其特色超市货架",
+      "image": "assets/images/2026-08-08-15-country-supermarket-shelves/06_土耳其特色超市货架.png",
+      "thumb": "assets/thumbs/2026-08-08-15-country-supermarket-shelves/06_土耳其特色超市货架.png",
+      "description": "土耳其代表性食品与日常物品把整面货架堆得琳琅满目，像一眼就能认出的国家缩影。",
+      "prompt": "Vertical photorealistic supermarket aisle scene, one richly packed grocery shelf display representing Turkey. The frame is front-facing and tightly composed like a XiaoHongShu cover, with abundant layered products from shelf edge to shelf back. Show iconic local foods such as Turkish delight boxes, baklava tins, pomegranate tea, olive jars, sesame simit snacks, pistachio sweets, plus culturally familiar daily goods like evil eye trinkets, blue ceramic bowls, ornate coffee cups, copper serving pieces. Everything should feel like believable generic local supermarket packaging and household items, not luxury boutique styling. Color palette and materials should instantly suggest Turkey. Ultra-detailed packaging variety, dense repetition, price tags and category dividers visible but unreadable, no brands, no logos, no readable text, no watermark, no people, no hands. Clean photographic lighting, high depth and texture, satisfying visual abundance, authentic merchandising, realistic shelf geometry."
+    },
+    {
+      "id": "2026-08-08-15-country-supermarket-shelves_07_意大利特色超市货架",
+      "batch": "2026-08-08-15-country-supermarket-shelves",
+      "category": "country-supermarket-shelves",
+      "number": "07",
+      "title": "意大利特色超市货架",
+      "image": "assets/images/2026-08-08-15-country-supermarket-shelves/07_意大利特色超市货架.png",
+      "thumb": "assets/thumbs/2026-08-08-15-country-supermarket-shelves/07_意大利特色超市货架.png",
+      "description": "意大利代表性食品与日常物品把整面货架堆得琳琅满目，像一眼就能认出的国家缩影。",
+      "prompt": "Vertical photorealistic supermarket aisle scene, one richly packed grocery shelf display representing Italy. The frame is front-facing and tightly composed like a XiaoHongShu cover, with abundant layered products from shelf edge to shelf back. Show iconic local foods such as artisan pasta boxes, olive oil bottles, biscotti tins, espresso coffee bags, tomato passata jars, truffle snacks, plus culturally familiar daily goods like moka pots, terracotta bowls, striped kitchen linens, parmesan tools. Everything should feel like believable generic local supermarket packaging and household items, not luxury boutique styling. Color palette and materials should instantly suggest Italy. Ultra-detailed packaging variety, dense repetition, price tags and category dividers visible but unreadable, no brands, no logos, no readable text, no watermark, no people, no hands. Clean photographic lighting, high depth and texture, satisfying visual abundance, authentic merchandising, realistic shelf geometry."
+    },
+    {
+      "id": "2026-08-08-15-country-supermarket-shelves_08_法国特色超市货架",
+      "batch": "2026-08-08-15-country-supermarket-shelves",
+      "category": "country-supermarket-shelves",
+      "number": "08",
+      "title": "法国特色超市货架",
+      "image": "assets/images/2026-08-08-15-country-supermarket-shelves/08_法国特色超市货架.png",
+      "thumb": "assets/thumbs/2026-08-08-15-country-supermarket-shelves/08_法国特色超市货架.png",
+      "description": "法国代表性食品与日常物品把整面货架堆得琳琅满目，像一眼就能认出的国家缩影。",
+      "prompt": "Vertical photorealistic supermarket aisle scene, one richly packed grocery shelf display representing France. The frame is front-facing and tightly composed like a XiaoHongShu cover, with abundant layered products from shelf edge to shelf back. Show iconic local foods such as butter biscuit tins, jam jars, Dijon mustard pots, sparkling lemonade bottles, macarons gift boxes, herb salt packs, plus culturally familiar daily goods like linen table napkins, enamel butter dishes, classic kitchen whisks, Provence soap. Everything should feel like believable generic local supermarket packaging and household items, not luxury boutique styling. Color palette and materials should instantly suggest France. Ultra-detailed packaging variety, dense repetition, price tags and category dividers visible but unreadable, no brands, no logos, no readable text, no watermark, no people, no hands. Clean photographic lighting, high depth and texture, satisfying visual abundance, authentic merchandising, realistic shelf geometry."
+    },
+    {
+      "id": "2026-08-08-15-country-supermarket-shelves_09_西班牙特色超市货架",
+      "batch": "2026-08-08-15-country-supermarket-shelves",
+      "category": "country-supermarket-shelves",
+      "number": "09",
+      "title": "西班牙特色超市货架",
+      "image": "assets/images/2026-08-08-15-country-supermarket-shelves/09_西班牙特色超市货架.png",
+      "thumb": "assets/thumbs/2026-08-08-15-country-supermarket-shelves/09_西班牙特色超市货架.png",
+      "description": "西班牙代表性食品与日常物品把整面货架堆得琳琅满目，像一眼就能认出的国家缩影。",
+      "prompt": "Vertical photorealistic supermarket aisle scene, one richly packed grocery shelf display representing Spain. The frame is front-facing and tightly composed like a XiaoHongShu cover, with abundant layered products from shelf edge to shelf back. Show iconic local foods such as paprika tins, olive jars, turron boxes, saffron packets, canned seafood, churro mix bags, citrus soda bottles, plus culturally familiar daily goods like painted ceramic plates, woven fans, tapas skewers, patterned tablecloth rolls. Everything should feel like believable generic local supermarket packaging and household items, not luxury boutique styling. Color palette and materials should instantly suggest Spain. Ultra-detailed packaging variety, dense repetition, price tags and category dividers visible but unreadable, no brands, no logos, no readable text, no watermark, no people, no hands. Clean photographic lighting, high depth and texture, satisfying visual abundance, authentic merchandising, realistic shelf geometry."
+    },
+    {
+      "id": "2026-08-08-15-country-supermarket-shelves_10_希腊特色超市货架",
+      "batch": "2026-08-08-15-country-supermarket-shelves",
+      "category": "country-supermarket-shelves",
+      "number": "10",
+      "title": "希腊特色超市货架",
+      "image": "assets/images/2026-08-08-15-country-supermarket-shelves/10_希腊特色超市货架.png",
+      "thumb": "assets/thumbs/2026-08-08-15-country-supermarket-shelves/10_希腊特色超市货架.png",
+      "description": "希腊代表性食品与日常物品把整面货架堆得琳琅满目，像一眼就能认出的国家缩影。",
+      "prompt": "Vertical photorealistic supermarket aisle scene, one richly packed grocery shelf display representing Greece. The frame is front-facing and tightly composed like a XiaoHongShu cover, with abundant layered products from shelf edge to shelf back. Show iconic local foods such as feta tubs, olive oil tins, oregano jars, honey jars, pistachio snacks, filo pastry boxes, yogurt cups, plus culturally familiar daily goods like blue-white ceramics, marble coasters, olive wood spoons, seaside soap bars. Everything should feel like believable generic local supermarket packaging and household items, not luxury boutique styling. Color palette and materials should instantly suggest Greece. Ultra-detailed packaging variety, dense repetition, price tags and category dividers visible but unreadable, no brands, no logos, no readable text, no watermark, no people, no hands. Clean photographic lighting, high depth and texture, satisfying visual abundance, authentic merchandising, realistic shelf geometry."
+    },
+    {
+      "id": "2026-08-08-15-country-supermarket-shelves_11_墨西哥特色超市货架",
+      "batch": "2026-08-08-15-country-supermarket-shelves",
+      "category": "country-supermarket-shelves",
+      "number": "11",
+      "title": "墨西哥特色超市货架",
+      "image": "assets/images/2026-08-08-15-country-supermarket-shelves/11_墨西哥特色超市货架.png",
+      "thumb": "assets/thumbs/2026-08-08-15-country-supermarket-shelves/11_墨西哥特色超市货架.png",
+      "description": "墨西哥代表性食品与日常物品把整面货架堆得琳琅满目，像一眼就能认出的国家缩影。",
+      "prompt": "Vertical photorealistic supermarket aisle scene, one richly packed grocery shelf display representing Mexico. The frame is front-facing and tightly composed like a XiaoHongShu cover, with abundant layered products from shelf edge to shelf back. Show iconic local foods such as tortilla chip bags, mole sauce jars, chili candy, horchata drink bottles, tamale corn flour packs, hot sauce bottles, plus culturally familiar daily goods like painted talavera mugs, woven market bags, fiesta napkins, cactus-shaped kitchen decor. Everything should feel like believable generic local supermarket packaging and household items, not luxury boutique styling. Color palette and materials should instantly suggest Mexico. Ultra-detailed packaging variety, dense repetition, price tags and category dividers visible but unreadable, no brands, no logos, no readable text, no watermark, no people, no hands. Clean photographic lighting, high depth and texture, satisfying visual abundance, authentic merchandising, realistic shelf geometry."
+    },
+    {
+      "id": "2026-08-08-15-country-supermarket-shelves_12_美国特色超市货架",
+      "batch": "2026-08-08-15-country-supermarket-shelves",
+      "category": "country-supermarket-shelves",
+      "number": "12",
+      "title": "美国特色超市货架",
+      "image": "assets/images/2026-08-08-15-country-supermarket-shelves/12_美国特色超市货架.png",
+      "thumb": "assets/thumbs/2026-08-08-15-country-supermarket-shelves/12_美国特色超市货架.png",
+      "description": "美国代表性食品与日常物品把整面货架堆得琳琅满目，像一眼就能认出的国家缩影。",
+      "prompt": "Vertical photorealistic supermarket aisle scene, one richly packed grocery shelf display representing United States. The frame is front-facing and tightly composed like a XiaoHongShu cover, with abundant layered products from shelf edge to shelf back. Show iconic local foods such as peanut butter jars, pancake mix boxes, cereal boxes, barbecue sauce, pickles, marshmallows, root beer bottles, plus culturally familiar daily goods like picnic coolers, retro lunchboxes, baseball-themed napkins, diner mugs. Everything should feel like believable generic local supermarket packaging and household items, not luxury boutique styling. Color palette and materials should instantly suggest United States. Ultra-detailed packaging variety, dense repetition, price tags and category dividers visible but unreadable, no brands, no logos, no readable text, no watermark, no people, no hands. Clean photographic lighting, high depth and texture, satisfying visual abundance, authentic merchandising, realistic shelf geometry."
+    },
+    {
+      "id": "2026-08-08-15-country-supermarket-shelves_13_巴西特色超市货架",
+      "batch": "2026-08-08-15-country-supermarket-shelves",
+      "category": "country-supermarket-shelves",
+      "number": "13",
+      "title": "巴西特色超市货架",
+      "image": "assets/images/2026-08-08-15-country-supermarket-shelves/13_巴西特色超市货架.png",
+      "thumb": "assets/thumbs/2026-08-08-15-country-supermarket-shelves/13_巴西特色超市货架.png",
+      "description": "巴西代表性食品与日常物品把整面货架堆得琳琅满目，像一眼就能认出的国家缩影。",
+      "prompt": "Vertical photorealistic supermarket aisle scene, one richly packed grocery shelf display representing Brazil. The frame is front-facing and tightly composed like a XiaoHongShu cover, with abundant layered products from shelf edge to shelf back. Show iconic local foods such as coffee bags, acai products, guarana soda cans, cassava chips, brigadeiro sweets, farofa packs, plus culturally familiar daily goods like bright woven baskets, tropical wooden bowls, beach-patterned tumblers, carnival-color kitchen cloths. Everything should feel like believable generic local supermarket packaging and household items, not luxury boutique styling. Color palette and materials should instantly suggest Brazil. Ultra-detailed packaging variety, dense repetition, price tags and category dividers visible but unreadable, no brands, no logos, no readable text, no watermark, no people, no hands. Clean photographic lighting, high depth and texture, satisfying visual abundance, authentic merchandising, realistic shelf geometry."
+    },
+    {
+      "id": "2026-08-08-15-country-supermarket-shelves_14_摩洛哥特色超市货架",
+      "batch": "2026-08-08-15-country-supermarket-shelves",
+      "category": "country-supermarket-shelves",
+      "number": "14",
+      "title": "摩洛哥特色超市货架",
+      "image": "assets/images/2026-08-08-15-country-supermarket-shelves/14_摩洛哥特色超市货架.png",
+      "thumb": "assets/thumbs/2026-08-08-15-country-supermarket-shelves/14_摩洛哥特色超市货架.png",
+      "description": "摩洛哥代表性食品与日常物品把整面货架堆得琳琅满目，像一眼就能认出的国家缩影。",
+      "prompt": "Vertical photorealistic supermarket aisle scene, one richly packed grocery shelf display representing Morocco. The frame is front-facing and tightly composed like a XiaoHongShu cover, with abundant layered products from shelf edge to shelf back. Show iconic local foods such as mint tea boxes, preserved lemon jars, date sweets, couscous bags, spice cones, orange blossom biscuits, plus culturally familiar daily goods like patterned tagine miniatures, hammered tea glasses, mosaic trays, embroidered pouches. Everything should feel like believable generic local supermarket packaging and household items, not luxury boutique styling. Color palette and materials should instantly suggest Morocco. Ultra-detailed packaging variety, dense repetition, price tags and category dividers visible but unreadable, no brands, no logos, no readable text, no watermark, no people, no hands. Clean photographic lighting, high depth and texture, satisfying visual abundance, authentic merchandising, realistic shelf geometry."
+    },
+    {
+      "id": "2026-08-08-15-country-supermarket-shelves_15_俄罗斯特色超市货架",
+      "batch": "2026-08-08-15-country-supermarket-shelves",
+      "category": "country-supermarket-shelves",
+      "number": "15",
+      "title": "俄罗斯特色超市货架",
+      "image": "assets/images/2026-08-08-15-country-supermarket-shelves/15_俄罗斯特色超市货架.png",
+      "thumb": "assets/thumbs/2026-08-08-15-country-supermarket-shelves/15_俄罗斯特色超市货架.png",
+      "description": "俄罗斯代表性食品与日常物品把整面货架堆得琳琅满目，像一眼就能认出的国家缩影。",
+      "prompt": "Vertical photorealistic supermarket aisle scene, one richly packed grocery shelf display representing Russia. The frame is front-facing and tightly composed like a XiaoHongShu cover, with abundant layered products from shelf edge to shelf back. Show iconic local foods such as black tea tins, rye crackers, berry jam jars, honey cakes, buckwheat packs, pickled vegetables, chocolate sweets, plus culturally familiar daily goods like matryoshka-inspired containers, enamel mugs, floral serving trays, wool-pattern gift boxes. Everything should feel like believable generic local supermarket packaging and household items, not luxury boutique styling. Color palette and materials should instantly suggest Russia. Ultra-detailed packaging variety, dense repetition, price tags and category dividers visible but unreadable, no brands, no logos, no readable text, no watermark, no people, no hands. Clean photographic lighting, high depth and texture, satisfying visual abundance, authentic merchandising, realistic shelf geometry."
     }
   ]
 }

@@ -1,0 +1,17 @@
+{
+  "batchId": "2026-08-08-15-country-supermarket-shelves",
+  "topicId": "2026-08-08-15个国家特色商品超市货架",
+  "status": "pending",
+  "metadataPath": "batches/2026-08-08-15-country-supermarket-shelves.json",
+  "generatedImageDir": "tmp/2026-08-08-15-country-supermarket-shelves",
+  "sourceGenerationArtifact": "workflow/generation/done/2026-08-08-15-country-supermarket-shelves.json",
+  "github": {
+    "status": "pending"
+  },
+  "xiaohongshu": {
+    "status": "pending"
+  },
+  "createdAt": "2026-08-08T12:54:07.967Z",
+  "updatedAt": "2026-08-08T12:54:07.967Z",
+  "notes": []
+}

@@ -1,0 +1,16 @@
+{
+  "theme": "琳琅满目的超市货架：15个国家的特色食品和日常物品，一国一张图（probe）",
+  "batchId": "2026-08-08-15-country-supermarket-shelves-probe",
+  "createdAt": "2026-08-08",
+  "items": [
+    {
+      "source": "01_japan_supermarket-shelf.png",
+      "category": "country-supermarket-shelves",
+      "categoryLabel": "国家特色超市货架",
+      "title": "日本特色超市货架",
+      "description": "日本代表性食品与日常物品把整面货架堆得琳琅满目，像一眼就能认出的国家缩影。",
+      "prompt": "Vertical photorealistic supermarket aisle scene, one richly packed grocery shelf display representing Japan. The frame is front-facing and tightly composed like a XiaoHongShu cover, with abundant layered products from shelf edge to shelf back. Show iconic local foods such as ramen cups, matcha cookies, seaweed snacks, mochi, bottled green tea, soy sauce, rice crackers, bento condiments, plus culturally familiar daily goods like minimal lunch boxes, ceramic tea cups, cute stationery, compact umbrellas. Everything should feel like believable generic local supermarket packaging and household items, not luxury boutique styling. Color palette and materials should instantly suggest Japan. Ultra-detailed packaging variety, dense repetition, price tags and category dividers visible but unreadable, no brands, no logos, no readable text, no watermark, no people, no hands. Clean photographic lighting, high depth and texture, satisfying visual abundance, authentic merchandising, realistic shelf geometry.",
+      "number": 1
+    }
+  ]
+}

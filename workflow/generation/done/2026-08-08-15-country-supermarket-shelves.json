@@ -1,0 +1,30 @@
+{
+  "topicId": "2026-08-08-15个国家特色商品超市货架",
+  "batchId": "2026-08-08-15-country-supermarket-shelves",
+  "theme": "15个国家的特色食品和物品：琳琅满目的超市货架",
+  "topicPath": "workflow/topics/selected/2026-08-08-15个国家特色商品超市货架.json",
+  "metadataPath": "batches/2026-08-08-15-country-supermarket-shelves.json",
+  "generatedImageDir": "tmp/2026-08-08-15-country-supermarket-shelves",
+  "count": 15,
+  "category": "country-supermarket-shelves",
+  "categoryLabel": "国家特色超市货架",
+  "generator": "codex/openai",
+  "generatorScript": "tmp/generate_batch_codex.py",
+  "metadataSource": "existing-batch-metadata",
+  "status": "done",
+  "startedAt": "2026-08-08T12:54:07.919Z",
+  "completedAt": "2026-08-08T12:54:07.967Z",
+  "publish": {
+    "status": "pending",
+    "github": {
+      "status": "pending"
+    },
+    "xiaohongshu": {
+      "status": "pending"
+    }
+  },
+  "notes": [
+    "Using existing batch metadata.",
+    "Images generated to tmp/<batch-id>. Stage 3 can now import and publish this batch."
+  ]
+}
